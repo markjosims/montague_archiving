@@ -118,7 +118,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = init_parser()
     args = parser.parse_args(argv)
 
-    drz_pipe = PyannotePipeline(args.drz_model)
+    drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
     asr_pipe = Pipeline("automatic-speech-recognition", model=args.asr_model)
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
