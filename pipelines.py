@@ -89,7 +89,7 @@ def get_segment_slice(
     """
     start_idx = sec_to_samples(segment.start)
     end_idx = sec_to_samples(segment.end)
-    return audio[start_idx:end_idx]
+    return audio[:,start_idx:end_idx]
 
 """
 Main script
