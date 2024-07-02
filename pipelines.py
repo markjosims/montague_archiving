@@ -21,11 +21,13 @@ Pyannote and HuggingFace entry points
 """
 
 def perform_asr(
-        audio: torch.Tensor,
+        audio: Union[torch.Tensor, np.ndarray],
         pipe: Optional[Pipeline] = None,
     ) -> str:
     if not pipe:
         pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
+    if type(audio) is torch.Tensor:
+        audio = np.array(audio[0,:])
     result = pipe(audio)
     return result["text"]
 
@@ -71,12 +73,15 @@ def load_and_resample(fp: str) -> torch.Tensor:
     wav = torchaudio.functional.resample(wav_orig, sr_orig, SAMPLE_RATE)
     return wav
 
-def sec_to_samples(time_sec: float):
+def sec_to_samples(time_sec: float) -> int:
     """`time_sec` is a time value in seconds.
     Returns same time value in samples using
     global constant SAMPLE_RATE.
     """
     return int(time_sec*SAMPLE_RATE)
+
+def sec_to_ms(time_sec: float) -> int:
+    return int(time_sec*1000)
 
 def get_segment_slice(
         audio: torch.Tensor,
@@ -88,7 +93,7 @@ def get_segment_slice(
     """
     start_idx = sec_to_samples(segment.start)
     end_idx = sec_to_samples(segment.end)
-    return audio[start_idx:end_idx]
+    return audio[:,start_idx:end_idx]
 
 """
 Main script
@@ -101,7 +106,8 @@ def init_parser() -> ArgumentParser:
         "-n",
         "--num_speakers",
         help="Number of speakers in file",
-        default=2
+        type=int,
+        default=2,
     )
     parser.add_argument(
         "-m", "--asr_model",
@@ -147,7 +153,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             ))):
                 segment_wav = get_segment_slice(wav, segment)
                 segment_text = perform_asr(segment_wav, asr_pipe)
-                eaf.add_annotation(speaker, segment.start, segment.end, segment_text)
+                start_ms = sec_to_ms(segment.start)
+                end_ms = sec_to_ms(segment.end)
+                eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
