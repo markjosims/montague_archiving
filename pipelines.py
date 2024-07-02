@@ -15,29 +15,8 @@ SAMPLE_RATE = 16000
 Pyannote and HuggingFace entry points
 """
 
-def perform_sli(
-        in_fp: Union[str, List[str], None] = None,
-        wav: Union[np.ndarray, torch.Tensor] = None,
-        pipe: Optional[Pipeline]= None,
-    ) -> List[Dict[str, Union[str, float]]]:
-        
-        if (wav is not None) and len(wav.shape)==2:
-            wav = wav[0]
-        if (wav is not None) and type(wav) is torch.Tensor:
-            wav = wav.numpy()
-
-
-        if not pipe:
-            pipe = pipeline("audio-classification", model="markjosims/mms-lid-tira")
-
-        if torch.cuda.is_available():
-            pipe.to(torch.device("cuda"))
-
-        if wav is not None:
-            result = pipe(wav)
-        else:
-            result = pipe(in_fp)
-        return result
+def perform_asr() -> None:
+    ...
 
 def perform_vad(
         in_fp: str,
@@ -177,11 +156,11 @@ Main script
 """
 
 def init_parser() -> ArgumentParser:
-    parser = ArgumentParser("VAD, LID and diarization runner")
+    parser = ArgumentParser("VAD, diarization and ASR runner")
     parser.add_argument(
         "TASK",
         help="Task to run",
-        choices=["VAD", "LID", "DRZ"]
+        choices=["VAD", "ASR", "DRZ"]
     )
     parser.add_argument("-i", "--input", help="Filepath to run VAD on")
     parser.add_argument("-o", "--output", help="Filepath to save predictions to")
@@ -191,14 +170,15 @@ def init_parser() -> ArgumentParser:
         help="Number of speakers in file (only use for diarization)",
         default=1
     )
+    parser.add_argument("-m", "--model", help="Model path (if overriding default).")
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = init_parser()
     args = parser.parse_args(argv)
 
-    if args.TASK == 'SLI':
-        labels = perform_sli(args.input)
+    if args.TASK == 'ASR':
+        labels = perform_asr(args.input)
     elif args.TASK == 'VAD':
         result = perform_vad(args.input)
         labels = pyannote_result_to_json(result)
