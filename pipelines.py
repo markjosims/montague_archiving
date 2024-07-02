@@ -68,9 +68,9 @@ def get_ipa_labels(elan_fp: str) -> List[Dict[str, Union[str, float]]]:
 Audio handling methods
 """
 
-def load_and_resample(fp: str) -> torch.Tensor:
+def load_and_resample(fp: str, sr: int = SAMPLE_RATE) -> torch.Tensor:
     wav_orig, sr_orig = torchaudio.load(fp)
-    wav = torchaudio.functional.resample(wav_orig, sr_orig, SAMPLE_RATE)
+    wav = torchaudio.functional.resample(wav_orig, sr_orig, sr)
     return wav
 
 def sec_to_samples(time_sec: float) -> int:
