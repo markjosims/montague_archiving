@@ -100,7 +100,8 @@ def init_parser() -> ArgumentParser:
         "-n",
         "--num_speakers",
         help="Number of speakers in file",
-        default=2
+        type=int,
+        default=2,
     )
     parser.add_argument(
         "-m", "--asr_model",
