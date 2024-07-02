@@ -118,11 +118,14 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = init_parser()
     args = parser.parse_args(argv)
 
+    print(f"Initializing diarization pipeline from URI {args.drz_model}...")
     drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
+    print(f"Initializing ASR pipeline from URI {args.asr_model}...")
     asr_pipe = pipeline("automatic-speech-recognition", model=args.asr_model)
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
     for wav_fp in wav_fps:
+        print("Annotating file", wav_fp)
         eaf = Elan.Eaf()
         wav = load_and_resample(wav_fp)
         diarization = diarize(wav, drz_pipe, num_speakers=args.num_speakers)
@@ -131,13 +134,18 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         for speaker in speakers:
             eaf.add_tier(speaker)
             speaker_timeline = diarization.label_timeline(speaker)
-            for segment in tqdm(speaker_timeline, desc="Performing ASR", total=len(list(speaker_timeline))):
+            for segment in tqdm(
+                speaker_timeline,
+                desc=f"Performing ASR for speaker {speaker}",
+                total=len(list(speaker_timeline
+            ))):
                 segment_wav = get_segment_slice(wav, segment)
                 segment_text = perform_asr(segment_wav, asr_pipe)
                 eaf.add_annotation(speaker, segment.start, segment.end, segment_text)
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
+        print("Saved annotations to", eaf_fp)
 
     return 0
 
