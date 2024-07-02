@@ -24,7 +24,7 @@ def perform_asr(
         pipe: Optional[Pipeline] = None,
     ) -> str:
     if not pipe:
-        pipe = Pipeline("automatic-speech-recognition", model=ASR_URI)
+        pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
     result = pipe(audio)
     return result["text"]
 
@@ -119,7 +119,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parser.parse_args(argv)
 
     drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
-    asr_pipe = Pipeline("automatic-speech-recognition", model=args.asr_model)
+    asr_pipe = pipeline("automatic-speech-recognition", model=args.asr_model)
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
     for wav_fp in wav_fps:
