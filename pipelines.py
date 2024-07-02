@@ -5,55 +5,40 @@ from pyannote.audio import Pipeline as PyannotePipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
 import torch
 import torchaudio
-import json
 import numpy as np
 from pympi import Elan
+from glob import glob
+import os
 
 SAMPLE_RATE = 16000
+DIARIZE_URI = "pyannote/speaker-diarization-3.1"
+ASR_URI = "openai/whisper-medium.en"
 
 """
 Pyannote and HuggingFace entry points
 """
 
-def perform_asr() -> None:
-    ...
-
-def perform_vad(
-        in_fp: str,
-        pipe: Optional[PyannotePipeline] = None,
-    ):
-    wav = load_and_resample(in_fp)
-
+def perform_asr(
+        audio: torch.Tensor,
+        pipe: Optional[Pipeline] = None,
+    ) -> str:
     if not pipe:
-        pipe = PyannotePipeline.from_pretrained("pyannote/voice-activity-detection")
-
-    with ProgressHook() as hook:
-        result = pipe(
-            {"waveform": wav, "sample_rate": SAMPLE_RATE},
-            hook=hook,
-        )
-    return result
-
-def pyannote_result_to_json(result)  -> List[Dict[str, float]]:
-    segments = []
-    for track, _ in result.itertracks():
-        segment = {'start': track.start, 'end': track.end}
-        segments.append(segment)
-    return segments
+        pipe = Pipeline(ASR_URI)
+    result = pipe(audio)
+    return result["text"]
 
 def diarize(
-        in_fp: str,
+        audio: torch.Tensor,
         pipe: Optional[PyannotePipeline] = None,
-        num_speakers: int = 1,
+        num_speakers: int = 2,
     ):
-    wav = load_and_resample(in_fp)
 
     if not pipe:
-        pipe = PyannotePipeline.from_pretrained("pyannote/speaker-diarization-3.1")
+        pipe = PyannotePipeline.from_pretrained(DIARIZE_URI)
 
     with ProgressHook() as hook:
         result = pipe(
-            {"waveform": wav, "sample_rate": SAMPLE_RATE},
+            {"waveform": audio, "sample_rate": SAMPLE_RATE},
             num_speakers=num_speakers,
             hook=hook,
         )
@@ -91,105 +76,68 @@ def sec_to_samples(time_sec: float):
     """
     return int(time_sec*SAMPLE_RATE)
 
-def segments_to_array(
-        segments: List[Dict[str, float]],
-        len_samples: Optional[int] = None
+def get_segment_slice(
+        audio: torch.Tensor,
+        segment,
     ) -> np.ndarray:
     """
-    `segments` is a list of dicts containing start and end timestamps.
-    Return a numpy array of samples (scaled to the SAMPLING_RATE global
-    constant) containing 1s for samples corresponding to segment timestamps
-    and 0s elsewhere. Array will have length of `len_samples` if passed,
-    else the sample length corresponding to the maximum timestamp in
-    `segments`.
+    Takes torchaudio tensor and a pyannote segment,
+    returns slice of tensor corresponding to segment endpoints.
     """
-    if not len_samples:
-        max_time = segments[-1]['end']
-        len_samples = sec_to_samples(max_time)
-
-    array = np.zeros(len_samples)
-    for seg in segments:
-        start_sample = sec_to_samples(seg['start'])
-        end_sample = sec_to_samples(seg['end'])
-        array[start_sample:end_sample] = 1
-    
-    return array
-
-def remove_segments_from_audio(
-        audio: Union[torch.Tensor, np.ndarray],
-        ipa_segments: List[Dict[str, float]],
-        sli_segments: List[Dict[str, float]],
-    ) -> torch.tensor:
-    """
-        `audio` is a torch tensor or numpy array containing audio samples.
-        `ipa_segments` is a list of dicts containing start and end times
-        for ipa annotations from an Elan file,
-        and `sli_segments` is a list of speech segments classified as Tira
-        by an SLI model.
-        This function masks all samples which correspond to `sli_segments`
-        but not `ipa_segments`, then cuts them from the audio.
-        Returns a torch tensor containing all audio samples except for those
-        cut.
-    """
-    if len(audio.shape) == 2:
-        audio = audio[0]
-    if type(audio) is torch.Tensor:
-        audio = audio.numpy()
-
-    vad_mask = segments_to_array(sli_segments, len_samples=len(audio))
-    ipa_mask = segments_to_array(ipa_segments, len_samples=len(audio))
-    ipa_mask*=2
-    mask = vad_mask + ipa_mask
-    # 0 - no annotation
-    # 1 - machine label annotation only
-    # 2 - ipa annotation only
-    # 3 - machine label + ipa annotation
-    audio = audio[mask!=1]
-
-    # reshape to 2D torch tensor
-    audio = torch.unsqueeze(torch.from_numpy(audio), 0)
-
-    return audio
+    start_idx = sec_to_samples(segment.start)
+    end_idx = sec_to_samples(segment.end)
+    return audio[start_idx:end_idx]
 
 """
 Main script
 """
 
 def init_parser() -> ArgumentParser:
-    parser = ArgumentParser("VAD, diarization and ASR runner")
-    parser.add_argument(
-        "TASK",
-        help="Task to run",
-        choices=["VAD", "ASR", "DRZ"]
-    )
-    parser.add_argument("-i", "--input", help="Filepath to run VAD on")
-    parser.add_argument("-o", "--output", help="Filepath to save predictions to")
+    parser = ArgumentParser("Annotation runner")
+    parser.add_argument("-i", "--input", help="Directory of files to annotate")
     parser.add_argument(
         "-n",
         "--num_speakers",
-        help="Number of speakers in file (only use for diarization)",
-        default=1
+        help="Number of speakers in file",
+        default=2
     )
-    parser.add_argument("-m", "--model", help="Model path (if overriding default).")
+    parser.add_argument(
+        "-m", "--asr_model",
+        help="ASR model path (if overriding default).",
+        default=ASR_URI,
+    )
+    parser.add_argument(
+        "-d", "--drz_model",
+        help="DRZ model path (if overriding default).",
+        default=DIARIZE_URI,
+    )
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = init_parser()
     args = parser.parse_args(argv)
 
-    if args.TASK == 'ASR':
-        labels = perform_asr(args.input)
-    elif args.TASK == 'VAD':
-        result = perform_vad(args.input)
-        labels = pyannote_result_to_json(result)
-    elif args.TASK == 'DRZ':
-        result = diarize(args.input, num_speakers=args.num_speakers)
-        labels = pyannote_result_to_json(result)
+    drz_pipe = PyannotePipeline(args.drz_model)
+    asr_pipe = Pipeline(args.asr_model)
 
-    out_fp = args.output or args.input.replace('.wav', '.json')
-    with open(out_fp, 'w') as f:
-        json.dump(labels, f, ensure_ascii=False, indent=2)
+    wav_fps = glob(os.path.join(args.input, "*.wav"))
+    for wav_fp in wav_fps:
+        eaf = Elan.Eaf()
+        wav = load_and_resample(wav_fp)
+        diarization = diarize(wav, drz_pipe, num_speakers=args.num_speakers)
 
+        speakers = diarization.labels()
+        for speaker in speakers:
+            eaf.add_tier(speaker)
+            speaker_timeline = diarization.label_timeline(speaker)
+            for segment in speaker_timeline:
+                segment_wav = get_segment_slice(wav, segment)
+                segment_text = perform_asr(segment_wav, asr_pipe)
+                eaf.add_annotation(speaker, segment.start, segment.end, segment_text)
+
+        eaf_fp = wav_fp.replace('.wav', '.eaf')
+        eaf.to_file(eaf_fp)
+        
     return 0
 
 
