@@ -14,6 +14,7 @@ from tqdm import tqdm
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
 ASR_URI = "openai/whisper-medium.en"
+DEVICE = 0 if torch.cuda.is_available() else -1
 
 """
 Pyannote and HuggingFace entry points
@@ -112,6 +113,11 @@ def init_parser() -> ArgumentParser:
         help="DRZ model path (if overriding default).",
         default=DIARIZE_URI,
     )
+    parser.add_argument(
+        "-D", "--device",
+        default=DEVICE,
+        type=int,
+    )
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -121,7 +127,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     print(f"Initializing diarization pipeline from URI {args.drz_model}...")
     drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
     print(f"Initializing ASR pipeline from URI {args.asr_model}...")
-    asr_pipe = pipeline("automatic-speech-recognition", model=args.asr_model)
+    asr_pipe = pipeline("automatic-speech-recognition", model=args.asr_model, device=args.device)
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
     for wav_fp in wav_fps:
