@@ -139,6 +139,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     for wav_fp in wav_fps:
         print("Annotating file", wav_fp)
         eaf = Elan.Eaf()
+        eaf.add_linked_file(wav_fp)
         wav = load_and_resample(wav_fp)
         diarization = diarize(wav, drz_pipe, num_speakers=args.num_speakers)
 
