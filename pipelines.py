@@ -9,6 +9,7 @@ import numpy as np
 from pympi import Elan
 from glob import glob
 import os
+from tqdm import tqdm
 
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
@@ -23,7 +24,7 @@ def perform_asr(
         pipe: Optional[Pipeline] = None,
     ) -> str:
     if not pipe:
-        pipe = Pipeline(ASR_URI)
+        pipe = Pipeline("automatic-speech-recognition", model=ASR_URI)
     result = pipe(audio)
     return result["text"]
 
@@ -118,7 +119,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parser.parse_args(argv)
 
     drz_pipe = PyannotePipeline(args.drz_model)
-    asr_pipe = Pipeline(args.asr_model)
+    asr_pipe = Pipeline("automatic-speech-recognition", model=args.asr_model)
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
     for wav_fp in wav_fps:
@@ -130,14 +131,14 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         for speaker in speakers:
             eaf.add_tier(speaker)
             speaker_timeline = diarization.label_timeline(speaker)
-            for segment in speaker_timeline:
+            for segment in tqdm(speaker_timeline, desc="Performing ASR", total=len(list(speaker_timeline))):
                 segment_wav = get_segment_slice(wav, segment)
                 segment_text = perform_asr(segment_wav, asr_pipe)
                 eaf.add_annotation(speaker, segment.start, segment.end, segment_text)
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
-        
+
     return 0
 
 
