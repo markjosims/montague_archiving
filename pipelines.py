@@ -20,11 +20,13 @@ Pyannote and HuggingFace entry points
 """
 
 def perform_asr(
-        audio: torch.Tensor,
+        audio: Union[torch.Tensor, np.ndarray],
         pipe: Optional[Pipeline] = None,
     ) -> str:
     if not pipe:
         pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
+    if type(audio) is torch.Tensor:
+        audio = np.array(audio[0,:])
     result = pipe(audio)
     return result["text"]
 
