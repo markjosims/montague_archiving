@@ -72,12 +72,15 @@ def load_and_resample(fp: str) -> torch.Tensor:
     wav = torchaudio.functional.resample(wav_orig, sr_orig, SAMPLE_RATE)
     return wav
 
-def sec_to_samples(time_sec: float):
+def sec_to_samples(time_sec: float) -> int:
     """`time_sec` is a time value in seconds.
     Returns same time value in samples using
     global constant SAMPLE_RATE.
     """
     return int(time_sec*SAMPLE_RATE)
+
+def sec_to_ms(time_sec: float) -> int:
+    return int(time_sec*1000)
 
 def get_segment_slice(
         audio: torch.Tensor,
@@ -144,7 +147,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             ))):
                 segment_wav = get_segment_slice(wav, segment)
                 segment_text = perform_asr(segment_wav, asr_pipe)
-                eaf.add_annotation(speaker, segment.start, segment.end, segment_text)
+                start_ms = sec_to_ms(segment.start)
+                end_ms = sec_to_ms(segment.end)
+                eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
