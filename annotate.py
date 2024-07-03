@@ -3,6 +3,7 @@ from argparse import ArgumentParser
 from transformers import Pipeline, pipeline
 from pyannote.audio import Pipeline as PyannotePipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
+from eaf_to_script import write_script
 import torch
 import torchaudio
 import numpy as np
@@ -160,7 +161,11 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
-        print("Saved annotations to", eaf_fp)
+        txt_fp = wav_fp.replace('.wav', '.txt')
+        write_script(eaf, txt_fp)
+
+        print("Saved ELAN annotations to", eaf_fp)
+        print("Saved text annotations to", txt_fp)
 
     return 0
 
