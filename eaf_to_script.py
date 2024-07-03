@@ -18,15 +18,13 @@ def merge_turn_list(turns: List[Dict[str, str]]) -> List[Dict[str, str]]:
     turns = sorted(turns, key=lambda d:d['start'])
     merged_turns = []
     i=0
-    while i < len(turns)-1:
+    while i < len(turns):
         turn = turns[i]
-        next_turn = turns[i+1]
+        next_turn = turns[i+1] if i<len(turns)-1 else None
         i+=1
-        while (i<len(turns)-1) and (turn['speaker'] == next_turn['speaker']):
-            if i==len(turns)-1:
-                break
+        while next_turn and (turn['speaker'] == next_turn['speaker']):
             turn = merge_turn_pair(turn, next_turn)
-            next_turn = turns[i+1]
+            next_turn = turns[i+1] if i<len(turns)-1 else None
             i+=1
         merged_turns.append(turn)
     
