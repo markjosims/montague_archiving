@@ -55,3 +55,6 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             write_script(eaf_fp)
         return 0
     write_script(input_fp)
+
+if __name__ == '__main__':
+    main()
