@@ -1,5 +1,5 @@
 from pympi import Elan
-from typing import Optional, Sequence, Dict, List
+from typing import Optional, Sequence, Dict, List, Union
 from argparse import ArgumentParser
 from glob import glob
 import os
@@ -10,8 +10,9 @@ def human_time(timestamp: float) -> str:
     seconds = int(timestamp%60)
     return f"{hours}:{minutes:0>2d}:{seconds:0>2d}"
 
-def write_script(eaf_fp: str, out_fp: str) -> str:
-    eaf = Elan.Eaf(eaf_fp)
+def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
+    if type(eaf) is str:
+        eaf = Elan.Eaf(eaf)
     turns = []
     speakers = eaf.get_tier_names()
     for speaker in speakers:
