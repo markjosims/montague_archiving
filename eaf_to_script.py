@@ -26,9 +26,9 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
             speaker = turn['speaker']
             start = human_time(turn['start'])
             end = human_time(turn['end'])
-            f.write(f"{speaker}: {start}-{end}")
+            f.write(f"{speaker}: {start}-{end}\n")
             f.write(turn['text'])
-            f.write("\n")
+            f.write("\n\n")
 
 def merge_turn_list(turns: List[Dict[str, str]]) -> List[Dict[str, str]]:
     turns = sorted(turns, key=lambda d:d['start'])
