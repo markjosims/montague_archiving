@@ -153,7 +153,28 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         eaf = Elan.Eaf()
         eaf.add_linked_file(wav_fp)
         wav = load_and_resample(wav_fp)
-        drz_first(args, drz_pipe, asr_pipe, eaf, wav)
+        if args.strategy=='drz_first':
+            eaf = drz_first(
+                wav=wav,
+                eaf=eaf,
+                num_speakers=args.num_speakers,
+                drz_pipe=drz_pipe,
+                asr_pipe=asr_pipe,
+            )
+        elif args.strategy=='asr_first':
+            eaf = asr_first(
+                wav=wav,
+                eaf=eaf,
+                num_speakers=args.num_speakers,
+                drz_pipe=drz_pipe,
+                asr_pipe=asr_pipe,
+            )
+        else:
+            eaf = asr_only(
+                wav=wav,
+                eaf=eaf,
+                asr_pipe=asr_pipe
+            )
 
         eaf_fp = wav_fp.replace('.wav', '.eaf')
         eaf.to_file(eaf_fp)
@@ -165,19 +186,33 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
     return 0
 
-def asr_only():
-    ...
+def asr_only(
+        wav: torch.Tensor,
+        eaf: Elan.Eaf,
+        asr_pipe: Pipeline,
+    ):
+    chunks = asr_pipe(wav, batch_size=8, return_timestamps=True)["chunks"]
+    for chunk in chunks:
+        start, end = chunk['timestamp']
+        text = chunk['text']
+        eaf.add_annotation("default", start, end, text)
+    return eaf
 
-def asr_first():
-    ...
+def asr_first(
+        wav: torch.Tensor,
+        eaf: Elan.Eaf,
+        num_speakers: int,
+        drz_pipe: PyannotePipeline,
+        asr_pipe: Pipeline,
+    ):
+    raise NotImplementedError("Not yet bucko.")
 
 def drz_first(
         wav: torch.Tensor,
         eaf: Elan.Eaf,
         num_speakers: int,
-        drz_uri: str,
-        asr_uri: str,
-        device: Union[int, str],
+        drz_pipe: PyannotePipeline,
+        asr_pipe: Pipeline,
     ):
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
@@ -196,7 +231,8 @@ def drz_first(
             start_ms = sec_to_ms(segment.start)
             end_ms = sec_to_ms(segment.end)
             eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
-
+    
+    return eaf
 
 
 if __name__ == '__main__':
