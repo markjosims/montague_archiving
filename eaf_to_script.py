@@ -1,5 +1,5 @@
 from pympi import Elan
-from typing import Optional, Sequence, Dict
+from typing import Optional, Sequence, Dict, List
 from argparse import ArgumentParser
 from glob import glob
 import os
@@ -12,20 +12,31 @@ def write_script(eaf_fp: str) -> str:
         annotations = eaf.get_annotation_data_for_tier(speaker)
         for start, end, val in annotations:
             turns.append({'start': start, 'end': end, 'text': val, 'speaker': speaker})
-    turns.sort(key=lambda d:d['start'])
+    merge_turn_list(turns)
+
+def merge_turn_list(turns: List[Dict[str, str]]) -> List[Dict[str, str]]:
+    turns = sorted(turns, key=lambda d:d['start'])
     merged_turns = []
     i=0
     while i < len(turns)-1:
         turn = turns[i]
         next_turn = turns[i+1]
-        if turn['speaker'] == next_turn['speaker']:
-            merged_turn = merge_turns(turn, next_turn)
+        i+=1
+        while (i<len(turns)-1) and (turn['speaker'] == next_turn['speaker']):
+            if i==len(turns)-1:
+                break
+            turn = merge_turn_pair(turn, next_turn)
+            next_turn = turns[i+1]
+            i+=1
+        merged_turns.append(turn)
+    
+    return merged_turns
 
-def merge_turns(turn1: Dict[str, str], turn2: Dict[str, str]) -> Dict[str, str]:
+def merge_turn_pair(turn1: Dict[str, str], turn2: Dict[str, str]) -> Dict[str, str]:
     merged_turn = {}
     merged_turn['start'] = turn1['start']
     merged_turn['end'] = turn2['end']
-    merged_turn['text'] = ' '.join(turn1['text'], turn2['text'])
+    merged_turn['text'] = ' '.join([turn1['text'], turn2['text']])
 
     return merged_turn
 
