@@ -37,6 +37,7 @@ def merge_turn_pair(turn1: Dict[str, str], turn2: Dict[str, str]) -> Dict[str, s
     merged_turn['start'] = turn1['start']
     merged_turn['end'] = turn2['end']
     merged_turn['text'] = ' '.join([turn1['text'], turn2['text']])
+    merged_turn['speaker'] = turn1['speaker']
 
     return merged_turn
 
