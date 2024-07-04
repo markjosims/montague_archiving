@@ -192,9 +192,9 @@ def asr_only(
         wav: torch.Tensor,
         eaf: Elan.Eaf,
         asr_pipe: Pipeline,
-        batch_size: int,
+        **kwargs,
     ):
-    chunks = perform_asr(wav, pipe=asr_pipe, batch_size=batch_size, return_timestamps=True)["chunks"]
+    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
     for chunk in chunks:
         start, end = chunk['timestamp']
         text = chunk['text']
@@ -207,7 +207,7 @@ def asr_first(
         num_speakers: int,
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
-        batch_size: int,
+        **kwargs,
     ):
     raise NotImplementedError("Not yet bucko.")
 
@@ -217,7 +217,7 @@ def drz_first(
         num_speakers: int,
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
-        batch_size: int,
+        **kwargs,
     ):
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
@@ -232,7 +232,7 @@ def drz_first(
                 total=len(list(speaker_timeline
             ))):
             segment_wav = get_segment_slice(wav, segment)
-            segment_text = perform_asr(segment_wav, asr_pipe, batch_size=batch_size)['text']
+            segment_text = perform_asr(segment_wav, asr_pipe, **kwargs)['text']
             start_ms = sec_to_ms(segment.start)
             end_ms = sec_to_ms(segment.end)
             eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
