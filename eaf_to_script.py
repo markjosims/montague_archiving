@@ -4,10 +4,11 @@ from argparse import ArgumentParser
 from glob import glob
 import os
 
-def human_time(timestamp: float) -> str:
-    hours = timestamp//3600
-    minutes = timestamp%3600//60
-    seconds = int(timestamp%60)
+def ms_to_human_time(ms: int) -> str:
+    time_s = ms//1000
+    hours = time_s//3600
+    minutes = time_s%3600//60
+    seconds = int(time_s%60)
     return f"{hours}:{minutes:0>2d}:{seconds:0>2d}"
 
 def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:

@@ -1,4 +1,4 @@
-from eaf_to_script import human_time, merge_turn_list, merge_turn_pair
+from eaf_to_script import ms_to_human_time, merge_turn_list, merge_turn_pair
 
 def test_merge_turn_pair():
     turn1 = {'start': 0, 'end': 2, 'text': 'foo', 'speaker': 'Mr. Foo'}
@@ -38,6 +38,6 @@ def test_merge_turn_list1():
     ]
 
 def test_human_time():
-    assert human_time(3600+1) == "1:00:01"
-    assert human_time(3600*5+60*15+32) == "5:15:32"
-    assert human_time(60*59+59) == "0:59:59"
+    assert ms_to_human_time((3600+1)*1000) == "1:00:01"
+    assert ms_to_human_time((3600*5+60*15+32)*1000) == "5:15:32"
+    assert ms_to_human_time((60*59+59)*1000) == "0:59:59"
