@@ -156,7 +156,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         eaf = Elan.Eaf()
         eaf.add_linked_file(wav_fp)
         wav = load_and_resample(wav_fp)
-        if args.strategy=='drz_first':
+        if args.strategy=='drz-first':
             eaf = drz_first(
                 wav=wav,
                 eaf=eaf,
@@ -164,7 +164,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
             )
-        elif args.strategy=='asr_first':
+        elif args.strategy=='asr-first':
             eaf = asr_first(
                 wav=wav,
                 eaf=eaf,
