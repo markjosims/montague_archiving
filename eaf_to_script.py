@@ -11,6 +11,10 @@ def ms_to_human_time(ms: int) -> str:
     seconds = int(time_s%60)
     return f"{hours}:{minutes:0>2d}:{seconds:0>2d}"
 
+def human_time_to_ms(timestr: str) -> int:
+    hours, minutes, seconds = (int(n) for n in timestr.split(sep=':'))
+    return 1000 * (hours*3600+minutes*60+seconds)
+
 def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
     if type(eaf) is str:
         eaf = Elan.Eaf(eaf)
