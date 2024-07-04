@@ -128,7 +128,7 @@ def init_parser() -> ArgumentParser:
         type=int,
     )
     parser.add_argument(
-        "-c", "--chunk_len_s", type=float, help="Chunk size to use for ASR pipeline."
+        "-c", "--chunk_length_s", type=float, help="Chunk size to use for ASR pipeline."
     )
     parser.add_argument('-b', "--asr_batch_size", type=int, default=8)
     return parser
@@ -142,7 +142,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         "automatic-speech-recognition",
         model=args.asr_model,
         device=args.device,
-        chunk_length_s=args.chunk_len,
+        chunk_length_s=args.chunk_length_s,
     )
     if args.strategy != "asr-only":
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
