@@ -24,13 +24,14 @@ Pyannote and HuggingFace entry points
 def perform_asr(
         audio: Union[torch.Tensor, np.ndarray],
         pipe: Optional[Pipeline] = None,
+        **kwargs,
     ) -> str:
     if not pipe:
         pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
     if type(audio) is torch.Tensor:
         audio = np.array(audio[0,:])
-    result = pipe(audio)
-    return result["text"]
+    result = pipe(audio, **kwargs)
+    return result
 
 def diarize(
         audio: torch.Tensor,
@@ -129,6 +130,7 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-c", "--chunk_len_s", type=float, help="Chunk size to use for ASR pipeline."
     )
+    parser.add_argument('-b', "--asr_batch_size", type=int)
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -190,8 +192,9 @@ def asr_only(
         wav: torch.Tensor,
         eaf: Elan.Eaf,
         asr_pipe: Pipeline,
+        batch_size: int,
     ):
-    chunks = asr_pipe(wav, batch_size=8, return_timestamps=True)["chunks"]
+    chunks = perform_asr(wav, pipe=asr_pipe, batch_size=batch_size, return_timestamps=True)["chunks"]
     for chunk in chunks:
         start, end = chunk['timestamp']
         text = chunk['text']
@@ -204,6 +207,7 @@ def asr_first(
         num_speakers: int,
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
+        batch_size: int,
     ):
     raise NotImplementedError("Not yet bucko.")
 
@@ -213,6 +217,7 @@ def drz_first(
         num_speakers: int,
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
+        batch_size: int,
     ):
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
@@ -227,7 +232,7 @@ def drz_first(
                 total=len(list(speaker_timeline
             ))):
             segment_wav = get_segment_slice(wav, segment)
-            segment_text = perform_asr(segment_wav, asr_pipe)
+            segment_text = perform_asr(segment_wav, asr_pipe, batch_size=batch_size)['text']
             start_ms = sec_to_ms(segment.start)
             end_ms = sec_to_ms(segment.end)
             eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
