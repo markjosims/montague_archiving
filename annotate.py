@@ -130,7 +130,7 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-c", "--chunk_len_s", type=float, help="Chunk size to use for ASR pipeline."
     )
-    parser.add_argument('-b', "--asr_batch_size", type=int)
+    parser.add_argument('-b', "--asr_batch_size", type=int, default=8)
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
