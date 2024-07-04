@@ -3,6 +3,7 @@ from argparse import ArgumentParser
 from transformers import Pipeline, pipeline
 from pyannote.audio import Pipeline as PyannotePipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
+from pyannote.core import Segment
 from eaf_to_script import write_script
 import torch
 import torchaudio
@@ -209,7 +210,21 @@ def asr_first(
         asr_pipe: Pipeline,
         **kwargs,
     ):
-    raise NotImplementedError("Not yet bucko.")
+    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
+    diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
+
+    speakers = diarization.labels()
+    for speaker in speakers:
+        eaf.add_tier(speaker)
+
+    for chunk in chunks:
+        start, end = chunk['timestamp']
+        text = chunk['text']
+        speaker = diarization.argmax(Segment(start, end))
+        if not speaker:
+            speaker='default'
+        eaf.add_annotation(speaker, sec_to_ms(start), sec_to_ms(end), text)
+    return eaf
 
 def drz_first(
         wav: torch.Tensor,
