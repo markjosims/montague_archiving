@@ -200,7 +200,7 @@ def asr_only(
         start, end = chunk['timestamp']
         if end is None:
             # whisper may not predict an end timestamp for the last chunk in the recording
-            end = len(wav)/SAMPLE_RATE
+            end = len(wav[0])/SAMPLE_RATE
         text = chunk['text']
         eaf.add_annotation("default", sec_to_ms(start), sec_to_ms(end), text)
     return eaf
@@ -224,7 +224,7 @@ def asr_first(
         start, end = chunk['timestamp']
         if end is None:
             # whisper may not predict an end timestamp for the last chunk in the recording
-            end = len(wav)/SAMPLE_RATE
+            end = len(wav[0])/SAMPLE_RATE
         text = chunk['text']
         speaker = diarization.argmax(Segment(start, end))
         if not speaker:
