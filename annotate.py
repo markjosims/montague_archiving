@@ -198,7 +198,7 @@ def asr_only(
     for chunk in chunks:
         start, end = chunk['timestamp']
         text = chunk['text']
-        eaf.add_annotation("default", start, end, text)
+        eaf.add_annotation("default", sec_to_ms(start), sec_to_ms(end), text)
     return eaf
 
 def asr_first(
