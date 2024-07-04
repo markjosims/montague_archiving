@@ -25,8 +25,8 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
     with open(out_fp, 'w') as f:
         for turn in merged_turns:
             speaker = turn['speaker']
-            start = human_time(turn['start'])
-            end = human_time(turn['end'])
+            start = ms_to_human_time(turn['start'])
+            end = ms_to_human_time(turn['end'])
             f.write(f"{speaker}: {start}-{end}\n")
             f.write(turn['text'])
             f.write("\n\n")
