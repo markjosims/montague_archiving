@@ -148,7 +148,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     if args.strategy != "asr-only":
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
         drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
-        drz_pipe.to(args.device)
+        drz_pipe.to(torch.device(args.device))
 
     wav_fps = glob(os.path.join(args.input, "*.wav"))
     for wav_fp in wav_fps:
