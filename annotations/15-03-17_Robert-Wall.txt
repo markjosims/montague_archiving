@@ -1,0 +1,508 @@
+IC: 0:00:00-0:00:04
+ moment where you want me to turn them off, just say it.
+
+RW: 0:00:04-0:00:39
+ Okay, all right. Well, I'm not sure how much information I can provide for you because  I only met Montague. This is, of course, about Montague. I only met him once and that was  at that famous...  Oh, you met him though?  Well, yes, at the church basement when we all had been.  And I think maybe I sat next to him at lunch.  And we made small talk or something like that or whatever it was.  But I think that was the only time I ever met him.
+
+IC: 0:00:39-0:00:40
+ So do you remember him?
+
+RW: 0:00:40-0:00:50
+ Vaguely, yeah, just vaguely.  I mean, I knew who he was and I was aware of his work and all of that.
+
+IC: 0:00:50-0:01:31
+ Actually, about ViewMind, can we start from that? Because that's a puzzle that interests me when I interview guys.  To understand how you got to hear and know about his work. So could you briefly tell me about your background,  so where you were coming from, like intellectually,  and what kind of education you received,  and at which point you heard about Montague and his work.  Ah, okay.  Just to try to understand how people,  because it's especially the final chapter,  the one about the legacy.  It's like how it happens that you have a philosopher  who works within philosophy and proposes something that  Philosopher just a few philosophers were affected by but other people in another field
+
+RW: 0:01:32-0:02:00
+ Were much more affected. So how did that happen? Well, let's see. How far back should we go with this?  Well  Well, my PhD is in chemistry, organic chemistry. But I got tired of that and decided that I wanted to do linguistics.  It sounds like a perfectly normal thing to do, right?
+
+IC: 0:02:00-0:02:06
+ I've learned from others that people can't.  No, no, I'm interested actually.  You did your PhD in the US?
+
+RW: 0:02:06-0:02:08
+ Yeah, I was at Harvard.
+
+IC: 0:02:08-0:02:12
+ Okay, so you did your PhD in chemistry at Harvard. How did you hear about linguistics?
+
+RW: 0:02:12-0:03:14
+ Well, I started going around auditing courses at various places, you know, because I work in the lab, you know, working on my dissertation, you my dissertation night and day and everything. And it gets boring after a while.  And so I thought well here I am at this wonderful school, why don't I go and sit in on some  courses.  And so I did.  I sat in on sociology courses and then I hit upon a linguistics course which was actually  about Indo-European.  And I thought oh this is really fascinating and everything. So I decided, well, I would just take a break from chemistry and I would  try to investigate linguistics. Well, it's a long story, but anyway, I wound up sort  of at the computation lab and I was taking linguistics courses and working on a machine translation project.  We were trying to do Russian to English.  Who was involved in that project?  Who was the focus?
+
+IC: 0:03:14-0:03:16
+ Yeah, who was involved in that project?
+
+RW: 0:03:16-0:06:20
+ Well, it was Tony Ottinger, O-E-T-T-I-N-G-E-R.  And we were working with very primitive equipment. I mean you can  imagine and this was in 1961 or so. And our IBM mainframe computer had 32k of  memory. You really saw it all. I know, we're trying to translate Russian to English, right?  You know, parsing the Russian sentences  and then trying to translate, you know, and so on.  Well, it was quite a feat.  But anyway, so I decided, well, this was fascinating.  This is something I would like to continue to do.  This is how I got into linguistics, but it was really in computational linguistics.  I guess the Indo-European thing didn't really pan out.  And then my first job was at IBM in San Jose in the research lab,  where I continued this sort of thing. We were working on automatic  indexing. The idea was to take abstracts of scientific articles and by computer extract  index terms and so on and so forth. Again, with very primitive equipment. I mean, it was, I think the mainframe  maybe had 64K of memory by that time.  It was doubled.  It was doubled, yeah.  But everything was batch processing and punch cards.  I mean, it's really, really the dark ages  of computation and so forth.  So I did that for a couple of years and then,  I don't know, somehow I decided that I really needed to be in academia and not in industry.  There were lots of up and downs with IBM at the time. You know, they were not sure what we were supposed to be doing and should we work on sort of blue sky research or should we be working on  applied things, you know the drill, right? So I decided I would look for  an academic job and my first academic job was at Indiana University and I was really just hired over the  telephone. I mean, jobs were so easy to get in those days. It was probably 1965 or  something like that and so they hired me and they said you can come and teach  oh I don't know computational linguistics and mathematical  linguistics and you know all of that stuff. So this was from the linguistics  department? Yeah I was from the linguistics department in Indiana right.
+
+IC: 0:06:20-0:06:28
+ So was this for them a new area that they wanted to open or did they already have…
+
+RW: 0:06:28-0:06:50
+ They were trying to be up to date.  I mean they were aware of Chomsky and all that kind of stuff.  In fact I guess they knew something about Chomsky's mathematical papers and they wanted their graduate students to be able to follow this  and so they needed some courses.
+
+IC: 0:06:50-0:07:02
+ So as far as your training about that, did you hear about Chomsky when you were at Harvard?  Yes I did.  Oh so you did.  Yeah I did.  So within the computational lab where you were working you heard about him.
+
+RW: 0:07:02-0:07:15
+ Did you see him at that time? At that time, you know, I can't remember. I think I may have gone to MIT and heard a couple of lectures. I mean, I certainly knew who he was.
+
+IC: 0:07:15-0:07:32
+ Because it was at the very beginning, Barbara told me that she, I think she's the first generation MIT student.  She graduated in 1965, so she must have started in 1961, 1962 I think.  So she said she was the first one.  So early 60s when the PhD program, the graduate program started.
+
+RW: 0:07:32-0:07:54
+ So a lot of places were starting linguistics programs at the time.  And there was a kind of emphasis on mathematical and computational things and so forth. So they hired me for that and I, at that time, I started working on the  textbook which became Introduction to Mathematical Linguistics or whatever it was, yes.
+
+IC: 0:07:54-0:07:55
+ Now?
+
+RW: 0:07:55-0:08:01
+ Now, which eventually morphed into Parti, Termulin and Wahl.
+
+IC: 0:08:01-0:08:10
+ So finally I can ask you if you are willing to join after Stanley, just because I saw Stanley before you, although your name comes first.
+
+RW: 0:08:10-0:08:26
+ No, but I've already signed it. You're right. I were around you with all my Montague talk.
+
+IC: 0:08:26-0:08:36
+ So this is the origin of this book. You're part of this. So it started when you moved to Indiana for your first academic job.
+
+RW: 0:08:36-0:09:05
+ First academic job. I knew then that if I were going to get tenure or rise in the academic ranks, I would have to have some kind of publication and so forth.  So I started on this book and that, I didn't quite finish it I guess when I was there.  But anyway, so I went to Indiana and there were a bunch of graduate students including Lowry Cartonet.
+
+IC: 0:09:05-0:09:07
+ That's a good start.  That's right.
+
+RW: 0:09:07-0:09:44
+ Yes.  And so that's when we became friends and you know I knew that he was very bright and  destined for great things and so on.  And so you know we talked to each other and then when I moved to Texas two years later, which would have been 67, I think Lowry moved there then or maybe it was a year later.  I can't remember.  But anyway, he also moved down to Texas.  And also when I moved to Texas, I found Stanley Peters.
+
+IC: 0:09:45-0:09:50
+ Nice. I know, I know.  So there it was.  Because he was already there in Texas.
+
+RW: 0:09:50-0:10:08
+ Yes, he was already there.  He'd been there a year, I think, something like that.  So I think that is when I managed to finish the book after that.  But let's see.  I'm trying to remember all this chronology.  This was a long time ago.  This was what, 40 some years ago or something?
+
+IC: 0:10:08-0:10:28
+ Well, we know that our memory is very selective, so we can't remember things from the past  very well and don't remember what we had this morning.  I know, I know.  It sounds like a very exciting time.  It was, it was, it was.  When I hear you guys talk about it, I'm so jealous.  It's like the birth of a field, the excitement for being part of it.
+
+RW: 0:10:28-0:10:30
+ I know, I know, I know.
+
+IC: 0:10:30-0:10:32
+ A new area to discover, to explore.
+
+RW: 0:10:32-0:11:13
+ And so I taught some introduction to mathematical linguistics and that sort of thing,  and introduction to syntax and so on. And then I remember, okay getting back to  Montague, I remember when Lowry had come back from some conference where he had  first heard of Montague and his work and he brought this handout and we, I  remember he and Stan and I looked at that and I said, well what is  this all about?  I mean this makes no sense at all, what are all these lambdas and this kind of stuff.
+
+IC: 0:11:13-0:11:16
+ Well, you remember, was this somebody trying to apply Montague?
+
+RW: 0:11:16-0:11:20
+ No, it was a lecture by Montague himself.
+
+IC: 0:11:20-0:11:21
+ Oh, I see.
+
+RW: 0:11:21-0:11:46
+ So Lauer had been to this conference, I don't remember what conference it was.  I know, but it would have been in 1968 or 9 or something like that.  And we looked at this and it just looked like incomprehensible gobbledygook to us.  And we said, well, we're not going to have to worry about this.  I mean this is totally...
+
+IC: 0:11:46-0:11:52
+ So probably  there must have been something about English as a  formal language. I think it was.
+
+RW: 0:11:52-0:12:58
+ I think it was, yeah, now that I'm  looking back on it. But I remember we just  dismissed the whole idea  and said, you know, this  is so abstract and so  complicated and has nothing to do  with linguistics whatsoever.  And so, I mean, you know, so.  But then of course,  we began to get inklings from other places  that maybe this was something we should pay attention to.  And I remember then at the time that  Stanley would look at this handout and maybe he got some  information elsewhere and he would say, I think I figured out what this is about.  And then he would tell us, I think what he's doing here is so important.  Hmm, I see.  That could be interesting. Well, I see. That could be interesting.  Well, maybe so.  I don't know.  Who is this guy anyway?  Well, he's a philosopher at UCLA and so that's my first exposure to Montague.
+
+IC: 0:12:58-0:13:19
+ So there was something like, if I understand correctly, it was like like via Lowry first and then Stanley and the groups that  you guys built there and you guys were coming together and said, okay, so maybe, so the  first reaction was like, what is this?  What is this, right?  Very interesting.  And then it's like, okay, you make an effort to go into it and you start seeing, well,  maybe there is something.
+
+RW: 0:13:19-0:13:48
+ Maybe there is something here, right?  And then of course I'm sure that, you know, some of us were in contact with Barbara and maybe other people and so forth who said, oh yeah, really you should  pay attention to this, it's quite interesting and, you know, I know it's hard to fathom  but, you know, really, I don't know. So of course we did and we took it kind of as a  challenge that, you know, we should try to make sense out of this. And when was the, what
+
+IC: 0:13:48-0:13:55
+ year was the famous meeting in the church basement? I believe it was 1969.
+
+RW: 0:13:55-0:14:11
+ Sixty-nine. I need to double check. That sounds about right. And by that time, I  think, you know, we had come around to the idea that this was something  we really should pay attention to and really needed to learn about it and so on.
+
+IC: 0:14:11-0:14:26
+ Actually, let me correct.  I think it was, sorry, it was the first half of 1970, I believe.  Maybe, okay, somewhere in that.  I think it was, it definitely was not in the fall.  It was something, I need to see, I don't  know.
+
+RW: 0:14:26-0:14:30
+ Anyway, yeah, it's about that time, yeah.  And so...
+
+IC: 0:14:30-0:14:40
+ Because he presented the Universal in Brown, so what he talked, which is around that time  when he was working on that.
+
+RW: 0:14:40-0:14:50
+ Yeah, yeah.  So then, let's see, I'm a little fuzzy on the chronology of things, but I guess after that...
+
+IC: 0:14:50-0:14:53
+ So, Bob, can I ask you, because you said that you were at that event, is it correct?
+
+RW: 0:14:53-0:14:55
+ I was, I was there, yeah.
+
+IC: 0:14:55-0:15:03
+ So that means that your group there in Austin was in touch with UCLA.  Yes.  I guess by Barbara, I assume?
+
+RW: 0:15:03-0:15:05
+ Probably by Barbara. So at that time who was there at Austin?
+
+IC: 0:15:05-0:15:10
+ It was you, it was Lowry, it was Stanley.  Was David there?
+
+RW: 0:15:10-0:15:16
+ I don't remember.  He probably was, but I can't be sure.
+
+IC: 0:15:16-0:15:21
+ But you guys were not working on the textbook yet?  Not yet.  Not yet.
+
+RW: 0:15:21-0:16:21
+ So that comes later.  That comes later, yeah. And so I guess, well, of course, the way the book started was that David prepared a bunch of notes  because he decided that he was going to give a course at Ohio State on this stuff.  And I think it was Stanley first who put together a course, or maybe introduced it sort of into the semantics course or something at Texas.  And then I also taught part of this in a course somewhere or something.  What were we doing?  I don't know.  But anyway, it was all kind of very fluid and we decided, well, the students need to  know about this, whatever it is.  So we're going to try to introduce them to the idea that they should have a look at it.
+
+IC: 0:16:21-0:16:39
+ Bob, was there a time, because I don't know about this and unfortunately, I mean  I don't have direct information, but from the direct information that I collected, David  is not doing well so I cannot interview him.  So was there a time when David was at Texas?
+
+RW: 0:16:39-0:16:41
+ Yes, yes.
+
+IC: 0:16:41-0:16:46
+ Because his webpage doesn't have his CD, doesn't have anything, so I really don't  know, but I seem to remember that there was a time when he was at Texas. Oh yes, he was. Yes, yes. Because his webpage doesn't have a CD, doesn't have anything, so I really don't know.  But I seem to remember that there was a time when he was at Texas.
+
+RW: 0:16:46-0:16:48
+ Oh yes he was, yes, of course.
+
+IC: 0:16:48-0:16:55
+ Because I believe that, this is later in the years, but...
+
+RW: 0:16:55-0:17:05
+ No, of course he was, yes.  He was one of our graduate students.  Exactly.  And I'm sure I was on his dissertation committee.
+
+IC: 0:17:05-0:17:15
+ That's what I thought.  Okay.  Yeah.  No, absolutely.  Excuse me.  All the direct information that I collect, oh, I don't know what I'm talking about.
+
+RW: 0:17:15-0:17:17
+ Bless you.  I know.
+
+IC: 0:17:17-0:17:18
+ It must be something coming from the other side.
+
+RW: 0:17:18-0:17:21
+ I know.  No, of course that's right.  I mean, my God.
+
+IC: 0:17:21-0:17:23
+ But his webpage doesn't have much information.
+
+RW: 0:17:23-0:17:29
+ Yeah, I'm sure that David was exposed to this in one of our courses, in one of the semantics
+
+IC: 0:17:29-0:17:30
+ courses.
+
+RW: 0:17:30-0:18:16
+ And then when he went to Ohio State, he decided that he needed to expand on this and give  a course of Madagascar semantics.  That's when he prepared the notes and everything.  And then we all got copies of the notes and that's when Stanley said, well, you know  what we should do is we should take his notes and then we should expand it into a real textbook.  And so I said, okay, well let's do that.  And that's how this thing started. And of  course there were lots of delays and ups and downs and so forth and you know we  were waiting for Stanley to do his part and it was slow and we were, you know.
+
+IC: 0:18:16-0:18:27
+ So Bob, would you say that because the book was officially published in 1981 if I remember right?  81. 81, yeah. But would you say that the idea started way earlier, like almost right after Montague's
+
+RW: 0:18:27-0:18:30
+ death?  Well, his death was in what year?
+
+IC: 0:18:30-0:18:34
+ 1971.  71.  March 7, 1971.
+
+RW: 0:18:34-0:19:02
+ 71.  It was, I'm trying to fit it in with the chronology of where I was at those times because I took a year off, went to Denmark in 71 and then also again in 75, 76 and I know that we were working  on it then.
+
+IC: 0:19:02-0:19:05
+ So in the mid-70s you were already working on it? In the mid-70s you were already working on it.
+
+RW: 0:19:05-0:19:08
+ In the mid-70s we were already working on it.
+
+IC: 0:19:08-0:19:36
+ Which makes sense, there was also the book Thomason's Collection, which came out in 1974.  There was also an issue of circulation.  The proper treatment of quantification in ordinary English came out in 1973 in the proceedings.  And then in 1974, I'm sure that the manuscript was circulating, but I mean, these papers  didn't come out right away.  I mean, there was some delay.  That's true.  Yeah.
+
+RW: 0:19:36-0:19:55
+ And of course, we were all in contact with each other.  I remember, you know, Rich Thomason being at a conference in Texas.  know Rich Thomason being at a conference in Texas. In the meantime, I guess on my second trip to Denmark, that's when we started Linguistics and Philosophy. So I became the editor.
+
+IC: 0:19:55-0:19:56
+ Oh, you were involved in that too?
+
+RW: 0:19:56-0:19:58
+ I was the first editor of Linguistics and Philosophy.
+
+IC: 0:19:58-0:20:05
+ Because I saw your name, yeah.  Yeah, right, okay.  Wow. So can you briefly tell me who came up with the idea?
+
+RW: 0:20:05-0:20:15
+ Well, it was the Kluwer Publishing Company and they had been publishing Foundations of  Language, right?
+
+IC: 0:20:15-0:20:16
+ Yes.
+
+RW: 0:20:16-0:21:43
+ Okay.  And they had had some feud or something with the editorial board of Foundations of Language.  I don't know what it was all about.  But anyway, they decided they no longer wanted  to publish this.  And they said, well, we'd like to have a journal  in formal linguistics and semantics and this sort of thing.  And they wanted to continue it as Foundations of Language  and then there was kind of a lawsuit about who has right to the title Foundations of  Language. Anyway, it was decided finally that we'll just have a new journal with a new name. And so that was how it happened, right?  Linguistics and philosophy. I think Stanley Peters came up with the name and so forth.  And then we wrote this sort of message to contributors what we were going to be about  and all that sort of thing. And then we started. But the idea was, also in our minds,  that we would be able to publish papers  in Montague's semantics  because we weren't afraid of the formalism  and all of that kind of stuff.  That was behind it all.  So, yeah, that was happening  in 76, 77.
+
+IC: 0:21:43-0:21:44
+ 77.
+
+RW: 0:21:44-0:21:47
+ 77 was probably the first.
+
+IC: 0:21:47-0:21:55
+ I'm sure because Lowry's paper was on the first volume. It's the first paper, the first volume.
+
+RW: 0:21:55-0:24:42
+ Exactly. And on the editorial board, of course, was Rich Thomason and Barbara and you know you know all the usual suspects. So that was you know but at the same time I know that we've  decided that we needed to work on this this textbook of Montague's semantics and  it dragged on quite some time I I guess, because, you know, other things kept getting in the way.  And finally, I don't know, David got very heated about it, saying, well, are you guys going to  finish or not? And if not, I'm going to publish it myself. It was my notes and all that and I said well you know I think I've  done my part but you know Stanley still hasn't done his part so actually as a  kind of desperation measure Stanley and I decided that we were going to hole up in a hotel room and not come out  until it was finished. So we checked into a hotel, we did, we checked into a hotel in Austin. Oh, really? This is a movie. Hotel in Texas.  And of course, Stanley still didn't finish.  I mean, it was, you know,  he would write for a little bit, and then he would say,  what about this?  Maybe, should we say something  about this? And I said, Stanley, just  write it down.  It can all get edited later. Just write it down you know it can all get edited later just write  it down well I was thinking  you know  and so  I don't know I think finally  there was like an ultimatum  from  David that said  look you know if it's not done by X, I'm going to publish what I have and you  guys can just do that one.  So that galvanized Stanley into actually submitting.  Actually I think it was already in page proofs when Stanley was writing his final chapter on universal grammar  and you know sending it off to the Netherlands. I mean it was it was one of  these last-minute things and so forth. And I think for a while I mean David and  Stanley were sort of you know not really talking to each other.
+
+IC: 0:24:42-0:25:19
+ Well I never had the chance to talk, I mean, as a graduate student, I saw David at conferences,  but I never talked to him.  So I never had the opportunity or the possibility  of interacting with him.  And so I don't know, like, I heard from people that knew him  that he had a complicated nature.  Yes, yes, he did. So not easy to handle.  So I can imagine, especially in these kind of circumstances when you're dealing with  somebody who has a very different nature both in terms of timing and how to get things done.  Yes, yes, exactly.  I feel like it was not easy for you to be married to me.
+
+RW: 0:25:19-0:25:24
+ It was after this I said I'll never be a co-author on a book again.
+
+IC: 0:25:24-0:26:58
+ But then Partit, T party turbulent and Walt started so where I go this was in 1994 in my first  blog conference in Vienna that's what Would you like me to sign this?  Yes, I'd love that!  Actually, sorry, I just realized that I gave you a pencil.  Oh, here, I have a pen.  This looks like a pencil, but it's actually a pen.  Yes, I still remember the conference, and that's when I was still an undergraduate and I was  in philosophy of language, nobody was teaching these things, but I heard about them.  So when I go to this conference, I see the book just came out,  this edition for students, and then my library didn't have it, and I said,  this looks like...  because I was trying to go through these papers and I believe that you're...  I got this...  Yes, so this was around the same time, but a few months later.  This was in  April 8th. Well, this is November 11th.  Because I think from this I said, oh there is this such a book, so let me go and get it.  So I ordered this book.  You know, remember we are in Italy, so just to get these books in 1994 before internet  it was a problem.  You had to go to one of the specialized bookstores  that was able to order books from abroad.  I know, I know.  It was expensive so I had to work hard  to get enough money to be able to buy this book.
+
+RW: 0:26:58-0:27:19
+ That was part of our dilemma with all of this  is that the things were priced so high.  The same thing was true of the journal, Linguistics and Philosophy, where we were constantly saying,  why do you price?  Well because it's so expensive and the press run is so small and blah blah blah.
+
+IC: 0:27:19-0:28:21
+ You really had quite a group of very smart students at the beginning of your career to start like that.  That's fantastic.  Oh yes, yes, yes.  I know.  So can I ask you, stepping back to that conference where you guys went, like the UCLA conference,  this was the first time that you saw Montague presenting his work and you also saw him debating  with other people. So the two questions that I have is one about what do you remember of  it, like in terms of like presenting or interacting, whatever you remember of it. And the other  question is, which is a broader one and of course also goes later in the 70s and the  80s related to the books, is like what intrigued you of what he was presenting not necessarily just at that time but once you start  looking into it that why did you decide there was a an enterprise that was significant enough for  you to spend all this time energy and mental capacities and train students that's an interesting
+
+RW: 0:28:21-0:29:26
+ question well i the first i can answer I don't remember his presentation particularly.  I'm sure I was there, and I'm sure I was looking at the handout,  but I don't remember it at all.  It's completely gone from my memory.  But why was this fascinating enough to work on?  I guess it's probably the same sort of motivation that I had from trying to figure  out Chomsky's mathematical stuff. I decided, well, I have a certain ability to understand  mathematics and so forth, so I can make sense out of this if I just try hard enough. And  so I would go through Chomsky's papers and Chomsky's Schutzenberger and all this sort of stuff and try to figure it all out. And then when  this came along, which was totally new, I guess it was the same sort of challenge. I  said, well, you know, I'm sure I can figure this out if I really try hard enough, you  know. And so, yeah, over time it gradually gets clearer. And there's a certain sense  of accomplishment  than when you feel like...
+
+IC: 0:29:26-0:29:28
+ An intellectual satisfaction.  That's right, yeah.
+
+RW: 0:29:28-0:30:17
+ That's what you've, you know,  that you've really achieved something when you're...  So it was the same sort of challenge, I think, you know.  And I wasn't sure, you know,  whether Chomsky's work was ever really  all that relevant to linguistics.  I mean, of course, you know, all the stuff about the context for grammars  and regular grammars and all that kind of stuff.  Well, it's interesting, but does it really affect  what linguists do day to day and so forth?  Well, I mean, not so much.  And this, I had the same sort of feeling.  Well, I think there's something here,  and it may be relevant to linguistics,  but I want to know it anyway, whether it's directly relevant to what linguists do or  not. And so that's, I think, why I decided to do it. It's just the intellectual challenge.
+
+IC: 0:30:17-0:30:41
+ When did you decide that it was worth teaching these things? Because one could  say, look, I'm intrigued, I'm curious, I want to understand it, but I don't think it was worth teaching these things. Because one could say, look, I'm intrigued, I'm curious,  I want to understand it, but I don't think it's worth teaching it. But then there is  also an extra step, which is a step of saying, well, I want to teach these things, I want  my students to understand these things as well. Which is a, I mean, the two things I  can see how they can be related, but it doesn't fall, one doesn't necessarily, I mean, the
+
+RW: 0:30:41-0:31:19
+ first doesn't necessarily trigger the second. That's true. That's true. Well I think it was just a combination of Stanley, you know, sort of  doping it out saying, oh yeah I can see what he's getting at here. And  Barbara who said, look you really need to pay attention to this, I think there's  something important here. And people like Rich Thomason and so forth were saying  the same thing and so all of that sort of, you know, these are people we trusted and whose  intellects we admired. And so we said, well, all right, we should pay attention to this  then. All right. You know, that's, you know, that's, that's good enough for us.
+
+IC: 0:31:19-0:31:27
+ So you were interacting with Thomason around the time he was like editing the book or when  he was done with the book, the time he was editing the book or when he  was done with the book, the mid-70s.
+
+RW: 0:31:27-0:31:58
+ Yeah, yeah.  And he was on the, well he was on the, not only the editorial board but the executive  committee of linguistics and philosophy and so we were in constant contact about things  and so on.  And we would see each other at conferences and so on. It just kind  of reinforced this idea that this is something that's important. We need to know it. That
+
+IC: 0:31:58-0:32:08
+ was it.  Can I ask you, around that time, the time when you get to know Montague's work and you get interested in it, is also the time of generative semantics.
+
+RW: 0:32:08-0:32:08
+ Yes.
+
+IC: 0:32:11-0:33:08
+ So what was your exposure to that?  Because it sounds like you got much more intrigued by this approach to the study of language  than what was happening on the  other side. Can I ask you why? Because those were like linguists. Here we have somebody  who is not a linguist. He superficially knows, although probably with his emergings he knew  about languages more than we thought,  given at least the knowledge he had of this variety of languages.  And he had taken like advanced language classes where probably grammar was presented in a certain way.  But you know, that's kind of...  Sure.  But besides...  But he clearly was not a linguist and he didn't want to be a linguist.  Yeah.  But come up with something that was, you know, more fascinating and probably on the long run more useful than  what Ling was doing.
+
+RW: 0:33:08-0:34:07
+ Well, let me tell you also that when I was in Indiana, I happened to be on George  Lakoff's dissertation committee.  No way.  Yes.  No way.  You got them all.  I got them all, but quite by accident. I'd never met the man.  And somebody collared me in the hall and said,  we have a defense of dissertation down the hall,  and we need one more person, so can you come and sit in?  And so there was George Lakoff defending his dissertation,  which he wrote under the supervision of Fred Householder.  And I thought, what is this?  I mean, this is the craziest stuff I've ever seen in my life.  So you saw it. You saw the bird.  I saw the bird.  And I got to know Hedge Ross fairly well.  And Jim McCauley and all of those people.
+
+IC: 0:34:07-0:34:13
+ Okay, so you knew them.  Yeah, I did.  It was not just an issue like we are distant apart.  No, no, no.  I knew them.
+
+RW: 0:34:13-0:37:51
+ I mean, you know, we went to the same parties and, you know, all that.  I was never really satisfied with what was going on in that realm of linguistics.  It just seemed to me so loose and so untestable.  I mean, it was, yeah, it just, you know, it did not satisfy my feeling that this is the way a science should operate.  You should make testable hypotheses  and you could be able to find out whether something was right or wrong  depending on the predictions it made and so forth.  And that was my ultimate reaction to generative semantics.  I said, but, you know, how can you falsify it?  You know, how can anything ever be wrong in generative semantics and so on, you know, how can you falsify it? You know, how can anything ever be wrong  in generative semantics and so on, you know?  I mean, like the thing you were talking about the other day  when, I guess at Barbara's talk,  when George said that adjectives come from sentences, right?  Well, how could that be wrong, right?  Show me how that's falsified.  So I never took it all that seriously.  Although it was obviously a movement  and something we had to pay attention to,  but I don't think a lot of us ever really took it seriously.  to pay attention to, but I don't think a lot of us ever really took it seriously. It was just kind of... I remember a paper by Hedge Ross arguing for something or  rather I can't remember what it was, but some sort of generative semantics thing,  and he gave 13 arguments in favor of some particular derivation or something and I  told Hedge I said you know I refer to your paper is the 13 sieves argument  that you stack 13 sieves you think it will hold water and Hatch actually liked that. He referred to his paper as the 13 sieves paper. So that was my attitude toward all of that. I said, okay, you know, nice work guys. But, you know, and that, you know, to be honest with you, that was my difficulty with linguistics generally is that but you know and that you know to be honest with you that was my  difficulty with linguistics generally is that you know you can push it here and  it pops out there and you can push it there and it pops out here and you can  never know anything for sure you know I mean well some things maybe you can but  I mean it was just like all this theory and speculation and so forth just you know was totally unsatisfying I mean if  you if I used to say look if someone asked you at a cocktail party what  results have you gotten out of the last 25 years of linguistics for sure that you can say this is  Definite. This is what we know now about  Natural language be very hard-pressed to explain to somebody  You know what we know for sure. That's absolutely an incontrovertible fact  You know except for you know, just observations and so on. Yeah, and so, you  know, it has this character, I mean, you know, that it's kind of open-ended
+
+IC: 0:37:51-0:39:34
+ and squishy. Don't you think, I mean, you think this is much different from other  sciences that study high-level human behavior? I mean, it's not that psychology is doing  much better, from my little knowledge.  If anything, my impression is that the field is very much going into this hyper-emphasis towards experiments.  So you need to have a new experiment that has not been done before, perfectly done according to all the criteria,  the perfect statistical analysis, you know, all the fancy tools you need to know, and then you're done and it gets published.  Yeah.  But then the significance, in particular, not just the significance of this is a new  result, but like how does this new result contribute to an overall theory of, not to  say human cognition, but let's say you're studying, I don't know, you're studying, I  don't know, like let's say you're studying concept formation.  What's your theory of concept formation?  There used to be a time when psychologists were looking at theories around them,  like they were doing this for language.  Oh, like, okay, generative grammar, let's say, that's a theory of language.  Our experiment shows that this is true or shows that this is false.  Now, usually that was done in a clumsy way, but at least there was a desire of contributing  to a more general theory.  Yeah.  So, and more generally, like, it sounds to me like, let's not even talk about sociology  and so on, so it sounds like there is a kind of issue between handling high level human behavior and using  methodologies that have been developed for  lower level pattern behavior  or other aspects of nature  and I wonder if
+
+RW: 0:39:34-0:41:03
+ well now we're sort of  onto larger topics  here than just  but yes I mean I think  this is sort of  a general problem of the social sciences, if they really are  sciences.  I mean yes you can do experiments that sort of reconfirm the obvious or something like  that.  And yes it's an experiment and you have statistics and you have subjects  and you can get it published and all that sort of thing, but what does it really tell  you about the overall problem of explaining human behavior and how do we form concepts  and how do we act on them and you know.  Yeah I don't know. I mean, it's, I guess because of my years in chemistry or whatever  to start, I always found this just not terribly satisfying. I mean, it was, you know, I understand  that it's worthwhile to do it and that it can be intellectually engaging and all of  that sort of thing, but, you know, I guess it's just not my cup of tea, basically.  But I think the Montague semantics, maybe part of the appeal was that it did seem to  have testable predictions, in a way that some of the other things did not.
+
+IC: 0:41:03-0:41:05
+ And also a level of precision.
+
+RW: 0:41:05-0:41:07
+ An 11 of precision, right.
+
+IC: 0:41:07-0:41:11
+ Everything was spelled out.  That's right.  Once you were able to go through that, from an abstract benefit.
+
+RW: 0:41:11-0:41:18
+ If it claims that such and so is a consequence of this sentence and so forth, well then it's either right or wrong, right.
+
+IC: 0:41:18-0:41:32
+ It predicts a certain kind of like internal patterns, for example.  Yeah.  And you know, you should be able to calculate them. And then if that goes against the kind of intuitions that you have, then you need  to decide, am I intuition wrong or is the theory wrong?
+
+RW: 0:41:32-0:41:37
+ That's right. Yeah. No. So I think it was a vast improvement over what we had.
+
+IC: 0:41:37-0:43:18
+RESUMEDHERE
+ And also, I mean, my understanding, and I brainstormed with Barbara about this a little  bit, because I want to make sure I'm not making this claim, but from what I've seen about  the linguistic literature and people that care about meaning,  at that time, the idea that entailment is a crucial  notion in order to understand the behavior of natural language  and meaning in natural language was not at the center of the agenda at all.  That's true. I mean, it was at the center of the agenda at all.
+ 
+RW:
+That's true.
+
+IC:
+I mean, it was the center of the philosophical language  when they were working on formal languages that you want to capture entailment.  It was something that started at least in the late 19th century.  But the fact that entailment is a crucial pattern in human language,  natural languages, and we need to be able to capture that,  so our semantic theory has to have that property.  To me, it always looked like it was Montague to put it in the center of the table.  Sure, he says, you know, reference and entailment,  but in the end, what is really crucial, given the fact that he also said,  you know, he's not really interested in how words are attached to the world. You need to assume that, but that's  not really what the semantics is. What the philosopher does is to show you how once you  have those meanings, how you combine them together and what you get out of that. And  so both the way you combine them together, so that technique, that formalism, but also  the fact that that system allows  it then to derive entailment, to me those arrows look like some major contribution because  that's a very bold claim. The claim is that the human mind has a certain kind of logic  that derives certain kind of patterns. And that's not trivial.
+
+RW: 0:43:18-0:43:31
+ Yeah, that's right. That's right. I mean, I'm generous. Semantics would say, you know,  in some cases, well, we get entailment because it's a subtree of this gigantic tree that we've constructed here or something.  But of course you can construct that tree any old way.
+
+IC: 0:43:31-0:43:43
+ Exactly. (You know), I mean, you know.  So how do you know?  How do you know?  Yeah, exactly.  Here you know because, you know, you calculate the meaning, you have the model to interpret,  you have like truth conditions and then you check.
+
+RW: 0:43:43-0:44:19
+ Yeah, exactly, exactly. So I guess, you know, so gradually, or maybe not so gradually, I kind of drifted into computer  science.  I really, you know, I guess at heart basically I want to work in mathematics, although I'm  not, you know, talented enough to be a real mathematician.  But I like, well, first of all, I should say that I guess my particular gift, such as it  is, is trying to explain things to people.
+
+IC: 0:44:19-0:44:24
+ I heard you're a fantastic teacher.  I never had the chance to enjoy your class, but thanks.
+
+RW: 0:44:24-0:47:13
+ So I'm not a fantastic teacher. I've never had the chance to enjoy your class about things. So, I mean, I'm not a gifted researcher.  I'm not somebody who takes one of these systems  and then tries to push it into new areas and new domains.  Rather, I find satisfaction in trying to explain  something fairly complicated to people  who then maybe eventually will push it  into new domains and so on. But I like the precision and you know the surety of  mathematics you know if it's this then it's this and there's no question about  it right. And so I sort of found, what happened then was that at Texas, the computer science department came to the linguistics department and said, we are overloaded with students.  We need somebody to teach theory of computation.  That is, automata, Turing machines, you know, that sort of thing.  And so there was Stanley, Lowry, and me. And so we took on the job of teaching  this for the computer science department. And that was fine because we got  students in the linguistics department that, you know, increased our enrollment.  We were also the hatchet men for the computer science department that increased our enrollment.  We were also the hatchet men for the computer science department.  They said we want a very rigorous course and you should fail a lot of people  because we have way too many students.  And then once we got this started,  then Stanley and Lowry did camp to Stanford  and I was left alone with  this and so I taught theory of computation I don't know how many times  for the computer science department but in linguistics and so on and then  eventually I retired and I came out here and so after a semester of doing nothing I sent my resume to San Jose  College.  What is it?  It's State University of San Jose, right? Okay. And so they hired me to teach,  guess what, you know, theory of computation down there. And I did that for a couple of semesters.  And then eventually I got hired at San Francisco State. And that's what I've been doing ever since,  teaching theory of computation and then analysis of algorithms which is more mathematics and computer science and so forth.  So that's what I'm doing.  I'm explaining things to computer scientists.
+
+IC: 0:47:13-0:47:24
+ That's fantastic.  And that's I think how my, well mine, he's not officially my student but definitely somebody  I've been working very closely with, Gary Patterson, that's I think how he got to know
+
+RW: 0:47:24-0:47:30
+ you. Exactly. I was going to bring that up, that Gary Patterson, you know, found himself in my courses.
+
+IC: 0:47:30-0:48:15
+ We were waiting to hear, we submitted a script at a live, and we were waiting to hear if he got accepted.  Oh, really? Oh, okay.  And he has been helping me very much on this project.  I got some grant money to be able to hire him in helping transcribing  the interviews because it's way better to have them written down, to recover information  and so on. And he's an 80s speaker and he's great at typing and he has knowledge that  allows him to understand what's happening. I tried with others but he was not working  and finally last year Gary told me he was interested and I got a grant. He was fantastic.  I can trust him. So now I got some more money and he's gonna work more for me over the summer.
+
+RW: 0:48:15-0:48:26
+ Wonderful, wonderful. I'm hoping to see him the next time he comes to the city. I  know he comes back periodically but Do you have a spring break where  you're on quarters down there?
+
+IC: 0:48:26-0:49:02
+ We have a quarter system. Which means that I think this is their finals week. I  believe this must be their finals week. And then next week, sorry, no, no, no, it's not  yet there. Their finals week is going to be at the end of March. So the last week of March  is going to be when they are on a break.  And I believe that that's when I think Gary is planning to come here.  I was talking to him, unfortunately I wouldn't be able to see him this time because I had to go to Europe for a talk.  Ah, okay. Well that's good to know because I wanted to send him an email.
+
+RW: 0:49:02-0:49:16
+ Yeah, definitely. I think he'll be around. Yeah, because he was the one who first mentioned you to me.  He was the first one I mentioned.  I see, okay, alright. So all of this network is all connected now.
+
+IC: 0:49:16-0:49:38
+ So actually I have two questions related to something that you mentioned.  One question is, can you tell me a little bit about the birth of this book, which was published, I think, in the early  90s. Yeah, it would have been 1993. This was the first edition.  Ninety-three. Yes, 1993. Let me double check.
+
+RW: 0:49:38-0:51:57
+ That sounds right. Well, my textbook, Introduction to Mathematical Linguistics, which is the one I was working  on when I went to Indiana, and I guess eventually was published around 71 or something like  a 70, 71 and so forth. It was used at various places. but Barber had also published a textbook on the same kind of stuff.  There was a lot of interest in that stuff in those days.  But eventually, I think my book went out of print, and I think maybe Barber's did too.  I don't know, for whatever reason, but the publishers got tired of doing it.  My publisher was Prentice Hall and I think they said, oh it's not selling enough copies  anymore so we're just going to remainder it and whatever.  So I ran into Barbara at a conference and they said, well, you know, both our books  are out of print now and so forth and it's a shame and neither of us wants to sort of bring them up to date  you know  so we said why don't we find  a third person to combine  the two books  and Alistair Mullen was  there and we grabbed her  and said Alice how would you  like to do this  and she said oh  okay  and we said would you like to do this? And she said, oh, okay.  And we said, really, it won't be much work.  I mean, you just have to sort of merge the two books and all this sort of thing.  And then, of course, you can write a chapter on...  And then, of course, we have to add some stuff  about formal semantics and so on,  which is not in our first books and so on.  So that's how this happened.  And then I remember that it was in 87,  I came out to Stanford for the Linguistic Institute that summer,  and Barbara was here, and Alice was here,  and that was when we were going to finally  put the book together and all agree on what it was. Well of course things never  happen the way it's supposed to happen right. I'm glad you did it for me was really like
+
+IC: 0:51:57-0:52:05
+ okay finally I can start understanding. Yeah well the idea was to try to
+
+RW: 0:52:05-0:52:11
+ publish a book so that  nobody else would ever have to publish a book  in this, at least not for many years.
+
+IC: 0:52:11-0:52:13
+ Get the whole thing
+
+RW: 0:52:13-0:52:15
+ down and be done with it.
+
+IC: 0:52:16-0:52:52
+ I mean, just to give you an example,  there was a time when I was trying to understand  links articles, the plurals,  and I had no idea  of what lattices and semi-lattices were. And  it does not explain them. I mean, it just introduces them. And I could not find anybody  in my intellectual environment, like in philosophy in Italy, that I didn't have any serious logician  in my department. And so it was thanks to your book that it says, okay, that's what  it is. Let's see if it works now. And then it says, okay, it's this kind of structure. That's what it's doing. Because  it just says, you know, it's a semi-lattice. What is a semi-lattice? It's a joint. It's a
+
+RW: 0:52:52-0:53:08
+ meat. What are those? I mean, yeah. Right. So, yeah. So that was, that was the idea. So  eventually the, we got it, we got it done. You know, uh, it wasn't as rancorous a thing as it was with David and  Stanley but...
+
+IC: 0:53:08-0:53:30
+ Talking about your time at Texas, were you still at Texas when, you must have been  at Texas when Bill Ladisov was there?  Yes, oh yes.  And there was also the time when, so, because I'm trying to remember, Beale's dissertation  chair was Dowdy, is that correct?
+
+RW: 0:53:30-0:53:34
+ I believe, could that have been right?
+
+IC: 0:53:34-0:53:41
+ Because, so Dowdy got the PhD at Texas and then he got, he was hired by Texas?
+
+RW: 0:53:41-0:53:47
+ Maybe that's true, I can't sure the Doughty was Ladisov's
+
+IC: 0:53:47-0:54:35
+ advisor, or like the first member of the committee. That could have been right.  I'm glad to interview Bill as soon as he has time and I can go to Santa Cruz. is the dean of humanities there. But I'm pretty sure, and his dissertation was in 1979.  Because his dissertation is another important example of application of Montague grammar.  And I would say it's the most important example of a student working in Montague grammar that  is not coming from UMass at that time.  Right, right. So you guys were really the other center. Together with UMass, you were the one that were strongly  promoting not just this with scholars doing work in them, but also teaching it
+
+RW: 0:54:35-0:55:40
+ and having students doing work on them. That's right. Yeah, no, it was a very good time.  And we had Bill Ledgesaw and Jim McCloskey and they were both I think  in my beginning syntax course.  I know, amazing.  And I remember getting quiz papers or something back from Jim McCloskey and I said this looks like it was written by Noam Chomsky.  I mean it couldn't be any better and more insightful. That who is this guy  anyway? Well it was just Jim McCloskey. He smart. You know? Yeah, we had some really good students at this time.  Yeah, I know.  It was a fantastic program.  Yeah.  But then when Stan and Lowry left and it, you know, and David went off to Ohio State  and people graduated and so forth, it just kind of, you know, faded a bit.
+
+IC: 0:55:40-0:55:43
+ Yeah, I don't think it reached those peaks anymore.
+
+RW: 0:55:43-0:55:54
+ No, it didn't.  It didn't really. So, and I kind of moved over to computer science and then it just kind of, I don't think it reached those peaks anymore. No, it didn't really.  And I kind of moved over to computer science and then it just kind of, I don't even know  if they teach formal semantics at Texas anymore.
+
+IC: 0:55:54-0:57:03
+ Well, what they did after, so for a few years they tried to hire like, which I never  know if it's the right strategy but when they try to do  they try to hire big names so Manfred Krifka has been there like  periodically we're trying to have him permanently but of course you know he's  not gonna give up his German pension which is way better than anything that  the US can offer sure at a certain point I think they were even trying to get  Hans Kamp right he's still there, but they wanted him for a full appointment, and again, he didn't  go for that.  He wasn't going to go for that.  So then in the end, Linguistics decided to hire the semanticist from Stanford at  the time, David Beaver.  So David Beaver left Stanford I think in 2005, 2006, and he moved to Texas. So now they have one cement system that's in. But  yeah, they never invested as much resources and energy as in the 70s, but there was a  group of people. Among their young hiring there was...
+
+RW: 0:57:03-0:57:10
+ Well, they got John Beavers.  John Beavers, I was about to say. That's right, who was also in my beginning class.
+
+IC: 0:57:10-1:00:32
+ So they have like, I mean they don't have, they rebuild a little bit but not with the same strength.  Yeah, no, it's not. The amount of resources that they had at that time.  Clearly it was a very special time for them.  Well, I have a very different kind of question.  And in this sense, you know, you're one of the few people that is qualified enough to answer this question.  So another thing that I'm trying to reconstruct for my book is to,  and this is more on the personal side of Montague, is well, first of all what  Montague looked like, but also in the sense as a person.  And here I get very mixed ideas and they crucially vary depending on how much people knew him  and how much they didn't know him.  It sounds like Montague was somebody with a very compartmentalized life.  Yes. He was definitely like he was the professional Montague, so the professor, the scholar,  and then you had like the musician that was you know life separate and then there were  his parents separate from everything else and there were his friends outside academia and very  few people they were like bridging you know friends but also academics and those things were all kept and then you  know it was a real estate investor and again businessman but they were  separate from everything else people you don't know about it so this is the  picture of the man and what I'm but also we are at a time in which being a gay  man was very different than being gay man, both in terms of how you behave  socially and how, not you, how you behave socially, but also how people were aware because  they were just aware of the existence of gay people.  So one question that I have for you is that if you remember anything of his behavior, behavior the conference seeing next to the table would you like I mean was he  enough to formulate a question like was it flamboyant was it very controlled was  the in that kind of professional setting yeah I mean would you have recognized  him as a gay man from his way of behaving his way of talking and this is  about Montague but also in general,  this is more your experience. What did it mean to be a gay man in academia at that time?  You know, it's true that Montague was in California, which is not exactly Texas. But on the other  end, I mean, from information that I collected, even Berkeley, I I mean, there were homophobic colleagues in the philosophy  department, and the Sun was still there, that made life of gay faculty very difficult. That's  Berkeley. So I'm trying to imagine what it meant to be, first of all, a gay student,  undergraduate and graduate in Berkeley in the late 40s and 50s, but then later being a faculty at UCLA in the 60s.  Yeah, yeah.  So, so these are the two dimensions that I would like to ask you, whatever kind of ideas,  intuition, suggestions you have to portray him, if you remember anything about him, but  also to portray what he meant.  You know, because now people are used to like, especially in  certain settings, you have to be PC, of course, you don't ask, you don't do, you don't judge.  I'm assuming that things were different at that time.
+
+RW: 1:00:32-1:00:55
+ That's true. That's true. And I don't remember much about, you know, that I think  that people generally knew in some sense that Montague was gay.  But it was by and large not talked about because well at the time as you say it was just a taboo subject.
+
+IC: 1:00:55-1:00:56
+ It was more of a rumor.
+
+RW: 1:00:56-1:02:02
+ It was more of a rumor, yeah, well I think one of the first really openly gay students we  had at Texas was David Dowdy.  And he brought his partner to parties and functions and so forth and it was you know just accepted  I mean nobody really you know raised an eyebrow about it even at Texas and that  would have been in what the 70 early 70s or something like that you know and Bill And Bill Lagesaw was also gay and again I don't think anybody ever bothered even to  mention it or anything.  I mean it was just kind of, you know, well, you know.  But it wasn't an open topic, it was just sort of quietly accepted I think that's the way  it is.
+
+IC: 1:02:02-1:02:10
+ From your experience, can you imagine somebody, let's say an academic, a young scholar, a young faculty, being discriminated,
+
+RW: 1:02:10-1:02:57
+ or like being looked at with a special eye in her or his career because of his sexual orientation? I mean, of course, it depends. I mean, I came out probably in the 1980s,  and I don't know that I ever encountered any discrimination of any sort.  I mean, no, not really.  There wasn't anything that changed in any way that I could see about that.  When I was earlier at Harvard, however, which was back in the 60s, it was an entirely different  story.
+
+IC: 1:02:57-1:02:59
+ Really?  At Harvard?
+
+RW: 1:02:59-1:03:52
+ Yes.  I know.  Can you imagine? I mean, I was a tutor in one of the houses at Harvard, and there was a rumor, right, that one of the non-resident tutors was gay or something, and that maybe he was involved with one of the undergraduates.  Well, he was just summarily fired, I mean, without further ado.  Wow.  And it sort of was shocking at the time that, you know, it was just, you know, a summary  judgment on the part of the housemaster and everything. but we won't have that sort of thing going on here. So things changed a lot. I mean, and now of course, you know, there are gay studies  at Harvard and...
+
+IC: 1:03:52-1:06:46
+ No, but actually now that you say that, something else comes to my mind. Harvard had a female  psychologist. What was his name? He was the one that basically created the modern field of language development.  He created a famous database that then got called Childist, but he was the first one to collect data from these four children  and following their development and then was used to make those data available.  So it was used as a database to check a variety of characteristics in the  development of English and that started you know get turned into a larger database and  then people followed the model from other languages. He started this in like  the late early 70s I believe and right before he died he wrote a biography and that biography was coming out so we're talking about the mid 90s  and from that biography you can actually see how he was concerned about being i mean clearly  was very academically driven his goal was to make a career he knew that he was an eminent figure and  so on but although he had a partner since he was in graduate school and they were living together, their friends knew, but for all those years  he was at Harvard until almost the very end, he didn't come out. And it's pretty clear  that it was because he was concerned about his career. So, I mean, because one thing that I'm trying to figure out is what kind of, under  what kind of pressure was Monta new?  Not necessarily I think within the philosophy department.  My impression is that the philosophy department, as you said, it was something that was known  but not discussed.  Not discussed.  Graduates had heard about it, fine.  Monta would organize parties at this place, department parties, and in some of those his  partner was there. Of course, again, he was not introduced, this is my partner.  This is my roommate or something. Yeah, actually nothing was said. Some of the people said,  he was there, we knew, we thought, we heard he had a black partner, and his name was Bob,  and here it is. But he was never introduced, this is my partner. But you know, others,  they don't really know, they were like colleagues that, you know, again, it also depends, because  probably graduate students tend to talk a little bit more in terms of gossip. Faculty,  either you are close enough or interested enough, but then there are faculty there in  a different world, so they don't hear that. And so for some of the people that I talked  to said, well, I only realized that he was gay when I write it on the newspaper when he was murdered and it was pretty clear that this was the implication.  So I wanted to be within the department, I don't think it was a problem, but I think  there are some facts that he was concerned about like more in large like UCLA.  You know, there was somebody that knew about him, about him being gay, could have damaged  him by an effect of... somebody that knew about him, about him being gay, could have damaged him. Oh yeah.  By an inflection.
+
+RW: 1:06:46-1:08:29
+ Well, yeah, if you think about the political climate, even in California at the  time, I mean, when Harvey Milk was running for the Board of Supervisors and all that  sort of thing, that, yeah, I mean, there was a lot of sentiment that, well, gay teachers  should be fired and you know that sort of thing you know most of the academic world was sort of insulated  from that and nobody said that college professor well I'm sure there were  people who said college professors should be fired you know of course  there's always you know that but I don't think it was ever really a serious  political yeah yeah I think you know so growing up at much the same time, you just kept it  to yourself unless somebody needed to know. And if you were particularly courageous or  brave or something, then you would, then you would bring your partner out publicly,  like at a faculty party or something like that. And apparently that's sort of what  he did. But it was a very different time. It really was a very, very different time.  I mean, it's almost unimaginable, right? Now gay marriage can be legal in 37 states,  and maybe it will eventually be in the whole country.  But it's been a total change.  When I was here working at IBM in 63 to 65,  they were still raiding gay bars in San Francisco  and arresting people for public indecency,  just for being at a gay bar.
+
+IC: 1:08:29-1:08:56
+ Oh, I see.  Well, actually that seems to confirm something that I heard more about LA, like doing something  similar, police targeting gay bars and arresting.  And it sounds like Montague was very much concerned about it because you can, again, you can imagine a UCLA professor getting arrested in a gay  bar, that means, you know, potential end of his career.  Yes, yeah, that could be, that could be very bad.  So that was happening in San Francisco as well?
+
+RW: 1:08:56-1:09:06
+ Oh yeah, yeah, yeah, it was, yeah. It really is unimaginable how much...
+
+IC: 1:09:06-1:09:34
+ I was interviewing some gay men of that generation in LA and they told, just to have  an idea what he meant to be a gay man of Antigua's generation in the 60s.  And one of them told me, well, Ivano, the police would target those bars, you have to  be very careful because if they would come there, they would arrest you.  And they said, you know, it would be enough for you to offer a drink to a stranger.  You would pass the glass.  And just passing the glass, you would touch his hand.  There was obscene acting, like public obscene, whatever.  And they could arrest you.
+
+RW: 1:09:34-1:09:35
+ I know.
+
+IC: 1:09:35-1:10:19
+ I know.  And then they said, you know, they would arrest you.  And you had to pay a fine to be released.  And he told me, the fine at that time, remember, like I was making,  the guy was working at Macy's or something, so I was making like, you know, as a normal level  employee at Macy's, like $50, $60 a month. And the first fine was $250 to be released.  The second time would be $500. So that gives you an idea of... And then I read recently  that in Chicago it was even worse,  because in Chicago they would do the same thing, but then the following day, or two days later,  your name would be on the major newspaper, the Chicago Tribune.  But they were like, the following people were arrested at the following bars, and of course...
+
+RW: 1:10:19-1:10:56
+ Yeah, everyone knew what that meant, yeah, of course, yeah. Yeah, I know, it I know. This was 40 years ago, like less than 50 years ago.  I know, it's incredible, it's incredible.  Yeah, it's incredible, yeah.  So, yeah, people, you know, who were born and came to adulthood at that time,  I think were inevitably very deeply scarred by it all.  I think we're inevitably very deeply scarred by it all. Because, you know, I mean, it's a really extreme  societal attitude, you know, that you're a criminal,  you know, secretly a criminal, you know, and yeah, that's.
+
+IC: 1:10:56-1:12:45
+ Plus with some of them, definitely,  I'm sure in the case of Montague, I have evidence of that.  And then in the case of somebody who got close  to Montague enough,  at the Berkeley time, it was a poet, Robert Duncan. So the two of them got friends. Duncan  was 10 years older than Montague, but he created the first Berkeley poetry renaissance. And then  a few years later in San Francisco around City Lights, together with others, actually he was  like the creator of the San Francisco  Poetry Renaissance and then Ginzburg and others joined in and created the famous group  around City Lights. So he was really active. And in his biography what emerges clearly  is that very early on in high school they got beaten up. and so that the trauma starts from there you  feel like okay you are mistreated people attack you for what you are because you  don't respect this like kind of stereotype and so you're constantly in  danger yeah and that feeling must follow you for all your life I mean it doesn't  matter probably how my impression is that when he went to Berkeley he discovered his intellectual skills and  he discovered fields where that he liked mathematics, logic, philosophy and he was  very good at. That is empowering. Yes. But those scars were there. I think you know  those fears don't disappear. Sure you feel at home in your field but you also  feel that there is something else in your life that could destroy your success in that field. It must  be a very...  Yes, a wrong move could just destroy everything.  Exactly. But on the other hand, you also feel comfortable with it. What do you do?  And so you have this kind of like very separated life, at least that's the kind of strategy  that Monta and you adopted of keeping things compartmentalized with very few people that  have the... Well, it's a survival strategy. Yeah, of course. Yeah. adopted of keeping things compartmentalized with very few people that have...
+
+RW: 1:12:45-1:12:48
+ Well, it's a survival strategy. Yeah, of course.
+
+IC: 1:12:48-1:13:27
+ And then when, you know, one of his friends, Don Kalish, who knew him from the Berkeley time, became, like, not a friend anymore in Berkeley for conflicts that they had,  my impression is that really Montague felt in danger because Kalish knew a lot about him.  That's exactly the situation in which somebody who was very, very close to you, not just  as a collaborator but as a friend, that saw you in potentially dangerous situations, now  is your enemy.  What can he do?  Well, he can do lots of things.  And so you see this feeling emerge.  Once again, this feeling emerged because you start from a situation in which you felt in danger.
+
+RW: 1:13:27-1:13:38
+ Yeah, exactly. Yeah, exactly. Yeah, yeah. It's, yeah. Hopefully we won't have to repeat that kind of societal thing.
+
+IC: 1:13:38-1:14:13
+ No, I mean, but I won't try to do my best to render, because I think, as you said, this is, is I think also an educational thing to let people understand that  those were times where  people could feel very threatened just because of their sexual orientation. And more generally there is an entire, a more general lesson here, which is not just about sexual orientation,  it's about diversity in general. I mean like because you know  instead of sexual orientation, well it could be I don't be the color of your skin or it could  be other factors that are still used as a way to discriminate.  You can create major scars into people's life.  Yeah.
+
+RW: 1:14:13-1:14:53
+ Well, I mean it's interesting to contrast it with Turing, who apparently was quite open,  at least for the time, about his homosexuality.  But even though it was illegal,  and it did, of course, eventually ruin his life and everything.  But I think he felt, from what I've read anyway,  that he felt sort of insulated from it because of his privilege,  his birth and his social status and everything.  Well, of course, that's illegal and everything, but of course they're not going to touch me, you know. But I'm sure Montague did not have that same feeling at all. No, no, not at all.
+
+IC: 1:14:53-1:20:12
+ Also in the case of Turing, which is not Montague, I think Turing is always, I mean  I don't want to do cheap psychology, but I think Turing has always looked to me like a  borderline, at least Asperger's syndrome. Oh, probably, yeah.  Which also means his capacity of understanding the social, it's never clear.  And I read his biography early on when he came out in the mid-80s, and it's a beautiful  biography, by the way.  But I mean, correct me if the biography lets you decide where you want to stay, but there  are elements, definitely the class elements.  Like I was born in this kind of class although he was not  the highest yeah he was upper middle yeah so it was bourgeois it was not the  noble one but you know still wealthy enough and on the other hand there is  this incapacity of understanding the social rules yes that's probably already  like in elementary school is where you of behaving, his way of reacting, his way of dressing, all incapacitated. And it's unclear that he was doing...  So what is that... It's unclear that he was doing... Some people would do that intentionally to go against the system.  In his case, it was like as if he was not attuned, like he was not able to understand the role that he had.  Yeah. Which made him special and different. And so probably his intelligence protected him up to a certain point. But you know, when you go to the British  police and say, well, he stole my stuff, what was he doing? Well, we had sex. I mean, look,  this is not, I mean, you're not fighting any political battles here. You're just clumsy.  Yes, yes. Because if you don't fight the political battles, then you don't put yourself  in an expositional weakness. You have people behind you or you do it in a different way.  I know. That was a dumb move. Yeah, absolutely.  Which for me, since he was, I know that he was not dumb. I'm not talking about he was not mentally retarded.  Clearly he was totally disconnected. He was unable to understand the social rules and predict where they would take you.  Yeah, I think that's probably true. And so it was like, you know, the popularized crazy mathematician.  I think it was probably a case of some sort of Asperger's syndrome,  difficulty in verbalizing, difficulty in understanding the social norms  and the consequences of the social norms.  Montague was not. Montague was very, very, very well aware of the social norms. Montague was not. Montague was very, very, very well  aware of the social norms. Oh yeah. And how to behave properly and how to protect himself  and be on top. That was his game. His game was to be on top. I mean, I know before you say something  where you're going, both with your like way of, you know, argument, reason, theory, but also in daily life. He was a very  successful businessman, so he was able to understand that world as well. And so in his  case, control of the norm and getting ahead. And in fact, if anything, the few cases that  I heard of him exploding, like this sudden explosion of anger, where explosion in which  he was expecting you to do something  for him because of his role. I'm a professor, I'm doing this, and this is your role, and  you're expected to do that. And people would not do that. Like as if they were not appreciating  him for what he was. And there this trigger, like this explosion of anger, which, you know,  again, you can see probably from traumatic experiences when you are a child and you don't get respected and then you gain the respect towards, because of your role in this institution  and then people within the institution don't respect you, then you can explode completely  out of proportion.  Yes.  Or a parking person, I mean, what's his fault if you don't have the parking permit  because you forgot it at home?  I mean, or the librarian that does not say exactly the thing that you expect, but yeah, he would have this side of him, or your colleague that wouldn't say the thing you were expecting.  Yeah, no, that's, yeah, that's...  But you can see them as like moments of like, in which that cage that he built around himself seems to break up.  You know, it must have been, it must be a huge effort every day to have everything under control.  You feel that you need to be on top of everything.  Yeah. So you would have these sudden explosions. Yeah. all control you feel that you need to be on top of everything yeah we have decided explosions yeah definitely he was not really had other signals I don't know  but definitely was very well aware yes yeah you know I heard that he was also  able to have some casual conversation which to me was a disaster about he had  various interests like in literature in poetry poetry. I don't think he  had any particular passion in politics, but you know he had a capacity of interacting  at various levels. Which makes him different in that sense from Turing. And he was very  well aware of the danger in society. There are various signs that says, oh yes. In particular interest oh yeah for the first time since then  in particular alert  burtley learning he got arrested this one's probably twice  once you're trying  and probably because he had a fear we did it  and i've been feeling stuff about it  uh... sounds like a consensual if we will be able to get there  uh... family  five charges able to gather, but the family filed charges. And so the case in the end was dismissed because  the jury could not reach unanimous verdict. So that's, you know, you're learning the tough  way there.  Yeah, that's right.  So when he moved to UCLA, he did impeccably. There is no sign that he has ever done anything  on campus that was less than perfect. Unlike what his trade colleagues were doing, playing around  with young female students, he was impeccable on campus. So he must have learned the lesson  very clearly.
+
+RW: 1:20:12-1:20:19
+ I see. Of course, yes. Well, yeah. So yeah, he was a smart man. He learned from that experience.
+
+IC: 1:20:19-1:20:36
+ But still, you know that you are constantly in danger because you can make a move. I mean,  he was still a man with his weaknesses.  Sure.  Yeah, yeah, yeah.  Well, Bob, let's check because I don't want to…  Oh.  What time is it?  It's 1225.  Oh, we should…  Oh, sorry.  We should rush because it closes at 1230.  Oh, we've got…  Sorry, sorry.
+
