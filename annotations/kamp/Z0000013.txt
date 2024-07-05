@@ -1,0 +1,537 @@
+SPEAKER_01: 0:00:00-0:00:06
+ So, Hans, I was...
+
+SPEAKER_00: 0:00:06-0:00:07
+ Yeah, you have enough light.
+
+SPEAKER_01: 0:00:07-0:00:39
+ Oh, yeah, plenty, plenty.  I was reading the paragraph where you talk about  how you decided to study at UCLA,  in the US to begin with,  with the application of the Institute of International Education  that you don't go through.  But maybe one thing that would help is  if we go back to the 1962s, you had one year  at the Institute and then you were already working with that for like as an assistant,  let's call it like that.
+
+SPEAKER_00: 0:00:39-0:04:38
+ And then he invites, if that's my understanding, he invites Montague to spend some time there. I don't know exactly which way it went, but they knew of each other via Tarski. Tarski and Bette  knew each other quite well, of course. I think Bette may also have visited Tarski once in Berkeley, but I'm not quite sure about that. So it was Montague's sabbatical.  He decided, probably partly because of this connection  that he knew about in Amsterdam,  had a certain reputation about logic,  for logic also because of intuitionism.  And Heiting was there, Heiting was the primary colleague of  that there. So Montague decided to divide his sabbatical between Amsterdam and Warsaw.  He wanted to visit Kmostovsky there in particular. And he did it in the way I remember that he first came for a while, a month and a half perhaps, I don't remember the details, to Amsterdam and then from there went to Warsaw and then came back again for another couple of months maybe and so he presented stuff to this little group around Beth and we were  all ready in all of him before he came and that was very much corroborated by  I think some tells us it was a time that he was working together with Kaplan in part on this stuff about the hangman paradox  and this longer paper that Montague published on his own about  diagonalization, the generalization of the truth paradox and he was also working on the mathematical properties of higher order  logic that I remember him saying some things about it.  So I was very, just very impressed and I also learned from conversation, I don't know if it was just with me, but I'd heard  that he had this extraordinary musical ability and that one of his interests in coming to  Horn was also that he hoped to be able to play some of these outstanding organs. And as luck had it, the, what do you call them in English, the concierge of the office  of my father was a couple and she the brother of the woman was the Virgil of the large church  in Alakma which has a very famous organ. I must have already been, I can't remember the details, but I must have  already felt confident to say if you're interested I could organize that.  And you arranged?  Yeah, and so he came to this, this, this, this, this, this, this, this, this, this, this, It was a very large, gothic church which was re... what's the word?  Renovated?  No.  Or remilled?  No.  So it was like all these churches, of course Catholic, and it was turned into a Protestant
+
+SPEAKER_01: 0:04:38-0:04:49
+ church.  Yeah, yeah, yeah.  It was not reconverted like... yeah, yeah, there is a term.  Yeah, yeah.  Okay. But we got it so yeah yeah it gets  taken over by a different faith that's what you see yeah there's a word for that
+
+SPEAKER_00: 0:04:49-0:06:11
+ exactly I know I know yeah yeah okay and anyway so actually this is a  particularly good example of how different these churches become when  they are taken over by Protestant,  especially Dutch Protestantism, it was basically Calvinism.  So the official Dutch Reformed Church is a branch of Calvinism.  So they were stripped of everything, and also the windows are just plain glass.  And in a way it makes a very bad impression, but it's very different also  from April Fools' Day, it's very different than the one in Zona Rice.  It's huge, very light space.  Anyway, so he came to Berlin, he stayed with us, and we went to Altmar and played the album  and had great fun.  So that actually created some kind of personal relation. And so that was in 60... there must have been the summer of 60s... to Amsterdam and I think the year that he was there was the spring of 62.
+
+SPEAKER_01: 0:06:11-0:06:22
+ Was fall 62 for sure? I don't know if you had it longer than that.  For sure?  So for sure, Montague was in Amsterdam in fall 1962. I don't know if he was also for the next semester.
+
+SPEAKER_00: 0:06:22-0:06:26
+ No, he was not. I didn't remember that it was the fall rather than the spring.
+
+SPEAKER_01: 0:06:26-0:06:31
+ At least according to the records, because I was able to, you know, when I got these work records.
+
+SPEAKER_00: 0:06:31-0:06:52
+ Yeah, yeah, I'm sure you're right. Okay, so then it was towards the died in the spring of 63.
+
+SPEAKER_01: 0:06:52-0:07:08
+ Was it 63 or 64, Hans? I'm trying to remember because I think it may be 64. Is it possible? Could be 64. Let's see. I have one more year after that.
+
+SPEAKER_00: 0:07:08-0:07:15
+ The births would have been 64.  65. Yeah, I think you're right.  I think was, yeah.  Well, I mean, this is very…
+
+SPEAKER_01: 0:07:15-0:07:27
+ Yeah, you're right. I have it on my slides, but I have it on my computer. You're like, yeah.  I have this date in my… I have 19… Is it possible that he was born in 1901 and then he died in 1964?
+
+SPEAKER_00: 0:07:27-0:07:32
+ No, I don't think he was beyond 60. I think he was in the early 50s.
+
+SPEAKER_01: 0:07:42-0:07:44
+ I know there is a Wikipedia page for sure.
+
+SPEAKER_00: 0:07:44-0:07:57
+ Yeah, yeah, yeah.  There you are.  He was born in 1908.  Oh, eight. And he died, you were right, on the 12th of April in 64.  Four, yeah.
+
+SPEAKER_01: 0:07:59-0:08:09
+ And it was, if I remember correctly from what I was reading about him,  he was something relatively quick  and unexpected.  It was not a long disease.  He had like some problems but…
+
+SPEAKER_00: 0:08:09-0:09:28
+ Yes and no.  He was already, I'm trying to think when spring of that semester, of that year, he  was out of action for a long time.  Oh, I see.  Oh, I see. And then he came back again in the fall of 1963.  And then I can't remember how long he was out of action again in the spring of 64 but at that point he wasn't yet I think  it in China pictures is something so it I remember we're not really working anymore at the point when he did.
+
+SPEAKER_01: 0:09:28-0:09:35
+ So which meant at that point for you, I mean, staying in Amsterdam was not even an option.
+
+SPEAKER_00: 0:09:35-0:11:11
+ So in the case of Dick, it was all sort of very well planned, so Bert actually made sure that he went to the right university in the  US.  So Dick was working on the method of mathematics of intuitionism, and so going to work with  Kleene along with various things having to do with recursion was a very natural choice. And in my case, so, I mean, Dick was his student during that period because he already knew  them.  So I think that had a reasonably good opinion of me and I mean otherwise I probably wouldn't  have taken me on board quite so soon.  Definitely not. And I went to his place a couple of times.  But at one point I had to choose for special supervision.  And I could have chosen him, but I didn't  because my interests were in law theory at that point.  And there was one, yes one of the three, the senior assistants, people who had a position  or a professorial position in this new institute, there was a Dutch priest by the name of Carl  de Beauvais.  Oh, yeah, okay, okay.
+
+SPEAKER_01: 0:11:11-0:11:27
+ Because Montague was in touch with him later on, in his sabbatical in 1966.  Because you know Montague goes back to Austria when you were already at UCLA.  Oh, that's where he was, because I only saw letters of him when I was a child.
+
+SPEAKER_00: 0:11:27-0:12:33
+ Yeah, yeah, yeah.  So he had written a dissertation on the Beth, on the Thayer definition, sort of related  to Beth's Thayer on implicit and explicit affinability.  And so he did moral theory, and yeah, at that point I thought he would be my natural choice because  that's what he did and what he was interested in.  It was probably not the optimal choice because he wasn't, I mean, was nowhere near better in anything and he actually seemed to have believed that he would be made  better successor and that didn't happen and so in the end he actually left  perhaps more than a half but a bit bit like that. I mean, I don't disappoint, but he'd gone to jump at one of these colleges in the east  of Los Angeles, Santa Clara or...
+
+SPEAKER_01: 0:12:33-0:12:43
+ Oh, that's, okay, that's how it happened.  So he leaves Holland and he goes, yeah, you know, Santa Clarita, you mean, something like  that.
+
+SPEAKER_00: 0:12:43-0:12:44
+ No, Santa Clara.
+
+SPEAKER_01: 0:12:44-0:12:46
+ Oh, right, like north of L.A.?
+
+SPEAKER_00: 0:12:46-0:12:49
+ This is to the east, directly.
+
+SPEAKER_01: 0:12:49-0:13:05
+ Yeah, it's northeast.  Like Santa Clara.  Yeah, Santa Clara is also where C.C.  Chang ended up like living in his retirement community when he left UCLA.  So it's the same. It's the same. Yeah. So it's like northeast. Yeah.
+
+SPEAKER_00: 0:13:05-0:13:13
+ It's a cluster of connected, I don't know how it's now, but connected colleges, fairly  good sort of.
+
+SPEAKER_01: 0:13:13-0:13:15
+ And he went there, I see.
+
+SPEAKER_00: 0:13:15-0:13:52
+ Yeah.  So Santa Clara College was a Catholic college.  They may all have been Catholic, but it's not the only one of that bunch.  Anyway, I mean, you can look that up too.  But, so that's where he ended his days.  And he sort of disappeared, and I remember at one point asking Saul Pfefferman whether he knew any of them. He said yes, he had been in touch with him, but also it must have been in the 80s, not  for quite a while.
+
+SPEAKER_01: 0:13:52-0:14:04
+ So at that point you knew that he wouldn't be the person you could study with, but at  the same time you started getting signs that Beth was not doing great.
+
+SPEAKER_00: 0:14:04-0:14:08
+ By the time I had to make it to the cinema,  Bert was already dead.
+
+SPEAKER_01: 0:14:08-0:14:10
+ Okay, so, okay, I see.
+
+SPEAKER_00: 0:14:10-0:14:18
+ I mean, he might have made an effort for me  if he'd lived longer, but I mean...  But he clearly was not.  And so...
+
+SPEAKER_01: 0:14:18-0:14:27
+ But you did know which places would be appropriate for you,  because at least in your story you mention  Stamford, Berkeley, and UCLA. Yeah and UCLA, which clearly indicates a certain direction.
+
+SPEAKER_00: 0:14:27-0:14:32
+ Yeah, I had an idea about where things were happening in the area.
+
+SPEAKER_01: 0:14:32-0:14:41
+ So which means that since you had previously interacted with Montague, you could imagine  Montague as a supervisor.
+
+SPEAKER_00: 0:14:41-0:14:53
+ In other words, he had it left... Yeah, but I hadn't listed him as my... I mean, I hadn't listed UCLA as the top of these three,  as it's Berkeley, Stanford...  Oh, because you had to rank them. ...and UCLA in that order.
+
+SPEAKER_01: 0:14:53-0:15:07
+ Oh, because you don't say... Okay, sorry, you don't say that they were ranked.  No, sorry.  In our... So, to Berkeley, okay, you just list them, which is a diplomatic thing to do.  Actually, you put them in alphabetical order, Berkeley, Stanford and UCLA. But you did rank them.
+
+SPEAKER_00: 0:15:07-0:15:08
+ I did rank them.
+
+SPEAKER_01: 0:15:08-0:15:10
+ And you made Berkeley, Stanford and UCLA.
+
+SPEAKER_00: 0:15:10-0:15:44
+ Via this Institute of International Education. And I think that it says there they never  did anything. And even not after, so I had written to Montague because he was the only person I knew  and I didn't get a reply for quite a long time but I eventually did and he said he would be most  I would be most welcome and very nice letter and but they had not received any information about it.
+
+SPEAKER_01: 0:15:44-0:15:49
+ So that's how you learned that there was some problem.  Because I wonder, how do you know that some process doesn't go through?
+
+SPEAKER_00: 0:15:49-0:16:35
+ Exactly.  Because I wrote to this institute again, and again they didn't do anything.  So when I actually got to California, to Venezuela,  when I got the chance to talk to people like Pfefferman and Tarski,  they said, no, no no, I never got anything.  And so if it hadn't been for this personal contact, I would never have done, I don't  know what I would have done.  I mean, I could have stayed in Amsterdam even without working with Le Bouvert because the  alternative was Hayting, but Hayting was very good, he. He was not an easy person to get on with. But also, he was intuitionism  and I wasn't into intuitionism. That wasn't a natural choice. Anyway, so…
+
+SPEAKER_01: 0:16:35-0:16:54
+ Can I ask you, since you met all these people, in particular comparing the style in terms of teaching and interacting that Bette had and Haydn.  Were they similar? Were they different as teacher, as potential advisors?
+
+SPEAKER_00: 0:16:54-0:17:31
+ Bette was very engaged in was tired and the way that then  typically develops with people who become professors and very well regarded  in the field it's a kind of standoffishness that you never quite know.  They're always a little afraid that you might offend them.  Yeah, yeah.
+
+default: 0:17:31-0:17:39
+ And I mean, I could well imagine that things would have worked out in the end if I...
+
+SPEAKER_00: 0:17:39-0:17:42
+ But the main thing was the subject didn't matter.
+
+SPEAKER_01: 0:17:42-0:17:58
+ Yeah, but comparing this to like with Montague, for example, like you, of course,  you had not interacted with Montague. He was not your teacher. He was just a visitor, but you had  interacted with him enough. Could you imagine yourself working with Montague based on what…
+
+SPEAKER_00: 0:17:58-0:19:57
+ Before I got there, you mean?  Yeah, yeah.  I think so. I mean, there was some kind of personal rapport.  And if there hadn't been, I don't think I would dare to ask, to write in the way I had.  And that his supervision, whether in scarecrows or not, would take the form that it would. I had no idea. If I'd  known in advance I would have done everything to get there. And of course I also didn't  know that I would end up writing a dissertation on something that really had to do more with  some other person. I mean, that was completely in his spare. I still remember him saying that, I can't remember the occasion,  but that he thought it was part of the ethos and the duty of a PhD supervisor not to give a subject, a topic to the student. One crucial aspect  of journal dissertation was to find your own theme. And the supervisor could then be useful  in telling you whether this had already been done or what to look for the stuff if it hadn't been done completely or to evaluate whether it was  too much or too little for a dissertation but not to make the first move.  I still remember that I thought it was perfectly natural and it's only later that I came to see that even that  and at that time was a real stance that was not generally received.
+
+SPEAKER_01: 0:19:57-0:20:33
+ Yeah, no, that was definitely not the default. It also probably was not so necessarily close to Montague's own experience, because I don't think working with Tarski, Tarski did not have exactly that kind of approach towards his students, at least based on what I've learned about him and from the Fefferman's biography.  from the Feffermann's biography, you know, like if you want to work on something that was not directly relevant for Tarski's agenda…
+
+SPEAKER_00: 0:20:33-0:21:06
+ I don't know how true that is. I mean, Tarski had a very different tradition to his students and partly a pretty exploitative one. There's no question of that.  But as far as coming up with your own theme,  so Montague did this work on natural models of sensory.  Yeah, maybe that was also something that did fit  in Tarski's general agenda.
+
+SPEAKER_01: 0:21:06-0:21:57
+ Well, enough to suggest, remember like that book that Montague tried to work on for ten  years with Pfeffermann, that was coming from Tarski's suggestion, like, oh, your results  and Pfeffermann's results should be combined together.  The suggestion was given, and because he signed on their dissertation in the same year 1957.  Yeah.  Because he waited for both of them.  And so, at least based on what Saul told me, it was Tarski's idea to say, look guys, put  the results together and publish a monograph.  And so they started working on that I think right away, 58 1958, 1959, until early 60s. That was the most productive  time when Saul himself told me he was committed and he was trying to work on that. And then  there was like, you know, they waited too long, they published some of the results anyway.
+
+SPEAKER_00: 0:21:57-0:22:08
+ Well, Ponder got worse. Ponder, you thought that Saul was completely wrong about the whole thing,  partly mistaken actually.  I know far too little and didn't know enough.
+
+SPEAKER_01: 0:22:08-0:22:49
+ And Saul had a different vision. He said, you know, like, in the meantime, the literature had evolved.  We had published some of the results. For it to work on some others, we would have had to extend and expand with new things that happened.  Richard was not willing, was busy with other things. I was busy with my own things. And so in the end, and in fact actually in this sense, yes, so it was Richard that  wanted to continue the project. At a certain point, Feferman, Saul told me and I found  a letter, the letter was sent to the editor, where Saul says, I'm okay.  I'm okay with giving everything that I've done so far just  giving it to Montague's hands he can do whatever he wants but I'm not
+
+SPEAKER_00: 0:22:49-0:23:09
+ going to be part of this project anymore. It's a somewhat different story from the one that I got.  Montague really said that he saw no future in this cooperation because he just  didn't think that the other side was right.  I mean I'm saying this only, I mean you can only quote.
+
+SPEAKER_01: 0:23:09-0:23:34
+ Yeah, yeah, I mean keep in mind that I have the version that Saul told me.  When we tell stories we always like, you know, maybe you don't want to be so explicit in the  way it was with Montague. What he told me is like, well in the meantime lots of things have changed.  New ideas should be taken, everybody says, have changed. New ideas should be taken into consideration, and Richard didn't seem to be willing to be  engaged in that way. Maybe he was too busy with other things.
+
+SPEAKER_00: 0:23:34-0:23:40
+ Right, right. That's probably exactly what Richard told him. But whatever.
+
+SPEAKER_01: 0:23:40-0:23:56
+ So, you mentioned Montague as someone you could work with.  Remember, we started from that point, like based on your interaction with him, the way  what you saw about him, what you knew about him, it was like the fact that you decided  to write him.
+
+SPEAKER_00: 0:23:56-0:24:42
+ Yeah, certainly. did the most extended and systematic cooperation was with Kalish.  And that was really, I mean, Montague was clearly the lead in that, but it was genuine  cooperation, there's no question of it, and they, one paper after another, and then eventually  the book. And that must have somehow worked.  Even if Cades didn't contribute quite as much  to these joint projects, they must have somehow  had a relationship where they could work together.  You look skeptical.
+
+SPEAKER_01: 0:24:42-0:25:57
+ No, no, no, I think that the kind of relationship was... I mean, you mentioned but it was like the the a comforting  mirror that would activate his brain in a way that wouldn't do by himself and so  it's Kaelish himself that tells the story of course you know I think Kaelish was a  good storyteller so we need to be careful but it's recorded so I do have  the audio I can hear Kaelish telling the story to Anita Fefferman when she  interviewed him for the Tarski's biography.  And what Kirish says, look, I don't know much about Tarski because we all interacted a few  times, we don't have that close interaction, but you know, I knew much better one of Tarski's  students, Montag, Richard, and so on.  And so he tells the anecdote about Dana and Richard still working with Tarski because  they were still in Berkeley, but they were close because Montague met Kalish way before  going to UCLA. That's why Kalish wanted to hire Montague.
+
+SPEAKER_00: 0:25:57-0:25:58
+ They brought him to UCLA.
+
+SPEAKER_01: 0:25:58-0:27:14
+ Brought him there. They met in Berkeley. Also, Kalish's first wife Veronica was you know Montague's best  friend in Berkeley so there was all this connection they met earlier they knew  very well and so what Kalish says that there are some weekends Dana and  Richard would drive to LA to spend the weekend with Kalish and so Kalish tells  to work and tells Anita how they would work so now the typical scenario  would be the following Richard would be playing the piano Dana and you would be  showering and they would yell at each other like you know proves or something  ideas you know and then we would sit and we start writing like the way described  the situation is clearly is very explicit in this case  and also kind of humble in admitting that he was there almost like a semi-spectator.  Like somebody who could follow them. Maybe it would also help them collect the ideas,  but those were the two engines, the producers of ideas. So I wonder how much…  Also the parameter that I use is like if you look what Kehlich has produced by himself  without Montague and what he has written with Montague…
+
+SPEAKER_00: 0:27:14-0:28:53
+ Yeah, that's very clear how different that is. So then indeed maybe he wasn't somebody who very easily cooperated with other people on  a level of equal exchange, but I mean that was partly because he was so extremely good  and quick and there are these corporations, I actually sort of know that from my own experience, I've not done much amount of these, but there's only one case where I really felt this was  a sort of completely symmetric situation.  It was blah blah bocci, this one paper.  And for instance, working with Urwaila was always fun.  With Anshimi, I've done a number of things together also but in those two  cases I actually wrote every single word and it may have been that that with  Montague it was also like that with Kalish and I cannot think now I mean  there was this there was this joint project with Pfeffermann. There was also this joint book on set theory with Toski and Scott.  You know the book was completed.  I do have the book.  Did it actually ever appear?
+
+SPEAKER_01: 0:28:53-0:29:41
+ No, no.  I mean the book was raised to be sent to the publisher for the proof.  And actually even more than that.  So the first draft had been sent to the  publisher and so that now they were correction to make to the prunes so  there is this letters that Dana said please Alfred you know go through these  do yeah yeah yeah yeah yeah yeah yeah yeah yeah so and we and in the Tarski's archive, there is the entire manuscript, and I talked to Dana about it,  and he confirmed the existence of the full manuscript, except that at least the version  that I heard from Dana is that Montague died when the manuscript was… they were checking the post
+
+SPEAKER_00: 0:29:46-0:31:29
+ it was they were checking the process yeah in 1971 and neither of them felt there they could go back to it yeah so I remember Dana saying before this time  this man I was at UCLA once tell me read it oh yeah I think I heard the stories from Montague. Montague also was getting tired of it.  And then Dana said,  yes, sort of boring.  It is theorem, prove, theorem, prove, theorem, prove.  Well then are we, Or something like that. So he really had lost faith that it was really much worth publishing.  So that may be one reason why he wasn't particularly eager to sort of put extra time in it.  Even after Montaigou, we also knew. We would come down also for this project while  I was at UCLA, never so often for the two of them to work on that. But he certainly  had lost his heart in it.  When you say Montague, you mean he means Martin or Dana? With he I meant Dana, but I think Richard was the same.  So that was a cooperation with certainly a level of equal power, but it didn't feel to  me like it's a sort of cooperation where there is a joint excitement of discovering new things.
+
+SPEAKER_01: 0:31:29-0:32:30
+ But don't you think that it was partly related to the nature of the project to begin with?  Probably.  If I understand correctly what Dana told me and the material that I found, the idea came to the  two of them because they both took Tarski's courses at Berkeley, their own  notes, and the idea was like, why don't we turn that material into something that is  more systematic, is presentable as a book, can be shared with others. And you know, reading  this, this happens, we're talking about people there were students 15 years earlier yeah okay now they have their own profile their  own career their own way of looking at things and they want to write you know  it's almost like when you want to go back to be that your children like your  father's children child but you know in the meantime you've grown up and so I  think that there was like, both in the way they  were looking at the specific issues they were addressing, but also the kind of dynamics.
+
+SPEAKER_00: 0:32:30-0:35:03
+ And of course another important aspect of it is that set theory had evolved so enormously. Cohen's probe for 63 and there was this whole revolution of people doing  forcing and proving all sorts of results so against that background this sort of  classical stuff of that's very may have looked I mean Dana after all was  involved in going through Cohen's proof and then giving his  new Boolean value logic proof of the results.  So he in particular must have felt that this was a mechanism. Yeah, so that as far as the question is concerned, how much this kind of, you know, I repeat  myself, this joy of joint discovery in joint works and writing joint paper is concerned,  I can't think of a very clear example in the case of what to do.  I mean I think that, so I got a little more into the ring of things as this sort of practice of his getting me as his sparring partner went on and so in this,  I think the last one was this English as a formal language.  And there I felt like she sort of made some real contributions and I mean still very minor in comparison to his.  But still I mean mean, apparently, since Barbara Partit von Stoltenberg,  she found, she went through the archives, there was a remark that he wrote down, or wrote to  someone, that he actually wanted to make me co-author in that paper. I think it's entirely  right that he didn't. But still, I mean, there was, I think, also I could feel that at least in some of  the discussions there was this sense of joint excitement of A saying something and then  B picking it up. But how much of that there has been in this entire career, I don't know.
+
+SPEAKER_01: 0:35:03-0:35:40
+ Also, I was thinking, Hans, while you were saying this, like Montague is doing something  that with you he was doing something, was working on something that normally he wouldn't  be working on.  And there is, I think there is always like that even for like somebody of like Montague  his caliber, there is a difference between working on paths that  are already familiar to you. You know how to move, you know how to present things, you  know what to say, you know how people would react, you know how to maybe build arguments,  and now you're moving towards something that is significantly different, with respect to
+
+SPEAKER_00: 0:35:40-0:35:46
+ what you've done so far. When you say that, what in particular are you thinking of?
+
+SPEAKER_01: 0:35:46-0:36:30
+ So what I'm thinking is, like, in English as a formal language, he's saying, okay,  I have in my hands, I've already created a powerful tool, I have high order logic,  and now I want to show that you can apply it to, like, natural language in a systematic  way, in a way that, you know, there were like the paper  that he wrote years earlier with Kalish where they were looking at that. It's not like  in the demonstrative. So, like, there were cases in which Montague, as many others in  that tradition, used natural language to make a point because, you know, in case of indexicals  and so on, but here in English as a formal language is trying to do something else so yes and no so this was
+
+SPEAKER_00: 0:36:30-0:38:48
+ an offshoot true enough of this general project he had developed for me yeah  redeveloping the full framework for doing philosophy, absolutely generally.  And that framework for him was this higher order international logic.  And he worked on it for a long time.  I still also remember that I was part of it a little bit also, but not very much. And that was already, I think, going on when I got through UCLA.  Certainly it was going on in the 66 and 67.  And there was an extensive correspondence about that between Montague and Scott  and this guy, John Lemon, and what else was part of that? Kaplan, yeah, and maybe another couple of  people on exactly how to set this up and some features of that system in fact that people now don't really use anymore. Well, I'm not even sure that that's a certain word, but we're constants of type alpha and  variables of type alpha are really treated differently.  So you actually, so that of course the constants can in general be of actually type S alpha.  Of course the variables are just of type L, 5.  You get some curious features like universal  instantiation is no longer valid.  So that was the result of very extensive correspondence  with other people.  And I mean, I still remember him saying,  I think that was in, I can't remember exactly,  it might even have been that person myself was there, but it's more likely it was in  the fall of 66, where he said, more than literally, until now I always thought  you know that quotation
+
+SPEAKER_01: 0:38:48-0:39:14
+ yeah that's from the nature of certain philosophical  entities as the very beginning  of like which is a statement  like it's so clearly  up to now  at least one philosopher that is myself  has thought that  the problems of philosophy  could be handled by self-theory.  But philosophy is always able to renew itself.  It's a program.  You can totally see that.  So, higher-order logic is defined in intentional logic.
+
+SPEAKER_00: 0:39:14-0:40:05
+ Was it for a practice in intentional logic?  Yeah. So that was a formal framework and then on the nature of some philosophical entities  was the first application of this whole range of different notions and different branches  of philosophy. philosophy and then make the interest in the semantics and logic of natural language was  also there for, had been there for a long time. So in the textbook with Kehles, what  is it called? Technique of Formal Reasoning. Logic and then... Yeah, Logic Technique of technique of logic.
+
+SPEAKER_01: 0:40:05-0:40:08
+ Yeah, logic, technique of formal reasoning.
+
+SPEAKER_00: 0:40:08-0:41:49
+ So now, it goes on forever.  In great detail, right? First propositional logic and then pre-logic  and then it's always sort of  giving you the roles in this system of natural  deduction and then there are endless  numbers of exercises where you have to translate the premises into  propositional or pretty good logic and also the conclusion and then derive the  conclusions from the premises. And somewhere in that book, it came out in 64, so it's sometime before that, a little  passage where the authors say, well actually it is sort of curious that we are so precise about everything that has to do with the formalism of propositional and predicate logic.  And so to solve these exercises you really have to get the deduction right.  And it's very clear whether've got it right or wrong. But when we ask our students to put these natural language premises in, translate them  into logic, we don't tell them exactly what to do, but rely on their ability to do that because they know their own language and they know how pre-necologic  works.
+
+default: 0:41:49-0:41:51
+ There is a gap there.
+
+SPEAKER_01: 0:41:51-0:43:28
+ I agree, but remember the introduction on page one of the book, and there is no doubt  the introduction was written by Montague, it s his language, although we talk about  the authors. He clearly says that, where he basically says there is no, let's see if I remember the  wording correctly, that the premise is like, it touches on the issue of like, is there  a logical structure for English, for an ordinary language?  And he says, you know, says like, this is an open issue,  he doesn't use these words, but that's what he means.  In any case, whatever it is, it wouldn't be  a topic of interest for these authors.  So, to me this is what's striking, because I agree with you,  that is, in their doing, they reach the point  in which they realize that if you wanna do this  systematically,  there's a gap. Like, how do you go? You ask to translate, but by means of what you do that  translation. And they are aware, but they judge at that stage. Probably, the introduction was  written, at least from the manuscripts that I found, it was the last thing to be written in 1963  before it was sent to the publishing procedures, so it came out in 1964. So in 1963, Montague  thought that there was not much interest in investigating English through the rules of  logic. In 1967, that's when he wrote on the nature of certain philosophical entity, it's  shifted completely because now he says the opposite. And one year later, he's given English  as a formal language, he even tells that there is no significant difference between the opposite. And one year later, he's given English as a formal language, and he  even tells that there is no significant difference between the two.
+
+SPEAKER_00: 0:43:28-0:43:34
+ Yeah, that's a good point. Even if the problem was recognised much earlier…
+
+SPEAKER_01: 0:43:34-0:44:22
+ For him it was not a relevant problem. And that's why I was trying to suggest that  probably that Amsterdam experience, the teaching with Stael, the teaching with Stahl in a we start actually Stahl Stahl Stahl the teaching  is that seminar on philosophy or language where they discuss discuss Quine word and  object and they discuss Chomsky aspects of the theory of syntax may have been in Montague  himself who is always very careful with his footnotes. He says in the footnote number one of English as a Formal Language says, the ideas in this paper were  initially adumbrated. And I like the fact that he used the word adumbrated. He's always careful in  the lexical choice. It means it's not that my ideas were clear, but something started there.  There was like, you know, something that was just a shadow at that time and then
+
+SPEAKER_00: 0:44:29-0:44:34
+ There was like, you know, something that was just a shadow at that time and then slowly became, or quickly became something clearer to me in the seminar that he taught.  That could lobby, I don't know how much Stahl contributed to that, but that's another matter.
+
+SPEAKER_01: 0:44:45-0:45:10
+ No, I think that essentially, well, Stahl's contribution was, I found a couple of students that were in the class that I was able to interview, was translating things for the students so that the students could better understand what Montague was  doing on the blackboard. And the other thing that Montague thanks him for was that Montague  had not read Quine's yet. So he read Quine's book in preparation for the seminar. At least  that's what he says in the letter that he writes to Stahl. And the second thing is that  Stahl forced him to think about Chomsky, that clearly he  did not know in terms of like any red aspects.
+
+SPEAKER_00: 0:45:10-0:47:14
+ That's not true.  I still remember very vividly, it was only three me, I've just started reading this book by  Tromsky, Aspects of C, of Context, of Syntax, and it's really very good. What? That's something!  Wait, wait.  Okay, okay, please.  So he was really interested and he lost the first chapter or so.  And I said, okay, I'd better read that too.  And I didn't get very far.  But one reason why I didn't get very far was that only maybe two or three weeks after that, he talked to me again and I said,  I went on with this book, it's absolutely dreadful, it's a scandal.  So he said that generally, I mean it's true, that aspect Sinti, like quite a few other things that  Chomsky has written.  I said at the beginning it's really very forceful and also seems clean and clear and  yeah, that Chomsky would have, sorry that Montague would have liked that is not at all  surprising but then he was waiting for somebody who actually  implements that with the same level of exactitude that he's just been preaching.  And that was then simply not there. And so he turned completely against it. But it so does... And that you're sure that we're talking about fall 1965, it's  not fall 1966. You're just... Absolutely, it was one of the first, very early on in
+
+SPEAKER_01: 0:47:14-0:47:32
+ my being there. I wonder why then he downplays, like, you know, he basically talks to Stahl  as if, like, unless he wants... because Stahl doesn't hide the fact that  he's very much interested in Chomsky's work. I mean, like, that's pretty clear.  Monti, you must have known that very clearly.
+
+SPEAKER_00: 0:47:32-0:47:46
+ But maybe I misremember this, as it was only the fall of 66, but in that case it would  also be very strange if he said he just started reading.
+
+SPEAKER_01: 0:47:46-0:47:55
+ No, that would be strange because if it was a seminar they would discuss this.  So, no, you're right. Maybe he had his own reason not to be more cautious with style.
+
+SPEAKER_00: 0:47:55-0:48:50
+ So I don't know. I mean it could very well have mentioned that this semester in Amsterdam in 66 was very important for this development, but that it only started  there, I don't know, I mean, he was after all working all the time, so that some might  have happened there.  In how far this particular seminaristahl was instrumental in it in the sense  that there was some kind of interaction between them.  No, I don't think so.  I sort of doubt.  No, I don't think so.  And so one reason why I doubt that is there was some exchange between Stahl when he was  still alive but quite a while after Montague had already died,  and was the name Henk van Gogh?
+
+SPEAKER_01: 0:48:50-0:48:53
+ Oh yeah, oh sure. He was one of the students in the seminar.
+
+SPEAKER_00: 0:48:53-0:49:12
+ Yeah, right. And there was some kind of exchange. It was really nasty about Montague. Getting up there and  racking things on the board and nobody understand anything and so  almost as if the man was a kind of freak. So this exchange was a public exchange or was it private one?
+
+SPEAKER_01: 0:49:12-0:49:31
+ I'm trying to remember where I saw it, but I read it. Because that's roughly the story that Hank told me.  And you know, well of course it all depends on the background that you have.  Oh I see.
+
+SPEAKER_00: 0:49:31-0:49:33
+ So you talked to Hank about it.
+
+SPEAKER_01: 0:49:33-0:50:07
+ Yeah, yeah, I interviewed him.  So, and that's where I got the story.  So his version is that, but again, I try very politely to understand his background at that  time.  It did not have a logic background  that would be able to even understand the basics of what Montague wanted to do.  Well, Montague probably was taking certain things for granted, and so part of Stahl's presence was to help a bridge,  to help build a bridge between Montague, since he must have talked to Montague earlier, he must have  known a little bit more.  But they knew each other at what point?
+
+SPEAKER_00: 0:50:07-0:50:09
+ I mean, they also knew each other in 1962.
+
+SPEAKER_01: 0:50:09-0:50:23
+ Yeah, yeah.  No, I mean, oh, already, well, I assume that that's when they met, I guess.  That could rather be.  Because Stahl was young, was born in the same year as Montague, I think 1930, if I remember  correctly.  So they were both 32-year-old.
+
+SPEAKER_00: 0:50:23-0:50:30
+ Stahl became a professor in Amsterdam in the fall of 62. That's when he started teaching.
+
+SPEAKER_01: 0:50:30-0:50:36
+ I see, I see. But he was part of the circle around Bett.
+
+SPEAKER_00: 0:50:36-0:50:40
+ He had been a student of Bett. I don't know.
+
+SPEAKER_01: 0:50:40-0:50:45
+ He was exposed to Montague's work, sorry, to Chomsky's work because of that.
+
+SPEAKER_00: 0:50:49-0:51:15
+ And it wasn't bad that one brought the syntactic structure to Holland.  That's what I read, that he was part of it. So there was, so Beth was very instrumental in getting Chomsky established in the Netherlands.  He had, and I'm trying to remember now, I think that might be the second semester I was there,  so that would have been the spring of 62.  He had a seminar where we read syntactic structures.
+
+SPEAKER_01: 0:51:15-0:51:16
+ Ah!
+
+SPEAKER_00: 0:51:16-0:52:27
+ That was very interesting.  He had, I mean people attending it were on the one hand his own students, his handful,  so Dick and I were there.  But there were also a number of people at the level of assistant, either just before finishing their PhD or after. really the cram of the young linguists in Holland. So Clark so these people had assistant positions with professors of linguistics in the Netherlands.  And it was agreed among all of us that we should never say that they attended this seminar because they might be fired.
+
+SPEAKER_01: 0:52:27-0:52:35
+ Wow! That was the situation? I mean, it's not... this is way beyond indifference because
+
+SPEAKER_00: 0:52:35-0:53:28
+ this is hatred. Wow, okay. And so that played a very important role in getting Chomsky to be known by people.  And of course, Syntactic Studies is such a totally different book.  Yeah, yeah.  You may actually be wondering what sense it is about linguistics, like with post and people like that.  But it's extremely interesting and very well written and we learnt a lot from it.  But Stalin was not yet there.  And I'm pretty sure he was not at this seminar.
+
+SPEAKER_01: 0:53:28-0:53:30
+ Oh, he was not at the seminar, I see.
+
+SPEAKER_00: 0:53:30-0:53:54
+ No, so I don't know where he had been.  He already then spent a considerable amount of time in India.  Uh-huh. In any case, I mean, I don't think I ever saw him before the first lecture in the fall of 62 that I, by him, that I went to.
+
+SPEAKER_01: 0:53:54-0:53:58
+ So you did go to a seminar where he was teaching?  Yeah, yeah.
+
+SPEAKER_00: 0:53:58-0:54:53
+ So you saw him teaching?  Yeah, yeah. I did one seminar on, from a logical point of view, and a couple of other papers, and  there was another seminar, perhaps it was in Wittgenstein, I don't quite remember, but  I do remember that I went to two of them, and Dick and I were very impressed. I mean, the papers were very interesting,  they were really exciting. I mean, I remember two dogmas, I thought it opened up a whole  world for me. But Stahl's own comments, I did not appreciate all that much. Anyway, so he then, he didn't stay, I don't know when did he go  to Berkeley, it was in 67 or something.
+
+SPEAKER_01: 0:54:53-0:57:32
+ No, I think he was, so Montague was on sabbatical there in 66. There was the time when he basically  started fighting there in Amsterdam, when Stael had all this intense  fight. And in 1969, he gets, you know, that he got a one-year appointment at MIT, where,  so for one year he was hired at MIT. And besides seeing that, I want the confirmation because at MIT one of the courses that he taught was co-taught together with the Stanford professor that only recently retired that wrote the paper with his former wife on factivity.  Kiparsky.  Kiparsky.  Oh, really?  They taught a course together.  He taught a course together. Stalin and Kiparsky. Stalin and Kiparski. So they taught a course to Stalin and Kiparski.  That's interesting.  And so for one year. And I do know that because there are the letters, Montague kept the letters.  So Stalin was desperately looking for something that was permanent in the US.  He had decided that he wanted to go back to the US.  I think at that point he also decided that he wanted to live as a gay man.  And he wanted to do that in the US.  And so in this correspondence with Richard you can see that first of all they were clearly friends.  And I think this was the main connection between the two of them I never saw any clear evidence of an  intense intellectual connection but they were very very close as friends I think  Montague felt very comfortable with him and I think the thing was reciprocated  when Montague goes to Amsterdam in the second time when you're already to see in a g66 at the very beginning  Let's see if they're beginning at the very end of his sabbatical. He stays at styles place  And and there's these letters where he says, you know  style tells how to and maybe even in the very end when Montague has to wrap up thing  Yeah  it stays spent a couple of weeks because he yes, he stayed at Stahl's place  because then he writes a letter,  and he kept a copy of the letter that says,  Fritz, I hope that everything you found is fine.  We did follow your instruction  or leave in something in a certain way.  Because I think Montague was there  with that student of his, Barry.  Oh, yes.  That was a strange case because I think in order not to fight in the  Vietnam War he had gone first to Africa and then they met again in Amsterdam.
+
+SPEAKER_00: 0:57:32-0:57:48
+ I met the guy. Oh you met the guy. He was very brilliant. I never knew exactly exactly, I mean he sort of dropped out of school I think.  Yeah, yeah, yeah.  He went to MIT.  But he was extraordinarily small.
+
+SPEAKER_01: 0:57:48-0:59:50
+ Yeah, that's what people seem to remember.  He also went to MIT and when he died his classmates wrote like, you know, in their, I think some  sort of annual letter, their memories of him.  And the two things that were emerging…  When did he die? He died relatively young. I can give you the details things that were emerging he died relatively  young I can give you the details I think that's a very nice right completely  yeah he sent clear what happened to him he had a tormented like you know it was  a complicated individual it's a Jewish also really doesn't I don't remember  that but I it could be.  It's just that everybody had noticed that he was an extremely brilliant person.  And also somebody... because at a certain point, I think what Montague does,  he manages to have him paid by the NSF on his grant to support him in Amsterdam.  Because he's arranging things with Stael and then  made it clear that Stael doesn't need, I can support him, I just need that you issue an  official invitation so he can have access to the library or something like that.  So at least for part of the time that Montague was in Amsterdam, Barry was in Amsterdam as  well and then in the end they stayed for the last few weeks and then Barry went somewhere else to add Stahl's place.  So that makes me think that there is a lot of, there was, you know, lots of closeness.  Then when Stahl is really desperate, he wants to find a stable job, Montague activates his network.  And I cannot completely exclude the fact that, you know, the fact that in Berkeley, he managed to find something.  And Berkeley was also because of Montague's intervention.  And then, you know, as soon as he arrived to Berkeley, he basically separated. I mean,  he brought his wife and the two daughters that they had to Berkeley.  With Stahl.  Stahl, sorry, Stahl brought from Amsterdam the wife and the two daughters. But I would say,  let's see, already when they moved to Berkeley in 1971, I was told the two daughters. But I would say, let's see,  already when they moved to Berkeley in 1971,  I was told that they separated, and so they were linked.
+
+SPEAKER_00: 0:59:50-1:00:10
+ Yeah, I mean, I never knew that, but I mean,  yeah, I got this information, actually,  I can't remember why, yeah, I think I can reconstruct  why I actually looked at this, but this was an obituary  written by Jan van Benten about Stahl.  And that also revealed that.
+
+SPEAKER_01: 1:00:10-1:00:24
+ And I think it's pretty clear from the kind of correspondence that they have that they are very open to each other.  That is, so my understanding is that Stahl was part of that group of people and talking to some people.
+
+SPEAKER_00: 1:00:24-1:00:33
+ Was Stahl already openly gay? Or, hopefully he wasn't in heaven. I mean you, but he got married too?
+
+SPEAKER_01: 1:00:33-1:02:18
+ You can tell, I don't know, my main source about this edge is between facts and gossip. because it's the late certain and I see and he was part of that group of  academics of that generation and gay men of that generation and according to him  if you were part of that group here not you knew very well about style I see but  if you were not part of that group because it was was typical of that generation, you didn't know.  Yeah. Yeah.  And so Stahl had that life up to the point in which he moved to the U.S.  Once he moved to the U.S., at that point, he felt that, especially in an environment like Berkeley,  he felt that he did not have to do, you know, he joins Berkeley, we are early 70s,  so it's this cultural culture that is kicking in, and so he becomes less,  and also he has, you know, he has Montague's model.  He sees that you can be, I don't want to use the word open because today being openly  gay means something else, but Montague never pretended to be married, never pretended to  have a wife and so on.  So he had his own way of living his life and probably there was a model for Stahl as well. So that's  my main source. Now, my understanding though is that from the way they talk to each other,  of course they never write directly because those are things you don't write in those  days, but it sounds like they are so close that I would be surprised if they don't have familiarity also in that aspect  of their life.  And probably this was a further element of bonding between the two of them.  So they understood each other in that sense too and Montague could be of support.
+
+SPEAKER_00: 1:02:18-1:02:35
+ Yeah, it's amazing that I should never have even, even, even, even have the slightest inkling of this.  I mean, of course, I knew about it.  Well, that was part of what they intended to do.  I mean, it's just getting in the way now.
+
+SPEAKER_01: 1:02:35-1:02:55
+ It's like, on the other hand, so going back to your experience with Montague, so when you arrived, so my understanding is  that your application was something that went through kind of like in an unusual way but  also fast because you were not hearing anything, you got worried, you wrote Montague, it took
+
+SPEAKER_00: 1:02:55-1:10:18
+ some time.  I think actually I should tell you this story because it is as much a story about Mondego as about me and this is a story that you know some  aspects of already. Maybe I told you this and then you can just stop me but maybe I didn't.  So because this fornicated Institute of International Education  didn't even send my stuff to UCLA.  After I had explicitly asked them to do so,  I got only sort of the beginning of August another letter from  the museum, we still haven't received anything.  In August.  Have you actually lost interest in me? Then I wrote back and thinking, oh God, I didn't have, I asked him explicitly and of August I got a telegram from Kalish who was  chairman at the time if they would waive my prelims this is something that had  been very I mean I'd done so much of course we can ready so I actually asked  whether that would be possible if we would waive your prelims would you accept a fellowship?  And I immediately answered, come to members for a letter or telegram, yes of course I will come.  And then there was very little time so I had thereby accepted.  And so then I got ready and I got to UCLA beginning of September.  From where everything seemed alright. I was staying at the time as I told you.  In his Cardinal Rizzolio bed.  So that's the kind of furniture that he had? He had bought it and I'd sold it to him as a bet that it belonged to Galileo.  It looked like one, but anyway, it was probably not. The first departmental meeting of the Forsythia Parliament, there were a number of people  who attacked Kalish for having sent this telegram to me without even asking them. Now it was so Richard clearly  wanted very well probably put pressure on Kalish and it was probably very difficult  to get hold of people in the middle of August and so he did that. And then Kalish apparently reacted when he was taken to task by some of his senior colleagues.  Well, I didn't actually tell him he could come here and wave me.  It was a conditional, can't you see that?  And then Montague was absolutely furious and gave Pinnish a little lesson about semantics  and pragmatics and really seems to have blown his thought.  And then the other people probably didn't like the scene but thought he was right.  And so the whole thing was tabled.  So I mean some of the people actually had basically said he can stay but only if he  does his prelims like everybody else.  And then it was going to be a matter that, well there were also the junior people in the department,  there was a year when they had hired a whole range of people, most of whom actually did  not make it to tenure.  And what we were so sure is that he went and did something he should not have known.  He went to see some of these younger people and say, you don't know why this place works,  but if you actually support Kalish in this, I will never forgive you.  And these junior, I mean, they'd been in the job only for a couple of months.  I mean, they really didn in the job only for a couple of months.  I mean, they really didn't know what to do.  And they'd heard that this was a very famous, but also somewhat volatile professor.  So they went to Kalish as the chairman.  And Kalish then, instead of, he did e ddim yn golygu hynny.  Nawr gadewch i ni gyd-drechnau a chyfrannu hyn.  Gawodd ei ofyn iddyn nhw ysgrifennu llythyrau y tu ôl Montague ac wed nothing about this until he was summoned by the dean.  And he felt so unbelievably wounded by that. This was a person that he considered one of his best or perhaps his best friends and  that caused a rift within the department and I think one of the junior people who had just come. He's gone and he told me at one point, I never wanted that to happen.  And one person who was also junior, but was already there, was Harith Sobel.  He came, he was the one junior person who came out in support of Montague very strongly and he didn't get tenure  and we all felt that that was completely unjustified by his scientific  accomplishments and so that that led to this. Broward was just I think just, I think, just when I was leaving. It started with the semester before.  But, so, during all the years I was at UCLA, there was this whole group of very devoted students that came to all the seminars.  And we went out to dinner together in the afternoons and so forth. And so that was a source of support.  And he had very good relations with the mathematics department.  But within the philosophy department, he felt pretty much completely isolated at that point.
+
+SPEAKER_01: 1:10:18-1:11:16
+ I think the only one that he managed to build some kind of relationship, of course, in a way that you can imagine,  given the difference in age and status, was Alonso Church. Well, yeah, so Church came a little later,  so he was out of all this to begin with. But I think I told you that I found that message,  and since you were able to appreciate it because you knew, you know who Alonso Church was and what  kind of personality he had. Now imagine Alonso Churchill writes a note to Montague that says,  Dear Montague, I didn't realize that the relationship with  Kalish had reached this point. I wish I could do anything, but I don't see anything that I can do.  So I assume, since there is nothing else said,  I assume that he must have seen something  either at the faculty meeting or in the interaction with them.  And this is something written in 19...  So he arrived, it was 1967.
+
+SPEAKER_00: 1:11:17-1:11:18
+ Seven, I guess.
+
+SPEAKER_01: 1:11:18-1:11:20
+ Yeah, and I think it was like 1968.
+
+SPEAKER_00: 1:11:20-1:11:21
+ Yeah, yeah.
+
+SPEAKER_01: 1:11:21-1:11:24
+ So, yeah, just a fourth year.  Well, and he saw that.
+
+SPEAKER_00: 1:11:30-1:11:35
+ So, now, to me, Alonzo Church has always been described as an extremely reserved person. But much more observant than one might have expected.
+
+SPEAKER_01: 1:11:35-1:16:39
+ Yeah, that's right. Somebody who was a very careful observer that valued his own privacy very much.  He would come to the department at a certain time when other people were not around. He would have his own routine. And I also see the kind of like exchanges that  normally he would have with Montague, even the fact that we're both involved with the  Journal of Symbolic Logic and Montague played an important role in helping him once he moved  to UCLA. And so writing that note must have been something that he felt very  strongly about otherwise it was not a gossiper it was not like and and so from  a certain point of view and I was also told and try to remember who told me the  story Kaplan Kaplan of course that in that period, after the breaking up with Kalish, Montague became,  on the one hand, very isolated, but also very strongly opinionated during the faculty meeting,  even more than earlier, almost to make a point. And when he would start, it would basically  be impossible to stop. There was only one person that could stop him, and this would be Alonso Church.  And normally the way it would go is that, that's how Kaplan was describing the situation,  Church would be in his corner. You think they would be sleeping, you know?  And then at a certain point, he would say, point and say Montague and Richard will stop and that would be silence and that  would be well if anybody has tried to say anything he would actually increase  the amount in the case of there was the only person  Martin felt kind of intellectual and personal reverence towards that was  church so what you say totally matches this kind of picture  of, although what I didn't know is this behavior by Kalish, which I know is even more striking,  even, you know, as you know, Kalish knew Montague very well and Montague knew that Kalish knew him  very well and considered a very close friend friend if not the closest friend that he had  somebody who knew very personal things about him like you know keilish went to rescue montague uh  with his wife veronica when they were still together we're talking about like the late 50s  um when you know after this trial yeah yeah no no no no this is at ucla so montague  trial yeah yeah no no no no this is at ucla so montague brought somebody back i see and some black guys and these black guys basically stole this is when they were still he and bob were still  living in the canyon yeah in the canyon so bob was not at home uh the idea would be that we'll  be drinking something together first i think from think, if I remember the story correctly,  so he brought one guy, then the guy had some friends,  okay, invite your friends too, the friends came over,  and essentially what they did, they, first they tied up Montague  so that he couldn't move and he couldn't scream, like with rope and so on,  and then they stole whatever they could from the house,  and they damaged other things.  And so slowly Montague was able to reach the phone  and call Kalish.  And he and Veronica arrived.  And so they helped him, they took him back home.  It was all shaken.  And then there was...  What they remember very vividly, that Montague's  worries at that point was not that he had been in danger in his life, but his worries  was like, how will Bob react?  They touched his stuff, they took some of his stuff away, how is he going to react?  And so, Kalish knew all this, and Montague knew, Kalish knew all this. And, you know, Montague knew that Kalish knew  all this. You don't expect a person that knows so much about you, that you trust so  much, that you call in this moment of desperation to behave in that way. And I think that must  have felt like, on top of the fact that I think the two of them had talked earlier on  or had shared this idea that once they  took over the department, one as a chair and, you know, Montague up to that point in that  crisis for more than one year he had been Director of Graduate Studies.  1964, that's when Kalish becomes chair, right after the textbook, and Montague becomes Director  of Graduate studies. Less than one year later, Kalish has a letter signed  by the senior professor and they say, sorry, this was his own decision as chair, he said,  after consulting the senior professor, we decided that we want to thank you for your services,  director of graduate studies, and you know, this is going to end, blah, blah, blah, right away,  essentially. So they take him.  And I think that comes all from this story.  There was another further punishment on top of the letter that he received from the dean.  There was the…  I have the letter that K.D.  Shrew wrote where he says, you're done as the Congress of the Studies.
+
+SPEAKER_00: 1:16:39-1:17:44
+ Yeah, that was all aspect of this was I think also that this duo, Montague and Gaelish, was perceived by people in the department as sort of, Montague with his assistant.  And when Gage became chairman, this particular telegram really smelt to people like this was something else that he, something that he shouldn't have done and that Montague  sort of forced him to do or got him to do and even if I didn't feel it that way, Kalish probably thought  that I would see it or did see it that way.  And he wanted to assert his independence.  I mean there's absurd reactions from what I...  I don't think so.
+
+SPEAKER_01: 1:17:44-1:19:39
+ No, no, I think you're totally right. And I think it was a very poor decision by  Kehlish because it was a... I mean, there is a difference... Okay, I understand that  as a chair you need to try to keep all the different souls of the department together  because that's part of your task. As a chair you cannot fight a unilateral war. Otherwise  you don't... you're not chair. Okay. But that's different from as a chair.  You also have the role to try to embody a vision of what you want to do with your department,  share it with others, try to get consensus about it. It's not that as a chair you just  stamp things or you just accept everything. So if you become chair, you become chair, but you  still have somebody with a vision. If you have discussed that vision with a colleague  like Romain Tague, essentially there is a way to do philosophy which is heavily driven  by logic. Now discuss it, bring it to the department in terms of like, well, let's hire  people in a certain way, let's go in in a certain direction let's get some certain kind of students for example there were other ways to  deal with your situation says look yes I mean we're dealing with an exceptional  students we have plenty of evidence of that we really want to miss this  opportunity now as a chair I'm willing if you have other cases of students that  have so gifted with that evidence that are really done with this kind of  practice not is to make exception to that.  So this is not just unique for this person, but unique if these conditions are satisfied  with other cases.  We want to get those students.  That's what brings the department up.  There are many ways as a chair you can go around this.  And I think what happened there is exactly what you're describing.  It's one of those cases of personality issues. Finally, you felt almost like, okay, I can get rid of this feeling controlled by... I  exist, I'm the chair, I have the power. And that was the end, the beginning of the end,  basically. That's the... Did you feel that when you were in the department?
+
+SPEAKER_00: 1:19:39-1:21:05
+ I'm trying to remember how much I knew about this whole thing.  I mean, I knew it certainly towards the end of that first semester.  They were actually pretty decent in keeping me out of it.  So- That's nice.  I'm glad to hear that.  Yeah, I mean, I'm really grateful to the entire department for that.  But I mean I knew about this, I mean Montague had told me about these letters and he was  so deeply offended and wounded is the best word for it. And so it became clear exactly what the  actual thing was that it triggered. I mean I was quite, I don't know if it was already then,  but it was quite good friends with Howard Sobel and he and Willa May also have told me about it.  I cannot remember that, but I certainly do know. I knew it certainly by the end of that first semester,  but not that anybody sort of told me officially from we actually thought you should do the prelims, but you don't have to after all or something like that.
+
+SPEAKER_01: 1:21:05-1:21:15
+ And there was no like weird behavior by any other?  It's not that they treated differently in a kind of weird way?  No, not at all.
+
+SPEAKER_00: 1:21:15-1:22:22
+ Actually, it was pretty good terms with me.  I mean many of the people I did have very little to do with because most of the courses I was free to do that.  I took in mathematics so I thought I was sort of an odd thing out and it was never really part of the student body and it was only part of this small  clique around Montague but there were only two students from philosophy, I think. And the others,  there was one, there were two from mathematics and... No, there were more, there were three  students from philosophy. So those I knew reasonably well. But there are people from other departments also. For instance, Jeff Pellice.  So he was somebody who was I think this same year or maybe he came a year before me  and I knew him but we had no contact. I believe Jeff came a little bit after you because he took,
+
+SPEAKER_01: 1:22:22-1:22:25
+ I mean he finished much later than you to begin with.
+
+SPEAKER_00: 1:22:25-1:22:26
+ Yeah, he stayed much longer.
+
+SPEAKER_01: 1:22:26-1:22:33
+ He stayed much longer, but I believe that his dissertation was 1973 and I think…  Was it that late?
+
+SPEAKER_00: 1:22:33-1:22:36
+ Yeah, yeah, yeah, because…  I don't know, maybe he came…
+
+SPEAKER_01: 1:22:36-1:23:15
+ Yeah, I think he came, I think he came in 1967.  Is it possible?  Because the reason why, I mean I do have it in my records, I can check, but the reason why is because, first of all, I know that he stays much longer, but he also told me about the story of when he arrived that year, it was Montague that organized the welcome,  the beginning of the year party at his place on Holland Drive.  And Montague moved to the place on Holland Drive in 1964.
+
+SPEAKER_00: 1:23:17-1:23:17
+ Was it that trip before I came in here?
+
+SPEAKER_01: 1:23:18-1:23:45
+ Yeah, 1964.  So first he became full professor, which was 1962,  and then he bought the place on Maldon Drive in 1964.  So, and so when you when you went to that place, it was 1965, there was, you know, they'd been there for like roughly one year. And so, but Jeff remembers clearly that Montague organized the  party at the new place, the larger place where with a garden outside and Montague was plain.
+
+SPEAKER_00: 1:23:45-1:23:48
+ What is the larger plain?
+
+SPEAKER_01: 1:23:48-1:23:51
+ So the one where you stayed, the one on the right.
+
+SPEAKER_00: 1:23:51-1:23:52
+ I see.
+
+SPEAKER_01: 1:23:52-1:25:14
+ Because you know the one on Beverly Cliffs was a small place.  It was a two bedroom, one bathroom right there on the canyon with just a little, not even  a real courtyard in the back.  I went to visit it well the  the place where you stayed unfortunately was destroyed was demolished yeah  they got a mansion but I had the pictures that the police collected and I  can see that it was definitely a two actually? From outside because there are these walls.  I mean it's like typical of this like David Kaplan was showing me in his area, Pacific  Palaces, they are doing the same thing.  So they buy these nice spaces and then they build these houses that are big boxes that  occupy the entire space.  There is no outdoor space anymore because now you sell according to how many square  feet you have.  So the place from outside I can only barely see, it looks like one of these boxes.  Well, I didn't see the house from outside because I don't have many pictures of the  inside.  I only saw a couple of pictures that the police took, but that's just the bedroom.  So actually Hans, you that's just the bedroom. Yeah, yeah. So actually, Hans, you, since, and it just came to my mind,  since you stayed at Richard's place,  do you remember, like, first of all,  your bedroom was on the second floor or on the ground floor?
+
+SPEAKER_00: 1:25:14-1:25:17
+ I thought it was on the ground floor,  but I'm not entirely sure anymore.
+
+SPEAKER_01: 1:25:17-1:25:32
+ Okay, okay.  So, because I was trying to get a kind of map of that house,  which was, in general, just to have an idea,  but also because of the, you know, the night of the murder and the kind of map of that house, which was in general just to have an idea, but also  because of the night of the murder and the kind of description that the roommate gives  to the police.
+
+SPEAKER_00: 1:25:32-1:25:55
+ I thought he was from what Richard told me about at some point about, you know, so Bob  had moved out and he didn't want to be alone and so he had students live in as  a form of protection.  And I thought those were on the second floor, but I don't know.  I never overlapped with them.
+
+SPEAKER_01: 1:25:55-1:26:19
+ Yeah, that's how it was.  Maybe it was possible that the house had one bedroom on top of the master bedroom, maybe  one bedroom on top of the master bedroom would be one bedroom on the first on the second floor well let's use the Americans to the  Italian ground floor and second so first I wonder if there was maybe two better  than the master bedroom and one bedroom on the first floor and then maybe there
+
+SPEAKER_00: 1:26:19-1:26:42
+ was another room that was just off the I remember, but my memory is not really reliable as far as  that's concerned.  I thought it was off the…  There was a living room with a harpsichord.  Yeah, that's what Jeff told me as well.  Yeah, that's what he remembered.  I thought it was off there, but I don't know.
+
+SPEAKER_01: 1:26:42-1:26:58
+ Yeah, so I think, so Jeff, I believe, my understanding is that Jeff was planning to work with David  Lewis and then David Lewis left.  It was 1969 he left, I believe, and then he started at Princeton in 1970.  I think he had a fellowship in between.
+
+SPEAKER_00: 1:26:58-1:27:09
+ He was in England, I think.  Maybe it was possible.  The year that he was in England was the year that I was in Holland. Ah, okay.  So that was 1969.  69, 70, yes.
+
+SPEAKER_01: 1:27:09-1:27:22
+ And then in 70, he started Princeton.  So essentially, Louis was at UCLA for three years, 1966 to 1969.  And I think Jeff had moved there like in 67.
+
+SPEAKER_00: 1:27:22-1:27:36
+ That sounds right.  I just called it here, education. He got his  MA from the University of Nebraska at 66 and he got his PhD from UCLA in 71. Oh, 71. So
+
+SPEAKER_01: 1:27:36-1:27:59
+ maybe he was 66 when he moved there because he told me that he was coming as a friend.  Like yes, okay, maybe 66 or one year you, and in 71, so a few months after  Montague died.  So he wanted to work with Lewis.  Lewis left, he asked Montague if he wanted to, he could be his student, and then Montague  died and in the end I believe he told…
+
+SPEAKER_00: 1:27:59-1:28:34
+ Montague first?  Yeah, yeah, yeah, Officially was Montague. I mean, so not very long ago I asked Jeff what he remembered from this time and he said  he never had anything or very much to do with Montague.  It called to him at some point but it sounded like, I mean, he never felt really part of  this group and he certainly wasn't while I was there.  And, I mean, I, yeah.  Yeah, so.
+
+SPEAKER_01: 1:28:34-1:29:22
+ No, I think that his goal, I mean, like, at least what he told me is that his desire was to work with David Lewis.  Except that when David Lewis left, plus he left to go to England, so it was not even possible to come.  It was not realistic, on top of the fact that he needed somebody in the department.  And so that's when, for him, like, okay, the most, the closest that he could find was Montague.  And he said, you know, Montague was very open in a nice way, not like, you know, he understood the situation.  Yeah, yeah, no, exactly. Yeah, I don't think there was like, oh yeah, I see that we, there's a lot in common  among us, but as you said earlier, he understood that this was a student that had interests  and things and was left without an advisor.  So the goal of the advisor is to help the student develop and give some guidance, and
+
+SPEAKER_00: 1:29:22-1:29:24
+ this is a student left without guidance.
+
+SPEAKER_01: 1:29:24-1:29:32
+ So I think there was the level of interaction that they had.  That's what Jeff told me and that seems to fit with your description.
+
+SPEAKER_00: 1:29:32-1:29:37
+ There was just very little time for that to develop into anything.
+
+SPEAKER_01: 1:29:37-1:30:17
+ So Hans, before I leave you because I promised that I would leave you by 10 and we are getting  very close to that, We have four minutes left.  So I want to ask you one thing  because I think it's a little bit of a natural closure  of this topic and then maybe tomorrow  we can talk about David Lewis  and what you know about  the time that you were there, he was there,  what you know about the interaction.  One thing that I went back to  the previous meetings that we had  that I don't think  you said much about, maybe just a few things.  You were not at UCLA anymore when Richard died.  How did you learn about history?  I wasn't old that year.
+
+SPEAKER_00: 1:30:17-1:31:47
+ So 1971 in March?  Seventy, seventy, let's see, this was...  No, sorry, I made a mistake a moment ago, did I?  Yeah, sorry.  I got a year lost. I was in Holland from the fall of 70 to the fall of 71.  That was the year I stayed a number of times with the Lewises while they were in Oxford.  So that was the year that David Lewis was in Oxford.  Then I'll ask you about that too.  And I went to Princeton only after that and then this first year there, but I've been  71. So Judith Ng rang me. She was working in Church's office at the time, in the review section of the JSL. Oh, so it was wrong. I think I told you that I contacted her.  Yeah, yeah.
+
+SPEAKER_01: 1:31:47-1:31:54
+ And that must have been soon after it happened.
+
+SPEAKER_00: 1:31:54-1:31:58
+ Probably very young. I mean, she knew the meaning. It was the day after or something.
+
+SPEAKER_01: 1:31:58-1:32:03
+ Because that was Saturday night, probably. The Sunday when the news went around.
+
+SPEAKER_00: 1:32:03-1:32:07
+ Yeah, I can't remember what day it was.
+
+SPEAKER_01: 1:32:07-1:32:11
+ Do you remember what she told you?
+
+SPEAKER_00: 1:32:11-1:32:47
+ Oh, I think she told me that.  I'm not sure.  I actually heard he had died and I think she may also have  added that he was murdered.  That one suspect, I mean it was pretty clear from the moment  below that that was what had happened.  And I'm really so taken by the news that in this particular case, I don't remember the  exact wordings, but it was not a very long phone call, but I mean, yeah.
+
+SPEAKER_01: 1:32:47-1:32:52
+ And, Hans, were you completely surprised?
+
+SPEAKER_00: 1:32:52-1:33:43
+ Yes and no. So this relates to this story that you just told me of when Richard was tied up, he would take what seemed to me insane risks. I don't know if I've told you that before during the three years I was there, I was the only  real link between his private life and his intellectual and professional life.  And it, I mean, I don't know if I've told you, yeah, so, and, I've run out of time  with this, not very much.  And so when...  You made a promise though, don't make me...
+
+SPEAKER_01: 1:33:43-1:33:45
+ We can all talk about that tomorrow, but anyway...  No, no, finish, finish, because I'm going to... But it's not that much. And so when... You made a promise though, don't make me...
+
+SPEAKER_00: 1:33:45-1:34:23
+ We can all talk about that tomorrow.  No, no, finish, finish, because this is too important.  So yeah, so there's more to be said.  So he picked me up and took me to his house.  And the first thing was that you met me, Bob.  That was the first time...  Well, Bob was there when you arrived?  He was there, yeah. It was a very short relation at that point already.  But so that was the first time I realized that Richard was gay.  Oh!  I had no idea until that very moment.  He had not told you anything?
+
+SPEAKER_01: 1:34:23-1:34:28
+ No, no.  Not even that he had somebody in his place?  No.
+
+SPEAKER_00: 1:34:28-1:35:47
+ So you arrived there and you got a meatball.  Yeah, yeah, I got a meatball.  And it was really, I think I adjusted very well.  But it was really quite a sort of sudden, I mean I came from a world where this, I mean I knew the existence of it, and nobody in  my immediate environment, to the extent that I was aware of it, was gay and I never thought  of him in those terms. And then during these two weeks and so afterwards I was there often and all.  So you had this whole coterie of black gay men who I think, I don't know whether they  were originally Bob's friends or his friends, but anyway, it was really good.  It was interesting. originally Bob's friends or his friends but anyway so it was really good, quite charming and interesting and so yeah since I was there I was sort of taken  out from it. I think I adjusted quite well and never made it possible. But it was really quite sort of being thrown into the middle of it.
+
+SPEAKER_01: 1:35:47-1:35:55
+ Wow. Well, from a certain point of view, you know, you can also take it as an extreme, like, gesture of trust.
+
+SPEAKER_00: 1:35:55-1:35:56
+ Absolutely, already.
+
+SPEAKER_01: 1:35:56-1:36:05
+ You did not hide anything. You didn't even try to separate the two worlds. You were immediately put inside his complete world, the intellectual
+
+SPEAKER_00: 1:36:05-1:37:56
+ one and the personal one.  Yeah, and I took it also that way.  But so this other aspect of trust that I just wanted to mention is that later on he would He would then ask me to come along with him in two cars to Hollywood Boulevard.  And he would go to one of these gay meeting places.  And we would sit there and have a coffee or so.  And then all things worked out.  He would find somebody.  And then I would just go home. byddaf yn dod i'r llaw. Ac fe wnaeth hynny'n fy ngwneud yn ddifrifol iawn, y cyfleoedd hynny. I'll see, I'll sit there and also I see, remember how he asked me for this act of support.  And yeah, okay, then I went home and no idea what happened after that.  But these were people he had never seen before in his life. And it was in a part of town,  but everybody knew that the people  that would pick you up,  that could be any kind of.  And my first thought was when I was growing up,  this is probably a case where  just this kind of thing would happen. And it's still different when you pick up a single person, but if you pick up a group, that's...
+
+SPEAKER_01: 1:37:56-1:38:04
+ Yeah, there's a very different dynamic of power.  Yeah.  And also this kind of dynamic that you create within the group, that they reinforce each other.
+
+SPEAKER_00: 1:38:04-1:38:08
+ Yeah, yeah, yeah, yeah, yeah.
+
+SPEAKER_01: 1:38:08-1:38:27
+ Can I ask you, and then we stop. Yeah. You mentioned  quickly that when you arrived and you were introduced to Bob,  you said, well, the relationship was already falling apart.  Is it because you  perceived something or because there was tension between the two of them?
+
+SPEAKER_00: 1:38:27-1:39:29
+ Well, it was not immediately of course, but then theyusing Richard and sort of, yeah, almost, it wasn't exactly emotional blackmail at that point for this reason.  To the extent that there was still a relationship, it seemed to me very exploitative.  And later I have come to see, partly also through what you have told me,  that it wasn't a one-way street as far as that's concerned. But the way it was at that particular point,  I could only feel very sorry for Richard.
+
+SPEAKER_01: 1:39:34-1:39:39
+ Hans, well thank you very much for sharing all this.  And sorry if I didn't keep my promise,
+
+SPEAKER_00: 1:39:39-1:39:46
+ because now it's 10 o' six.  You don't have to apologize to me.  I think I'm just probably going to do anyway.
+
