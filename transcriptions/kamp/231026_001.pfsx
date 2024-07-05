@@ -22,6 +22,9 @@
     <pref key="FrameLocation">
         <Object class="java.awt.Point">1529,19</Object>
     </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>56.0</Float>
+    </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
     </pref>
@@ -43,10 +46,10 @@
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>70060</Long>
+        <Long>12535</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>77570</Long>
+        <Long>25802</Long>
     </pref>
     <pref key="SelectionEndTime">
         <Long>0</Long>
@@ -69,6 +72,9 @@
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>71</Int>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>56.0</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
