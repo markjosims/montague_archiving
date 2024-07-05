@@ -105,7 +105,7 @@ Main script
 def init_parser() -> ArgumentParser:
     parser = ArgumentParser("Annotation runner")
     parser.add_argument("-i", "--input", help="Directory of files to annotate")
-    parser.add_argument("-s", "--strategy", choices=["asr-only", "asr-first", "drz-first"])
+    parser.add_argument("-s", "--strategy", choices=["asr-only", "asr-first", "drz-first", "multitier"])
     parser.add_argument(
         "-n",
         "--num_speakers",
