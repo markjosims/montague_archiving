@@ -248,12 +248,9 @@ def multitier(
         asr_pipe: Pipeline,
         **kwargs,
     ):
-    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
-    diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
-    speakers = diarization.labels()
-    for speaker in speakers:
-        eaf.add_tier(speaker)
+    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
+    eaf.add_tier('asr')
 
     for chunk in chunks:
         start, end = chunk['timestamp']
@@ -261,10 +258,17 @@ def multitier(
             # whisper may not predict an end timestamp for the last chunk in the recording
             end = len(wav[0])/SAMPLE_RATE
         text = chunk['text']
-        speaker = diarization.argmax(Segment(start, end))
-        if not speaker:
-            speaker='default'
-        eaf.add_annotation(speaker, sec_to_ms(start), sec_to_ms(end), text)
+        eaf.add_annotation('asr', sec_to_ms(start), sec_to_ms(end), text)
+
+    diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
+    speakers = diarization.labels()
+    for speaker in speakers:
+        eaf.add_tier(speaker)
+        speaker_timeline = diarization.label_timeline()
+        for segment in speaker_timeline:
+            start_ms = sec_to_ms(segment.start)
+            end_ms = sec_to_ms(segment.end)
+            eaf.add_annotation(speaker, start_ms, end_ms)
     return eaf
 
 def drz_first(
