@@ -263,11 +263,10 @@ def multitier(
             # whisper may not predict an end timestamp for the last chunk in the recording
             end = len(wav[0])/SAMPLE_RATE
         text = chunk['text']
-        # TODO: figure out if there's anything making Whisper misbehave
-        # and return malformed timestamps
         if end<=start:
-            # for now default to setting `end` 1sec after start
-            end=start+1000
+            # Whisper may predict 0 length for short speech turns
+            # default to setting length of 200ms
+            end=start+200
         eaf.add_annotation('asr', sec_to_ms(start), sec_to_ms(end), text)
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
