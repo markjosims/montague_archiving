@@ -131,6 +131,9 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-c", "--chunk_length_s", type=float, help="Chunk size to use for ASR pipeline.", default=30,
     )
+    parser.add_argument(
+        "-w", "--return_word_timestamps", action='store_true'
+    )
     parser.add_argument('-b', "--asr_batch_size", type=int, default=8)
     return parser
 
@@ -171,6 +174,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
+                return_timestamps='word' if args.return_word_timestamps else True
             )
         elif args.strategy=='multitier':
             eaf = multitier(
@@ -179,6 +183,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
+                return_timestamps='word' if args.return_word_timestamps else True
             )
         else:
             eaf = asr_only(
@@ -221,7 +226,7 @@ def asr_first(
         asr_pipe: Pipeline,
         **kwargs,
     ):
-    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
+    chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
     speakers = diarization.labels()
@@ -249,7 +254,7 @@ def multitier(
         **kwargs,
     ):
 
-    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
+    chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
     eaf.add_tier('asr')
 
     for chunk in chunks:
