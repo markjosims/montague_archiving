@@ -172,6 +172,14 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
             )
+        elif args.strategy=='multitier':
+            eaf = multitier(
+                wav=wav,
+                eaf=eaf,
+                num_speakers=args.num_speakers,
+                drz_pipe=drz_pipe,
+                asr_pipe=asr_pipe,
+            )
         else:
             eaf = asr_only(
                 wav=wav,
@@ -206,6 +214,33 @@ def asr_only(
     return eaf
 
 def asr_first(
+        wav: torch.Tensor,
+        eaf: Elan.Eaf,
+        num_speakers: int,
+        drz_pipe: PyannotePipeline,
+        asr_pipe: Pipeline,
+        **kwargs,
+    ):
+    chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
+    diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
+
+    speakers = diarization.labels()
+    for speaker in speakers:
+        eaf.add_tier(speaker)
+
+    for chunk in chunks:
+        start, end = chunk['timestamp']
+        if end is None:
+            # whisper may not predict an end timestamp for the last chunk in the recording
+            end = len(wav[0])/SAMPLE_RATE
+        text = chunk['text']
+        speaker = diarization.argmax(Segment(start, end))
+        if not speaker:
+            speaker='default'
+        eaf.add_annotation(speaker, sec_to_ms(start), sec_to_ms(end), text)
+    return eaf
+
+def multitier(
         wav: torch.Tensor,
         eaf: Elan.Eaf,
         num_speakers: int,
