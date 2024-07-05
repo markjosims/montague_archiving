@@ -153,22 +153,30 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
         drz_pipe.to(torch.device(args.device))
 
-    wav_fps = glob(os.path.join(args.input, "*.wav"))
-    for wav_fp in wav_fps:
-        print("Annotating file", wav_fp)
-        eaf = Elan.Eaf()
-        eaf.add_linked_file(wav_fp)
-        wav = load_and_resample(wav_fp)
-        if args.strategy=='drz-first':
-            eaf = drz_first(
+    if os.path.isdir(args.input):
+        wav_fps = glob(os.path.join(args.input, "*.wav"))
+        for wav_fp in wav_fps:
+            annotate_file(args, asr_pipe, drz_pipe, wav_fp)
+        return 0
+
+    annotate_file(args, asr_pipe, drz_pipe, args.input)
+    return 0
+
+def annotate_file(args, asr_pipe, drz_pipe, wav_fp):
+    print("Annotating file", wav_fp)
+    eaf = Elan.Eaf()
+    eaf.add_linked_file(wav_fp)
+    wav = load_and_resample(wav_fp)
+    if args.strategy=='drz-first':
+        eaf = drz_first(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
             )
-        elif args.strategy=='asr-first':
-            eaf = asr_first(
+    elif args.strategy=='asr-first':
+        eaf = asr_first(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
@@ -176,8 +184,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 asr_pipe=asr_pipe,
                 return_timestamps='word' if args.return_word_timestamps else True
             )
-        elif args.strategy=='multitier':
-            eaf = multitier(
+    elif args.strategy=='multitier':
+        eaf = multitier(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
@@ -185,22 +193,20 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
                 asr_pipe=asr_pipe,
                 return_timestamps='word' if args.return_word_timestamps else True
             )
-        else:
-            eaf = asr_only(
+    else:
+        eaf = asr_only(
                 wav=wav,
                 eaf=eaf,
                 asr_pipe=asr_pipe
             )
 
-        eaf_fp = wav_fp.replace('.wav', '.eaf')
-        eaf.to_file(eaf_fp)
-        txt_fp = wav_fp.replace('.wav', '.txt')
-        write_script(eaf, txt_fp)
+    eaf_fp = wav_fp.replace('.wav', '.eaf')
+    eaf.to_file(eaf_fp)
+    txt_fp = wav_fp.replace('.wav', '.txt')
+    write_script(eaf, txt_fp)
 
-        print("Saved ELAN annotations to", eaf_fp)
-        print("Saved text annotations to", txt_fp)
-
-    return 0
+    print("Saved ELAN annotations to", eaf_fp)
+    print("Saved text annotations to", txt_fp)
 
 def asr_only(
         wav: torch.Tensor,
