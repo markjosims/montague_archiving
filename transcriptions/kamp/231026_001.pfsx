@@ -46,10 +46,10 @@
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>12535</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>25802</Long>
+        <Long>4035</Long>
     </pref>
     <pref key="SelectionEndTime">
         <Long>0</Long>
