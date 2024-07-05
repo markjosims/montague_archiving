@@ -273,7 +273,7 @@ def multitier(
     speakers = diarization.labels()
     for speaker in speakers:
         eaf.add_tier(speaker)
-        speaker_timeline = diarization.label_timeline()
+        speaker_timeline = diarization.label_timeline(speaker)
         for segment in speaker_timeline:
             start_ms = sec_to_ms(segment.start)
             end_ms = sec_to_ms(segment.end)
