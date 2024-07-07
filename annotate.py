@@ -134,6 +134,9 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-w", "--return_word_timestamps", action='store_true'
     )
+    parser.add_argument(
+        "-r", "--recursive", action="store_true"
+    )
     parser.add_argument('-b', "--asr_batch_size", type=int, default=8)
     return parser
 
@@ -154,7 +157,11 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         drz_pipe.to(torch.device(args.device))
 
     if os.path.isdir(args.input):
-        wav_fps = glob(os.path.join(args.input, "*.wav"))
+        if args.recursive:
+            glob_str = os.path.join(args.input, "**", "*.wav")
+        else:
+            glob_str = os.path.join(args.input, "*.wav")
+        wav_fps = glob(glob_str, recursive=args.recursive)
         for wav_fp in wav_fps:
             annotate_file(args, asr_pipe, drz_pipe, wav_fp)
         return 0
