@@ -98,6 +98,16 @@ def get_segment_slice(
     end_idx = sec_to_samples(segment.end)
     return audio[:,start_idx:end_idx]
 
+def fix_whisper_timestamps(start: float, end: float, wav: torch.Tensor):
+    if end is None:
+        # whisper may not predict an end timestamp for the last chunk in the recording
+        end = len(wav[0])/SAMPLE_RATE
+    if end<=start:
+        # Whisper may predict 0 length for short speech turns
+        # default to setting length of 200ms
+        end=start+200
+    return start, end
+
 """
 Main script
 """
@@ -224,9 +234,8 @@ def asr_only(
     chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
     for chunk in chunks:
         start, end = chunk['timestamp']
-        if end is None:
-            # whisper may not predict an end timestamp for the last chunk in the recording
-            end = len(wav[0])/SAMPLE_RATE
+        start, end = fix_whisper_timestamps(start, end, wav)
+
         text = chunk['text']
         eaf.add_annotation("default", sec_to_ms(start), sec_to_ms(end), text)
     return eaf
@@ -248,9 +257,8 @@ def asr_first(
 
     for chunk in chunks:
         start, end = chunk['timestamp']
-        if end is None:
-            # whisper may not predict an end timestamp for the last chunk in the recording
-            end = len(wav[0])/SAMPLE_RATE
+        start, end = fix_whisper_timestamps(start, end, wav)
+
         text = chunk['text']
         speaker = diarization.argmax(Segment(start, end))
         if not speaker:
@@ -272,14 +280,8 @@ def multitier(
 
     for chunk in chunks:
         start, end = chunk['timestamp']
-        if end is None:
-            # whisper may not predict an end timestamp for the last chunk in the recording
-            end = len(wav[0])/SAMPLE_RATE
+        start, end = fix_whisper_timestamps(start, end, wav)
         text = chunk['text']
-        if end<=start:
-            # Whisper may predict 0 length for short speech turns
-            # default to setting length of 200ms
-            end=start+200
         eaf.add_annotation('asr', sec_to_ms(start), sec_to_ms(end), text)
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
