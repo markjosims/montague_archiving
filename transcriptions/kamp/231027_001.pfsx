@@ -14,13 +14,13 @@
         <String>Modification Date</String>
     </prefList>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1358,814</Object>
+        <Object class="java.awt.Dimension">1358,638</Object>
     </pref>
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">1529,19</Object>
+        <Object class="java.awt.Point">156,0</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
@@ -29,7 +29,7 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>3985000</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -43,13 +43,13 @@
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3982005</Long>
+        <Long>7033905</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>3991000</Long>
+        <Long>7038175</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>3991000</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="default">
