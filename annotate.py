@@ -274,7 +274,7 @@ def annotate_file(args, asr_pipe, drz_pipe, wav_fp, generate_kwargs):
     eaf_fp = wav_fp.replace('.wav', '.eaf')
     eaf.to_file(eaf_fp)
     txt_fp = wav_fp.replace('.wav', '.txt')
-    write_script(eaf, txt_fp)
+    write_script(eaf, txt_fp, merge_turns=args.strategy!='asr-only')
 
     print("Saved ELAN annotations to", eaf_fp)
     print("Saved text annotations to", txt_fp)

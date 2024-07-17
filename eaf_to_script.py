@@ -15,7 +15,7 @@ def human_time_to_ms(timestr: str) -> int:
     hours, minutes, seconds = (int(n) for n in timestr.split(sep=':'))
     return 1000 * (hours*3600+minutes*60+seconds)
 
-def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
+def write_script(eaf: Union[str, Elan.Eaf], out_fp: str, merge_turns: bool=True) -> str:
     if type(eaf) is str:
         eaf = Elan.Eaf(eaf)
     turns = []
@@ -24,10 +24,11 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
         annotations = eaf.get_annotation_data_for_tier(speaker)
         for start, end, val in annotations:
             turns.append({'start': start, 'end': end, 'text': val, 'speaker': speaker})
-    merged_turns = merge_turn_list(turns)
+    if merge_turns:
+        turns = merge_turn_list(turns)
 
     with open(out_fp, 'w') as f:
-        for turn in merged_turns:
+        for turn in turns:
             speaker = turn['speaker']
             start = ms_to_human_time(turn['start'])
             end = ms_to_human_time(turn['end'])
