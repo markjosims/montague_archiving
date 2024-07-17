@@ -15,7 +15,12 @@ def human_time_to_ms(timestr: str) -> int:
     hours, minutes, seconds = (int(n) for n in timestr.split(sep=':'))
     return 1000 * (hours*3600+minutes*60+seconds)
 
-def write_script(eaf: Union[str, Elan.Eaf], out_fp: str, merge_turns: bool=True) -> str:
+def write_script(
+        eaf: Union[str, Elan.Eaf],
+        out_fp: str,
+        merge_turns: bool=True,
+        keep_line_breaks=True,
+    ) -> str:
     if type(eaf) is str:
         eaf = Elan.Eaf(eaf)
     turns = []
@@ -25,7 +30,7 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str, merge_turns: bool=True)
         for start, end, val in annotations:
             turns.append({'start': start, 'end': end, 'text': val, 'speaker': speaker})
     if merge_turns:
-        turns = merge_turn_list(turns)
+        turns = merge_turn_list(turns, keep_line_breaks=keep_line_breaks)
 
     with open(out_fp, 'w') as f:
         for turn in turns:
