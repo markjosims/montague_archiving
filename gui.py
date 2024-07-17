@@ -1,7 +1,6 @@
-from argparse import ArgumentParser
 from annotate import annotate, DIARIZE_URI, DEVICE
 from typing import Optional, Sequence
-from gooey import Gooey
+from gooey import Gooey, GooeyParser
 import torch
 
 ASR_CHOICES = [
@@ -12,9 +11,14 @@ ASR_CHOICES = [
     "openai/whisper-large-v3",
 ]
 
-def init_parser() -> ArgumentParser:
-    parser = ArgumentParser("Annotation runner")
-    parser.add_argument("-i", "--input", help=".wav file or directory of .wav files to annotate")
+def init_parser() -> GooeyParser:
+    parser = GooeyParser()
+    parser.add_argument(
+        "-i",
+        "--input",
+        help=".wav file or directory of .wav files to annotate",
+        widget='DirChooser',
+    )
     parser.add_argument(
         "-s",
         "--strategy",
