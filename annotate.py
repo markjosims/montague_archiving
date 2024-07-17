@@ -152,7 +152,7 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-D", "--device",
         default=DEVICE,
-        help=f"Device to run GPU on. Default {torch.device(DEVICE)}",
+        help=f"Device to run model on. Default {torch.device(DEVICE)}",
     )
     parser.add_argument(
         "-c",
@@ -189,7 +189,10 @@ def init_parser() -> ArgumentParser:
 def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = init_parser()
     args = parser.parse_args(argv)
+    return annotate(args)
 
+
+def annotate(args) -> int:
     print(f"Initializing ASR pipeline from URI {args.asr_model}...")
     asr_pipe = pipeline(
         "automatic-speech-recognition",
