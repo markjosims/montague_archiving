@@ -1,6 +1,6 @@
 from typing import Optional, Sequence, Dict, List, Union
 from argparse import ArgumentParser
-from transformers import Pipeline, pipeline
+from transformers import Pipeline, pipeline, WhisperTokenizer
 from pyannote.audio import Pipeline as PyannotePipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
 from pyannote.core import Segment
@@ -31,7 +31,7 @@ def perform_asr(
         pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
     if type(audio) is torch.Tensor:
         audio = np.array(audio[0,:])
-    result = pipe(audio, **kwargs)
+    result = pipe(audio,**kwargs)
     return result
 
 def diarize(
@@ -197,6 +197,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         device=args.device,
         chunk_length_s=args.chunk_length_s,
     )
+    tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
+    forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
     if args.strategy != "asr-only":
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
         drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
@@ -209,13 +211,25 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             glob_str = os.path.join(args.input, "*.wav")
         wav_fps = glob(glob_str, recursive=args.recursive)
         for wav_fp in wav_fps:
-            annotate_file(args, asr_pipe, drz_pipe, wav_fp)
+            annotate_file(
+                args,
+                asr_pipe,
+                drz_pipe,
+                wav_fp,
+                generate_kwargs={'forced_decoder_ids': forced_decoder_ids}
+            )
         return 0
 
-    annotate_file(args, asr_pipe, drz_pipe, args.input)
+    annotate_file(
+        args,
+        asr_pipe,
+        drz_pipe,
+        args.input,
+        generate_kwargs={'forced_decoder_ids': forced_decoder_ids}
+    )
     return 0
 
-def annotate_file(args, asr_pipe, drz_pipe, wav_fp):
+def annotate_file(args, asr_pipe, drz_pipe, wav_fp, generate_kwargs):
     print("Annotating file", wav_fp)
     eaf = Elan.Eaf()
     eaf.add_linked_file(wav_fp)
@@ -227,6 +241,7 @@ def annotate_file(args, asr_pipe, drz_pipe, wav_fp):
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
+                generate_kwargs=generate_kwargs,
             )
     elif args.strategy=='asr-first':
         eaf = asr_first(
@@ -235,7 +250,8 @@ def annotate_file(args, asr_pipe, drz_pipe, wav_fp):
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
-                return_timestamps='word' if args.return_word_timestamps else True
+                generate_kwargs=generate_kwargs,
+                return_timestamps='word' if args.return_word_timestamps else True,
             )
     elif args.strategy=='multitier':
         eaf = multitier(
@@ -244,13 +260,15 @@ def annotate_file(args, asr_pipe, drz_pipe, wav_fp):
                 num_speakers=args.num_speakers,
                 drz_pipe=drz_pipe,
                 asr_pipe=asr_pipe,
-                return_timestamps='word' if args.return_word_timestamps else True
+                generate_kwargs=generate_kwargs,
+                return_timestamps='word' if args.return_word_timestamps else True,
             )
     else:
         eaf = asr_only(
                 wav=wav,
                 eaf=eaf,
-                asr_pipe=asr_pipe
+                asr_pipe=asr_pipe,
+                generate_kwargs=generate_kwargs,
             )
 
     eaf_fp = wav_fp.replace('.wav', '.eaf')
