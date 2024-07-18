@@ -90,6 +90,9 @@ def init_parser() -> GooeyParser:
         help=f"Device to run model on. Default {torch.device(DEVICE)}",
         choices=['cuda', 'cpu']
     )
+    parser.add_argument(
+        '--file_extension', '-x', default='.mp3', choices=['.wav', '.mp3']
+    )
     return parser
 
 @Gooey

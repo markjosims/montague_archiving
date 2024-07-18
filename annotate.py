@@ -184,6 +184,9 @@ def init_parser() -> ArgumentParser:
         type=int, default=8,
         help="Inference batch size for ASR. Default 8."
     )
+    parser.add_argument(
+        '--file_extension', '-x', default='.mp3',
+    )
     return parser
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -206,19 +209,23 @@ def annotate(args) -> int:
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
         drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
         drz_pipe.to(torch.device(args.device))
+    else:
+        drz_pipe=None
 
     if os.path.isdir(args.input):
         if args.recursive:
-            glob_str = os.path.join(args.input, "**", "*.wav")
+            glob_str = os.path.join(args.input, "**", "*" + args.file_extension)
         else:
-            glob_str = os.path.join(args.input, "*.wav")
-        wav_fps = glob(glob_str, recursive=args.recursive)
-        for wav_fp in wav_fps:
+            glob_str = os.path.join(args.input, "*" + args.file_extension)
+        # search for both lower and upper cased extensions
+        glob_str_upper = glob_str.replace(args.file_extension, args.file_extension.upper())
+        audio_fps = glob(glob_str, recursive=args.recursive) + glob(glob_str_upper, recursive=args.recursive)
+        for audio_fp in audio_fps:
             annotate_file(
                 args,
                 asr_pipe,
                 drz_pipe,
-                wav_fp,
+                audio_fp,
                 generate_kwargs={'forced_decoder_ids': forced_decoder_ids}
             )
         return 0
