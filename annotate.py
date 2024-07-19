@@ -214,9 +214,9 @@ def annotate(args) -> int:
 
     if os.path.isdir(args.input):
         if args.recursive:
-            glob_str = os.path.join(args.input, "**", "*" + args.file_extension)
+            glob_str = os.path.join(args.input, "**", "*" + args.file_extension.lower())
         else:
-            glob_str = os.path.join(args.input, "*" + args.file_extension)
+            glob_str = os.path.join(args.input, "*" + args.file_extension.lower())
         # search for both lower and upper cased extensions
         glob_str_upper = glob_str.replace(args.file_extension, args.file_extension.upper())
         audio_fps = glob(glob_str, recursive=args.recursive) + glob(glob_str_upper, recursive=args.recursive)
