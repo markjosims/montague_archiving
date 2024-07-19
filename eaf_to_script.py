@@ -32,7 +32,7 @@ def write_script(
     if merge_turns:
         turns = merge_turn_list(turns, keep_line_breaks=keep_line_breaks)
 
-    with open(out_fp, 'w') as f:
+    with open(out_fp, 'w', encoding='utf-8') as f:
         for turn in turns:
             speaker = turn['speaker']
             start = ms_to_human_time(turn['start'])
