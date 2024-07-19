@@ -20,7 +20,7 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">1529,19</Object>
+        <Object class="java.awt.Point">1506,19</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
@@ -29,7 +29,7 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>9572085</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -43,13 +43,13 @@
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>9571675</Long>
+        <Long>10301485</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>9572095</Long>
+        <Long>10309563</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>9572095</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="default">
