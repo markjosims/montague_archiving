@@ -66,9 +66,9 @@ def get_ipa_labels(elan_fp: str) -> List[Dict[str, Union[str, float]]]:
     ipa_labels = [{'start': a[0], 'end': a[1], 'value': a[2]} for a in ipa_tuples]
     return ipa_labels
     
-def convert_media_suffix(media_fp: str) -> str:
+def change_file_suffix(media_fp: str, ext: str) -> str:
     media_suff = os.path.splitext(media_fp)[-1]
-    wav_fp = media_fp.replace(media_suff, '.wav')
+    wav_fp = media_fp.replace(media_suff, ext)
     return wav_fp
 
 """
@@ -248,7 +248,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
     eaf = Elan.Eaf()
 
     # ELAN does not accept .mp3 media files
-    wav_fp = convert_media_suffix(audio_fp)
+    wav_fp = change_file_suffix(audio_fp, '.wav')
     eaf.add_linked_file(wav_fp)
     wav = load_and_resample(audio_fp)
     if args.strategy=='drz-first':
@@ -288,9 +288,9 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 generate_kwargs=generate_kwargs,
             )
 
-    eaf_fp = audio_fp.replace('.wav', '.eaf')
+    eaf_fp = change_file_suffix(audio_fp, '.eaf')
     eaf.to_file(eaf_fp)
-    txt_fp = audio_fp.replace('.wav', '.txt')
+    txt_fp = change_file_suffix(audio_fp, '.txt')
     write_script(
         eaf,
         txt_fp,
