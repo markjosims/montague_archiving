@@ -15,7 +15,7 @@ from tqdm import tqdm
 
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
-ASR_URI = "openai/whisper-large-v3"
+ASR_URI = "openai/whisper-large-v2"
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 
 """
@@ -66,6 +66,10 @@ def get_ipa_labels(elan_fp: str) -> List[Dict[str, Union[str, float]]]:
     ipa_labels = [{'start': a[0], 'end': a[1], 'value': a[2]} for a in ipa_tuples]
     return ipa_labels
     
+def convert_media_suffix(media_fp: str) -> str:
+    media_suff = os.path.splitext(media_fp)[-1]
+    wav_fp = media_fp.replace(media_suff, '.wav')
+    return wav_fp
 
 """
 Audio handling methods
@@ -239,11 +243,14 @@ def annotate(args) -> int:
     )
     return 0
 
-def annotate_file(args, asr_pipe, drz_pipe, wav_fp, generate_kwargs):
-    print("Annotating file", wav_fp)
+def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
+    print("Annotating file", audio_fp)
     eaf = Elan.Eaf()
+
+    # ELAN does not accept .mp3 media files
+    wav_fp = convert_media_suffix(audio_fp)
     eaf.add_linked_file(wav_fp)
-    wav = load_and_resample(wav_fp)
+    wav = load_and_resample(audio_fp)
     if args.strategy=='drz-first':
         eaf = drz_first(
                 wav=wav,
@@ -281,9 +288,9 @@ def annotate_file(args, asr_pipe, drz_pipe, wav_fp, generate_kwargs):
                 generate_kwargs=generate_kwargs,
             )
 
-    eaf_fp = wav_fp.replace('.wav', '.eaf')
+    eaf_fp = audio_fp.replace('.wav', '.eaf')
     eaf.to_file(eaf_fp)
-    txt_fp = wav_fp.replace('.wav', '.txt')
+    txt_fp = audio_fp.replace('.wav', '.txt')
     write_script(
         eaf,
         txt_fp,
