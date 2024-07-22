@@ -15,7 +15,7 @@ from tqdm import tqdm
 
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
-ASR_URI = "openai/whisper-large-v3"
+ASR_URI = "openai/whisper-large-v2"
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 
 """
