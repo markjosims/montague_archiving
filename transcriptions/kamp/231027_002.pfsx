@@ -20,7 +20,7 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">1506,19</Object>
+        <Object class="java.awt.Point">1529,19</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
@@ -29,37 +29,37 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>0</Long>
+        <Long>1856460</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>C:/projects/montague_archiving/data/231027_001.wav</String>
+            <String>C:/projects/montague_archiving/data/231027_002.wav</String>
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>10301485</Long>
+        <Long>1963645</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>10309563</Long>
+        <Long>1969815</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>0</Long>
+        <Long>1867000</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="default">
-            <Object class="java.awt.Color">0,160,90</Object>
+            <Object class="java.awt.Color">160,90,0</Object>
         </pref>
         <pref key="SPEAKER_00">
-            <Object class="java.awt.Color">90,0,160</Object>
+            <Object class="java.awt.Color">160,0,90</Object>
         </pref>
         <pref key="SPEAKER_01">
-            <Object class="java.awt.Color">90,0,0</Object>
+            <Object class="java.awt.Color">0,160,160</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
@@ -68,7 +68,7 @@
         <String>SPEAKER_01</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>71</Int>
+        <Int>69</Int>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>

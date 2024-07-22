@@ -15,7 +15,12 @@ def human_time_to_ms(timestr: str) -> int:
     hours, minutes, seconds = (int(n) for n in timestr.split(sep=':'))
     return 1000 * (hours*3600+minutes*60+seconds)
 
-def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
+def write_script(
+        eaf: Union[str, Elan.Eaf],
+        out_fp: str,
+        merge_turns: bool=True,
+        keep_line_breaks=True,
+    ) -> str:
     if type(eaf) is str:
         eaf = Elan.Eaf(eaf)
     turns = []
@@ -24,10 +29,11 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
         annotations = eaf.get_annotation_data_for_tier(speaker)
         for start, end, val in annotations:
             turns.append({'start': start, 'end': end, 'text': val, 'speaker': speaker})
-    merged_turns = merge_turn_list(turns)
+    if merge_turns:
+        turns = merge_turn_list(turns, keep_line_breaks=keep_line_breaks)
 
-    with open(out_fp, 'w') as f:
-        for turn in merged_turns:
+    with open(out_fp, 'w', encoding='utf-8') as f:
+        for turn in turns:
             speaker = turn['speaker']
             start = ms_to_human_time(turn['start'])
             end = ms_to_human_time(turn['end'])
@@ -35,7 +41,8 @@ def write_script(eaf: Union[str, Elan.Eaf], out_fp: str) -> str:
             f.write(turn['text'])
             f.write("\n\n")
 
-def merge_turn_list(turns: List[Dict[str, str]]) -> List[Dict[str, str]]:
+def merge_turn_list(turns: List[Dict[str, str]], keep_line_breaks=True) -> List[Dict[str, str]]:
+    joinstr = '\n\n' if keep_line_breaks else ' '
     turns = sorted(turns, key=lambda d:d['start'])
     merged_turns = []
     i=0
@@ -44,18 +51,18 @@ def merge_turn_list(turns: List[Dict[str, str]]) -> List[Dict[str, str]]:
         next_turn = turns[i+1] if i<len(turns)-1 else None
         i+=1
         while next_turn and (turn['speaker'] == next_turn['speaker']):
-            turn = merge_turn_pair(turn, next_turn)
+            turn = merge_turn_pair(turn, next_turn, joinstr)
             next_turn = turns[i+1] if i<len(turns)-1 else None
             i+=1
         merged_turns.append(turn)
     
     return merged_turns
 
-def merge_turn_pair(turn1: Dict[str, str], turn2: Dict[str, str]) -> Dict[str, str]:
+def merge_turn_pair(turn1: Dict[str, str], turn2: Dict[str, str], joinstr: str) -> Dict[str, str]:
     merged_turn = {}
     merged_turn['start'] = turn1['start']
     merged_turn['end'] = turn2['end']
-    merged_turn['text'] = ' '.join([turn1['text'], turn2['text']])
+    merged_turn['text'] = joinstr.join([turn1['text'], turn2['text']])
     merged_turn['speaker'] = turn1['speaker']
 
     return merged_turn

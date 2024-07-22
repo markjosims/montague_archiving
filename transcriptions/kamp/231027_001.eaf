@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2024-07-08T10:09:39-08:00"
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2024-07-18T17:16:25-08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -12108,7 +12108,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1326"
                 TIME_SLOT_REF1="ts2649" TIME_SLOT_REF2="ts2650">
-                <ANNOTATION_VALUE> One was the Pfeffermann book, of course.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> One was the Fefermann book, of course.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12126,7 +12126,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1329"
                 TIME_SLOT_REF1="ts2655" TIME_SLOT_REF2="ts2656">
-                <ANNOTATION_VALUE> So, for sure, it's the Pfeffermann project, the book with Pfeffermann, the book with Scott and Tarski.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> So, for sure, it's the Fefermann project, the book with Fefermann, the book with Scott and Tarski.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12198,13 +12198,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1341"
                 TIME_SLOT_REF1="ts2679" TIME_SLOT_REF2="ts2680">
-                <ANNOTATION_VALUE> unlike the one with Fefferman.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> unlike the one with Feferman.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1342"
                 TIME_SLOT_REF1="ts2681" TIME_SLOT_REF2="ts2682">
-                <ANNOTATION_VALUE> I think the one with Fefferman was not going anywhere and he had already... Let's see the slides...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> I think the one with Feferman was not going anywhere and he had already... Let's see the slides...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12498,7 +12498,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1391"
                 TIME_SLOT_REF1="ts2779" TIME_SLOT_REF2="ts2780">
-                <ANNOTATION_VALUE> the one with Fefferman, the one with Perry Smith.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> the one with Feferman, the one with Perry Smith.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15852,7 +15852,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1954"
                 TIME_SLOT_REF1="ts3905" TIME_SLOT_REF2="ts3906">
-                <ANNOTATION_VALUE> also about to file his MA thesis with Tarski. The memory of Fefferman who was the TA in the class that Montague and Dana were taking that semester at Berkeley.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> also about to file his MA thesis with Tarski. The memory of Feferman who was the TA in the class that Montague and Dana were taking that semester at Berkeley.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
