@@ -1,0 +1,1025 @@
+IC: 0:00:00-0:02:38
+This is the class on Introduction to Set Theory that Tarski was teaching.
+And from that you start elaborating on the influence that Tarski had on Montague, including his style in particular.
+You suggested that, as you said, you were speculating on the fact that Montague may have learned from Tarski to teach in a certain way, also to interact in a certain way.
+For example, you were mentioning that episode of a student in Tarski's class that could not really get it.
+And Tarski would not give up, basically.
+It would almost torture him.
+And you had heard that Richard was similar in this respect.
+So this started from our, like, talking about you meeting Richard in Tarski's class and then how Richard was somehow sensitive or absorbed from Tarski even more than other students.
+I mean, it sounds like Tarski was definitely a charismatic figure.
+Many people would be influenced by him intellectually, but also in terms of behavior, or maybe trying to imitate his behavior.
+And Richard was definitely one of the strongest ones at this point.
+
+SF:
+Yes, yes.
+
+IC:
+And so, one question that I had based on what you said, and actually what you didn't say, is that at that time, so your interaction with Richard was minimal, I assume, because soon you left, in the sense that, so that was fall 1952 when you were TAing for that class, and if I remember the dates correctly, you were drafted in summer 53?
+
+SF:
+September 53.
+
+IC:
+September 53.
+So basically that was your last academic year.
+(Yeah.)
+And do you remember after that class any interaction with Richard?
+(No.)
+Uh-huh.
+Did you see him around?
+Do you remember if he would be around?
+
+SF:
+So we looked up the seminar with mates on Carnap.
+That was earlier than...
+
+IC:
+
+Yeah, that was earlier because I think I have the records here.
+So we don't know...
+Tarski...
+
+SF:
+I remember Tarski recommending me and others to go to the seminar, but I somehow thought that it was Dana and Richard, but it could not have been.
+
+IC:
+No, because we look at the dates and I think you took it, based on your records, I think it was something like 1950 maybe, is that possible, 1951?
+
+SF: 0:02:38-0:02:39
+1951, yeah.
+
+IC: 0:02:39-0:10:29
+Yeah, I have a try and I went to check what they were taking because the...
+What happened is that at that time Richard had graduated in philosophy already and he was taking all those classes in mathematics because he was doing his MA in mathematics.
+So it was not taking classes then.
+Let's see, it's under material, transcripts, UCB.
+
+SF:
+Well, that's not important.
+
+IC:
+Yeah, that's okay.
+So, but...
+
+SF:
+So the question is what happens when I come back in 55?
+
+IC:
+Yes, exactly.
+Yeah, that's the question.
+
+SF:
+Richard has already gone to UCLA.
+
+IC:
+Yes.
+
+SF:
+And I don't remember when we started talking about doing this book together.
+Certainly by summer of 1957 when we were both at the Cornell big summer conference.
+
+IC:
+I have a letter from you, 1957, after the Cornell.
+
+SF:
+Uh-huh.
+A letter from who to who?
+
+IC:
+From you to Richard.
+
+SF:
+About?
+
+IC:
+About the book.
+Yeah.
+So you remember very well, yeah.
+
+SF:
+And what's the date on the letter?
+
+IC:
+I think it was right after, was it like sometimes in the fall, 1957?
+(Uh-huh.)
+And you were suggesting some possible dates to meet, so you know we should talk about it.
+Keep talking, I'll find it, yeah, don't worry.
+
+SF:
+So that suggests that we didn't start talking about the book until Cornell and that we didn't have significant contact again until Cornell
+
+IC:
+Because so the...
+here it is...
+Summer Fellowship Application to [Salina???, 5:15] in 1957...
+yeah so I'll tell you in a moment what the letter says...
+So your interaction with Montague became more intense because of the book.
+
+SF:
+Yeah I'd be interested to hear what the letter says.
+
+IC:
+Yeah, I'll show it to you in a moment.
+So I need to go folder to 710.
+It's 2013, 723.
+Okay, 710, here it is.
+I mean, I don't know.
+I know it's in this folder but let me just go to, that looks like a letter, because I saw it the other day when I was going through this and that's where I also found, it was right before the letter that I sent you, so I know it's here, (unintelligible).
+Where is it?
+710...
+
+SF:
+Excuse me.
+
+IC:
+Oh, please.
+Sorry.
+
+SF:
+Meanwhile we're recording but we're not recording.
+
+IC:
+It's okay, don't worry.
+Oh, is this one...
+No, this is Benson Mates.
+Oh, this is Richard's hiring.
+I think it was right here this is okay that's all.
+I should have kept it separate.
+
+SF:
+But unless we have more correspondence I can't tell you how often I saw Richard?
+
+IC:
+So one question that I had for you is, you do not have any letters from Richard?
+
+SF:
+I don't think so.
+I mean, I have a file of stuff at Stanford, but a couple of files and they're pretty, pretty messy.
+
+IC:
+But I was asking in general, you know, would you, like at a certain point, you know, what would you do with your letters?
+Would you throw them away, like letters that you received?
+
+SF:
+No, no, I kept letters.
+
+IC:
+Sorry, so I'll look for it later.
+I mean, I'd say, should I put it aside?
+
+SF:
+So, I should promise to look for correspondence with Richard.
+
+IC:
+Because what I have in Richard's, from Richard's material, most of the time when he writes to you, well, I have your reply.
+Because Richard would keep copies when the things were more official.
+But with friends, not all the time he would keep copies.
+I don't know if that meant that he wrote you like spontaneously, you know, without having a copy and changing that copy.
+
+SF:
+So, I don't have specific memories.
+We did correspond, as I recall, with some regularity, but when I say that it might be every few months or so on.
+We exchanged drafts with some regularity too, up to a certain point.
+And then already in...
+It was already clear by 1960, I think, that we needed to publish our own work, give an account of our own work separately, not wait for the book.
+
+IC:
+Was this something that, when you say it was already clear, was in the sense that you realized that the book was taking too long?
+
+SF:
+Yes.
+
+IC:
+Okay, so that was the, like, and so, you know, "These are results that we want to publish."
+Is this something that you discuss with Richard or is it something that matured in your mind and then maybe independently in Richard's mind?
+Like the idea that the results should be published and without waiting for the book.
+Do you have a sense of any discussion with Richard about it?
+
+SF:
+No, unfortunately.
+
+IC:
+Because from a certain point of view, don't you think that by publishing the results separately, that would have reduced the value of the book.
+
+SF:
+Exactly.
+
+IC: 0:10:29-0:10:35
+Okay.
+Sorry, Sol, I cannot find it.
+
+SF:
+Well, that's in affect what I wrote him...
+
+IC:
+Later in the letter, yeah.
+(Later.)
+The one to the publisher where you were explaining, yeah.
+But it sounds like by making that decision, well, by realizing the book was taking forever, and by saying, "Look, these results have to be published", you were already going in that kind of direction.
+
+SF:
+Yes.
+Well, I don't know what more there is to say about that.
+I mean, we did a lot of serious effort on the book, that's for sure.
+And we had a number of draft chapters, that's for sure.
+
+
+IC:
+You think you still have them?
+
+SF:
+That's not for sure.
+(Laughter.)
+It's quite possible, and I'd really have to do a big hunt.
+
+
+IC:
+Oh, don't worry, it's okay.
+
+SF:
+Yeah.
+
+IC:
+I mean, if at any time you run into them, let me know.
+
+SF:
+I did find from...
+I took notes of Tarski's metamathematics course, either the first or second time.
+I think the second time I was already TAing, but I think these were from the first time.
+So that surprised me when I found those.
+Unfortunately, I never kept very good organized files.
+They were rather haphazard.
+And when I changed offices, for a long time I had this nice big office in mathematics and things were filed there reasonably well.
+But when I changed office to a smaller desk with a not as good file system a lot of that got mixed up.
+But stuff may be there in cartons and just something I would have to look through at some point.
+I don't know what value there would be in looking for those.
+Looking for the correspondence, looking for the...
+
+
+IC:
+If you need any help, I'd be very happy to help you with that.
+One question that I have for you...
+
+SF:
+Well, maybe...
+
+
+IC:
+Oh, here it is.
+That's all your...
+
+SF:
+Oh, yeah.
+What if we met Tuesday afternoon?
+
+IC:
+Tuesday afternoon, sure.
+But that's before your presentation.
+
+SF:
+Yeah, that's alright.
+
+IC: 0:13:52-0:25:54
+Are you okay?
+
+SF:
+Yeah.
+
+IC:
+Sure?
+Tuesday I don't have anything scheduled except, let me double check, but it's except your presentation.
+So I don't even have any appointment at Cosbus I believe?
+Yes, Tuesday, Logic Seminar, that's the only thing that I have.
+
+SF:
+If we met...
+The thing about Tuesday that I don't like is the gardeners come and usually...
+
+IC:
+Don't worry, I know you want to be here for like, yeah, yeah, don't worry.
+
+SF:
+So not Tuesday afternoon.
+And things are getting pretty crowded, but maybe Wednesday or Thursday afternoon?
+
+IC:
+Sure.
+I mean like Thursday.
+
+SF:
+If I can, maybe I'll try to get into my office a little early on Tuesday and just take a quick run through to see.
+
+IC:
+Yeah, I mean, on Thursday afternoon I'll be on campus at 4pm.
+My colleague from University of Maryland is giving a talk at Stanford and so I was planning to go to her talk.
+So I'll be on campus and if you are available I can come earlier (Okay) but don't worry. 
+SF:
+I know I made a date Thursday afternoon with somebody at 2.30 and you're going to the talk?
+
+IC:
+The talk is at 4 p.m.
+
+SF:
+4 p.m.
+
+IC:
+But also Sol I don't want to add one more thing don't worry!
+I'll be back you know, you're not going to get rid of me.
+At this point, I think it's becoming pretty clear...
+Also, probably, I may want to go and see the Gilbeaus again.
+And so...
+
+SF:
+See what?
+
+IC:
+The folks that I saw last night, Barbara and Bob, their last name is "Gilbeau".
+
+SF:
+How do you spell it?
+
+IC:
+G-I-L-B-E-A-U.
+
+SF:
+Oh, Gilbeau.
+
+IC:
+Gilbeau.
+So, actually, I may be back relatively early on in the summer, so you're not gonna get rid of me.
+
+Yeah, and I'll go over this material more, but one general question that I had, and when I find it later I'll send it to you, so that if you have any other thoughts, I want to look at you, I don't want to look at my computer now.
+
+But do you have any memory of what it meant to work with Richard, or any kind of thought that...
+First of all, was it easy, was it difficult?
+Second, did you ever thought like, "Okay, he's not getting it, or he's not understanding, or it is like..."
+Did you consider him an interlocutor, a co-author at the same level, or you felt that you were on two different levels?
+
+SF:
+So you know this relates a little to the preceding question about to what extent Tarski influenced Montague in terms of style and compared to how he influenced other students.
+For example, Bob Vaught was very influenced by Tarski in the way he would write a paper in terms of the organization, the precision.
+Tarski provided a model for publication that I followed to a certain extent, Vaught certainly followed, I think others, Chang, Kiesler, and that was very important.
+But the business about teaching style, especially seminar style, I think probably Richard was unique in taking it all the way and following Tarski all the way.
+
+I can't say for sure because I didn't attend the seminars of these other people, but knowing...
+I never heard of things like that for these others, and knowing their personalities, I would have thought it unlikely.
+It's possible, I don't know.
+Vaught could possibly have been influenced in that way too.
+
+Working with Richard was reasonable, except that in his writing he, I thought, was trying trying to be too precise and that he valued precision of a certain kind over exposition and making people understand what you're up to.
+Whereas somehow I thought I found a better balance in that respect.
+
+And if he sent me a draft, I doubt that I would have corrected him much on that.
+It's hard to, you know, when people are set up in a certain way, it's hard to get them to change.
+So there wasn't going to be a unanimity of style.
+There was not going to be.
+So, more it was a question of content and organization.
+And we had, as I recall, a lot of exchange about that.
+
+I remember in particular that one thing that was crucial is a form of what's called Herbrand's Theorem, or subsequently Forms of Development, due to Genson, which showed that ordinarily in a proof system in mathematics, if you go from some simple axioms to a simple conclusion, you're not guaranteed that the whole proof is going to be simple.
+It could get very, very complicated in the middle.
+And what Herbrand and Genson showed is that even so, if you have a proof where the conclusion is simple, the hypotheses are simple, you can reduce the proof to a form in which everything in it is simple.
+And that meant that you wouldn't have to...
+
+Well, let me step back.
+So the technique that Montague got from Mastowski and others to show that you couldn't replace the axioms of Set Theory by a finite set of axioms was to show that if you used only a finite set of axioms to prove a specific theorem, then the complexity of what you had, you could arrange to find a proof which is no more complicated than the axioms that you started with and the sentence that you ended with.
+
+In particular, to prove the consistency of that finite set of axioms, you would only have to work with formulas of that finite set of axioms you would only have to work with formulas of that complexity and for that you would only need to use a partial, what's called a partial truth definition, where you don't have to have the notion of truth for all formulas of the system but only of formulas up to a certain complexity.
+
+
+IC:
+So this is a result that he was using from somebody else?
+
+SF:
+He used from Mostowski.
+Yes.
+But what Richard later did was to show more complicated situations.
+Technically, his main result was that you had the axioms of what are called Zermelo Set Theory and then the axioms of Zermelo-Fraenkel Set Theory.
+And the axioms of Zermelo-Fraenkel Set Theory added something called the Replacement Axiom, which has a lot of instances of unbounded complexity.
+The axioms of Zermelo Set Theory also have axioms of unbounded complexity in the comprehension axiom.
+What Richard showed is that you can't get all of Zermelo-Fraenkel by adding to Zermelo set theory a finite set of axioms.
+
+So this technique that comes from Mostowski can't be used in a direct way.
+But more or less the basic axiom, the basic method goes back to Mostowski, and that is to show that from axioms of bounded complexity, you won't get a contradiction.
+You can show that those are consistent by showing that you can't prove zero equals one from them.
+And you show that by using a partial truth definition that only goes up to the bounded complexity.
+
+I'm gonna have to get some water.
+
+
+IC:
+Okay, all right.
+
+SF:
+What we wanted was a form of Herbrand's Theorem for that.
+If we tried to use Genson's work, it would mean changing the formalism away from standard formalization of logic in the form that Tarski used, which is also called a Hilbert-style formalization.
+And if we wanted to retain that, we would have to go back to something like Herbrand's Theorem.
+
+But Herbrand's proof was very special and kind of messy, and in fact in the end people found errors in it.
+So, although I didn't know it at the time, I tried to produce a new way of doing an Herbrand style theorem.
+So I remember that was one of the things I worked on a lot.
+I had drafts and I would show them to Richard and he would make comments on those and so on.
+
+IC: 0:25:55-0:29:39
+Those all concerned questions of consistency of axiom systems and the part that he wanted to make use of my work had to do with a part having to do with general notions of consistency of axiom systems.
+And not specifically this use of partial truth definitions, which would have been more in his part.
+So in that sense his part depended on my part.
+Not vice versa, although I could comment on things that he would send me about his part, the main issues in our exchanges were my part, including this form of Herbrand's Theorem that I came up with, but also the kind of material that was in my 1960 article on the Arithmetization of Metamathematics.
+
+My recollection is that those kinds of exchanges went well, they were reasonable, and that we could both do it by mail and we could do it together in a session or sessions when we were able to be together.
+
+The friction with Richard came later.
+
+IC:
+Sorry, can I stop you?
+Now that, because this is something that triggers some question.
+When you were having this, so here we are at the time in which you guys are having intellectual exchange, so it's before the friction.
+So, did you have the sense that Richard was a valid intellectual interlocutor?
+In the sense that, sure, he was somebody that had the necessary background to understand you.
+But there is a difference between, okay, he can understand me, but it's like a student.
+So the student understands what you're presenting, but he does not have the capacity of building a dialogue, giving suggestions, making criticism.
+Or did you have the sense that he was understanding what you were doing?
+Oh, sense that he was understanding what you were doing?
+
+SF:
+Oh no, he was understanding and we acted as equals.
+I don't think there was ever a sense that I was beyond him.
+
+
+IC:
+Oh no, no, like how you felt towards him, not something that you conveyed to him.
+
+SF:
+No, I didn't feel superior to him.
+No, I felt of all the material that we discussed there, certainly I thought he was equally in command of the material.
+
+
+IC:
+So he was a valid interlocutor.
+
+SF:
+Oh yes, yes.
+
+
+IC:
+So up to that point then it sounds like on the one hand he was a good interlocutor, somebody you could work with, and secondly sounds that at that point you were still believing in this enterprise.
+I mean you were working hard to develop the theorem and so on.
+ So at a certain point something changes.
+
+SF:
+Well, so our relations were always, I thought, good, cordial.
+I mean, I didn't consider Richard a buddy, but.
+
+IC:
+You call, sometimes you call him Dick.
+
+SF: 0:29:39-0:29:40
+Dick, yeah.
+
+IC: 0:29:40-0:35:52
+Yeah, yeah, yeah, so it's more like, which is only close friends would use that word.
+
+SF:
+Yeah, we were on a comfortable basis with each other.
+But I don't, people didn't so much hug each other in those days as they do nowadays.
+But there are clear differences in the kind of friendship you would have with your drinking friends and the kind that you would have with your work friends.
+He was a good work friend.
+
+IC:
+At that time, did you have any work friend who was also a friend?
+So we're talking about probably the late 50s, the early 60s, is that correct?
+The letter that I sent you is dated 1963.
+And there it really sounds that you're still working on the book actively.
+In fact, you're saying, you mentioned something about the book.
+So, would you, just as an element of comparison, was there a colleague or were there colleagues at that time that you would say, "Okay, he's a colleague, but he's also a friend."
+
+SF:
+ Yes.
+
+IC:
+So a drinking buddy, let's say, or whatever you want to call it.
+
+SF:
+Well, Bob Vaught.
+
+
+IC:
+Uh-huh, Bob Vaught.
+
+SF:
+And more significantly, Kreisel.
+
+IC:
+Kreisel, yes.
+
+SF:
+So in the case of Vaught, he was not a drinking buddy.
+Vaught had mental problems.
+When he was suffering from them, of course, it was impossible to really be in touch with him.
+But when he was okay, I thought we had a very nice, friendly relationship.
+Not a drinking buddy.
+Not in that kind of, not that kind of friend, but I felt very warmly toward him.
+
+I felt warmly toward Dick, too.
+Although, in a way, kind of amused by Dick in terms of his mannerisms and the peculiarities of his personality, whereas in the case of Vaught, I just took him straight and I thought we had a good relationship.
+
+But that was rather specific because it turned out, again probably from Cornell, that work that I had done prior to my thesis and work that he did in his thesis could be brought together and organized in a way that turned out to be pretty significant.
+This was the thing that I had wanted to talk about at Cornell that Tarsky said not to talk about, the joint work with Vaught.
+
+So I don't know at what point Bob realized what I had done and was able to put it together with what he had done.
+But I guess that was before Cornell because I remember that's the thing I wanted to talk about at Cornell.
+And Tarski said no, he wanted me to talk about Fraïssé's work instead, in addition to my own thesis work.
+
+So we gave two talks each.
+And the work on that paper, I thought was, I loved working with Bob on that paper, you know, but it was just one paper and we'd never worked together on anything else after that.
+We had nice relations after that whenever we would meet, whenever, I'd see him in Berkeley for a long period.
+At a certain point he got married and we had nice relations with him as a couple, him and Marilyn.
+
+But work was not a part of that as far as our interactions were concerned.
+Just I think we had a good feeling about each other.
+
+With Kreisel it was different because Kreisel was here, not all the time every year, but he was here every year.
+I first met Kreisel when I came back from the Army in 1955 and I was at Stanford in 1955-1956.
+I was at Berkeley 1955-1956 to do my last year of graduate studies.
+And at a certain point, Kreisel got in touch with me on the recommendation of Dana Scott.
+And in Anita's piece for the [Otto Freddy, ???, 36:12] volume, she talks about Kreisel on the telephone.
+
+IC: 0:35:52-0:35:54
+Yes, I read it, yes.
+
+SF: 0:35:54-0:43:53
+The way she introduces that.
+
+IC:
+She told me it was your father.
+
+SF:
+Yes, but we hit it off instantly, although he was way ahead of me, but he understood right away what I was concerned with in my thesis.
+He had good suggestions and he showed that he valued, he was one of the few people to recognize the value of what I did in my thesis before anyone else did.
+Really since I was working with Hankin that year while Tarski was away, it was also Hankin's reaction that was important and that was also demonstrated, both of them.
+But afterwards when I came to Stanford, I don't know if Tarski--if Kreisel came right away, but I think within a year or so.
+He would come for maybe a quarter or a quarter in the summer, different periods of time.
+He would spend every year lots of time visiting Stanford, and then he was appointed to Stanford.
+And I think he was appointed, so...
+John Myhill was at Stanford for a few years, and it may have been that, and John left because of changes in his personal life, and went to Buffalo, and it may have been that when Myhill left that Kreisel could have his position, his position in philosophy, but also joined with mathematics as was mine.
+
+IC:
+Was it a temporary position?
+Like, was it a temporary position in the sense, like, temporary in the sense that he would, part of, part-time position, he would be here just for part of the year?
+Because I thought he was still spending time in New York.
+
+SF:
+Yes, even--No, although he had a regular professorship, he would even so only spend part of the year.
+There were a lot of people doing that in subsequent years, Dr. [van Valsdaal, ???, 39:00] and Johann van Benthem and so on.
+So it's not uncommon, or there were people who had joint appointments with other departments, like Tom Wasow, appointment with linguistics.
+So that meant they weren't, they might be around for the full year, but they wouldn't necessarily be totally involved with philosophy.
+And I guess the same could be said of me, since my teaching was almost entirely in mathematics for a number of years.
+
+But he would come and go.
+But when he was away, we would correspond.
+He was one of the people who loved to write letter after letter after letter.
+Part of what's in those boxes under my files is a lot of correspondence from him.
+And when he was here, then we would just talk a lot.
+And I don't think there was maybe one paper, surprisingly, or two papers that we did together on all of this as joint publications.
+Maybe it was three.
+If you count one paper he did and wrote an appendix for, but there were two other papers.
+And mostly it would be the sort of thing where an idea, he would come up with a way of, come up with an essential idea and I would be the one to write the paper.
+And, unlike Tarski and unlike Montague, he didn't fuss so much about notation and rigor and formality and so on.
+His main concern was "What's the point of this paper?"
+Put it up front, put aims up front, give it a personal voice, don't spend a lot of time on symbolism and so on, but do the essentials, do the main thing.
+
+That was something I had to learn from him, and it's always been a struggle for me to combine what I learned from Tarski in the way of exposition to what I learned from Kreisel in the way of exposition.
+
+
+IC:
+Wouldn't this be a case in which you may be able to use the verb unlearn?
+So remember the discussion at Johan's seminar about the verb unlearn?
+Would you say that you had to unlearn what you have learned from Tarski and learn the new methodology from Kreisel?
+
+SF:
+Yeah.
+Not unlearn, but absorb, find a way of absorbing that to try to combine the best of the two.
+So that was a unique relationship that I had with Kreisel.
+
+
+IC:
+Was it mainly an intellectual relationship or did you also feel personally close?
+
+SF:
+I felt it was very close in certain ways, and not in other ways.
+He was certainly not a drinking buddy, but we would have him to all our parties and he liked to come to parties.
+He liked to interact with people.
+He was not a drinker himself, but he would...
+He liked to be social in that way, without being social in the everyday sense of the word.
+
+IC:
+I see.
+For example, would Anita like talking to him?
+
+SF:
+She would.
+
+IC:
+Okay, so it was not that he would be able to talk just to academics or people in his field.
+
+SF:
+No, no.
+
+IC: 0:43:54-0:44:06
+So he would be able to...
+
+SF:
+No, we'd do other things together, like go to movies together.
+
+
+IC:
+Ah, okay, okay.
+
+SF:
+He liked, he very much liked movies.
+
+IC:
+You never got into a movie with Montague, is that correct?
+You never went with him?
+
+SF: 0:44:06-0:44:07
+I don't think so, no.
+And he was a very subtle person, so I think Anita really appreciated him and liked talking to him.
+But he could also be very nasty.
+
+IC:
+That's what I heard!
+
+SF:
+And as long as he was talking to us and being nasty about other people, it was amusing.
+But when he got nasty to Anita or to me, it was very upsetting, which eventually happened.
+He did both.
+
+IC:
+Oh, really?
+With Anita too?
+
+SF:
+Yeah, yeah.
+There was a big meeting in Berkeley, one of the ones that Tarski and Henkin organized, maybe Tarski, Henkin and Suppes.
+And I can, I'll have to...
+
+
+IC:
+This is after Montague's death?
+
+SF: 0:45:24-0:45:25
+No, it was before.
+
+IC: 0:45:25-0:45:40
+Before?
+And it was in Berkeley.
+So sometime in the 60s?
+
+SF: 0:45:40-0:45:43
+It would have been in the 60s.
+
+IC: 0:45:43-0:51:56
+Well, okay.
+I'll check my notes.
+
+SF:
+Anyhow, there was a big party for the conference.
+A lot of us, so I keep bringing up drinking.
+
+
+IC:
+(Laughter)
+It's clear.
+There's lots of drinking there.
+
+SF:
+A lot of drinking.
+Anita was spending a certain amount of time talking to Roger Lyndon's wife.
+I don't know if you know that name.
+L-Y-N-D-O-N.
+
+So, Roger was a mathematician, logician, who I think we first met when I was at the Institute for Advanced Study in 1959, 60.
+And got kind of friendly with.
+And he was an enormous drinker.
+A serious binge drinker, I think.
+And I guess she would hold her own, too.
+I forget her name.
+
+
+IC:
+You mean his wife?
+
+SF:
+His wife, yeah.
+She was also a depressive.
+But Anita and she got kind of friendly.
+And at this party in Berkeley for the meeting that had been organized there, she and Roger's wife started going after Kreisel, sort of flirting with him, but sort of bugging him too.
+And he got very annoyed and called them both cows.
+
+
+IC:
+Isn't that heavy?
+
+SF:
+That's very heavy.
+Yes.
+
+
+IC:
+Do you think he was aware that it was heavy?
+I mean, he was not an native speaker of English, but I mean, like, assume that if you use that word...
+
+SF:
+Yes, yes.
+
+
+IC:
+And I don't think it has any better meaning in German, so...
+
+SF:
+No, no.
+No, Reisel was a master of whatever language he used, which included, besides German and English, French.
+His French was excellent.
+I don't know what other languages he might have had.
+
+No, he certainly knew when he used that word that he was being nastily insulting.
+And...
+A day or two later, when I complained to him about that, he just tossed it off.
+He didn't...
+He refused to apologize.
+And...
+and he refused to apologize.
+And that, I date as the beginning of a tension between us that increased for other reasons.
+So Kreisel had the history of having very strong, intense relationships with people over a shorter or longer period of time, and eventually just getting tired of them and cutting the relationship off.
+You see this over and over again, and then he could be very nasty in different ways.
+So I don't remember what specifically brought our own relationship to an end.
+But one thing that was involved, which he acted really stupidly, he...
+In 1967, I guess, Harvey Friedman came to Stanford.
+They got on famously for a while.
+Harvey tried everything he could do to do things that would interest Kreisel and work on one problem after another of the sort that Kreisel would be interested in, in the meantime.
+
+So Harvey was extraordinarily, first of all, he was young, extremely young.
+I think he was the youngest, for a while, he was the youngest person to be appointed to the faculty anywhere.
+I forget, he might have been 15, 16.
+
+IC:
+What?
+
+SF: 0:51:56-0:51:57
+Yes.
+We can look up.
+
+IC: 0:51:57-0:55:06
+I mean, 1-5?
+Like you said 15?
+
+SF:
+Yeah, or 16.
+
+IC:
+He was a teenager!
+
+SF:
+Yes.
+
+IC:
+And he was appointed as a faculty?
+
+SF:
+Yes.
+We can look up his dates.
+
+
+IC:
+I don't have a connection on the airplane.
+
+SF:
+Right.
+Uh-huh.
+
+IC:
+So he was a colleague of yours?
+
+SF:
+Yes, he was a colleague.
+
+
+IC:
+He could have been your son!
+Almost.
+
+SF:
+Of course, yes.
+
+IC:
+And so Kreisel could have been almost, no, not your, I mean, definitely his father, but probably even older than his father.
+But Kreisel did not have a paternal attitude towards him?
+
+SF:
+I think there was some of that.
+
+IC:
+But some sort of despotic father?
+
+SF:
+Pardon?
+
+IC:
+Was Kreisel some sort of, what's the adjective, despotic, like the father that act as some sort of dictator.
+
+SF:
+His father was a very successful businessman.
+I think he built elevators or something like that.
+
+IC:
+No, I was talking about Kreisel.
+If Kreisel behaved like an intellectual father, you can be an intellectual father and be a caring intellectual father, or you can be a tyrant, a tyrant intellectual father that, you know, treats you like "Do this, do that" or "Mo, this is not good, this is..."
+
+SF:
+Well, for Harvey, he was the intellectual father, there's no question.
+Harvey, so I see my dates are a little off.
+He was born in 1948 (Okay) so when he came to Stanford it was 1967.
+If it was before September 23rd...
+
+IC:
+Well, I mean, still it was like 18, 19.
+And he came as a professor!
+
+SF:
+He was 19 or 18 or 19.
+
+
+IC:
+Ooh.
+
+SF:
+Well, he came as an assistant professor, but was rapidly promoted.
+
+IC:
+Wow.
+What happened to him?
+
+SF:
+What happened to him?
+
+IC:
+Is he still alive?
+
+SF:
+Oh, yeah.
+
+
+IC:
+But he's not at Stanford?
+
+SF:
+No, he's at Ohio State, and I think he has an appointment in mathematics, philosophy, computer science, and music.
+
+IC:
+Ah, okay. (Laughter)
+
+SF:
+He's extraordinarily ambitious.
+And of the kind that I react to negatively.
+
+IC:
+I know what you mean.
+
+SF:
+And did at the time.
+
+IC:
+True.
+
+SF: 0:55:09-0:55:11
+But even so, Kreisel and he had a very good relationship up to a certain point.
+But then he established some results...
+Friedman established some results that had already been done by Per Lindström, although Harvey didn't know that.
+Lindström's results hadn't sunk in, in the general community.
+But Harvey decided he was going to run against Dana Scott for presidency of the Association for Symbolic Logic.
+And he was going around the country boosting his work on the limits of logic.
+And Kreisel got very annoyed with him and he wrote a long letter which he left with him that was addressed to the dean and that accused Harvey of plagiarism, but of unconscious, what he called "unconscious plagiarism" of Lindström's work.
+
+IC:
+This is not just nasty behavior.
+This is nasty at a very high level.
+
+SF: 0:56:53-0:56:54
+This is nasty, nasty.
+
+IC: 
+Nasty, nasty, yeah.
+
+SF: 0:56:54-0:58:49
+I mean...
+But Harvey...
+but the letter actually didn't go to the dean.
+So Kreisel, I don't know what Kreisel's intentions were, whether he wanted Friedman to see it first and also the chairman of philosophy, but he didn't send it to the dean, but he might well have, as things develop, sent it.
+But all hell broke loose and Harvey said he was going to sue Kreisel for...
+
+IC:
+Harassment?
+
+SF:
+What do you call it?
+
+IC:
+Well, is it called harassment?
+
+SF:
+Not harassment, but libel.
+
+IC:
+Libel, okay.
+Well, I mean, Kreisel was also in a position of power in respect to the younger faculty, so...
+
+SF:
+Yeah, but we didn't speak of harassment.
+
+
+IC:
+Oh, okay.
+
+SF:
+Even...
+We hardly even spoke about sexual violence.
+
+
+IC:
+Oh yeah, that was a different chapter.
+Wow!
+
+SF:
+So that was the end of their relationship for sure, but he sought my support.
+Kreisel sought my support, and Harvey sought my support, and the chair wanted to know what I thought about all this, and I didn't want to be involved, I didn't want to be in the middle of this.
+So instead of backing Krel to the full extent that he wanted...
+
+
+IC:
+You tried to...
+
+SF:
+I tried, yeah.
+
+SF: 0:58:49-0:58:57
+Oh, we heard...
+Oh, I thought it was like...
+It's not a cat on the roof!
+
+AF:
+Hi.
+
+IC:
+Hi.
+Nice to see you.
+
+AF:
+Good to see you too.
+Hi.
+
+SF:
+Hi, dear.
+
+AF: 0:58:57-0:58:58
+I figured you guys might still be in interview mode.
+Are you wrapping up or...?
+
+SF: 0:58:58-0:59:04
+Yeah.
+Well, we can bring it to an end.
+My voice is giving out.
+
+IC: 0:59:04-0:59:25
+What did you do then?
+I mean like you weren't basically in the middle of...
+
+SF:
+Yeah, I was in the middle.
+He wanted his full support and didn't get it from me.
+Because he shouldn't have done that in the first place.
+
+
+SF: 0:59:33-1:00:29
+So I think that was the crucial thing that brought an end to our relationship.
+So two examples besides Montague, Vaught, in a very specific way, and Kreisel in a different way.
+
+IC:
+So, maybe this is a good point to stop and maybe next time we can talk about that point that you mentioned, which is, it said at a certain point, this is, "Montague and I were working, and then something broke", like that, you know, in that kind of interaction.
+Maybe you can tell me a little bit more about, probably it's related to the intellectual development, to you realizing that, you know, this path is not going...
+In any case, I wanna know maybe a little bit more.
+You already in the past mentioned something, but now that I have a better background, I can better understand what happened in that.
+So maybe we can start from there.
+
+SF: 1:00:29-1:00:29
+So, you know, it's stuff I've already written about, as I say in my article of appreciation for Leon Hinken, among other places.
+And also in the very first interview I think we had.
+
+IC: 1:00:29-1:01:16
+Yes, yes.
+But as Anita taught me, is that if you have the chance to talk to people more than once, this is something that she told me in more than one conversation, you know, ask them again.
+Because now the background is different, you may also have a different relationship with them, memories may be triggered in a different way, they may give you a broader picture or whatever.
+So, if you don't mind, if we can quickly go over that.
+
+[END OF RECORDING]
