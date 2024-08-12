@@ -122,12 +122,13 @@ def init_parser() -> ArgumentParser:
     parser.add_argument(
         "-s",
         "--strategy",
-        choices=["asr-only", "asr-first", "drz-first", "multitier"],
+        choices=["asr-only", "drz-only", "asr-first", "drz-first", "multitier"],
         default="asr-first",
         help="Specify what pipeline to use for annotation. "\
         +"`asr-first` (default) will run Whisper first then diarization with PyAnnote, "\
         +"and the PyAnnote diarization will be used to decide the speaker identity"\
         +"for each chunk output by Whisper. "\
+        +"`drz-only` will run diarization with PyAnnote but not transcribe any audio."\
         +"`asr-only` will run Whisper without performing speaker diarization. "\
         +"`drz-first` will run diarization with PyAnnote first and then send each "\
         +"speaker turn to Whisper for transcription. This will likely result in poor "\
