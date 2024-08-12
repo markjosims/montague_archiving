@@ -201,14 +201,19 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
 def annotate(args) -> int:
     print(f"Initializing ASR pipeline from URI {args.asr_model}...")
-    asr_pipe = pipeline(
-        "automatic-speech-recognition",
-        model=args.asr_model,
-        device=args.device,
-        chunk_length_s=args.chunk_length_s,
-    )
-    tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
-    forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
+    if args.strategy != "drz-only":
+        asr_pipe = pipeline(
+            "automatic-speech-recognition",
+            model=args.asr_model,
+            device=args.device,
+            chunk_length_s=args.chunk_length_s,
+        )
+        tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
+        forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
+    else:
+        asr_pipe=None
+        tokenizer=None
+        forced_decoder_ids=None
     if args.strategy != "asr-only":
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
         drz_pipe = PyannotePipeline.from_pretrained(args.drz_model)
@@ -260,6 +265,13 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_pipe=asr_pipe,
                 generate_kwargs=generate_kwargs,
             )
+    elif args.strategy=='drz-only':
+        eaf = drz_only(
+            wav=wav,
+            eaf=eaf,
+            num_speakers=args.num_speakers,
+            drz_pipe=drz_pipe,
+        )
     elif args.strategy=='asr-first':
         eaf = asr_first(
                 wav=wav,
@@ -315,6 +327,24 @@ def asr_only(
         text = chunk['text']
         eaf.add_annotation("default", sec_to_ms(start), sec_to_ms(end), text)
     return eaf
+
+def drz_only(
+        wav: torch.Tensor,
+        eaf: Elan.Eaf,
+        num_speakers: int,
+        drz_pipe: PyannotePipeline,
+    ):
+
+    diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
+    speakers = diarization.labels()
+    for speaker in speakers:
+        eaf.add_tier(speaker)
+        speaker_timeline = diarization.label_timeline(speaker)
+        for segment in speaker_timeline:
+            start_ms = sec_to_ms(segment.start)
+            end_ms = sec_to_ms(segment.end)
+            eaf.add_annotation(speaker, start_ms, end_ms)
+    return eaf        
 
 def asr_first(
         wav: torch.Tensor,
