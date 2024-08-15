@@ -5,15 +5,13 @@ SF:
 You want to repeat what you just said?
 
 IC:
-Oh, believe me, I know that issue very well, but I can't do that.
-I'm not going to forget it.
+Oh, believe me, I know that issue very well, but I can't do that. I'm not going to forget it.
 
 SF:
 Because that's the question.
 
 IC:
-Sure.
-So the question that I foresaw, and maybe I'm finally gonna get an answer from somebody on this issue is...
+Sure. So the question that I foresaw, and maybe I'm finally gonna get an answer from somebody on this issue is...
 
 
 SF: 0:00:00-0:00:02
@@ -26,52 +24,27 @@ SF: 0:00:10-0:00:14
 Well, it was a dinner that I could not have created myself.
 
 IC: 0:00:14-0:00:28
-Well, it was so complex.
-So I asked Sol the question of why people found, many people, almost everybody I talked to that was not just a friend, found Montague like a non-academic friend, found Montague intimidating.
+Well, it was so complex. So I asked Sol the question of why people found, many people, almost everybody I talked to that was not just a friend, found Montague like a non-academic friend, found Montague intimidating.
 
 SF: 0:00:28-0:04:58
 Well, I could not say that I observed him myself, but I can project myself into situations in which, partly in which I heard about and partly in which I would guess about his personality that he took over from Tarski, I believe, and that was: that you had to do things a certain way, and that there were criterions of doing things right, that if you didn't meet those criteria, would create a reaction that people on the receiving end would consider to be intimidating.
 
 
 IC:
-I see, I see.
-And Tarski was similar in this respect?
+I see, I see. And Tarski was similar in this respect?
 
 SF:
-Definitely, yes.
-So, it just happens I was reading a bulletin from MSRI, which is the Mathematical Sciences Research Institute, about a woman who had donated a considerable amount of money to something that the MSRI represents or carries on.
-This woman was in a seminar with her husband, in a Tarski seminar, and her husband Ed was totally hopeless in front of Tarski.
-He could never do anything right.
-And Tarski would keep interrupting him and saying, "No, no, that's, you know..."
-And totally undermining.
-He would not let the person proceed.
-The wife, I don't remember if she ever presented in a seminar, but she ended up being her own person and contributed to MSRI, which is a totally separate thing.
-It reminded me of that situation with Tarski where it was just...
-The guy was hopeless.
-I would have considered him hopeless, but I would not have destroyed him in the way that Tarski did by saying, not letting him get off the ground because he couldn't put the right words on the blackboard or he couldn't formulate things in the right way.
-And so that's what I mean by intimidation.
+Definitely, yes. So, it just happens I was reading a bulletin from MSRI, which is the Mathematical Sciences Research Institute, about a woman who had donated a considerable amount of money to something that the MSRI represents or carries on. This woman was in a seminar with her husband, in a Tarski seminar, and her husband Ed was totally hopeless in front of Tarski. He could never do anything right. And Tarski would keep interrupting him and saying, "No, no, that's, you know..."
+And totally undermining. He would not let the person proceed. The wife, I don't remember if she ever presented in a seminar, but she ended up being her own person and contributed to MSRI, which is a totally separate thing. It reminded me of that situation with Tarski where it was just... The guy was hopeless. I would have considered him hopeless, but I would not have destroyed him in the way that Tarski did by saying, not letting him get off the ground because he couldn't put the right words on the blackboard or he couldn't formulate things in the right way. And so that's what I mean by intimidation.
 
-And I think Monogue learned that from Tarski.
-Maybe he had it in his native personality.
-That's what he liked to do anyhow.
-I don't know, but I can imagine him doing the same sort of thing in other cases.
-So I think we record something in the Tarski biography about Cochierella saying that in his thesis Montague kept saying, you know, you have to rewrite this, you have to rewrite that.
+And I think Monogue learned that from Tarski. Maybe he had it in his native personality. That's what he liked to do anyhow. I don't know, but I can imagine him doing the same sort of thing in other cases. So I think we record something in the Tarski biography about Cochierella saying that in his thesis Montague kept saying, you know, you have to rewrite this, you have to rewrite that.
 
-And that's not intimidation, but that's the same sort of fascistic domination that, as I say, I don't know how much to ascribe to personality, native personality, or how much to ascribe to that's something you learn to do and enjoy doing.
-So I don't really have much more to say about that.
-It's partly speculation.
+And that's not intimidation, but that's the same sort of fascistic domination that, as I say, I don't know how much to ascribe to personality, native personality, or how much to ascribe to that's something you learn to do and enjoy doing. So I don't really have much more to say about that. It's partly speculation.
 
 IC: 0:04:58-0:05:56
-No, no, but this is really insightful because, well, first of all, the fact that it reminded you so clearly of Tarski's pattern and Tarski's behavior.
-And that's definitely, I mean, we know that Tarski was a major influence for Montague on many, many levels.
-And second, because it also gives me an insight about what kind of mechanism could be behind this behavior. You said maybe it was something that he already had.
-But if he already had it, where does it come from?
-And I wonder if, at least in the case of Montague, I don't know in the case of Tarski, but in the case of Montague, you can also imagine that as a defensive mechanism.
-What's the best way to protect?
-For some people, the best way to protect themselves is to attack.
-And so you have like, this is the recipe.
-This is the right recipe.
-Don't even try to go, I have the right recipe which makes me strong and if you do not have if you do not agree with the right recipe I need to destroy you before you destroy me.
+No, no, but this is really insightful because, well, first of all, the fact that it reminded you so clearly of Tarski's pattern and Tarski's behavior. And that's definitely, I mean, we know that Tarski was a major influence for Montague on many, many levels. And second, because it also gives me an insight about what kind of mechanism could be behind this behavior. You said maybe it was something that he already had. But if he already had it, where does it come from?
+And I wonder if, at least in the case of Montague, I don't know in the case of Tarski, but in the case of Montague, you can also imagine that as a defensive mechanism. What's the best way to protect?
+For some people, the best way to protect themselves is to attack. And so you have like, this is the recipe. This is the right recipe. Don't even try to go, I have the right recipe which makes me strong and if you do not have if you do not agree with the right recipe I need to destroy you before you destroy me.
 
 SF: 0:05:56-0:06:23
 But why destroy the person?
@@ -94,17 +67,10 @@ IC: 0:06:31-0:06:35
 Do you think he got pleasure out of it?
 
 SF: 0:06:35-0:06:54
-I don't know.
-I just...
-I don't know.
-There was just the right way to do things and there was...
-if it wasn't the right way, then it was the wrong way.
-It was that clear cut.
+I don't know. I just... I don't know. There was just the right way to do things and there was... if it wasn't the right way, then it was the wrong way. It was that clear cut.
 
 IC: 0:06:54-0:07:15
-Yeah, exactly.
-So it sounds Tarski was fighting a battle.
-I mean, like, it was, it sounds like maybe everything he was doing, it was like, "How do I fight my battle in order to get as much power, as much space, as much, like..."
+Yeah, exactly. So it sounds Tarski was fighting a battle. I mean, like, it was, it sounds like maybe everything he was doing, it was like, "How do I fight my battle in order to get as much power, as much space, as much, like..."
 
 SF: 0:07:15-0:07:17
 But that was a separate thing.
@@ -112,11 +78,7 @@ But that was a separate thing.
 IC: 0:07:17-0:08:02
 Well, but I mean, can you imagine overgeneralizing that behavior?
 Like, it means that if, in order for me to to win this battle I need to show that I'm always on top, I'm always to show that I'm always on the right side, and then you can imagine overgeneralizing
-Like you know, this is the right, this is the wrong, this is the way to do it, this is not the way to do it.
-And maybe he would do that in a kind of more diplomatic way with colleagues and then he would reproduce the very same mechanism maybe in a less diplomatic way with students.
-As a way to show that there is a right way to do things.
-But sometimes there are also things that maybe just like percolate, like in a kind of unconscious way.
-That's the pattern that you learn, and then you spread that pattern in various situations.
+Like you know, this is the right, this is the wrong, this is the way to do it, this is not the way to do it. And maybe he would do that in a kind of more diplomatic way with colleagues and then he would reproduce the very same mechanism maybe in a less diplomatic way with students. As a way to show that there is a right way to do things. But sometimes there are also things that maybe just like percolate, like in a kind of unconscious way. That's the pattern that you learn, and then you spread that pattern in various situations.
 
 SF: 0:08:02-0:09:57
 Okay, so in academic politics, in departmental discussions, etc., etc., there are very few people who say, "this is what it has to be and nothing else."
@@ -126,17 +88,10 @@ IC:
 And Montague was one of those people.
 
 SF:
-And Montague was also, it seems, became one of those people.
-And I guess whatever happened between Montague and Kalish revolved around Kalish not accepting that, or Montague not accepting that Kalish wouldn't accept it.
-Wouldn't accept it, yeah.
-So, but the person who does that has to have the confidence that when they do that people will follow along, will accept, "Okay, you know, we don't have to argue because it's not that big a deal.
-You want that?
-Okay, you can have that.
-You want it this way?
+And Montague was also, it seems, became one of those people. And I guess whatever happened between Montague and Kalish revolved around Kalish not accepting that, or Montague not accepting that Kalish wouldn't accept it. Wouldn't accept it, yeah. So, but the person who does that has to have the confidence that when they do that people will follow along, will accept, "Okay, you know, we don't have to argue because it's not that big a deal. You want that?
+Okay, you can have that. You want it this way?
 Okay, you can have it this way."
-But it doesn't always happen.
-And part of it is what Tarski had, and I don't think Montague had, was this kind of magnetic personality.
-I have to say that Montague, I think came off from what I understand, this is all second-hand or third-hand as a kind of what we call a Martinet.
+But it doesn't always happen. And part of it is what Tarski had, and I don't think Montague had, was this kind of magnetic personality. I have to say that Montague, I think came off from what I understand, this is all second-hand or third-hand as a kind of what we call a Martinet.
 
 IC:
 Ah, what's a Martinet?
@@ -154,80 +109,40 @@ IC: 0:10:03-0:10:05
 Okay, continue with the description, maybe it's...
 
 SF: 0:10:05-0:12:41
-Yeah, yeah.
-And I don't think he ever had the magnetic personality that Tarski had, and the charisma that Tarski had.
-Which is not to say that he didn't have other attractive features that would get people to say, "Oh yes, this is something to agree with or to go along with or to cooperate with."
+Yeah, yeah. And I don't think he ever had the magnetic personality that Tarski had, and the charisma that Tarski had. Which is not to say that he didn't have other attractive features that would get people to say, "Oh yes, this is something to agree with or to go along with or to cooperate with."
 
-So Tarski was an unusual mixture of somebody who was impossible, but also charismatic, and managed to, so...
-It's a Napoleonic kind of figure.
-Which, I think, Montague tried to imitate, if I understand, but didn't achieve.
-On the other hand, I could see where Montague attracted students because they saw that he had many, many good ideas and was alive.
-He was pushing all sorts of ideas and he needed good students, he needed collaborators.
-He could encourage those who would do that.
-And if it's a certain period in the development of a research program where you have those kinds of students and where somebody who really has ideas of lines of development of things to do can be very influential.
-The students will take it up and they will go along with that kind of personality.
-And maybe even that kind of personality is very important for getting them to go along.
-So all of this you have to take it because it's on the record.
-It's totally off the top of my head after having had three glasses or more of wine.
+So Tarski was an unusual mixture of somebody who was impossible, but also charismatic, and managed to, so... It's a Napoleonic kind of figure. Which, I think, Montague tried to imitate, if I understand, but didn't achieve. On the other hand, I could see where Montague attracted students because they saw that he had many, many good ideas and was alive. He was pushing all sorts of ideas and he needed good students, he needed collaborators. He could encourage those who would do that. And if it's a certain period in the development of a research program where you have those kinds of students and where somebody who really has ideas of lines of development of things to do can be very influential. The students will take it up and they will go along with that kind of personality. And maybe even that kind of personality is very important for getting them to go along. So all of this you have to take it because it's on the record. It's totally off the top of my head after having had three glasses or more of wine.
 
 IC: 0:12:41-0:13:13
-That's the best.
-That's when the truth comes out!
+That's the best. That's when the truth comes out!
 
-No, but you are depicting a very, very reasonable picture that fits with lots of details that I've collected.
-And you're right about, I mean, at least talking to the people that became his students that are still alive that I can talk to, there was a sense, like a fascination towards the intellectual gifts that this man had and also clarity.
-Everybody says he was extremely clear.
+No, but you are depicting a very, very reasonable picture that fits with lots of details that I've collected. And you're right about, I mean, at least talking to the people that became his students that are still alive that I can talk to, there was a sense, like a fascination towards the intellectual gifts that this man had and also clarity. Everybody says he was extremely clear.
 
 SF: 0:13:13-0:13:14
 He was.
 
 IC: 0:13:14-0:16:10
 I mean, like, you had to be, you know, usually the people divided into groups, "I could not understand what he was saying."
-These were people that did not have the background or the interest or the capacity, but those that were able to follow him, they all recognized the amazing capacity, clarity.
-He was essential, he was clear, that's what you need to know.
-And even people that can compare him with other people in the department, he really sounds like he was really one of the top figures in the department in terms of these kind of skills.
-Like for example, when I talk to people describing, at least as a lecturer, Church, they said, "Church was boring.
-You know, like, it would write everything slowly with different colors on the blackboard, and, you know. While Montague would be dense, would be, you know, this is what it is, and then sometimes it would come out with these, like, either comments or remarks or observation that would be very sharp, very to the point, sometimes even funny."
+These were people that did not have the background or the interest or the capacity, but those that were able to follow him, they all recognized the amazing capacity, clarity. He was essential, he was clear, that's what you need to know. And even people that can compare him with other people in the department, he really sounds like he was really one of the top figures in the department in terms of these kind of skills. Like for example, when I talk to people describing, at least as a lecturer, Church, they said, "Church was boring. You know, like, it would write everything slowly with different colors on the blackboard, and, you know. While Montague would be dense, would be, you know, this is what it is, and then sometimes it would come out with these, like, either comments or remarks or observation that would be very sharp, very to the point, sometimes even funny."
 
-So I have some anecdotes, for example, from the TAs, they were like, (Who?) at least two graduate students who were his TAs, and they then they took also his classes.
-One is called, his name is Barrozo, I think, Barrozo, I think that's how you pronounce it.
-I interviewed him.
+So I have some anecdotes, for example, from the TAs, they were like, (Who?) at least two graduate students who were his TAs, and they then they took also his classes. One is called, his name is Barrozo, I think, Barrozo, I think that's how you pronounce it. I interviewed him.
 
 SF:
 Say it again.
 
 IC:
-B-A-R-R-O-Z-O.
-Barrozo.
-Never heard of him.
-I think he took classes with Montague, but then he decided to move towards a different field.
-So it was his T.A.
-And he remembers Montague was supposed to teach, the class was epistemology.
-Okay?
-That's the upper division class in epistemology.
-So first day of class, and he says, "Look, epistemology is the study of knowledge.
-Knowledge, we know very little about knowledge.
-Human knowledge is very uncertain.
-What's the piece of knowledge we know a little bit more about?
-Mathematics.
-This is going to be a class about mathematics."
-And from that moment on, he started doing the class that he wanted to do.
-So after 40 years, people still remember these things.
-And that's just an example of like, here it is.
-There is somebody who is able to reframe things in a way like, "Oh, wow!"
+B-A-R-R-O-Z-O. Barrozo. Never heard of him. I think he took classes with Montague, but then he decided to move towards a different field. So it was his T.A. And he remembers Montague was supposed to teach, the class was epistemology. Okay?
+That's the upper division class in epistemology. So first day of class, and he says, "Look, epistemology is the study of knowledge. Knowledge, we know very little about knowledge. Human knowledge is very uncertain. What's the piece of knowledge we know a little bit more about?
+Mathematics. This is going to be a class about mathematics."
+And from that moment on, he started doing the class that he wanted to do. So after 40 years, people still remember these things. And that's just an example of like, here it is. There is somebody who is able to reframe things in a way like, "Oh, wow!"
 And then he does what he wants.
 
 SF:
 Yes.
 
 IC:
-So I think this was something that was affecting some students.
-Like, they thought, "Wow, that's fascinating."
-And I mean, you have to have a certain kind of mind, but if you have that kind of mind, you would find this personally fascinating.
-And then it sounds like once you were able to follow him and he recognized that you have those kind of intellectual qualities and background to understand, he could be very generous with students.
-First of all, caring.
-I have all these people that told me, "I was intimidated, I'm going to talk to him in office hours because I thought that again he would like make me feel like an idiot.
-And then I went there he was very nice, very patient, he gave me a suggestion, he said to come back."
+So I think this was something that was affecting some students. Like, they thought, "Wow, that's fascinating."
+And I mean, you have to have a certain kind of mind, but if you have that kind of mind, you would find this personally fascinating. And then it sounds like once you were able to follow him and he recognized that you have those kind of intellectual qualities and background to understand, he could be very generous with students. First of all, caring. I have all these people that told me, "I was intimidated, I'm going to talk to him in office hours because I thought that again he would like make me feel like an idiot. And then I went there he was very nice, very patient, he gave me a suggestion, he said to come back."
 And in fact said "I was shocked!"
 Or like the TAs, they were TAing for a large class, the Introduction to Logic, they were in his textbook, and they really thought that there's a mistake in the textbook.
 
@@ -235,73 +150,41 @@ SF: 0:16:10-0:16:24
 Or do you think he realized that he didn't want to put off people too much and then he should encourage them after all?
 
 IC: 0:16:24-0:18:01
-Maybe.
-The impression that I have, again, as you said, it's just an intuition, I'm never going to have clear facts about it, is that for Montague there was the first approach, especially in the academic world, would be an approach in which, like, "Who are you?
+Maybe. The impression that I have, again, as you said, it's just an intuition, I'm never going to have clear facts about it, is that for Montague there was the first approach, especially in the academic world, would be an approach in which, like, "Who are you?
 I don't know you, so listen to me and let me be in control of the situation."
-Once he will get to know you and he will like you then you would see more human dimensions.
-Like you know he would take students out to dinner for example.
-Often he would have seminars towards the end of the day 4 30 to 6 p.m. and then he would take the students or some of the students depending to dinner or maybe different students in different moments he would drive them they would drive with his Bentley they would go to these restaurants and so on and he would pay for it.
+Once he will get to know you and he will like you then you would see more human dimensions. Like you know he would take students out to dinner for example. Often he would have seminars towards the end of the day 4 30 to 6 p.m. and then he would take the students or some of the students depending to dinner or maybe different students in different moments he would drive them they would drive with his Bentley they would go to these restaurants and so on and he would pay for it.
 
 SF:
 Oh really?
 
 IC:
-Yeah, that's what like Harry Deutsch and the woman that was his was his wife, Linda Deutsch, who was also Montague's secretary.
-They would go out, they would take him to dinner.
-Jeff Pelletier told me the experience that he had.
-So like, I mean, even putting aside Hans Kamp, who was clearly very, very close and there was a very personal relation.
-Even with others, he had this, like, you know, once you would break that barrier, then he would become approachable.
+Yeah, that's what like Harry Deutsch and the woman that was his was his wife, Linda Deutsch, who was also Montague's secretary. They would go out, they would take him to dinner. Jeff Pelletier told me the experience that he had. So like, I mean, even putting aside Hans Kamp, who was clearly very, very close and there was a very personal relation. Even with others, he had this, like, you know, once you would break that barrier, then he would become approachable.
 
 SF:
 I see.
 
 IC:
-And he actually would like you.
-Like he would really enjoy that kind of sharing.
+And he actually would like you. Like he would really enjoy that kind of sharing.
 
 SF: 0:18:01-0:18:09
 That's very nice to hear.
 
 IC: 0:18:09-0:19:13
-I wonder if it was like a way to filter.
-So it was this way of filtering, like, unless we get close personally, then you listen to me, this is the way to do things, this is the recipe.
-When I get to know you and I like you, then we talk about different dimensions.
+I wonder if it was like a way to filter. So it was this way of filtering, like, unless we get close personally, then you listen to me, this is the way to do things, this is the recipe. When I get to know you and I like you, then we talk about different dimensions.
 (Yeah.)
 We get closer to like almost a friendship.
 (Yes.)
-Or, you know, emotions can come out.
-And so, you know, generosity, I can make jokes, I can, you know, we can have moments that are not professional moments.
-Although I never heard that he made any kind of like step or move towards anybody.
-It was not that goal.
-The goal was really like, you know, he would enjoy your company.
-I mean, I think Montague was a social person.
+Or, you know, emotions can come out. And so, you know, generosity, I can make jokes, I can, you know, we can have moments that are not professional moments. Although I never heard that he made any kind of like step or move towards anybody. It was not that goal. The goal was really like, you know, he would enjoy your company. I mean, I think Montague was a social person.
 (He was.)
-He was not a loner like, I want to be by myself, don't disturb me.
-But there was, I think, his filter like, for most people you don't want to deal with them.
-If you don't like them, you don't want to deal with them, you found them annoying or a waste of time.
-But for the people that he liked, he was very much available.
-And not just because of his career.
-I mean, some of these students, or not students necessarily, would develop his research program, or not necessarily.
+He was not a loner like, I want to be by myself, don't disturb me. But there was, I think, his filter like, for most people you don't want to deal with them. If you don't like them, you don't want to deal with them, you found them annoying or a waste of time. But for the people that he liked, he was very much available. And not just because of his career. I mean, some of these students, or not students necessarily, would develop his research program, or not necessarily.
 
 SF: 0:19:13-0:19:17
-Okay.
-Well, you know more than I do.
+Okay. Well, you know more than I do.
 
 IC: 0:19:17-0:20:14
-No, no, no.
-But this was triggered by what you told me.
-I mean, what you said was very insightful.
-I never thought about, first of all, the close similarity.
-I know that Tarski was very similar in this regard.
-And also this thinking about, does it come from Tarski?
+No, no, no. But this was triggered by what you told me. I mean, what you said was very insightful. I never thought about, first of all, the close similarity. I know that Tarski was very similar in this regard. And also this thinking about, does it come from Tarski?
 Or is it something that was inside Montague and Tarski just activated?
-Like, oh, here it is.
-I like it.
-I like it.
-I should do it like that.
-Something in this sense of dominating the enemy.
-The other is the enemy.
-And what you had to do you had to say "No that's wrong, this is right, follow my recipe, no space, no pity."
+Like, oh, here it is. I like it. I like it. I should do it like that. Something in this sense of dominating the enemy. The other is the enemy. And what you had to do you had to say "No that's wrong, this is right, follow my recipe, no space, no pity."
 Because Tarski too was a very social person.
 
 SF:
@@ -311,12 +194,10 @@ IC:
 It's not that he hated human beings, but human beings had to behave in a certain way I guess for him to like them.
 
 SF:
-Yeah.
-Yeah.
+Yeah. Yeah.
 
 IC:
-Well, thank you very much.
-I don't want to bother you too much because it's getting late.
+Well, thank you very much. I don't want to bother you too much because it's getting late.
 
 SF:
 That's alright.
