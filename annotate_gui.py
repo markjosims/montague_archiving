@@ -8,7 +8,7 @@ ASR_CHOICES = [
     "openai/whisper-base",
     "openai/whisper-small",
     "openai/whisper-medium",
-    "openai/whisper-large-v3",
+    "openai/whisper-large-v2",
 ]
 
 def init_parser() -> GooeyParser:
@@ -16,7 +16,7 @@ def init_parser() -> GooeyParser:
     parser.add_argument(
         "-i",
         "--input",
-        help=".wav file or directory of .wav files to annotate",
+        help="Folder of audio files to annotate.",
         widget='DirChooser',
     )
     parser.add_argument(
@@ -45,8 +45,8 @@ def init_parser() -> GooeyParser:
     )
     parser.add_argument(
         "-m", "--asr_model",
-        help=f"Whisper model. Larger models will ",
-        default=ASR_CHOICES[1],
+        help=f"Whisper model. Larger models will perform better but take longer.",
+        default=ASR_CHOICES[-1],
         choices=ASR_CHOICES,
     )
     parser.add_argument(
@@ -76,7 +76,7 @@ def init_parser() -> GooeyParser:
         "-r",
         "--recursive",
         action="store_true",
-        help="If input is a directory, will search for files .wav files recursively"
+        help="If input is a directory, will search for audio files recursively"
     )
     parser.add_argument(
         '-b',
