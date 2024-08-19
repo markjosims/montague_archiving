@@ -1,0 +1,744 @@
+SPEAKER_00: 0:00:00-0:00:17
+ This is the 103rd interview that I'm doing.  I've been working on this for three and a half years,  traveling all over the world.  It has been fascinating.  Normally linguists don't do this,  but it has been a mid-career challenge for me.
+
+SPEAKER_01: 0:00:17-0:00:20
+ What inspired you to do some work on Richard?
+
+SPEAKER_00: 0:00:20-0:02:31
+ Well, Richard, in the last four years of his life, so from 1967, roughly 1966-67 until his death,  decided to do something that he hadn't done before, which is apply the things that he  knew from logic and mathematics to better understand how human language works, in particular  how meaning is transmitted via human language. He really thought that there were some very basic properties of human language  in the way human language behaves to transmit meanings  that are very similar to formal languages that he studied,  like the language of logic that was  his main focus of attention.  So in the last four years of his life,  he started this new research program  to show how you could do it.  He wrote three very influential papers.  And he was planning to do much more work from the archive three very influential papers and he was planning to  do much more work from the archive you can see that he was planning to do much more work  on that. That had become the main topic of his investigation when he died. So that framework  that he suggested he introduce triggered the excitement of lots of young minds that were  facing problems and they didn't know how to solve them that he gave them a solution, at  least a path,  a way to develop.  So a new field was created,  the one that is called formal semantics  or natural languages.  And that field has been like, which is my field,  and in the past 40 years has grown tremendously.  Now it's become one of the main fields in linguistics,  but it didn't exist at all until his work.  So this was my contact with him,  like, okay, he's my intellectual father.  But then nobody knew anything about him, except like people that met him and, you know, some  of the people, because now they're getting old.  And you heard these scattered stories, these very fragmented stories.  And you know, what emerged was some sort of like very complex and rich personality with  lots of interests, lots of skills, but not a unitary picture.  And then, you know, my knowledge increased a little bit  when I was a graduate student at UCLA,  because Richard was a professor at UCLA until he died.  He became a professor very young, at age 24.  And he went from Oakland.  Yeah, so he studied, when you guys, when you met him,  you had the chance to meet Richard, oh, sorry, when you met him. Do you have the chance to meet Richard?  When you met him, that's true, you guys  were very young at that time.  You don't exist yet.
+
+SPEAKER_01: 0:02:31-0:02:35
+ I wasn't a tear in his eye yet.
+
+SPEAKER_00: 0:02:35-0:03:14
+ So Richard, when you met Richard,  he was in graduate school at Berkeley.  He was doing, in particular, he was doing,  he had just finished his master in philosophy and mathematics  and was doing his PhD in Philosophy.  But with a logician, Alfred Tarski,  so he was actually in Mathematics,  although officially it was Philosophy.  Before he got his PhD, he got a job at UCLA.  So at age 24, he got a job at UCLA.  So in January 1955, that's when the congregation  organized a little party for him based on,  he kept the flyer that was prepared, where there was the note,  or like, it was generally something they organized.  Let's get together to, you know, to thank Richard,  that he was leaving, and blah, blah, blah.
+
+SPEAKER_01: 0:03:14-0:03:15
+ I don't know any of this.
+
+SPEAKER_00: 0:03:15-0:03:16
+ Yes, I can show you.
+
+SPEAKER_01: 0:03:16-0:03:28
+ That was very...  Yeah, I can imagine.  Dad came to the open church in 1950,  and I would have been four going on five.  And so all of this was sort of peripheral to me.  Because I'm a kid who loves the church.
+
+SPEAKER_00: 0:03:28-0:07:24
+ Yeah, I can imagine.  Drinking the grape juice.  So Richard, in particular, was, according to what he said,  when he was hired by UCLA, he has to say,  he has to declare his previous employment.  And so he said that he worked for the First Christian Church from December 1953 until December 1954,  when he had to leave to go to UCLA.  So at age 24, he became a professor at UCLA.  And by the time of his death, he was already,  although very young, he was 40, he  was already at the top of the full professorship,  earning as much money as the most famous professor in  the philosophy department who was 65 at that time.  Yeah, no, it was really...  This morning, since I was here, I made an attempt to go to the St. Mary High School,  where I was two and a half years ago, because I knew that there's some records about him,  but they didn't want to release to me two and a half years ago for privacy reasons.  And so I came back this morning and said,  look guys, I'm writing the book.  I'm writing the chapter.  I need, there's very little information.  Please help me.  You know, like I know that you have  a little bit of records, that would be great.  I managed to get the records from Berkeley.  They gave me all the records I have in my hands.  I have the records from the, what used to be called,  I think, Stockton  Junior College, which I think is now Delta College. It used to be a two-year college.  It still is. Yeah, and it was teaming up, I think, with  the University of the... What was called the College of the Pacific at that time. Some  people would continue with the College of the Pacific and some people would transfer  somewhere else. So he did the first year and then he moved to Berkeley. So I got the records and said,  look guys, can you? And so I was able to convince them and I got the records. And in the records  you see that they measure his IQ. After one year of high school, they must have noticed  that it was kind of like, okay, what's happening with this kid? So they measure his IQ. It's  written as a hand note and his IQ was 129. And I went to check, and IQ, whatever IQ can measure,  but an IQ of 129 is clearly,  you are in the 97th percentile of the population.  So, and the people that remember him from school said,  oh, he was very shy, he wouldn't talk much,  but he was a genius, everybody knew that,  he was the genius in the school.  Like, he was put in the advanced mathematics class  with the older students,  the nun would ask the question about mathematics,  nobody would know the answer.  And so then she turned like Montague  and he would give the answer.  So that's the man that we're talking about.  And so because of all this, I said,  well, he deserves his story to be told.  And also given his tragic death  and the fact that he was an homosexual  and maybe the death was related  with him being an homosexual. There was a general cover up. So like the parents were  destroyed and they didn't want any publicity and they died just a few years after him.  They were old and then they died a few years after him. UCLA didn't want any bad publicity.  So in the end there was no memorial. There was like a funeral. But usually universities  organize if you lose one of your members, and even  more so if it's an important member, you organize a celebration, a memorial, where friends and  colleagues gather to say good things about, or you know, to... nothing.  So that's why I decided, like, I had the idea in graduate school, but then I thought, not  good. If I do this in graduate school, I I'm never gonna get a job as a linguist  nobody's gonna nobody's gonna hire me because Ivano is not a linguist he  wants to write biographies you know so I worked on my linguistic stuff and so I  moved to UC San Diego I got tenure four years ago and without even thinking one  morning I woke up and you know when you feel those things inside you?  Like I thought about the book, now it's too late.  If you don't do it now, you're gonna lose everything.  The people that you can still find now,  they're not gonna be there anymore.  You cannot wait 10 years.  And you become a full professor,  no, you have to do it if you wanna do it.  And from that moment on, that's become, you know.  And I just say.
+
+SPEAKER_01: 0:07:24-0:07:30
+ I had no idea that Richard was as famous, at least  in his community, as he was.
+
+SPEAKER_00: 0:07:30-0:08:41
+ Oh, yeah.  I mean, like in linguistics, like besides everybody  knowing him, like the field that he created for semantics  initially was called Montague grammar.  Yeah, yeah, yeah.  Still, this form like Montague or Montagovian grammar,  it means a certain way of analyzing  how language meaning works  for certain aspect and characteristics.  And you'll see the first papers  that emerge in the mid 70s,  influenced directly from his papers,  you see like questions in Montague grammar,  exclamatives in Montague grammar,  comparatives in Montague grammar. Comparatives and Montague grammar.  I mean, like Barbara Partee, she's a very important linguist,  was a young colleague in the linguistics at UCLA.  She was fascinated by the program that he was developing.  She studied with Chomsky before coming to UCLA as a linguist in syntax.  Then came to UCLA and she was wondering,  how do I handle meaning with language? Do  I want to be as formal, as precise as syntax? And that's exactly what Richard was doing  at that time. So when Richard died, for two years she stayed at UCLA, she continued basically  seminars and then she moved at Hummers, UMass, where she developed an entire school. And  so she was very influential together with others, but really created a field.
+
+SPEAKER_01: 0:08:41-0:09:14
+ Wow.  No, really. others but really he created a field. I'm sitting here trying to figure out how I knew of him at least you know secondarily.  We moved in, moved to the Polyurt, First Christian in 58 and we were there until 68 and he died in 71.  1971, 1971.  So somehow there was still a connection. And I don't know what  it was because by then we were down south and I was getting ready to go to college and  stuff like that. But somehow there's a connection because we knew the story of his death.
+
+SPEAKER_00: 0:09:14-0:10:18
+ Okay, so you heard the story. Yes. He would be back to the Bay Area often because he kept  a very close connection with Berkeley. Every year he would come back several times. He  spent sabbaticals, which meant like a semester at Berkeley teaching through the 60s, more  than once. He would come for talks. He would come for work that he was doing with people.  So he would be in the Bay Area. It's a very public end of the Santa Fe Monastery.  Yeah. Interesting.  And his parents were in... So they don't follow him to Los Angeles right away.  So Richard moved to Los Angeles in 1955.  His parents, I don't have the precise dates.  I know for sure that until the late 50s, they were still living in Oakland.  And then probably 61, 62, 63 at the latest, they moved to Los Angeles.  They bought an apartment complex. They were living in one of the apartments and managing the latest. They moved to Los Angeles. They bought an apartment complex.  They were living in one of the apartments and managing the others. I mean  the apartment was bought by Richard and so they were living in it. So Richard was  living, if you're familiar with the late geography. Okay. Okay. Perfect.
+
+SPEAKER_01: 0:10:18-0:10:28
+ Mulholland Drive? Oh yeah. Okay. Very close to Coldwater? the real, I mean, not down and out. You don't hear very many
+
+SPEAKER_00: 0:10:29-0:12:00
+ apartments in cold water. Yeah, totally. So like, in fact, the people in the philosophy department,  only after his death, found out more about him because they thought, how can he have that house?  He organized parties and other people would do often  because he had a large house.  You know, they would drive out to Mulholland Drive  and this house was on a cul-de-sac on Mulholland Drive,  so facing a closed canyon with no buildings around.  It's a beautiful house.  I saw the pictures from when I went to talk  to the police detective.  And so he showed me the file with the Montague case  and the police took pictures of the outside  and of the inside, at least the master bedroom  where the body was found.  And so I have an idea of the house,  because unfortunately the house was bought in 2010  for $4 million, destroyed completely  to build an $8 million mansion in the modern style,  which means these castles.  But the house was big, but it was not super big,  with a nice garden around, facing this beautiful, like, closed canyon. People remember  the parties that he would organize. And now, so that's, you know, like, that was another  skill that he had. What I'm discovering is that he was a good stock market and real estate  investors.  Wow. So was he murdered? Well all we know is what you  can reconstruct from the coroner's report. So he died because of asphyxia.  So that's pretty clear. So there was and the body was found asphyxiated with a
+
+SPEAKER_01: 0:12:00-0:12:06
+ towel around his neck. I had heard that he had drowned in his bathtub.
+
+SPEAKER_00: 0:12:06-0:16:53
+ No, so I actually, the detective asked me  if I want to see the picture.  I said yes, so I actually saw the picture.  So I know where the body was.  So the body was right next to the bathtub.  So imagine the master bedroom, you have the door,  and you have the bathtub, you can see it from the door,  and you see the body diagonal.  But it was not found in the bathtub.  It was right next to the bathtub, at least that's where the body was found. The body was completely  naked and there were no signs of violence on his body except for the asphyxia. So for  the basically the strangulation that caused asphyxia and there was his death. The coroner's  report shows that he was a very healthy man. there was no problem of any kind. He confirmed that there were no damage of any other organ. So, and nothing was stolen from the bedroom. The  wallet was there, the detective showed me, he said, Ivano, all the drawers are closed,  everything is in order. If you're a thief, first of all, there's no reason to undress  the person that you want to murder. And second, the first thing that you do, you start opening everything,  looking for valuable stuff to raid.  It was not a robbery.  So, unfortunately, the only eyewitness is not with us anymore.  He had a roommate, it was called roommate, I don't know what it was,  but he had a roommate, he was a landscape architect, same age.  And that's the guy that talked to the police,  and that's what the police  reported. He died in 1985. Probably was gay as well. And probably that's the hypothesis.  He knew more. And the detective agreed with me. But what happened, and you see that from  the investigation, as soon as they get the call, they say, ah, Beverly Hills, Mulholland  Drive, UCLA professor. they sent two teams.  Two teams arrived early in the morning,  the ambulance arrived, probably Richard was still alive  but in a coma and he died right after  because of the consequences.  So it didn't take that long by talking to the roommate  and to Richard's ex-partner who immediately arrived, Bob,  to understand that he was a gay man.  And maybe what happened is that  it was maybe some sort of surgery and something went wrong. At that point  investigation ended. So no more effort was made and the case was basically  closed. There was no real investigation. They don't even take, like, the car that  the people, the roommate said, I saw two or three black guys. They don't even take, like the car, that the people, the roommate said,  I saw two or three black guys.  I don't know what that means.  Anyway, they drove away.  It's always a black guy.  Yes, I know, I know.  Exactly.  At that time, it was like.  It's never a white guy.  Never, it's always two or three black.  Especially because what I think was happening there  is the roommate knew more.  Knew more, but according to his story, how plausible it is,  this house was a nice house,  but it was not a castle where you don't hear.  So according to his story,  I mean, how can you believe this story?  This is what he said to the police.  He said, that evening, Richard and I  went to celebrate his father's birthday.  And I checked, it's true.  It was the, what a birthday, Saturday, March the 6th, 1971,  Monty, well, Edgar Monty, everybody called him Monty,  was celebrating his 82nd birthday.  So according to the roommate, he went to talk to,  they went for dinner to his father's place.  They came back and Richard was somebody  with very separated lives.  This is the professional life.  This is my family.  These are my friends.  This is the business.  In fact, lots of these people get to know each other  at the funeral.  But now this roommate is special and goes to see,  even spend some time with the family.  Then, according to the story, they go home, 10 p.m. Each of them goes out.  But how come Richard uses John's car? According to what John says,  well, Richard told me that his Bentley, because Richard had a Bentley,  his Bentley had some ignition issues. So he asked me if he could use my car.  And I had another car from my office, so I used that one. So we went out separately.  Then we came back. I came back at 2 a.m. Nobody was at home. So I went to sleep at 3 a.m.  He was not at home. And then around 6.30 a.m. I get woken up by somebody rushing down the  stairs. So the house has two levels. The master bedroom was upstairs. Probably he was downstairs.  And that's when I look outside the window and I see two, three black guys, they steal  my car. And so I call the police right away. Now you see two, three black guys rushing  away from your place. You know that you have a roommate. The first thing that you do is  to call the police, they're stealing my car. You go and check what's happening and say,  Richard, have you seen anything? No, he doesn't do that ten minutes later calls the police to say send an ambulance here there's a body this story yeah you're great I mean you
+
+SPEAKER_01: 0:16:53-0:17:27
+ don't need to be a very deep detective to realize maybe because part of it was  because of a sexual orientation yeah and it would bring up a whole bunch of stuff.  You know, you remember when I was at All Saints,  singing at All Saints in Beverly Hills.  And, uh. Brady.  Owen Brady.  I was a soloist at All Saints in Beverly Hills  back in the early 70s.  And Owen Brady was the choir director.  This is fancy, I mean, it's a really wealthy church.  I can imagine.
+
+SPEAKER_00: 0:17:27-0:17:27
+ Right here in Santa Monica Boulevard.
+
+SPEAKER_01: 0:17:27-0:17:43
+ Yeah, yeah, I know where it is, yes.  So Owen Brady was the choir director there.  He was also the director of music  for the city of Los Angeles, big time back.  He was gay, but that was kind of,  he'd had a family, you know,  and then he discovered who he really was.  Those who knew him well knew that he was gay.
+
+SPEAKER_00: 0:17:43-0:17:44
+ If you were close to him enough, otherwise.
+
+SPEAKER_01: 0:17:44-0:18:27
+ But nobody else. He wouldn't have known. Those who knew him well knew that he was gay. If you were close to him enough, otherwise...  But nobody else.  He wouldn't have known.  He didn't have the tendencies or anything.  He was one that his family life was one thing.  Compartmentalized.  Yeah.  But he had a tendency to want to go into south central L.A.  and pick up young black boys.  See?  And so one Saturday night, one Sunday morning, there was this big hubbub at the church because  it was discovered that he had been murdered in his car and his car had been set on fire.  And so that's the second gay, brilliant musician that I knew who had been murdered.
+
+SPEAKER_00: 0:18:27-0:18:36
+ And then I've known another one too.  Do you remember which year this may have happened?  1973.  1973, so two years after.
+
+SPEAKER_01: 0:18:36-0:18:38
+ Yeah, 1973.
+
+SPEAKER_00: 0:18:38-0:18:48
+ And his name was?  Owen Brady.  I want to do a little bit of research. I'm curious to see because...  Did they ever find out who did it?
+
+SPEAKER_01: 0:18:48-0:18:50
+ I don't think so.
+
+SPEAKER_00: 0:18:50-0:19:12
+ Because probably it's another one of the...  You know the cold case unit that was created?  That's the detective I talked to.  Because the original detectives don't...  One is dead and the other must be very old.  So the detective I was mentioning earlier is the one that reopened the case  because it's an unsolved murder.  So I may actually ask him if they...  So Owen like H...  O-W-E-M.  O-W-E-M, okay.  Brady, just so it sounds.  Brady, just yeah.
+
+SPEAKER_01: 0:19:12-0:19:13
+ I think there's an E in it, but I'm not positive.
+
+SPEAKER_00: 0:19:13-0:19:22
+ Okay, Owen Brady, and until he died in 1973, and he was the music director?
+
+SPEAKER_01: 0:19:22-0:19:33
+ He was the music director at All Saints in Beverly Hills, and also, as I understand his  title was the director of music for the city of Los Angeles.  Big time stuff.  Wow.
+
+SPEAKER_00: 0:19:33-0:19:36
+ Wow, definitely a high visibility person.
+
+SPEAKER_01: 0:19:36-0:21:42
+ We all were shocked.  I mean, we hadn't gone to church yet.  No.  I forget, was it a phone call in the morning, or the news on the radio or something?  Yeah, it was on the radio in the morning or the news on the radio or something. Yeah, it was on the radio and we were just shocked.  We just stood there and looked at each other and went...  The first thing we said was,  what in the heck was he doing in South Central?  Every white guy knows you don't go down South Central after dark.  Everybody does. And we were just,  just, and his, his was kind of hush hush too. You know, you had the service in the memorial,  but it was, you know, then it wasn't talked about anymore. And that's one reason why I kind of like living in the day and age that I do,  because it's not in the closet.  You know, I think all of, at least the majority of us,  or at least everybody knows someone that is gay  or has a family member that is gay.  So it's not, you know, so poo poo.  There's a third one that I knew too.  Now this would be totally unconnected, I think.  Garnell Copeland, brilliant musician and organist.  He was a protege of Newton Pashley,  who was at First President of Oakland for his entire career. And I met him because Newton Pashley was there.  I went over to sing at First Pres a number of times, and Newton was there.  Anyway, Garnell was a young kid, probably 20, 22.  But he was black.  No. Well, yeah, he was mixed. That's right.  Okay. black? Well yeah he was mixed that's right okay and my association with him  is he did a concert at Grace Cathedral in San Francisco and I got up the rafters and I  dropped some microphones and I was taking all that anyway shortly after  that he was called to be the organist at the National Cathedral in Washington DC
+
+SPEAKER_00: 0:21:42-0:21:48
+ Wow that's an important position and he got Cathedral in Washington DC. Wow, that's an important position.  And he got murdered.  In Washington DC?
+
+SPEAKER_01: 0:21:48-0:21:51
+ Yeah, I think it was in Washington.  I'm not positive that.
+
+SPEAKER_00: 0:21:51-0:21:59
+ Do you think it was related to sexual orientation?  Yes, absolutely.  As far as you can tell.  Absolutely, he was gay as well.  Sorry, how do you spell his last name?
+
+SPEAKER_01: 0:22:00-0:22:05
+ Just like the...  Copeland, like?  Copeland, that's it.  No, strange thing.
+
+SPEAKER_00: 0:22:05-0:22:07
+ Okay, C-O-P-E-L-A-N-D.  Yeah.
+
+SPEAKER_01: 0:22:07-0:22:10
+ Okay.  And Garnell would be G-A-R-N-E-L-L.  L-L, yeah.
+
+SPEAKER_00: 0:22:10-0:22:12
+ Okay, Copeland.  And that would mean...
+
+SPEAKER_01: 0:22:12-0:22:31
+ Let me think about this.  I was here, let's see, Dad came back in 1968, and I came up to do my conscientious objective  work in 1969. And he was in this area...  It was probably 1970 or 75.
+
+SPEAKER_00: 0:22:31-0:22:57
+ Around the very same time.  Around the very same time.  Around 1970.  I'll check for that.  No, that's actually important because I...  One thing that I was trying to do  and to build on the chapter,  still incomplete, the chapter about the death,  is to get a sense of how not unique.  I mean, the specific details are unique,  but there seems to be a pattern.  And now these two examples really like.
+
+SPEAKER_01: 0:22:57-0:23:01
+ Three brilliant physicians, all three gay,  and all three murdered.
+
+SPEAKER_00: 0:23:01-0:23:41
+ Yeah.  I mean, we are dealing with people  that were clearly gifted,  that had a side of their personality  that they realized could not be shown,  and that probably in order to create some space for that,  or the way they shaped that space,  was a very dangerous one.  Because, you know, if you think about why,  at least in the case of Richard,  and probably in the case of Owen,  like, part of the reason, at least in the case of Richard and probably in the case of Owen,  part of increasing the risk is the fact that if you have fascination with this part of  the population and there is actual segregation, you as a white man entering those areas, you  put yourself at risk.
+
+SPEAKER_01: 0:23:41-0:23:42
+ Yeah.
+
+SPEAKER_00: 0:23:42-0:24:23
+ Just automatically.  Automatically. So, and in fact, I mean, the police,  that's in the police report,  when Montague died, one thing that they did,  they got a picture of his car, a picture of him,  and they went around, because in his master bedroom,  they found a Greyhound bus station timetable  from the LA Greyhound bus station,  which is in that nice area of downtown.  And the car was found outside the Greyhound bus station, which is in that nice area of downtown. And the car was found outside the Greyhound bus station.  Wow.  And so they went, and the car was found there.  What did the police do?  They left a policeman for 24 hours to observe if anybody would go back to the car.  Of course, you know, you just murdered somebody, you go back to the car.  And then they got the car, and they never took the fingerprints inside.
+
+SPEAKER_01: 0:24:23-0:24:25
+ Isn't this, there's, it's like there's a conspiracy almost of... the car. And then they got the car and they never took the fingerprints inside.
+
+SPEAKER_00: 0:24:25-0:25:08
+ It's like there's a conspiracy. No, I mean, they shut it off completely and said, we don't  care. Nobody's going to care. It's one of those. Yeah, it's one of those. Yeah, probably  that was the attitude. So one question that I had for you, Mark, is as much as you can  reconstruct, well, first of all, I would like to know a little bit more about how your parents  ended up in Oakland. So a little bit about their background.  Also to get a sense of what kind of community they found  and what kind of community they built.  Because I'm interested in, Richard played  in a role in that community.  So I'm trying to get a sense of what kind of community  did he find?  What kind of people your parents were and the community was?  And how he could have interacted. It sounds  like he stayed close to them. So, you know...
+
+SPEAKER_01: 0:25:08-0:26:45
+ He does. I'll just back up a little bit. I was born when my dad was at the church in  Ontario. He then went to Chino State Prison to become a chaplain. From there, he moved  and we lived on the grounds  of San Quentin Prison. Our house was right next to Warden Duffy's house and he was a  supervising chaplain of the state prison system. In 1950, he got called into the regular ministry  at Oakland First Christian. It was a thriving community then of probably at least a thousand  members. Wow.  At least.  The sanctuary, I know this building just so intimately, the sanctuary seats exactly 500  people plus 50 some in the choir lot and the place is full all the time.  So he went to a very thriving community.  Well, you've been by the church so you know.  It's a stunning place. Just stunning. doesn't look anything like it used to it  it's a serious I want to ask you so you look better like oh you remember when  you went by there you may have seen two large redwood signs yes yes those signs  were put up my dad's name was engraved in the actual wood of the church. So each  subsequent minister had a board that was nailed over his name. Wow. So his name still exists  there. It still exists under. Yeah, it's under there. Is this open? Yeah, that's an old picture.  It's not a really good one. But it's a beautiful picture. Yeah, it is. It is. I have, I've got  hundreds if not thousands of slides of the church.
+
+SPEAKER_00: 0:26:45-0:26:47
+ In that period, too?
+
+SPEAKER_01: 0:26:47-0:27:00
+ That's the problem.  These would be from the 70s.  So I didn't go through them because they're not  of that period.  Beautiful.  And we can't let you have those because we don't know what  is in those other slides.
+
+SPEAKER_00: 0:27:00-0:27:08
+ No, but this is an earlier picture, though,  because judging by the card, these are not 70s.  This would be out of the 50s. though, because judging by the card, these are not 70s, this is earlier.  This would be out of the 50s.  Yeah, this could be the 50s.  Well, so anyway, let me finish off that thought.
+
+SPEAKER_01: 0:27:08-0:27:30
+ Sure.  So then that would pretty much cover the period when Richard was there, and it was, like I  say, a thriving community.  You can tell it was very prosperous because ministers didn't get paid much.  My dad didn't get a lot of money.  And we met our Parsons with Piedmont.  I don't know if you're familiar with Piedmont.
+
+SPEAKER_00: 0:27:30-0:27:38
+ Oh yeah, it's a fancy community.  Yes, I heard about it doing the research.  They told me, oh yeah, that was the area for the wealthy people.
+
+SPEAKER_01: 0:27:38-0:27:44
+ So if a pastor lived in Piedmont, you know the church was...
+
+SPEAKER_00: 0:27:44-0:28:12
+ Okay, now I I understand why.  They were paying Richard very well.  Richard was paid more than what UC Berkeley would pay him as a teaching assistant monthly.  So he would get $150 a month from UC Berkeley and $180 a month from the church.  I thought, well, this is like clearly a community that had money.  So your father found that community, which was already thriving.  Yes.  It was already a large, wealthy community.
+
+SPEAKER_01: 0:28:12-0:29:27
+ Yes.  And he was an absolute dynamic minister and preacher.  I say, the best I've ever heard.  He had a mentor, his name escapes me right now, who was the preacher at the Riverside Church  in New York City, the one that Rockefeller built  for this guy.  I have some of his sermons on my DVD.  Yeah, I can't remember.  But anyway, I'm getting off track here.  So this community was healthy, dynamic, wealthy,  this community was healthy, dynamic, wealthy, and just extraordinarily stable. And so you can understand that. The only complaint I've ever heard about him  was he's talking about the squeezy little organ. And it was. So you was complaining  about the organ? Well you wrote to me about that. It was a 1929 Moller.  It was 29 ranks.  And it stayed that way until in the 70s,  when my friend Bob Schertle and I,  he was the wife of the, husband of the choir director then,  we went in and we rebuilt that whole organ,  put in about 30 more ranks.  I see. And all that sort of thing that whole organ, put in about 30 more ranks and  all that sort of thing. But again, that's decades later.
+
+SPEAKER_00: 0:29:27-0:29:31
+ So do you agree with Richard's evaluation about the organ then?
+
+SPEAKER_01: 0:29:31-0:30:03
+ It was not a big or powerful instrument. Just across, a couple doors down, was the First  Congregational Church that had a wonderful organ. Oh, what's the guy's name? This flashy  organist from the 50s and 60s, I can't think.  Swan?  No.  I'll think of a name.  And then of course, First Press, which is on Broadway,  had an actual speaking 32-foot stop mammoth organ.  So ours was mammoth.  Yeah, I see.  That's just a catch.
+
+SPEAKER_00: 0:30:03-0:30:40
+ And also, you know, Richard,  before working for First Christian Church, every year he  had changed job, going up and being paid more.  So starting from when he moved to Berkeley in 1948, he started having jobs right away  as an organist.  He always worked initially just as an organist and then become also the music.  And every one and a half year, he would change.  So and you see, because in his declaration,  you see he would change, and his title  would get more important, and the pay would raise.  So he started with something like 60, 70 a month,  all the way to 180 when he was hired.
+
+SPEAKER_01: 0:30:40-0:30:42
+ He was a good businessman.
+
+SPEAKER_00: 0:30:42-0:30:45
+ From the very beginning.  From the very beginning, yes.
+
+SPEAKER_01: 0:30:45-0:30:48
+ Wow, how interesting.
+
+SPEAKER_00: 0:30:48-0:31:15
+ And I can see, for example, Richard joins the community and they start organizing a  series of concerts on top of the regular service.  So this is where the season is announced, there were concerts, I think there were four  for each quarter, and sometimes Richard would just give concerts by himself,  or the choir would give concerts.  So looking at the program, it's kind of varied.  And it looked like an intense activity  on top of the regular service.
+
+SPEAKER_01: 0:31:15-0:31:33
+ The music program was major.  Choirs all the way from little three-year-olds  all the way up to the adults.  And they did some significant projects.  So yeah, it would have been,  I think it would have been fulfilling for him,  and he probably had a really good time  with the Louisiana organ.
+
+SPEAKER_00: 0:31:33-0:32:10
+ Like for example, they prepared Handel Messiah,  which you know, it requires a certain kind of preparation.  It's not something, you need a real choir,  and you need like a real music group to perform that.  I've heard that hundreds of times.  Yeah, okay, so you know what I'm talking about.  It's not like, it cannot be just the amateurs  that get together once a week and you can perform that.  And it was a public performance.  And so it looks like he was very much engaged,  which is even more amazing to me  because at the very same time,  he was a teaching assistant in mathematics at Berkeley and was working  on his own PhD.  Amazing.  Yeah.
+
+SPEAKER_01: 0:32:10-0:32:29
+ In fact, the Messiah, you say that, that was the first real big solo that I did was doing  the tenor solos in the Messiah at First Presbyterian back in 1970 or 71.  That's pretty good, I don't remember that.
+
+SPEAKER_00: 0:32:29-0:32:52
+ So do you have any memory, I mean, you were young,  but maybe based on later time or stories that you've heard,  did you have any memory about the kind of community  in terms of like openness?  So you can be a rich and wealthy community,  but kind of rigid and more on the conservative side, or you can be a rich and wealthy community, but kind of rigid and more on the  conservative side, or you can be in the mid, you can be more on the open liberal side.  Do you have a sense of that?
+
+SPEAKER_01: 0:32:52-0:33:15
+ I do.  And it comes from not only just my personal experience, but the Disciples of Christ denomination  as a whole has always tended toward the liberal side.  That's the impression that I get.  Religion and politics.  And although I don't know until later on, years later,  that the gay community was completely welcomed,  I don't know about then,  because you just didn't even talk about it.
+
+SPEAKER_00: 0:33:15-0:33:16
+ Yeah, yeah, yeah.
+
+SPEAKER_01: 0:33:16-0:34:19
+ They told me.  Back then, the Ponders and the,  I can't think of the other names now,  were the two black families in the church.  And they are still there as far as I know.  But that was kind of notable because it was a very white community.  But it doesn't mean that they weren't thoroughly accepted, not accepted, welcomed.  They were a significant family.  Those two families were significant families in that church, even back then with that huge  congregation.  The same thing would have been true in Whittier when Dad went down there. was a resident Indian family in that church, even back then with that huge congregation.  The same thing would have been true in Whittier when Dad went down there. That was a congregation  of 2,500. But again, I'm getting off the point here. So the point I'm making is that by ultimate  definition the disciples of Christ have had that basic political and religious  philosophy and still do. Now you go back to Oklahoma and it's gonna be different  but here in California you know the west, the more liberal left side, that was an experience that I can attest to, absolutely.
+
+SPEAKER_00: 0:34:19-0:34:37
+ What about, since you it sounds like you remember his preaching and his way of being, what about  your father?  In terms of his own view about the world, society, people, do you have any memory of  that?  How would you describe him?  You describe him.
+
+SPEAKER_01: 0:34:37-0:34:38
+ Who?
+
+SPEAKER_00: 0:34:38-0:34:39
+ My father-in-law?
+
+SPEAKER_01: 0:34:39-0:35:26
+ Yeah.  You've heard him preaching off times.  Okay, that's nice. You've been preaching off times.  A dynamic, very dynamic, not boring storyteller.  He would start a sermon like with a story  and then go into the Bible part of it.  And then it'd end up somehow that Bible story  and that story of what was happening came together.  You'd have you laughing and crying within five minutes.  20 minute sermon. No crying within five minutes. Yeah. 20 minute sermon.  No more than 20 minutes.
+
+SPEAKER_00: 0:35:26-0:35:30
+ Still, you know, keep the attention of like hundreds of people.
+
+SPEAKER_01: 0:35:30-0:37:14
+ Oh, he was.  I mean, when he was at Whittier, and we were attending Whittier at the time, the church  was needed a new roof.  And it's a big church like this this one was like  Oakland was bigger than that one about twice the size of the sanctuary and  everyone every Sunday he would talk about that roof we needed a new roof and  every every Sunday he would do it and we were sitting next to some good friends of  ours that had just joined the church probably within the year and she reached  in she got her you know he would say we're $40,000 from our from our goal  $40,000 now that may seem like a lot to you, but it really is. Just a drop in the bucket.  What could you do with 40,000?  God wants you to take care of his home, his house.  So she reached in her wallet, purse,  got her checkbook out and wrote a check,  I think for $10,000.  And she said, now maybe that'll shut him up  and we won't have to hear it.  Was that Ruth Shannon?  No.  It wasn't.  That was Sue Pope.  No.  Yes it was, it was Sue Pope.  She says, now maybe this will keep his mouth shut  and we won't have to listen to this anymore.  And sure enough, sure enough, a couple of weeks later.  He had all the money.  He had all the money.  And it did not take him long.  He was frugal.  Very good businessman, too.
+
+SPEAKER_00: 0:37:14-0:37:15
+ Yeah, extremely.
+
+SPEAKER_01: 0:37:15-0:38:05
+ He ran a big church very well.  A president for Eschaton, which was at that time a non-profit.  It built hospitals and...  Hospitals, low income housing, that sort of thing.  It's still rather significant here in Northern California.  He was the second president of that, correct?  Now, there...  I was the second employee of that.  Now, they're still in Sacramento,  but they now seem to concentrate on senior citizen housing.  But my father-in-law was a dynamic minister.  He was a unique man.  Is that as much as I could say about him?
+
+SPEAKER_00: 0:38:05-0:38:09
+ I have a question for you.  Actually, do you want to add anything?
+
+SPEAKER_01: 0:38:09-0:38:11
+ Maybe. I'll think about it.
+
+SPEAKER_00: 0:38:11-0:45:31
+ Okay. So, in the question, part of the reason why I ask this is that Richard gets hired by your father at a very special time of his life. So he's hired in December 1953,  right around the time when Richard is arrested.  And from the end of 1953 until April 1954,  he's really risking a lot.  I mean, he's in jail for 24 hours,  then the father pays, what's it called?  Bail.  The bail, thank you.  He's released, but then he goes in front of the first interrogation,  the judge said, yes, there is enough evidence to go to a trial.  So he went in front of a jury.  And it went on until he got a hung jury.  At that point, the DA had to decide, am I going to have another trial with a different jury or not?  And that's when the powerful professor from Berkeley, Alfred Tarski first, but all the  others too, went to talk to him to say, he's a genius, you need to let him study.  We are going to work together on this issue, but that's not going to happen again.  So the reason why Richard was arrested is another of those complicated stories at that  time.  So the, and again, relatively little is known.  After two years of research, I managed to go to the Oakland courthouse and find this  document, which is just the transcription of the first, let's see what it's called.  It's the-  Arraignment?  Well, it's basically-  Preliminary?  Yes. It's the... Arraignment? Well, it's basically... Preliminary? Yes, the preliminary interrogation that only concerns...  It doesn't concern the alleged...  The person that may have committed the crime, but it's just the witnesses.  And in particular, in this case, there's only one witness, who is also the person who called  the police, who is also directly involved in the story.  So at that time, he was almost 17 year old.  He was studying mathematics... He was in high school in Berkeley.  And he called the police by saying that Richard Montague had made sexual preferences on him.  And that's another story that makes very little sense.  I read the transcript very carefully.  And basically, first of all, the guy was six feet tall and big, white  guy, big. And you see from what he says, he's the one conducting the conversation. Montague  says hi, but then he says, oh, you go to Berkeley. Oh yeah, I want to study maths. Oh, you do  maths. So he walks with him without any uncertainty and the certain point they arrive home and and and that's where according to him you know  like Richard said you want to keep walking that's what again what he says  says for what and that's where Richard says well you want a blowjob and he says  why not and then the Richard's lawyer stops him and says, excuse me, why did you say yes?  And that's the top of the story.  Well, it's not that I wanted it.  It's just that I was not sure that by him asking that to me,  he would have committed a crime.  But I knew for sure that if he had tried to do anything,  he would have committed a crime.  So I went along.  What?  That's what he tells me!  And despite all this, the judge says  there is enough to go in front of a jury.  So I think what  happened is that they just had something.  But then, you know, the end of  the story is that he goes home, and it gets  even more paradoxical. He goes home, he lives right there.  So they go, and  Richard says, well, do you know a place in the area?  Yes, I know a couple.  He takes them to the little wood area  right next to his house physically.  And according to him,  Richard tries to unzip him at that point.  He said, that's it.  He goes home.  He goes and talks to his mom, 12.30 a.m.  The mom in the bedroom was saying,  mommy, mommy, mommy, a queer hit on me.  It doesn't say any detail.  The mom says, oh my God.  He goes downstairs, he calls the police.  The Berkeley police, it's Saturday night at 12.30,  five minutes later, he's already there.  The policeman picks up the guy, this minor,  in the police car, they drive around, and Richard is there.  He's walking home because he was walking.  And they arrest him.  How can you believe this story?  It's incredible.  But he went all the way to the in front of a jury.  He was really risky.  He could have had his career and life ruined.  Because had he been condemned and put in jail,  the university would not have hired him.  Because at that time, that meant trouble.  Already as a gay man, you were under scrutiny.  Like, uh-huh.  Even the universities.  In other places it was even worse.  I mean, like you were discriminated.  You were not like, like all these places  where you, they require clearance,  they wouldn't give you clearance.  Because as a gay man, you were in a kind of weak position.  People could use that against you.  And so, but even the university, they didn't want trouble.  And so you were discriminated.  So that could have ruined his career.  And he was lucky enough that probably he got a good lawyer.  The case was so absurd.  And then he had all the support of the professor.  I mean, like Alfred Tarski, his mentor from Berkeley,  everybody that knew him was like,  no, no, this was a, make this Polish man.  He would start talking.  You could not do, you can only do what he wanted.  He had this magnetic personality  with this heavy Polish accent.  He would be, you would be under his control.  It doesn't matter who he was talking to.  He could have talked to the president,  like the chancellor of the university,  or the man that was delivering the milk.  It doesn't matter.  He had like this personality. They doesn't matter. Yet, like, there are this personality,  they start talking and you are,  okay, there's nothing else I can do.  So probably it's affecting,  and all the other professors I went to talk to  with the DA helped,  but one of these professors who was still alive,  I was not able to interview,  somebody else interviewed for another book,  tells this anecdote in the recording that were left  about Richard, the DA says, OK, guys, I understand.  This is a genius.  He talked to me and said, look, I understand.  He's a genius.  I heard this from you guys.  And I'm willing to consider that.  But somebody has to tell him that he cannot talk to me  in that way.  When I talk to him, you know what he says?  He looks at me.  So now it's Richard who is 23, talking to the DA that  probably was 50 and could have ruined his life.  So this kid, Richard, looks and says,  look, where's the problem?  The problem is not in me.  The problem is in you and the society.  But Richard learned his lesson.  From that moment on, he did not have  any legal trouble of any kind.  Again, learned the lesson, learned his technique, and say, OK,  I risk.  And he took risks probably until the very end.  But he built the system in such a way  that legal issues were not involved.  So this was happening.  That's what I'm amazed at, because on top of everything,  this was happening exactly when Richard was hired,  was designing the new season, performing the first concerts,  on top of teaching the classes first concerts, on top of teaching  the classes at Berkeley, on top of writing his dissertation.  Yet, in the middle of this major trial,  they could have ruined it.  Jeez.  So the question was, sorry if I,  but this is something that really makes me very,  so you think that, that's my question for you,  had your father heard about this,  do you think this could have affected?  His employment? Yeah.
+
+SPEAKER_01: 0:45:32-0:45:33
+ No.
+
+SPEAKER_00: 0:45:33-0:45:51
+ Okay. No, no.  Because it sounds very unlikely to me  that your father didn't know anything about this,  because come on, this guy is arrested  and then he has to go to trial, you know,  sure, and it's in Oakland, it's happening in Oakland,  it's not happening in like in Riverside or Bakersfield.  Well, it wouldn't surprise me that Dad knew he was gay.
+
+SPEAKER_01: 0:45:51-0:45:52
+ Yeah.
+
+SPEAKER_00: 0:45:52-0:45:53
+ I wouldn't be surprised at all.
+
+SPEAKER_01: 0:45:53-0:45:55
+ Yeah, I mean, yeah.
+
+SPEAKER_00: 0:45:55-0:46:00
+ So you think that that would be, would it be possible?  I think it's possible.  I think it's probably likely.
+
+SPEAKER_01: 0:46:00-0:46:48
+ He said, Dallas was never a judgmental person.  And I truly believe he impressed me by being a type of man  that if you told him something, then it stayed with him.  If he knew something...  Excuse me. with him. If he knew something, he would not bring it up. He would allow you to bring it  up to him. As far as he was concerned, you were who you were sitting in front of him.  He was a great guy. Good minister.  Really good minister.
+
+SPEAKER_00: 0:46:48-0:47:56
+ Because I think one sign, I think,  that Richard had a special relationship in this community  is that he did not keep material from any other community  he played in.  Like, I mean, in the very same way as his archive.  He had a folder with like church activities,  but it was only with your father.  I mean, he had worked for the previous five years,  but he didn't keep any of those experiences.  Like, maybe it's just a random fact,  but you know, how random can it be?  So my impression is that his level of commitment,  first of all, this was also the church  where he had more responsibilities and a higher title,  but also, you know, in the previous churches,  the two right before joining his last one,  where like he was directing the choir,  he was playing the organ.  But there was something special in this community,  like the amount of commitment and creativity,  designing the programs.  My impression is that he felt at home. And  there was that little party for him when he left in early January 1955. So that's why  I was trying to understand what kind of community he was in, because from his side, it looked
+
+SPEAKER_01: 0:47:56-0:48:25
+ like that he was enjoying that community. It wouldn't surprise me that Dad is a very organized guy who would somehow get you to  do things you didn't think you wanted to do, and be joyous in doing it.  I bet you he had a hand in seeing Richard's talent and getting that directed in different  ways.  That wouldn't surprise me at all.
+
+SPEAKER_00: 0:48:25-0:50:23
+ And Richard, must have been from the talking to the people  that knew him on the different aspects,  he sounds like one of those personalities  that you see the intensity and you see the gift  and say, wow, I mean, intellectually, for sure.  I mean, I have various weaknesses about that,  but I was also able to find people that remember his playing.  Unfortunately nobody who has heard him playing the organ because by the time  they got to know him he was not playing the organ anymore but so because he had  moved to Los Angeles and Los Angeles he performed his last concerts was 1956 and  then he stopped but at home he had an harpsichord and  he played the piano and so there in particular a student, an  undergraduate at UCLA who became close to him was also studying, like he had been  studying piano for the, he was like 19, he had studied piano since he was 4.  And he got to know Richard as a young teacher,  and they started playing piano together  in the music room at UCLA.  And he told me, well, Ivano, you know,  I stopped around that time to play piano  because I knew that I was good.  I was good, but not good enough to, you know,  arrive at those levels.  And so I wouldn't have another kind of career.  But I was good.  And I was  able to judge. And you know, Richard could have participated to high-level competitions. Had he  won, I don't know. But he could have definitely been admitted to high-level competitions. Technically,  he was perfect. And sometimes he would also be able to put a little bit of passion.  Did he play the organ at all in LA? Yes, so I know for sure that I have  at least the program of these events in one of the actually major churches in LA  for a concert that he gave in, so I think it was like either the end of 55 or  beginning of 56. Do you know what church? I can send you the information, I don't remember now
+
+SPEAKER_01: 0:50:23-0:50:32
+ the top of my head. I'm just curious because one of the great church organs in the whole world is First  Congregational at 6th and Commonwealth, near downtown.
+
+SPEAKER_00: 0:50:32-0:50:37
+ I know that it was towards the downtown area.  I'll send you that one.  I'm going to check the program.
+
+SPEAKER_01: 0:50:37-0:51:00
+ It's a monster organ.  You've probably heard of the Christ Cathedral too.  Yes.  They used to compete with each other to be the largest church organs in the world. And this, a Gothic church built in the 1920s, and they've got different portions of the  organ all around it, matching twin five manual organ councils, one down here and one up on  the balcony.  If you ever have a chance to go there and listen to a concert, it's just incredible.  So it wouldn't surprise me.
+
+SPEAKER_00: 0:51:00-0:52:39
+ Yeah, you can tell me what you think.  I'll send you the program and I'll send you the church.  I got in touch with the person that is currently the, what's called the music director of the church,  asking if there was any material from the past history.  I said, look, there was this person that gave this concert, and he said, unfortunately, probably the person that knew him  just recently passed away, and I mentioned his name and I couldn't  find any. I asked the elderly in the church and they don't remember that, but I also asked  him to take a look at the program that he performed and he said, well, you know, like  a good organist is able to perform that. What surprised me is that this guy was not an organist.  Like, you know, there was a professor., performing that, that's not what you expect. Like, you know, it's like, this is a professional organist at a good level, would  have this kind of program, but not an amateur. And probably Richard was not an amateur, was  just another one of these personalities. But then, you know, he was human. So probably  once he moved to LA, he realized that he couldn't focus on everything. And that's also probably  when he starts focusing on money. So he started investing. So part of the time probably was spent in like analyzing the stock market,  probably he had some algorithms, he would measure things, I'm sure that he'd know in  his mind. So the sense is that then this probably the community that your father had created  was a very well-count community where he probably felt at home, he felt safe and stimulated.  And Richard was definitely somebody like, you know, he had no problem to work and work  hard as long as there were the possibility of doing things and realizing things and,  you know, getting like things done and done in a good way, not in a kind of approximate
+
+SPEAKER_01: 0:52:39-0:53:10
+ way.  The way you describe him sounds like he'd be a wonderful fit for that church at that  time.  Absolutely.  Do you think Donna would know anything about?  Well, let's see.  We're the same age, so she would have had the same type of memories that I did.  He was gone.  This is my dad's widow.  We were the same age by about three months difference. And so I don't know, you know.  If your dad would have spoken of him to her.
+
+SPEAKER_00: 0:53:10-0:53:11
+ I never thought about that.
+
+SPEAKER_01: 0:53:11-0:53:17
+ I'm saying.  It's possible.  I mean, she was still there all that time  until they got married and moved down to
+
+SPEAKER_00: 0:53:17-0:53:23
+ the second row.  Because in 19, so you said that your dad heard  about Richard's death in 1971.
+
+SPEAKER_01: 0:53:23-0:53:51
+ I don't know where I heard or when I heard the stories or who from.  If it was my dad or my brother or how, I don't have a recollection of hearing.  I just remember being startled by hearing it, but I think it was, my sense is that it  was not in the immediate time of his death.  It was later.  Yeah.  I think I've heard this story later on,  but I don't have a specific memory.
+
+SPEAKER_00: 0:53:51-0:54:50
+ And so I had a question about the community.  So do you have a sense of how the community is  doing now these days?  And in particular, how the existing community  is related to the community in the 50s?  The reason why I'm asking this question is the following.  If this is one of those communities that  has kept some continuity, we know we knew members  and so on, but you know, it's kept some of the old members.  I was wondering if there is the possibility  of trying to reach out and see if any,  like people that would be like Richard's age at that time,  23, 20, 25, they may still be around  and a member of the community and may remember him.  So these will be people like between, I guess,  between your age and your father's age, like Richard's age.  So these are people that now would be  between the age of 80 to 90, essentially.  But on the other hand,  if the community has changed dramatically,  like it has become a  very different community, then it becomes harder because probably nobody is really related  to that anymore.
+
+SPEAKER_01: 0:54:50-0:56:11
+ There's only one name.  We went back to the Oakland church to do some painting and stuff like this 10 years ago.  The only name besides Ponder that I remember was the last name of Holroyd.  They were a significant family there. And I think she, Betty was her first name.  Betty Holroyd.  Betty Holroyd.  Now again, this has been a long time.  It's now been over 10 years since I've been there.  And she was an elderly person then.  That's the only name I can come up with  that registered with back in the 50s.  By then.  That would still be alive or maybe.  Yeah, that might still be alive  or still be at the church.  How about the...  By then, the attendance at Sunday's service  was probably 25.  That black family that went to the church,  they had a number of kids, right?  Yeah.  Wasn't there a story or something  about one of the kids still going to the church?  Yes, and she was there.  Yeah, and she was a member,  she was still a member of the church.  It's, Ponder was one, there's two black families.  One last name was Ponder, and the other one,  I've got something here, talk amongst yourselves.  Because this church was one that, if you grew up in it,  you pretty much stayed in it.
+
+SPEAKER_00: 0:56:11-0:56:14
+ That's the impression that I had from what you guys were saying.
+
+SPEAKER_01: 0:56:14-0:56:47
+ She sent me some info.  Even Whittier, Witty, you're a first Christian, where Dallas last preached.  If you were born into the church, you stayed in the church until you died.  I mean, we're not in the same area, but we're still a part of that church.  We still contribute to that church.  So that is...
+
+SPEAKER_00: 0:56:47-0:56:48
+ It's a connection.
+
+SPEAKER_01: 0:56:48-0:58:28
+ It is our home church.  Matter of fact, it's fallen on some hard times,  and it does a whole city block.  The church is a whole city block.  I mean, they had buildings for education,  and building of just all kinds.  It's a big church.  So they've fallen on kind of hard times because  our parents are now gone.  We didn't necessarily follow the tradition that our parents did.  So the younger generation is not there.  So they're kind of struggling.  And there was a story where someone had moved back east  and was born and raised, born and reared in the church.  And when they had heard through the grapevine that the church was up for sale.  And the people were, the person from Becky's was so upset that they called the one person  that they remembered as a Sunday school teacher, which she happens to be in her 90s and still at the church.  I'm saying, who do they think they are selling my church?  They cannot sell my church.  It is my church.  And Oakland was like that as well.  I don't know so much still,  because I know Whittier First has more members than Oakland does.
+
+SPEAKER_00: 0:58:28-0:59:36
+ When I'm worried about Oakland, that's why I was wondering if you guys have any connection,  specific individual I could contact, is that that area has changed dramatically in terms  of cost of living and people that can afford to live there.  With this major expansion of San Francisco,  now probably that has affected the people that can live there.  So even if, let's say, you are lucky enough,  you are an older person, and you were  lucky to buy a house there, your children  won't be able to buy a house there.  And so then that inevitably forces family to move away.  And this dismantles the kind of infrastructure  and sense of community and communities that was.  So I'm a bit worried that I don't  know if Oakland and that community in particular  may be affected by that.  But I was just wondering if you guys know anybody that is still  there.  Not necessarily from that time.  It could be somebody who joined more recently  that you're in touch with that I could contact  and say, you know, is there anything like,  is there a bulletin that you guys have  for the people in the church, or are there like a...
+
+SPEAKER_01: 0:59:37-1:00:18
+ Pondexter?  I'll come up with the name.  Okay.  And I'll get it to you.  Thank you.  Is it Pondexter?  No, it's more like Saunders, it was an S word as opposed to a P word like ponder.  I remember ponder specifically.  The other one was, uh, it was a girl.  I think it was, yeah, she was, she was one of the kids.  Yeah.  But my age now of this big family of six or seven or eight children, uh, I was going  to show you this.  I think she's talking about, Oh yes, yes, yes, yes.  I think she met...  I met that girl.  I think you did.  She sent us, when we were organizing this Miracle Day, she sent us some photographs and a DVD  or something like that.  That's what I'm going to come up with.  It's in that room some place.
+
+SPEAKER_00: 1:00:18-1:00:30
+ Yeah, and this must have been when... so when he was there, so we're talking about the late  50s here. I'm trying to look at the, or maybe early 60s, what was like, I'm trying to see  from the clothes that people are wearing.
+
+SPEAKER_01: 1:00:30-1:00:34
+ Well this would have been during that time because by the time...
+
+SPEAKER_00: 1:00:34-1:00:55
+ So your dad was there until...  58.  58, okay, so yeah, that's because it looks to me like clothes from the 50s, the kind  of hat, the kind of skirt.  Yeah, he's got his doctoral.  So until 1958, okay, so you guys left just three years after Richard  left. Yeah. And we went to... Do you remember why your father left? What are your... The
+
+SPEAKER_01: 1:00:55-1:02:02
+ reason Richard moved around. Bigger church, more money. More and more money. I see, I  see. But you see then in 1968, the Oakland church called him back. Oh, he went back?  So he had two tenures there, yes.  He went there in 1950, put in 1958.  In 1968, he went back to Oakland and stayed the minister there until Eschaton hired him  as the president and they moved to Sacramento and he was there for 15 or 20 years. And then he moved back down south  and did 10 or 15 interims around the states,  the Southern California area until he was probably 89.  Wow.  I think he had his episode.  His heart surgery, he was 89.  Yeah.  And never quite recovered from it.  But he did his last interim all over Southern California.  Wow.  He did at the Leisure World.  He was the master at the Leisure World.  So he never stopped, basically.  No.  No.  He was so good.  If that man could make a buck, he'd make a buck.  He's up in heaven making a buck.  I know that man.  That too, but he was just really good at his job.
+
+SPEAKER_00: 1:02:02-1:02:07
+ And he clearly liked it, because otherwise, you know, you have to sort of, what, do you stop?  And, uh...
+
+SPEAKER_01: 1:02:07-1:02:15
+ Yeah, no, no, he was really good.  Great preacher.  In fact, I have a whole raft of VCR tapes
+
+SPEAKER_00: 1:02:15-1:02:16
+ of his sermons.
+
+SPEAKER_01: 1:02:16-1:02:37
+ Oh, VCR tapes, nice.  For a number of years in the Whittier Church,  they recorded him on videotape.  And so I got, I don't know,  30 or 40 or 50 of his sermons. They gave you all of them, and so I got, I don't know, 30 or 40 or 50 of his  sermons.  They gave you all of them and we...  No, I took them.  Well, Ellie gave it to you.  She says it's better if I say I gave it to you.  Here's some new tapes, I'll take those old ones.  Yeah.  They were taping over them.  Oh my gosh.  No!  Why'd you do that?
+
+SPEAKER_00: 1:02:37-1:02:47
+ Come on, at that point, I mean, just for some tape.  Do you mind if I take a look at the pictures?  I'm curious.  Oh, absolutely.  These are pictures from him.  Oh, yeah.  That's what we're here for.  I can't see. I can't see. I can I take a look at the pictures? I'm curious. These are pictures.  Oh, yeah. That's what we're here for.
+
+SPEAKER_01: 1:02:49-1:03:26
+ I can't find any of those that you, uh...  Any what?  That you had.  I thought you sent him some of...  Yeah, it's all in this stack right here.  See I don't have too many from that era. I've got scabs from later on. Huh. This is a letter to Richard, a note to Richard it looks like. This is something you would have sent me, right? Oh. I think so. That's the one that I...
+
+SPEAKER_00: 1:03:26-1:03:44
+ Yeah, yeah, yeah. It's the one that I plan to send you...  Yeah, this coming Sunday, but there will be another... ...sort of reference for that.  Um...  I believe...  Yeah, this month it looks like...  Yeah, I think I sent it to you to say...  Berkeley... See, it's January 2000... ...and...
+
+SPEAKER_01: 1:03:44-1:04:53
+ It's another paper that looks like that, kind of washed out from printing.  Like the program or something like that, he sent several things over.  Oh!  E-mailed and printed out.  This is to John Nichols Roldenburg. I thought it was to your dad.  To your brother, and I was going,  John, I love you like a younger brother or son. I told you that Friday night.  Is that from me? Yeah, you need to  Get out of yourself  Include communication when you made up your mind about something that's the words gonna be our difficulties  I'm not in painting walls or mandate things like that  But in our lack of ability to speak what's really going on.  You said you really wanted to tell me.  You said you really wanted me to tell you  what I perceive as the truth in our relationship,  and this is it, John, you must get past yourself.  This is what we're having a little hard times.  He was a minister at the church here in Stockton  that we attended for a while.
+
+SPEAKER_00: 1:04:53-1:05:06
+ So Mark, can I ask you about the structure of the church?  So where was the organ in the church?  It was like up here?  It was back here.  Oh, in the back.  The choir loft.  The choir loft.  OK, it has that kind of structure.  In fact, so don't think I can see it. How about the regional office in Oakland? Do they have anything?  Maybe.
+
+SPEAKER_01: 1:05:06-1:05:11
+ Yeah.  Okay.  Actually, you can't see it because all the people are standing there.  Yeah, but it's behind you basically.  Yeah.
+
+default: 1:05:11-1:05:12
+ What we did also, see, this is a wooden wall here.
+
+SPEAKER_01: 1:05:12-1:06:26
+ Yes.  And that's where the Oregon Consul was.  Ah, I see.  In the 70s, we cut that like that and like that, so you could see the wall.  And then we had a big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,  big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big here's, this is a wooden wall here. Yes. And that's where the organ console was.  Ah, I see.  In the 70s, we cut that like that, like that,  and so you could remove it and you could see the console  when there was a concert being done.  The organ pipes were up here and here and then on the side.  Yeah, here then there.  Did you ever get inside the church?  No, because it was closed when I...  We've gone by there several times recently  because we had to make a trip to Oakland.  And yeah, it's kind of sad.  It says, what is it, Community Center  or something like this?  Peace Center.  Peace Center, sort of a handwritten sign.  Yeah, it is, and your apartment at the bottom of the church?  Yeah, I was the janitor there for a while and I had an apartment in the church.  And it was seven stories tall.  You know how the hill goes back like this?  Yeah, yeah, yeah.  From that point, the lowest point up to where Dad's study was under the tower there, it  was seven stories tall.  I knew every nook and cranny of that.  I could go through that church blindfold.
+
+SPEAKER_00: 1:06:26-1:06:54
+ No, that area has changed quite a bit.  I mean, like people that live there now are very different.  And so the entire like sociology.  Yes.  And there is much less of it.  My impression is that there are lots of people  whose life rotates around San Francisco  and much more than it used to  be and the cost of living has increased dramatically in that area. It has become  you know the expansion of San Francisco and probably that changes the kind of
+
+SPEAKER_01: 1:06:54-1:07:37
+ people that... When we moved from Chiedmont to Whittier, the church decided to sell the parsonage. This would have been in 68, no, when dad came back.  We still move back into the church,  into the parsonage in Piedmont.  When he joined up with Eschaton,  then the church decided to sell the parsonage.  This would have been in 1972, three.  And they sold this little bitty house for like $27,000.  Three story house, three or 4,000 square feet.  On the wrong side of the tracks, mind you, in Piedmont,  because this was a small house, right?  That house is at least a million dollars.  At least a million dollars.
+
+SPEAKER_00: 1:07:40-1:07:46
+ I was probably some of the richest.  My mom did the...  56, yeah. She directed the little bitty kids. I was probably some of the futures. So we are in the month of... My mom did the...  56, yeah.
+
+SPEAKER_01: 1:07:46-1:08:00
+ She directed the little bitty kids.  The little bitty ones had the bows  and the next step up had different kind of bows.  One thing Mark's family never did  was write on the back of pictures.  If you find anything on the back of the picture...
+
+SPEAKER_00: 1:08:00-1:08:07
+ Somebody else.  Somebody else wrote it.  I noticed.  Although it's a good habit because it helps you.
+
+SPEAKER_01: 1:08:07-1:08:23
+ Well, my family taught me always to write on the back of the pictures who they are, where it was.  I will remember that. And then of course you can. Yeah, of course. Of course. So my great nieces and  nephews now when they see a picture of their granny goose, you know, they know that's their
+
+SPEAKER_00: 1:08:23-1:08:59
+ granny goose. And it's important because that's part of the value of the picture.  If you don't know who's in the picture, how can you connect to the picture?  Yeah. That person kind of looks like someone I know. Yes, it could be. Humans, humans. The only thing that the memory is there.  This was 1955. When did Richard leave? 1954? January 55. January 55. So he probably wouldn't be in this picture. I doubt. Yeah, because it was very, very, very at the beginning.
+
+SPEAKER_01: 1:08:59-1:09:30
+ How do you know it was 1955? It's written. This actually is January 22, 1955, official board.  Yeah, he had just left.  He had just left.  See, I told you.  Someone else wrote on it.  There's something on the back.  Now, as far as photographs go, I think I mentioned this before.  It may be impossible, but Arthur Odell Studios in Oakland on Grand Avenue was kind of like  our official photographer.  Yes. Yes.  And I don't know if they still exist  and if they do, that might be a source for
+
+SPEAKER_00: 1:09:30-1:10:26
+ getting our pictures. Okay, actually, let me check  because I also wonder  if the pictures, even if  it doesn't exist anymore, if they've  been donated to some  other archive  because sometimes  photographers do that. For example, here in Stockton, Bank  of Stockton has a very beautiful photography archive that has been created mainly by them  acquiring and archiving material from one or two important photographers that Stockton  had. And when they died, the families were not willing to like, you know, take care of photography. Pictures takes time and money. And so they  were like, they found a good compromise. At a relatively cheap price, they were able to  get all those beautiful pictures of Stockton in 1910, 1920, 1930. So I got some pictures  of like the area where Montague was living. Oh, there's one.
+
+SPEAKER_01: 1:10:26-1:10:45
+ Do we know?  It's Oakland.  I wish I could remember the name of that black family.  Because I think she would still be there.  There's a bird.  Have you tried the Oakland Regional Office at all?
+
+SPEAKER_00: 1:10:45-1:11:00
+ No.  See, all the churches have a regional office that they report to.  They report in terms of like, so what kind of connection they may have with the regional  office.
+
+SPEAKER_01: 1:11:00-1:11:32
+ Veronica Jeannie.  Okay.  Explain to him what regional office.  The denomination is basically  autonomous church congregations,  but they all have a regional office.  This would be Northern California, Nevada.  Okay.  Southern California is Southern California.  Okay.  But the regional office,  and my boy, oh boy,  must still be in Oaklandland i'm not positive  that's christian church disciples of christ uh northern california nevada
+
+SPEAKER_00: 1:11:33-1:12:41
+ and you can probably google it christian church and it probably is going to be in I believe so. Yeah, okay, I'll check. Actually, Mark, I have another question for you.  Based on your experience and what you know about First Christian Church in general, if  you're an organist and a choir director in a church, are you expected to be a member  of the community in the sense, are you expected to be a believer?  No.  No, there is not such an expectation?  I wouldn't think so, no.  Okay, so it's possible, for example, for you to work as an organist for a church and not  being part of the community in the sense that you are not, you don't necessarily have that  kind of faith.
+
+SPEAKER_01: 1:12:41-1:14:47
+ I think that's probably universal with music at a church in  general. Like right now I'm the soloist at the Christian Science Church in Lodoc, and I'm not a member and I don't have any religious beliefs.  So they don't expect you to be... When it comes to... and a lot of people who are  members or singers at say the Presbyterian Church because their services on Friday would  also be a cantor at the Jewish Temple. I see, I see. Okay, okay. So that's part of your job.  You know, it's a profession, you're performing. Thank you, you're a good little boy.  That's just. I'm going to cut it. This is way off subject really, but just in case you'd like to take a look quickly.
+
+SPEAKER_00: 1:14:47-1:14:59
+ That's the Whittier Church.  Ah, okay.  Yeah, I'm curious.  That's where your father moved right after, which is, yeah, it looks even bigger.  It's a big place.
+
+SPEAKER_01: 1:14:59-1:15:20
+ You know, it just really once, except you say he didn't play the organ much when he moved down south.  It wouldn't surprise me that the Gladsons and Richard somehow crossed paths at a time  or two.  Maybe he came to that church and played or something like that.  I have no idea.  I know that...
+
+SPEAKER_00: 1:15:20-1:15:25
+ So, for how long was your father at this church?  Ten years.  Ten years.  So, from the... Six years.
+
+SPEAKER_01: 1:15:25-1:15:51
+ Well, I mean, it's not unlikely.  I mean...  And I know my brother, who is 76 this year, the sense is that my brother and he had a  good relationship.  He was... Richard was born in what year?  1930. 1930. So he had been 10 years older than
+
+SPEAKER_00: 1:15:51-1:16:13
+ Carson. Well, actually, if I were to say, so Richard  this year, now in September Richard would turn 86. So nine years of difference. So Richard  was nine years, which means that when Richard was there, age Richard was 23, 24,  that's your brother, is that correct,  was basically 14, 15.
+
+SPEAKER_01: 1:16:14-1:17:14
+ Right, and the sense I have is that Carson admired him.  Oh, so he remembers that?  Oh yeah, well, I haven't talked to Carson  about this for decades.  All this work in here is my brother's.  All the paintings hanging in this house are his.  Oh, so he's a painter then?  Yeah, painter.  His professor, now retired, but he taught at Northridge for a number of years.  Then he went to that great big junior college in... near the coast...  Which part? Northern California? No, sorry, Southern California.  Off the 405, going toward the ocean. Oh, in  LA you mean? Yeah. I mean like... El Camino.  El Camino, yeah, yeah, yeah. He was there for about 30 years. Uh-huh. And  he still is... he's got terrible problems with his hands now,  but he does a lot of stuff on the computer now.  But virtually everything that's hanging on the walls here is his art.
+
+SPEAKER_00: 1:17:14-1:17:18
+ So, sorry, I just want to be sure that I...  You said that you have not talked to him for 10 years?
+
+SPEAKER_01: 1:17:18-1:17:46
+ I haven't talked to him for about three years.  Okay.  I don't know if that would be... You might have a way of getting more of a sense from Carson about that.  I think he lives out in Palm Springs someplace.  What you could do is go to CarsonGladson.com.  Oh, he has a website. Oh, perfect. I didn't know that. What you could do is go to CarsonGladson.com.
+
+SPEAKER_00: 1:17:46-1:18:02
+ Oh, there's a website. Oh, perfect. I didn't know that.  I'll just mention, if you prefer, what I can say.  From my archival researches, it turns out that Richard Montague was the community where your father was.  Do you happen to remember, if you don't want to be...
+
+SPEAKER_01: 1:18:02-1:18:09
+ No, no, that's fine. It's not that I don't if we we have falling out that we haven't fixed up yes no no I understand those
+
+SPEAKER_00: 1:18:09-1:18:30
+ things happen absolutely okay so his name is Carson Carson Lee and the  website is under his name yes Carson is Carson... Is it CarsonGladson.com or CarsonVGladson.com?  Well I can check both actually.  If it's one of the two then...  Yeah, it's got to be one of the two.
+
+SPEAKER_01: 1:18:30-1:19:06
+ Okay, CarsonGladson.com. I know that his daughter posted a letter about him about a year ago.  It was very touching actually, very nice.
+
+SPEAKER_00: 1:19:06-1:19:11
+ But he had a lot of resources.  So as long as you know he's still doing okay, then?  You said he had some, like it was on his pricelist.
+
+SPEAKER_01: 1:19:11-1:19:30
+ He's got Parkinson's disease and a couple other ailments  that have really slowed him down.  My sister,  oh,  I kind of doubt that.  See Carson was very musical too.  He played the piano and was very interested in that sort of thing.
+
+SPEAKER_00: 1:19:30-1:19:36
+ I guess at the age he was already studying.  If he played the piano he'd already started because if you're 14.
+
+SPEAKER_01: 1:19:36-1:19:46
+ He was never professional at it but he always admired it and loved music and so there's  a connection, just a musicus connection with Richard I'm sure.  I'm almost b I'm always positive of that.
+
+SPEAKER_00: 1:19:46-1:20:09
+ And so as far as you know, since you said that he's not doing too well as far as health is concerned,  do you think he still checks his website?  Yes, I think so.  You think so?  Yeah.  Does it look like the website.  There are signs that the website has been modified  or been active recently.
+
+SPEAKER_01: 1:20:09-1:20:10
+ I can't even turn the computer on.
+
+SPEAKER_00: 1:20:10-1:20:27
+ I'll have to ask Ginni which one it is.  I can do it.  I'll check.  Or in case this doesn't work, do you  happen to have your niece's contact information?
+
+SPEAKER_01: 1:20:31-1:20:36
+ I don't know.  I think she still lives in Pasadena.
+
+SPEAKER_00: 1:20:36-1:20:44
+ So this is a beautiful picture with the tree and the church.  Really nice.  You can tell, okay, this was.  And I guess this is still church building,
+
+SPEAKER_01: 1:20:44-1:21:01
+ it looks like the American Jewish. This was the ladies parlor, the original construction.  This was modified in the late 60s, early 70s, took to build a chapel.  Very beautiful chapel, stained glass and stuff like that.  You can tell that this is 1956 or 7, that's what it looks like, a 7 to me, and that's
+
+SPEAKER_00: 1:21:01-1:21:02
+ a 6.
+
+SPEAKER_01: 1:21:02-1:21:08
+ I used to know all these by heart.  Wow, impressive. That looks like a 7 to me and that's a 6. I used to know all these by heart.  Wow, impressive.  That looks like a 57 Chevy.
+
+SPEAKER_00: 1:21:10-1:21:16
+ I only know that we are talking about late 50's here, because from the cars, but I don't know the level of precision that you...
+
+SPEAKER_01: 1:21:17-1:21:19
+ I'm older than you too, so I remember...
+
+SPEAKER_00: 1:21:19-1:21:27
+ Well, you know, this is knowledge. This is knowledge that you have that I don't.  I remember you sent me this. This is a beautiful picture of your mom doing that.  Yeah, that's sweet.  Yeah, that's very nice.
+
+SPEAKER_01: 1:21:27-1:21:35
+ And this, I think there's a date on the back of it.  So, 1958.  Okay, July.  This is probably one of Dad's last Sundays, because we would have moved in September.
+
+SPEAKER_00: 1:21:35-1:21:42
+ Oh, that's true.  It was the start of September, after vacation time.  Yep, yep, yep.  Oh, it's full.  It was always full.
+
+SPEAKER_01: 1:21:42-1:22:35
+ Yeah, wow.  Always full.  You know what, I'm going to take another one of these. Oh, it's full. It was always full. Always full.  Come on, take another look.  In Whittier, when we first started going there, they had two services.  That sanctuary seated about 1,100.  And the late service, which was always 1030, 1045, there was no room left.  So they started an 815 service, and the high school choir sang at that service.  Yeah, this is way too late for it.  All the ladies wore hats.  You knew it was summertime when dads would stand up  in the pulpit and say that the gentlemen  could take off their coats. Of course, most of the men wore hats, but there was always a hat wrapped around the  back of the room.
+
+SPEAKER_00: 1:22:35-1:22:54
+ Can I ask you, Mark?  I'm curious about this.  So is this a special celebration for something?  Like see that people are drinking some tea and eating something or is it like a regular  gathering or something like after the Sunday service?  Do you have a sense of what that could have been? Because this is really a  banquet, clearly this is something, you know, looks like a banquet. Yes. But that's, I
+
+SPEAKER_01: 1:22:54-1:24:47
+ wonder if was a tradition of some... We used to always have a coffee hour after  church. This was in the, this is in the fellowship hall which is  directly below the sanctuary. There's also a large room on the same level as  the sanctuary. Is this the room in here? That's me. That's you? That's you? No that's not me.  There's dad back there. That's what I thought yeah I thought that was your dad.  Somebody made a collage because I cut a picture out of here.  Yeah.  I think the collage is in here.  Oh, I think you're right.  Dad made, dad had made for that thing right there, I think.  Ah.  So someone's picture belongs right there.  Oh, belongs there. One of them.  Yeah.  Well, there I am. That's me.  That's you?  Yeah, with the glasses on.  Yeah, that's him.  Ah, how old were you here?  I was probably... Seven or eight? Yeah.  I started wearing glasses when I was three.  You look very professional with your jacket.  I mean, look at that.  Oh, he was a PK.  Typical PK.  I was the one that would go into one of the restrooms and lock the stall door and then  crawl under.  The one with the restroom?  Yeah.  And I don't know if you're familiar with our...  We had a disciple person that would come in and lock the stall door and then crawl under.  And I was the one that would go in and lock the stall door and then crawl under.  And I don't know if you're familiar with our...  We had a disciple person that would come in and lock the stall door and then crawl under.  And I was the one that would go in and lock the stall door and then crawl under.  And I don't know if you're familiar with our...  We had a disciple person that would come in and lock the stall door and then crawl under.  And I was the one that would go in and lock the stall door and then crawl under.  And I don't know if you're familiar with our...  We had a disciple person that would come in and lock the stall door and then crawl under. And I was the one that would go in and lock the stall door and then crawl under. And I don't know if you're familiar with our... We had a disciple person that would come in and lock the stall door and then's restroom. And I don't know if you're familiar with our, we had, the disciples of Christ have  communion every Sunday.  It's grape juice, you know, and there's always a room where you go and prepare it.  And I would sneak in there, I have a church service, and drink all the grape juice that  was left over.  And he would get in trouble for it and he wouldn't understand why.  Why? Because he knew it was wine.  Probably because your mama was afraid you might get someone's disease from sipping the cup.  Yes.  Do you see the Black family?  Here's the Black family right here.  Oh, you can see them?  Yeah.  I can't think of her name. I'll find it and I will get it to you. Oh, you can see them? Yeah. I can't think of her name. I'll come up, I'll find it and I will get it to you.
+
+SPEAKER_00: 1:24:47-1:25:05
+ Oh, that's your dad? Yeah. This is the, now that's the one you're most interested in. Yeah. I want to make a copy with my scanner.  Do you know who is this person? His name is Halsey Davis. Yeah. So was this somebody in the church? Oh yeah. He would have been one of the bigwigs in the church.
+
+SPEAKER_01: 1:25:05-1:25:07
+ Probably chairman of the board and stuff like that.
+
+SPEAKER_00: 1:25:07-1:25:12
+ Yeah, yeah, because it looks like that this is like 1955, the annual meeting that they
+
+SPEAKER_01: 1:25:12-1:25:15
+ had.  Here's an interesting story that Dad told us.  Where you are again?
+
+default: 1:25:15-1:25:17
+ Huh?  That's the one, yes.
+
+SPEAKER_00: 1:25:17-1:25:21
+ Oh, that's the same one?  Yeah, that's the one in the picture with the hole.  Yes.  Oh, yeah, the picture with the hole.
+
+SPEAKER_01: 1:25:21-1:26:06
+ We were at, do you remember the dinner we had at the Magic Castle?  That Dad and Donna went to.  And this, I think, is the place where Dad told me this story about Halsey Davis.  That Halsey, this big, stern, vital guy, was gay.  Let me see.  And he told Dad this in...  Oh!  So decades...  This was much later.  Much later. Well, I don't know. I think this was during the time  that he was there.  But dad didn't tell us this story until  2000 or something like that.  And it was just startling because this guy was  not  effeminate at all.  And a family man.
+
+SPEAKER_00: 1:26:06-1:26:08
+ Do you know if he had a family?
+
+SPEAKER_01: 1:26:08-1:26:12
+ Oh yeah. Altsy Davis.
+
+SPEAKER_00: 1:26:12-1:26:35
+ And you feel pretty comfortable in thinking that he played a major role in the church?  Oh yeah, absolutely.  So he was one like somebody having an active role in the church?  In fact, his pictures probably...  Can I ask you, I don't know much about the organization of the church.  How does it work? Is there some sort of board that deals with the financial aspects?
+
+SPEAKER_01: 1:26:35-1:26:37
+ There's the official board.
+
+SPEAKER_00: 1:26:37-1:26:41
+ Uh-huh.  In 1955.  You think he's going to be there?
+
+SPEAKER_01: 1:26:41-1:26:51
+ Oh, I'm serious.  So there is a board...  Why don't you turn the light on, hon? You probably can see a lot better. I think that's him be there. Oh, I'm serious. So there is a board. Why don't you turn the light on, hon?  You probably can see a lot better.  I think that's him right there.  That's him right there.
+
+SPEAKER_00: 1:26:51-1:26:56
+ Yep, it looks like his face.  Yep, you're totally right.  Yep, that's him.
+
+SPEAKER_01: 1:26:56-1:27:37
+ So the organization of the church  is that the board directs the church in its finances  and all kinds of other things.  They hire the minister and the minister is an employee who may stay for a long, long  time, may move on to another church or whatever.  That's entirely up to the congregation.  Like the Methodists...  And the minister too.  Right.  Yeah. too. Right. In the Methodist Church, the local, not the local, but the synod, we'll assign  a minister to that church. Like every three years. I see, I see. In the Disciples Church,
+
+SPEAKER_00: 1:27:37-1:27:55
+ it's really the community that decides. They have a search, they look at candidates, and  then they decide. Once you hire a minister, can you also decide to terminate the relationship?  Yes.  Okay, so it's not like...  It's a contractual thing.  It's a contractual thing, so it's on both sides.
+
+SPEAKER_01: 1:27:55-1:28:12
+ And so this board will be elected for a year, and they would then internally elect the chairman and the treasurer and the whole...  I see, okay, so really like...  If you have a really strong minister, then...  You can play, I guess. Sure, of course.
+
+SPEAKER_00: 1:28:12-1:29:25
+ Dad was a very strong person.  And so certain people would get on the board...  They wanted to, so they said yes.  Well, but you know, it's an advantage on both sides.  If you have a very dynamic minister, then as a board, it's your advantage,  and you see that he's doing good things for the community,  then it's your advantage to give him more space.  I mean, like why, just because the idea comes from you  instead of coming from us,  that doesn't mean that it's a bad idea.  So it's a very, but I like this.  I mean, I'm not a member of any church,  but as an Italian, I was born and I grew up in the Catholic  tradition, which is a very different one.  I mean, everything comes from the top.  The priest of the community is decided from the top.  He can be removed at any time.  It's not up to you.  And decisions concerning the church are not involved.  They don't affect you unless you are,  but even in terms of like what you can do,  you can give donations and that's what you can do,  but you don't participate to administration of the church.  The church is property of the Catholic Church,  the land, the building, and so,  and the priest that administer the church  has a certain amount of responsibility,  but even him is not directly involved.
+
+SPEAKER_01: 1:29:25-1:29:43
+ Yeah, well, the land and the building  of the disciple's church, if the disciples,  if a particular church folds,  then the church and the building and the land  goes to the regional office or to the national office,
+
+SPEAKER_00: 1:29:43-1:31:07
+ and they decide what to do.  Sure, sure.  But it sounds like, for example,  the fact that the community can choose its own minister.  Right.  That's a fantastic thing,  because it puts you like, okay,  we are evaluating based on who we are,  what kind of personality,  what kind of person and group fits us better.  And then if things changes,  I remember stories from my childhood of priests that nobody could stand.  And there was just a damage for the community.  No, there's nothing.  There's nothing.  At the very same time, actually, this  is even a more common story, priests  that have been able to build a very, very great community,  like doing things, connection, enlarging.  And people were involved both in terms of socializing, but also emotionally.  All of a sudden, the Vatican decides that this priest has to be moved to the opposite  side of Italy. That's it. I remember petition, request, nothing. Nothing.  The setting came down. Yeah. You totally see the power up and you  are left like, I mean, you know, this  is a man that has played a major role in my family, developing my children for the past  10-15 years, and all of a sudden you take him away. I don't know why. Nothing is said.  He has like, I think, a few months to live back.  Sorry, can I ask you, how would you spell his... I have a hard time reading his handwriting.  So it's Paris, like in the middle of the city.  Halsey.  Halsey, OK.
+
+SPEAKER_01: 1:31:07-1:31:20
+ H-A-L-E-Y or S-Y.  Why is it not working?  And then Davis.  Looks like H-A-L-S-E-Y.
+
+SPEAKER_00: 1:31:20-1:31:28
+ S-E-Y, LC.  And then can you read the last name?  Davis. Oh, Davis, OK. D-A-V read the last name? Davis. Oh Davis, okay. D A B I S. Davis.
+
+SPEAKER_01: 1:31:28-1:32:30
+ L C Davis. It's either H A or H O. Okay, okay. It's gotta be H A. Really? I think so. Okay.  Okay, I'll put both. Does he see how it looks like it could be an O because it's up at the top?  I'm almost positive. Okay, well you would know better than I would.  Is it Carson Gladson dot com, Carson L. Gladson dot com,  or what?  Your brother?  Carson's website, yeah.  Or whatever you call it.  Yeah, I think it's Carson Gladson dot com.  OK, I'll check that.  Carson's name came up because he was closer in age to Richard and I know that he admired  Richard and had some sort of a friendship with him.  I thought maybe he'd have some memories too.  Yeah, if your brother's capable of talking and stuff.  Yeah.  I just don't know.
+
+SPEAKER_00: 1:32:34-1:33:44
+ So, Mark, do you mind if I take a scan of this picture? Absolutely. Do you need to plug in?  No, no, it's a portable one.  You can scan whatever you like.  Thank you. And I was thinking of scanning these two pictures of the church. Absolutely, whatever you like. Thank you. And I was thinking of scanning these two pictures of the church.  And I have a question for you, Mark. So this is the room where you said there were like little  receptions? This is the big hall. Oh, this is the big hall, because it looks like a big one.  Was there something that was smaller than that one?  Yes.  Okay, because I was just wondering  which was the place where they may have organized  a little gathering for Richard?  Actually, maybe if I send you the program,  you'll see, because I think they wrote,  it was something like this, yes.  It was like a bulletin, and in back the last page I have it on this  can it says you know gathering for Richard Montague and maybe you can  recognize which place it was it looks like you knew the church very well so  It's Carson Lee Gladsen. Oh, Carson Lee Gladsen.  Yeah.
+
+SPEAKER_01: 1:33:44-1:35:08
+ Carson.  And he also has a Facebook page.  Oh, okay.  Is that where you read the letter from,  who is it from?  From Hopie?  From Hope.  No, it was from, I just Googled Carson Lee Gladsen  and it came up Huffington Post article,  Carson Lee Gladson.  Oh, that's right, because he got ahold of a couple of pieces of software and manipulated them in such a way  that he impressed people with the software.  Yeah, he got in, he has developed Parkinson's,  and he was an artist, and so he,  because of his trembles, his shakes, he could no longer hold a paintbrush. Yes.  And so he got an iPad, I think, and manipulated it so that he could continue doing his artwork.  Wow.  Some software that had a name, and I can't think of it. It was Apple. Apple, Hope contacted Apple to say  you know how grateful she was that this saved her father's life and so on and so  forth and so Apple contacted Carson and somehow they got together and developed this new software for Parkinson's disease.
+
+SPEAKER_00: 1:35:08-1:35:30
+ Fantastic. Yeah. Yeah. So that can also be used by other people, not just by him.  Right. Right. Yeah. Because you can imagine that, for example, you can create a software that  can recognize what's the main line and gets rid of all the shaking. Like if you do this,  okay, that's what you want to do.  Then, you know, and maybe you have two, three options  and then you can choose how do you want to clean up  that line and then.
+
+SPEAKER_01: 1:35:30-1:35:52
+ Apparently he did it with just a, with a mouse,  with the mouse and was able to manipulate it to where.  And it was almost like, like it was inside his brain  and it knew what he wanted. And he wanted and so it started, yeah.  He was a pretty good artist.
+
+SPEAKER_00: 1:35:52-1:35:59
+ So do you have a sense that he has posted on his Facebook page recently?  Just to have an idea if he's still able to communicate.
+
+SPEAKER_01: 1:35:59-1:36:06
+ I don't know.  It just says that this is his Facebook page.
+
+SPEAKER_00: 1:36:06-1:36:12
+ Because sometimes if you look at the Facebook page,  you can see if people have posted or have had activities  recently or not.
+
+default: 1:36:12-1:36:13
+ Oh, yeah.
+
+SPEAKER_01: 1:36:46-1:37:07
+ I see. and neglected my mom. She was a brilliant lady herself. She had, uh...  She was in...  In fact, it goes back to the early 1950s,  when she did her, had her own TV show  on Sunday afternoons,  there was a discussion group  that she produced and directed in San Francisco.  Wow! And it was on the local station there.
+
+SPEAKER_00: 1:37:07-1:37:09
+ You said in the late 50s? Yeah.
+
+SPEAKER_01: 1:37:09-1:38:15
+ She was a precursor then. Yeah.  And she got her Master's in Drama at UCLA, at Pasadena, LA.  And went on to become a grapple analyst and grapple therapist  for the last 30 or so years of her life.  She wrote a book on grapple therapy.  She's quite a talent too.  Drama, put on plays and such.  In fact, she and I, I don't know if you're familiar with the book, Pride of the Beloved Country.  It was turned into a musical called Lost in the Stars.  It's a story about this.  So what's the title of the book again?  Cry the Beloved Country.  It's a brilliant book.  She exerted the book, put it in about a one hour form, and I exerted the musical.  And so we combined this. I would sing a cappella  and she would read the story.  And we did, I don't know how many,  we performed 20, 30 times.  In various places in Southern Canada.  We did, we made a recording of it.
+
+SPEAKER_00: 1:38:15-1:38:17
+ When did you do this?  Like which period?
+
+SPEAKER_01: 1:38:17-1:39:14
+ 1990, in that area.  The story is about a family,  several families in South Africa.  The father is this priest in a very poor area and the son, Absalom, goes into Johannesburg  and gets into trouble.  He gets into serious trouble and he ends up killing somebody. The somebody he kills happens to be the son of this priest's very good and wealthy friend.  And they made a couple of movies out of it too.  Richard, uh, uh, Richard, who played the white guy.  Oh, Bismarck. Richard.  I don't know.  Anyway, so he gets in trouble.  The story surrounds this young kid's  trial and going to jail.
+
+SPEAKER_00: 1:39:14-1:39:22
+ Oh, so he gets found and arrested.  So the story is about...  So all this is sort of a background.  The actual story is about the trial?
+
+SPEAKER_01: 1:39:22-1:39:24
+ Well, the trial is part of it, but not a major part of it.
+
+SPEAKER_00: 1:39:24-1:39:25
+ Okay, I see. But it's all leading up to him losing his way, about the trial? Well, the trial is part of it, but not a major part of it.
+
+SPEAKER_01: 1:39:25-1:39:40
+ It's all leading up to him losing his way, finding his way, losing his way, and he ends up being hanged.  Oh, wow. Yeah. It was Photoshop that he used. An iPad with Photoshop.
+
+SPEAKER_00: 1:39:40-1:39:59
+ Photoshop, I see. That's what he did. I see. So they could do the adjustments. But does it look like something that has been  posted recently, from what you understand? It was Richard Harris and James Earl Jones.
+
+SPEAKER_01: 1:39:59-1:40:15
+ Oh yeah, the director. I think I know. Yeah, it was probably within the last five years, I guess.  Yeah.  Carson posted a main Hopi's article.
+
+SPEAKER_00: 1:40:15-1:40:17
+ I'll try to write it.
+
+SPEAKER_01: 1:40:17-1:40:19
+ It was just last year.  Oh, was it last year?  OK.
+
+SPEAKER_00: 1:40:19-1:40:28
+ Yeah, I'll try to write him, and I'll  see if he requires to share anything.  Does he still live in California?  Yeah.
+
+SPEAKER_01: 1:40:28-1:40:30
+ Okay.  I'm from the Springs area.
+
+SPEAKER_00: 1:40:30-1:40:34
+ Oh, okay.  And he's sort of retiring now.  He's a Southern California pirate.
+
+SPEAKER_01: 1:40:34-1:40:39
+ Now, when you search him, it's all of his... It's in Redondo Beach or Los Angeles.
+
+SPEAKER_00: 1:40:39-1:40:48
+ Sure, but it's probably all the places where he lived.  Yeah.  But it's good that he has his own website, so at least if he're still checking his email, probably the website comes with an email. And so I
+
+SPEAKER_01: 1:40:48-1:40:59
+ can factor that. I'm pretty sure his email is...  Email? Yeah. It's CarsonLeeGladson at AOL.com.
+
+SPEAKER_00: 1:40:59-1:41:01
+ I'm pretty sure that's what it is. Oh, okay. Okay.
+
+SPEAKER_01: 1:41:01-1:41:16
+ I'm pretty sure that is what it is. I don't think he would have changed it. It's either Carson Lee Gladson at AOL.com or C. Gladson at AOL.com.
+
+SPEAKER_00: 1:41:16-1:41:21
+ I'll try at AOL.com. I'm pretty sure that's the same. C. Gladson.
+
+SPEAKER_01: 1:41:21-1:41:29
+ You know that drawing that we have in his very first piece of art that he ever did?  It would have been one of the restaurants at the church.  Oh wow.  He was about 14 when he did that.
+
+SPEAKER_00: 1:41:29-1:41:35
+ Oh.  It was a...  So you have something that your brother did when he...
+
+SPEAKER_01: 1:41:35-1:41:41
+ All the paintings that we have around here except this one is him.  Yeah, it's a different style.  Yeah, it's him.
+
+SPEAKER_00: 1:41:41-1:41:46
+ Everything.  Wow.  But so he was already painting, when he was that young?
+
+SPEAKER_01: 1:41:46-1:41:49
+ Yeah.  I think this is the first thing that he ever did.
+
+SPEAKER_00: 1:41:49-1:41:50
+ You might want to dust it off.
+
+SPEAKER_01: 1:41:50-1:42:04
+ It's not like an actual graphic or something like that.  Okay, don't dust it off.  Let him get all dusty.  That's okay.  That'll clean up his clothes.  It's really nice.  Things that are not hung up on the wall, I do not have a tendency to go through a closet
+
+SPEAKER_00: 1:42:04-1:42:10
+ and dust. I agree. I agree. I'm in charge of cleaning the wall, I do not have a tendency to go through a closet and desk.  I agree, I agree.  I've been trying to clean the house and I'm the same.  You need to select.
+
+SPEAKER_01: 1:42:10-1:42:11
+ Yes.
+
+SPEAKER_00: 1:42:11-1:42:13
+ No, no, no.  So that's just, you know.
+
+SPEAKER_01: 1:42:13-1:42:24
+ I'm not so good right now.  No, no, no, but I can see that.  But he's been in a number of different mediums,  you know, watercolor and oils, all kinds of things.  So he turned this into his career.  And he was a professor.
+
+SPEAKER_00: 1:42:24-1:42:26
+ And then he taught.  Yeah.
+
+SPEAKER_01: 1:42:26-1:42:53
+ Yeah.  Yeah.  Yeah, he was at the LA Museum of Art.  Oh, as far as where his art is hanging.  Yeah, and San Francisco.  San Francisco, there's some in San Francisco, LA, Long Beach.  There's a whole raft, or was, where the head of the Long Beach, the head of the Long Beach, there's a whole raft, or was,  where the head of the Long Beach...  Port.  Port, Port of Long Beach,  and their boardroom was a whole bunch of that.
+
+SPEAKER_00: 1:42:53-1:42:59
+ But now, you know what?  When we first got in touch,  I think I did a search about you.
+
+SPEAKER_01: 1:42:59-1:43:03
+ And you found nothing about him,  but you found a lot about him.
+
+SPEAKER_00: 1:43:03-1:43:49
+ I was looking for Mark Gladsden.  I don't know for which reason.  Now this comes to my mind.  I keep seeing all these pieces of art.  Because probably, the way Google searches,  that if this algorithm says Gladsden,  this is a certain area, probably your name  could have been associated in some documents  with your name of your brother.  Maybe when they were talking about Carson Gladsden, coming from a family, and then Google keeps all these  tracks.  And so you had this, I remember these pieces of art, and I said, well, maybe that's his  secondary activity, because I knew that you were in music.  So I said, okay, you know, maybe that's, now I understand.  So probably there was, and I'm going to go and do the search again, now I'm curious.  Yeah, it'll show.  Yeah, yeah, probably.  It'll show all of his.  Because I think I said like Gladstone, California or either do a mark and so to have an idea
+
+SPEAKER_01: 1:43:49-1:44:07
+ yeah and I said all these pieces of art yeah it'll show it'll it I've googled  are you doing it? When I google Carson up comes Diane which is their sister and Mark and then me and Diane's husband.
+
+SPEAKER_00: 1:44:07-1:44:09
+ Yeah, that's how it works.
+
+SPEAKER_01: 1:44:09-1:44:13
+ When they say that big brother knows where you are, he knows where you are.
+
+SPEAKER_00: 1:44:13-1:44:24
+ Well, because for Google it's enough that there has been a document online where the names are put together.  If you are connected via Facebook and so on, they have access to all this information.
+
+SPEAKER_01: 1:44:24-1:44:25
+ So that's the... Yeah. If you are connected via Facebook and so on, they have access to all this information.
+
+SPEAKER_00: 1:44:25-1:44:26
+ So that's the...
+
+SPEAKER_01: 1:44:26-1:44:27
+ Yeah.
+
+SPEAKER_00: 1:44:27-1:45:20
+ Well, thank you.  Thank you very much.  This is extremely rich and useful.  I mean, like I have some research to do, but very useful.  And it gave me definitely a much better picture of the community.  Now I feel a bit more comfortable in writing that part because now I better understand  why I had those signs from the research that I've done that that community was different from  the others as far as Richard was concerned.  So why he kept all this material and now you're telling, you know, he stayed somehow in touch  and while there was the celebration and now it was possible that despite the difficult  time that he was going through at the beginning, he was still accepted in the community. So that really helps.  And please, Mark, let me know if you can think about any name  from the old time in the community that you think it would be worth trying to contact and reach  just as an attempt.
+
+SPEAKER_01: 1:45:20-1:45:48
+ Absolutely. I'll find a couple of names.  I don't know if she's still alive.  If she is, she's got to be into her mid-90s.  But this other family, the black family in the church, had old pastoral kids, and at  least, truth be told, that would be about my age.  And I know that they were there when I was there ten years ago.  And I know one of them still, ten years ago, was a member of the church.
+
