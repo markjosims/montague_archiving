@@ -359,7 +359,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
         eaf,
         txt_fp,
         merge_turns=args.strategy!='asr-only',
-        keep_line_breaks=args.return_word_timestamps,
+        keep_line_breaks=not args.return_word_timestamps,
     )
 
     print("Saved ELAN annotations to", eaf_fp)
