@@ -76,7 +76,7 @@ def diarize(
     return result
 
 def load_asr_model(args):
-    if args.asr_api == 'infer' and 'nvidia' in args.model:
+    if args.asr_api == 'infer' and 'nvidia' in args.asr_model:
         args.asr_api = 'nemo'
     elif args.asr_api == 'infer':
         args.asr_api = 'hf'
@@ -92,7 +92,7 @@ def load_asr_model(args):
         tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
         forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
         return asr_pipe, forced_decoder_ids
-    return nemo_asr.models.ASRModel.from_pretrained(args.model), None
+    return nemo_asr.models.ASRModel.from_pretrained(args.asr_model), None
 
 """
 ELAN methods
