@@ -1,6 +1,8 @@
 from typing import Optional, Sequence, Dict, List, Union
 from argparse import ArgumentParser
 from transformers import Pipeline, pipeline, WhisperTokenizer
+import nemo.collections.asr as nemo_asr
+from nemo.collections.asr.models import ASRModel
 from pyannote.audio import Pipeline as PyannotePipeline
 from pyannote.audio.pipelines.utils.hook import ProgressHook
 from pyannote.core import Segment
@@ -19,26 +21,48 @@ ASR_URI = "openai/whisper-large-v2"
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 
 """
-Pyannote and HuggingFace entry points
+Model loading and inference
 """
 
 def perform_asr(
-        audio: Union[torch.Tensor, np.ndarray],
-        pipe: Optional[Pipeline] = None,
+        audio: Union[np.ndarray, torch.Tensor],
+        pipe: Union[Pipeline, ASRModel],
+        asr_api: str = 'nemo',
         **kwargs,
-    ) -> str:
-    if not pipe:
-        pipe = pipeline("automatic-speech-recognition", model=ASR_URI)
+) -> str:
+    if asr_api == 'nemo':
+        return perform_asr_nemo(audio, pipe, timestamps=True)
+    return perform_asr_hf(audio, pipe, **kwargs)
+
+def perform_asr_hf(
+        audio: Union[np.ndarray, torch.Tensor],
+        pipe: Pipeline,
+        **kwargs,
+) -> str:
     if type(audio) is torch.Tensor:
         audio = np.array(audio[0,:])
     result = pipe(audio,**kwargs)
+    return result
+
+def perform_asr_nemo(
+        audio: Union[np.ndarray, torch.Tensor],
+        pipe: ASRModel,
+        **kwargs,
+) -> str:
+    result = pipe.transcribe([audio],**kwargs)
+    result = {
+        "chunks": result.timestamp['segment'],
+        "text": result.text
+    }
+    for segment in result['chunks']:
+        segment['text']=segment.pop('segment')
     return result
 
 def diarize(
         audio: torch.Tensor,
         pipe: Optional[PyannotePipeline] = None,
         num_speakers: int = 2,
-    ):
+):
 
     if not pipe:
         pipe = PyannotePipeline.from_pretrained(DIARIZE_URI)
@@ -50,6 +74,25 @@ def diarize(
             hook=hook,
         )
     return result
+
+def load_asr_model(args):
+    if args.asr_api == 'infer' and 'nvidia' in args.model:
+        args.asr_api = 'nemo'
+    elif args.asr_api == 'infer':
+        args.asr_api = 'hf'
+    
+
+    if args.asr_api == 'hf':
+        asr_pipe = pipeline(
+            "automatic-speech-recognition",
+            model=args.asr_model,
+            device=args.device,
+            chunk_length_s=args.chunk_length_s,
+        )
+        tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
+        forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
+        return asr_pipe, forced_decoder_ids
+    return nemo_asr.models.ASRModel.from_pretrained(args.model), None
 
 """
 ELAN methods
@@ -93,7 +136,7 @@ def sec_to_ms(time_sec: float) -> int:
 def get_segment_slice(
         audio: torch.Tensor,
         segment,
-    ) -> np.ndarray:
+) -> np.ndarray:
     """
     Takes torchaudio tensor and a pyannote segment,
     returns slice of tensor corresponding to segment endpoints.
@@ -150,6 +193,11 @@ def init_parser() -> ArgumentParser:
         default=ASR_URI,
     )
     parser.add_argument(
+        "--asr_api",
+        choices=["hf", "nemo", "infer"],
+        default="infer",
+    )
+    parser.add_argument(
         "-d", "--drz_model",
         help=f"DRZ model path. Default is {DIARIZE_URI}.",
         default=DIARIZE_URI,
@@ -203,17 +251,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 def annotate(args) -> int:
     print(f"Initializing ASR pipeline from URI {args.asr_model}...")
     if args.strategy != "drz-only":
-        asr_pipe = pipeline(
-            "automatic-speech-recognition",
-            model=args.asr_model,
-            device=args.device,
-            chunk_length_s=args.chunk_length_s,
-        )
-        tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
-        forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
+        asr_pipe, forced_decoder_ids = load_asr_model(args)
     else:
         asr_pipe=None
-        tokenizer=None
         forced_decoder_ids=None
     if args.strategy != "asr-only":
         print(f"Initializing diarization pipeline from URI {args.drz_model}...")
@@ -282,6 +322,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_pipe=asr_pipe,
                 generate_kwargs=generate_kwargs,
                 return_timestamps='word' if args.return_word_timestamps else True,
+                asr_api=args.asr_api,
             )
     elif args.strategy=='multitier':
         eaf = multitier(
@@ -292,6 +333,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_pipe=asr_pipe,
                 generate_kwargs=generate_kwargs,
                 return_timestamps='word' if args.return_word_timestamps else True,
+                asr_api=args.asr_api,
             )
     else:
         eaf = asr_only(
@@ -299,6 +341,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 eaf=eaf,
                 asr_pipe=asr_pipe,
                 generate_kwargs=generate_kwargs,
+                asr_api=args.asr_api,
             )
 
     eaf_fp = change_file_suffix(audio_fp, '.eaf')
@@ -319,7 +362,7 @@ def asr_only(
         eaf: Elan.Eaf,
         asr_pipe: Pipeline,
         **kwargs,
-    ):
+):
     chunks = perform_asr(wav, pipe=asr_pipe, return_timestamps=True, **kwargs)["chunks"]
     for chunk in chunks:
         start, end = chunk['timestamp']
@@ -334,7 +377,7 @@ def drz_only(
         eaf: Elan.Eaf,
         num_speakers: int,
         drz_pipe: PyannotePipeline,
-    ):
+):
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
     speakers = diarization.labels()
@@ -354,7 +397,7 @@ def asr_first(
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
         **kwargs,
-    ):
+):
     chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
@@ -380,7 +423,7 @@ def multitier(
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
         **kwargs,
-    ):
+):
     eaf = asr_only(wav, eaf, asr_pipe, **kwargs)
     eaf.rename_tier('default', 'asr')
     eaf = drz_only(wav, eaf, num_speakers, drz_pipe)
@@ -393,7 +436,7 @@ def drz_first(
         drz_pipe: PyannotePipeline,
         asr_pipe: Pipeline,
         **kwargs,
-    ):
+):
 
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
