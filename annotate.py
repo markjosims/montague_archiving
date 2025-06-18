@@ -31,7 +31,10 @@ def perform_asr(
         **kwargs,
 ) -> str:
     if asr_api == 'nemo':
-        return perform_asr_nemo(audio, pipe, timestamps=True)
+        timestamp_level = 'segment'
+        if kwargs.get('return_timestamps', None) == 'word':
+            timestamp_level = 'word'
+        return perform_asr_nemo(audio, pipe, timestamps=True, timestamp_level=timestamp_level)
     return perform_asr_hf(audio, pipe, **kwargs)
 
 def perform_asr_hf(
@@ -47,19 +50,20 @@ def perform_asr_hf(
 def perform_asr_nemo(
         audio: Union[np.ndarray, torch.Tensor],
         pipe: ASRModel,
+        timestamp_level: str = 'segment',
         **kwargs,
 ) -> str:
     audio = audio.squeeze()
     result = pipe.transcribe(audio,**kwargs)[0]
     result = {
-        "chunks": result.timestamp['segment'],
+        "chunks": result.timestamp[timestamp_level],
         "text": result.text
     }
-    for segment in result['chunks']:
-        segment['text']=segment.pop('segment')
-        start=segment.pop('start')
-        end=segment.pop('end')
-        segment['timestamp']=(start,end)
+    for chunk in result['chunks']:
+        chunk['text']=chunk.pop(timestamp_level)
+        start=chunk.pop('start')
+        end=chunk.pop('end')
+        chunk['timestamp']=(start,end)
     return result
 
 def diarize(
