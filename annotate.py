@@ -57,6 +57,9 @@ def perform_asr_nemo(
     }
     for segment in result['chunks']:
         segment['text']=segment.pop('segment')
+        start=segment.pop('start')
+        end=segment.pop('end')
+        segment['timestamp']=(start,end)
     return result
 
 def diarize(
