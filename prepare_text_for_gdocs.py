@@ -45,8 +45,9 @@ if __name__ == '__main__':
         text = text.replace("\n\n\n", "\n\n")
 
     # add header
+    recording_name = os.path.splitext(os.path.basename(args.input))[0] + '.mp3'
     header_txt = HEADER.substitute(
-        filename=os.path.basename(args.input),
+        filename=recording_name,
         interview_date=args.interview_date,
         transcription_date=args.transcription_date,
         transcriber=args.transcriber,
