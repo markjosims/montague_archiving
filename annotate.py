@@ -14,6 +14,7 @@ from pympi import Elan
 from glob import glob
 import os
 from tqdm import tqdm
+import json
 
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
@@ -306,7 +307,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
     eaf.add_linked_file(wav_fp)
     wav = load_and_resample(audio_fp)
     if args.strategy=='drz-first':
-        eaf = drz_first(
+        eaf, gecko_json = drz_first(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
@@ -315,14 +316,14 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 generate_kwargs=generate_kwargs,
             )
     elif args.strategy=='drz-only':
-        eaf = drz_only(
+        eaf, gecko_json = drz_only(
             wav=wav,
             eaf=eaf,
             num_speakers=args.num_speakers,
             drz_pipe=drz_pipe,
         )
     elif args.strategy=='asr-first':
-        eaf = asr_first(
+        eaf, gecko_json = asr_first(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
@@ -333,7 +334,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_api=args.asr_api,
             )
     elif args.strategy=='multitier':
-        eaf = multitier(
+        eaf, gecko_json = multitier(
                 wav=wav,
                 eaf=eaf,
                 num_speakers=args.num_speakers,
@@ -344,7 +345,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_api=args.asr_api,
             )
     else:
-        eaf = asr_only(
+        eaf, gecko_json = asr_only(
                 wav=wav,
                 eaf=eaf,
                 asr_pipe=asr_pipe,
@@ -354,6 +355,11 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
 
     eaf_fp = change_file_suffix(audio_fp, '.eaf')
     eaf.to_file(eaf_fp)
+
+    gecko_fp = change_file_suffix(audio_fp, '.json')
+    with open(gecko_fp, encoding='utf8', mode='w') as f:
+        json.dump(gecko_json, f)
+
     txt_fp = change_file_suffix(audio_fp, '.txt')
     write_script(
         eaf,
@@ -378,7 +384,7 @@ def asr_only(
 
         text = chunk['text']
         eaf.add_annotation("default", sec_to_ms(start), sec_to_ms(end), text)
-    return eaf
+    return eaf, None
 
 def drz_only(
         wav: torch.Tensor,
@@ -396,7 +402,7 @@ def drz_only(
             start_ms = sec_to_ms(segment.start)
             end_ms = sec_to_ms(segment.end)
             eaf.add_annotation(speaker, start_ms, end_ms)
-    return eaf        
+    return eaf, None     
 
 def asr_first(
         wav: torch.Tensor,
@@ -409,9 +415,16 @@ def asr_first(
     chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
+    # build an EAF file and Gecko JSON object simultaneously
+    gecko_json = {
+        "schemaVersion": 2.0,
+        "monologues": []
+    }
     speakers = diarization.labels()
     for speaker in speakers:
         eaf.add_tier(speaker)
+
+    current_speaker = None
 
     for chunk in chunks:
         start, end = chunk['timestamp']
@@ -422,7 +435,22 @@ def asr_first(
         if not speaker:
             speaker='default'
         eaf.add_annotation(speaker, sec_to_ms(start), sec_to_ms(end), text)
-    return eaf
+
+        term_obj = {
+            "start": start,
+            "end": end,
+            "text": text,
+            "type": "WORD",
+        }
+        if speaker != current_speaker:
+            monologue_obj = {
+                "speaker": {"name": None, "id": speaker},
+                "terms": [term_obj],
+            }
+            gecko_json['monologues'].append(monologue_obj)
+        else:
+            gecko_json['monologues'][-1]["terms"].append(term_obj)
+    return eaf, gecko_json
 
 def multitier(
         wav: torch.Tensor,
@@ -435,7 +463,7 @@ def multitier(
     eaf = asr_only(wav, eaf, asr_pipe, **kwargs)
     eaf.rename_tier('default', 'asr')
     eaf = drz_only(wav, eaf, num_speakers, drz_pipe)
-    return eaf
+    return eaf, None
 
 def drz_first(
         wav: torch.Tensor,
@@ -463,7 +491,7 @@ def drz_first(
             end_ms = sec_to_ms(segment.end)
             eaf.add_annotation(speaker, start_ms, end_ms, segment_text)
     
-    return eaf
+    return eaf, None
 
 
 if __name__ == '__main__':
