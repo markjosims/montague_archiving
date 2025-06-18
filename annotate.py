@@ -356,9 +356,12 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
     eaf_fp = change_file_suffix(audio_fp, '.eaf')
     eaf.to_file(eaf_fp)
 
-    gecko_fp = change_file_suffix(audio_fp, '.json')
-    with open(gecko_fp, encoding='utf8', mode='w') as f:
-        json.dump(gecko_json, f)
+    if gecko_json:
+        gecko_fp = change_file_suffix(audio_fp, '.json')
+        with open(gecko_fp, encoding='utf8', mode='w') as f:
+            json.dump(gecko_json, f)
+        print("Saved Gecko JSON annotations to", eaf_fp)
+
 
     txt_fp = change_file_suffix(audio_fp, '.txt')
     write_script(
