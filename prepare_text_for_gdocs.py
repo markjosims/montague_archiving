@@ -13,7 +13,7 @@ $participants
 --- BEGIN TRANSCRIPTION ---
 """)
 
-FOOTER = "\n--- END TRANSCRIPTION ---"
+FOOTER = "\n\n--- END TRANSCRIPTION ---"
 
 
 if __name__ == '__main__':
