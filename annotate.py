@@ -18,7 +18,7 @@ import json
 
 SAMPLE_RATE = 16000
 DIARIZE_URI = "pyannote/speaker-diarization-3.1"
-ASR_URI = "nvidia/parakeet-tdt_ctc_1.1b"
+ASR_URI = "nvidia/parakeet-tdt_ctc-1.1b"
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 
 """
