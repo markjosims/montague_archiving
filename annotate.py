@@ -49,7 +49,8 @@ def perform_asr_nemo(
         pipe: ASRModel,
         **kwargs,
 ) -> str:
-    result = pipe.transcribe([audio],**kwargs)
+    audio = audio.squeeze()
+    result = pipe.transcribe(audio,**kwargs)
     result = {
         "chunks": result.timestamp['segment'],
         "text": result.text
