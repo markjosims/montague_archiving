@@ -14,16 +14,19 @@
         <String>Modification Date</String>
     </prefList>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">543,900</Object>
+        <Object class="java.awt.Dimension">1440,900</Object>
     </pref>
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">897,0</Object>
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>26.000002</Float>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
+        <Int>0</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -32,21 +35,21 @@
         <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="base_url">
-            <String>http://lux17.mpi.nl/aamlr/</String>
-        </pref>
         <pref key="source_audio">
             <String>/Users/markjos/projects/montague_archiving/transcriptions/anita_interviews/SC1206_b03_11_b_sl_Scott.wav</String>
+        </pref>
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>default</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>121460</Long>
+        <Long>2597038</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>122340</Long>
+        <Long>2610768</Long>
     </pref>
     <pref key="SelectionEndTime">
         <Long>0</Long>
@@ -69,6 +72,9 @@
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>26.000002</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>

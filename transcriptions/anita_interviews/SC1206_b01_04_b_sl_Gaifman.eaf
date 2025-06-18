@@ -1,326 +1,380 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-06-10T09:59:10-07:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
-	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="data/SC1206_b01_04_b_sl_Gaifman.wav" MIME_TYPE="audio/x-wav" />
-		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
-		</HEADER>
-	<TIME_ORDER>
-		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
-		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="327000" />
-		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="327000" />
-		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="527000" />
-		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="323080" />
-		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="325640" />
-		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="325640" />
-		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="406000" />
-		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="406080" />
-		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="408280" />
-		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="409400" />
-		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="411400" />
-		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="412720" />
-		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="414000" />
-		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="414080" />
-		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="417520" />
-		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="417600" />
-		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="421360" />
-		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="421440" />
-		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="787560" />
-		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="787560" />
-		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="987560" />
-		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="780500" />
-		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="781000" />
-		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="785460" />
-		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="786860" />
-		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="786860" />
-		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="985360" />
-		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="985360" />
-		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="989000" />
-		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="989000" />
-		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1027000" />
-		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1027000" />
-		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1128000" />
-		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="1128000" />
-		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="1128880" />
-		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="1128880" />
-		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="1328880" />
-		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="1122000" />
-		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="1124000" />
-		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="1124000" />
-		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="1126000" />
-		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="1128000" />
-		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="1145000" />
-		<TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="1147560" />
-		<TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="1149600" />
-		<TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="1149600" />
-		<TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="1152800" />
-		<TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="1152800" />
-		<TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="1156880" />
-		<TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="1158160" />
-		<TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="1161680" />
-		<TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="1162800" />
-		<TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="1164680" />
-		<TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="1164680" />
-		<TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="1267000" />
-		<TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="1267000" />
-		<TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="1625200" />
-		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="1625200" />
-		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="1825200" />
-		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="1622000" />
-		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="1622500" />
-		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="1622500" />
-		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="1747280" />
-		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="1747280" />
-		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="2247000" />
-		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="2247000" />
-		<TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="2253120" />
-		<TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="2253120" />
-		<TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="2260120" />
-		<TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="2260120" />
-		<TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="2365000" />
-		<TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="2365000" />
-		<TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="2366000" />
-		<TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="2366000" />
-		<TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="2367000" />
-		<TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="2367000" />
-		<TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="2427000" />
-		<TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="2430520" />
-		<TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="2436160" />
-		<TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="2436160" />
-		<TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="2442720" />
-		<TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="2442720" />
-		<TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="2794000" />
-		<TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="2794000" />
-		<TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="2800000" />
-		<TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="2800000" />
-		<TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="2802000" />
-		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
-	<TIER TIER_ID="SPEAKER_00" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE> He gave me the impression that he was assimilated altogether. That he wasn't, not that he was particularly keen to hide it, but he wasn't particularly keen to display it either. It was something that he wouldn't hide, but something that for him was completely a neutral issue. He didn't present himself as a Jew or didn't appear to be a Jew, didn't say he was Jewish and so on. He was completely cosmopolitan in his outlook, in his politics, and so on. He was conservative in many respects, but kind of a mildly liberal. In some areas. In some areas. I remember when we spoke, he thought, well, yeah, the Jewish claim to Israel, that's a joke. You can't make a claim because 2 years ago and so on. But okay, so you managed somehow to do that, let's see what we can do now and so on. I mean, legally it means nothing. He was very cosmopolitan. Yeah, Rabin said that he avoided the issue of talking, even when he was in Israel, he didn't talk at all, at all about that. On the other hand, he, from other people, I've learned that he, that the few people he did talk to about being Jewish, he had some fairly, some of the typical traumatic experiences that little Jewish boys in Warsaw had. You know, he was called a dirty Jew, he was beaten up on his way home from the park by gangs of boys, he and his brother, and so forth. So it's not that those things weren't in his background, but he chose not to focus on them. But the reason for changing of name was that he didn't want to appear Jewish, I was in this Polish society. And I was, I heard that academically his career was held back, he had found it very difficult to get a reasonable position in the Polish university. So he was always a docent. All the while being encouraged to change his name. It was a policy of the university to encourage people to change their name. And he still didn't get his job. Damned if you do and damned if you don't. Yes. Excuse me, where were you born? In the Ukraine. Now it is in Ukraine. Oh really? Where? Rovno. It's not far from Chernobyl. Well, it's not in the area, but it's in western Ukraine. It's near the border between... Well, at that time it was some region that was going back and forth from Russia to Poland. And when did you go to Israel then? I came just before the Second World War. I was two years old when I came to Israel. When you went to Israel. But it was before the war. Yeah, just before. Why did you ask? If you'd referred to me, then Hir have been in Seoul. It's the same kind of experience. I had no experience. I thought maybe it occurred to you that he looks a little like your father, because he does to me. He does, yeah. And Saul's father, especially the top of your... Saul's father was born in Omsk, in the fringes of Siberia. And he actually is, what, Saul's father was half Jewish. Half or three quarters? No, half. His mother, but nobody, everybody, everybody always assumed he was all Jewish. It was, it wasn't until years later that he confessed to being only part Jewish. But, was in Siberia, that edge of Siberia. But I thought that's why you laughed, because of the similarity in their appearance. Well, maybe. I didn't think of it, but it's true. The construction of your face from... And the thing is that Saul and his father look very much alike, and yet I don't think of the two of you as looking alike. Yeah. It's not a transit difference. Yeah, right. But it is. Anyway, well, that's... That's right. Both our daughters look like me, but they don't look like each other. Like each other. Yeah, that's right. Well, anyway, back to Tarski. So just the way he looks. Well, it's interesting. People describe him in different ways. Some people, the first thing they say about him is that he's small. Other people don't think he's small at all. It must have to do with their own stature or how they feel about him. Some people have said they thought he looks French. French? Yes. Were they? You know people. Everybody puts their own construct on something. So that's, I do like to ask. So he looked European? He certainly looked European. Yeah, he certainly looked European. But he could come from any place. Yeah. Well, when he opened his mouth, you knew he was either Polish or Russian. There's no question</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
-				<ANNOTATION_VALUE> about that. With the ha-ha-ha accent. He had some quite, in politics, I mean, I remember, he had some quite conservative opinions that nowadays would be called racial. Yeah, yeah, right, right.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
-				<ANNOTATION_VALUE> And he had some activities that nowadays</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
-				<ANNOTATION_VALUE> would be called racial. Oh, yeah. Right. And he had some activities that nowadays would be called harassment. Yes. Oh, yeah. He wouldn't be able to get away with it nowadays. No. Yeah. But were you aware of gossip about him? Were people talking about him? Oh, yeah. So about? I heard about the story about Dorothy I had already when I came. What did you hear? That's actually one of the harder stories to track down. There was this woman who was a secretary there. And she was this kind of official, unofficial consult. Yeah, yeah, right, okay. And that's one thing. And then I heard that he was kind of messing around with graduate students. Yeah, yeah. And that he had an affair with, there were rumors that he had an affair with Polish logicians. Yeah, like... Shmulev.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
-				<ANNOTATION_VALUE> I don't know about...</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE> What's the other...</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE> Oh, the one called...</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
-				<ANNOTATION_VALUE> Roshova. I don't know about Roshova.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE> Roshova was connected with Sikorsky somehow.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE> It didn't occur to me that we had something with Roshard. I heard all kinds of rumors that Tarski boasted of his conquests. But not to you. Not to me, but I know of several affairs that he had with wives of his colleagues. Oh yeah? Like for example? I don't know that I want to go into that. Well, without... Oh, really? Yeah. I don't want to go into that. I know two cases. In Berkeley? Not in Berkeley. In Poland? No, in the USA. In the USA. People who kind of were very collegiate, very friendly terms, and really looked up to him and estimated it all, and he took the occasion and had the... Affairs with their wives. Yes, he had a flame with their wives. Now that I haven't heard. That's new to me. But of course, every gossip you can't trust. One of it I know. You know? I know. Because the person... Because the woman itself hinted as much. Uh-huh. Hinted as much. It was very clear. And the other I had reported that he boasted of it. Huh. That's amazing. That's news. I mean, a lot of his affairs were extremely open. For example, the Shmuleff affair. The whole family knew about it. I mean, the Tarski family knew about it, including the kids. I mean, that, although a lot of people didn't know about it at the time, subsequently, I've learned that a lot of people knew about it and it was open knowledge in the household. So that's as brazen an event as any. Then I know now pretty much for a fact about several students and other people. But I haven't heard about wives of colleagues, you know, who are currently in that, and I've also heard about the boasting, and I've heard... He was discreet there, but I heard about the boasting that he had an affair with that and that wife. Yeah, he did, yeah. That I heard reported that he boasted in some party or something. The other, I just happen to know. You just know. I just know because... We could make a guess. But no, he's saying it's not a local person, not a person in Berkeley. No. No. No. No. Well, I don't think... Is the person still alive? No. No. Still, I don't... You don't want to do it? I wouldn't do it. You don't want to... Because the woman herself said she didn't feel good about it. She said she made a mistake. Yeah, well, he was... I mean, from somebody who I've gotten... I mean, I don't know if I'm going to use her name or not, so I won't use it now, but somebody that I've gotten a very detailed account of what their relationship was like, he put such pressure on her that finally it was as if she said, oh, what the hell, what's the big deal? And then she was sorry, but because it happened, once you say yes, then of course it repeated itself. So it was hard to, you know, and that was it. He was completely, very much obsessed. If he would like a woman, it became like, I don't know, like some kind of trait of character. Yeah, he had. He doesn't release. Yeah, same thing as having priority. Yes, having priority in that. He got into kind of obsessive about that. Right, right. Until he got his wish. Yeah, and I seem to think he was attractive. And I mean, the woman that you know, did she feel attracted to him in any way? In a physical way? I don't know. I wouldn't... I don't know why. Somehow it seemed very forceful and some kind of... this kind of thing. I don't know. I don't know. I thought that she said explicitly that it was... Okay, she made a mistake. She shouldn't have done that. Yeah. Right. She just... whether she whether it was, okay, she made a mistake. She shouldn't have done it. Yeah, right. She just... But I mean, the question is whether she, whether it was just okay... No, in that case, I don't think it... I don't think that she felt that she had no choice, or better do it and so on. Yeah, she actually wanted to at that point. I think she was at some point, they kind of seduced her into it, or that kind of thing. I don't think that it was a case of somebody that wanted to get rid of him. I think some people did find him attractive, I guess. I asked one of the secretaries that I interviewed just recently, whether he ever made advances to her, because she was attractive. She said no. And then I said, if he had, how would she have responded? Did she find him attractive? She said no. She said, but if I had been in his field, and I had known his work, in other words, if she'd been on the same intellectual wavelength, she could see that she might have. In other words, falling in love love with somebody's head because you know what's going on in there. So that's, I think, a good explanation for why somebody would be seduced. Yes, in that case, I mean, I suppose these women, they were not in the field, but they knew of his reputation because he was a colleague of their husband's and he was so much appreciated and so on. So they were kind of overwhelmed to some extent. He was a satyr. I mean, I had no idea. I mean, that's interesting. I mean, you knew, but I had no idea the extent of his desires and needs.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-				<ANNOTATION_VALUE> He was in London for a period of time and by himself, and just kept asking the guy who he saw the most of, let's go find some women. He needed, he physically needed women a lot. Yeah.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE> Yeah.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE> Can you get along with that?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE> Well, I mean, invited me to occasions here and there and so on. And there was one time which he gave me a hint that he kind of thought I should have been more accommodating to, I mean kind of more fawning on him and so on and that was when I finished the PhD then I hesitating, should I, there was a possibility of getting a place in Berkeley, temporary appointment, postdoc in Berkeley, some kind of, some kind of an appointment. But at that time, I was thinking about going back to, I just kind of kept hesitating. And eventually, I came to New York for a year, not to Berkeley, actually to Columbia. But then, I regretted it at some point and then I came to Tarski and asked him if he thought that it would be still possible to get the appointment in Berkeley. Now this was a full-time appointment. This was a full-time appointment, but for, I don't know, for a year or something like that. To try it out, yeah. Try it. I mean, and then I asked him, I said, look, I know. I mean, I didn't ask it at the time, but would it be still possible to get it here? And he said, no. I mean, we gave it to so-and-so. And he said, yes. And he is more, he gave me to understand that he was also nicer more accommodating guy more willing to do yes more willing to do for that and I also think that the kind of I had to press him kind of quite hard to get a good recommendation for that he gave a good recommendation but I remember that he was kind of he wasn't very forthcoming with it. Good recommendation for that. He gave a good recommendation, but I remember that he was kind of, he wasn't very forthcoming with it. A good recommendation for a job anywhere? Anywhere. I mean he gave, he said, I wanted it to be, I mean he kind of duplicated it, you know, in a kind of a mimeograph sheet or something like that, and then I asked the secretary, well, I mean, can't he have it some kind of a little bit more personal, rather than a mimeograph sheet? And he said, no, you know, I mean, his name on it, and it's worse more than that. But then I went and asked him, look, can you do it? And then he did it. Kind of he grumbled, okay. So he did it. So perhaps it was my perspective, but that's the impression I got. So where did you go? I went back to Israel. I spent a year here. In Columbia? In Columbia. And then I went back to Israel. Did you ever visit Berkeley? Oh yes, I visited several times.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
-				<ANNOTATION_VALUE> I had some kind of temporary appointments, half a year, not for half a year, for a summer. Yeah, I visited. And we always met and it was very nice and very cozy. Yeah, I mean whenever, when they did, invited me, I think, when there was this 70 year conference.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE> Yeah, you mean, whenever, when they did, they invited me, I think, when there was this 70 years conference. Yeah, you were there. Yeah, I was there. There was no, we were always very, very friendly in this respect. Yeah, well, I mean, that, there are, there are a few people who gave Tarski to understand that they weren't to be dallied with, let's say. You know, that they did their stuff, and partly by their demeanor, I mean, partly by just frankly saying, you know, behaving, but it's rare.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-				<ANNOTATION_VALUE> And Tarski didn't like those people less, in fact. He probably liked them, probably respected them. I think so. I got this impression of it. Right. You were respected. Yes. But very few people had the guts to stand up to that, and especially people who, say's say, went with him all the way, who felt it was such an honor to be in his company and so forth. So I think this is particularly interesting to get this other view of people who didn't buy into the European professor. His attitude was like the European professor who would let you, you could stay his assistant all your life as far as he was concerned. His priorities came first. I don't know if you know Steve Chavant, who was Bob Vought's student, but was supposed to be working on his own PhD. And I mean, there just wasn't time to do his own work because he was so involved with doing T Tarski's work, that he just kept putting off his own stuff. Tarski used him mercilessly. He just used him mercilessly. And Gervont felt duty-bound. By this time, Tarski was getting old, and Tarski needed him. You know, Tarski would build this thing of need. I mean, it was really using somebody. And that's in the European way.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE> I'm the professor.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
-				<ANNOTATION_VALUE> You're here to serve my needs, not the American way. I'm the professor. I'm here to help you finish as quickly as possible so that you have your wings and you fly. So it was, uh...</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE> Let's see.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE> Some more.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE> Well, how much effect did he have on you, do you think? So it was, well, let's see, some more.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE> Well, how much effect did he have on you,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE> do you think, Tarski, in terms of your work?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE> Mathematically, quite a lot, quite a lot.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE> I mean, it was after all,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-				<ANNOTATION_VALUE> this thing, the whole thing, model theory,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE> then I went into chemistry. I mean, certainly the two years in Berkeley there and the seminars in the atmosphere really determined to a large extent the kind of thing I will be doing later. Yes, in mathematics, in model theory, everything has to do with model theory and measurable cardinals and set theory and this kind of thing, quite a lot. There were other interests that he didn't, that was different than the philosophical interests which surface now, but work in, put it that way, work set theory and model theory and models of arithmetic, this whole area which really started in a way, started in a way in these two years, in fact, it was a very, very fruitful. Yeah, it. Yeah. Yes. It was just the whole environment. This is a kind of an impetus that you get once. Yeah. You get into the subject. It was a kind of an initiation into the subject. Yeah. And it wasn't just Tarski. It was everybody else. It was everybody. It was the whole thing that was built. I don't know. He himself, I really don't know. Yeah himself, I really don't know. I think the thing with measurable cardinals, where it started with some, actually Scott made the first start at that, and this was done when I was there in Berkeley, and he presented it, and I went on. So it's the whole atmosphere. It's everyone that was there. It wasn't his so much personally, but everyone.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE> It was the environment that he created. Yes, this was a big, a very big achievement. Yeah, right. So you see that as his main achievement. I think it's a kind of supplying basic definition and basic project, basic avenues of development, pointing out mapping, where it will be fruitful, the way to look at the subject, and then putting a lot of people to work on it and establishing the center in Berkeley. These are together his achievements. One of the things that, you know, he came from this environment in Poland that was a microcosm of what he recreated in Berkeley and I think that it sort of struck us along the way that that's what he had done. There was this great fertile group in Poland that he must have had in mind that this is the way to go. He had the enormous energy to do all this stuff. He mean, he really put... he just put people to work and delegated responsibility and had these ideas and sought to it that they were done. I mean, he didn't like doing those things himself, but he was very good at seeing to it that everyone else did it. And... I don't know how... Very little bit of... you know, he would stay up all night long, he his cigarettes. He'd go to bed in the wee hours of the morning and sleep till midday and then just get going again. And then on weekends, you know, he wasn't a workaholic all the time. On weekends he'd take these trips. He'd just go all over the place. He wasn't working all the time. It's just this drive. I mean, that's what's come through to me, is in talking to people, looking at just the volumes of stuff that he did. Tremendous drive, this little guy, just a little engine. Yeah, yeah. I don't know how he got this kind of center started there, I don't know. Sure, well, he, well how did he? He just decided he was going to do it. I mean, he had... in other words, he had a model for it. What had been happening in Poland? I mean, they had these seminars going, there were lots of logicians there, then he was going to Vienna back and forth. So there was a... it was a very, very fertile atmosphere, that interwar period in Poland. Uh-huh. You know, it was just... The first person he brought to Berkeley was Hinken. No, but this started actually before Hinken came. Well, he had the students before Hinken. Yeah, he had the students. Actually making appointments. Yeah, right. Hinken was the first. He got the idea that there should be ten appointments in logic in the department. No, 10% of the department should be logic, he decided. Yeah, right. And he did it. At a certain point he achieved that. Kelly, we spoke to Kelly, and Kelly was there early on in the 46 or something like that. Kelly was already there and he was already going, he was getting Kelly to teach set theory. And he was already indoctrinating Kelly. Well, Kelly didn't come there. He was getting Kelly to teach things he didn't know about. Kelly was having to learn them, but was eager to learn them. And then, what, Bjarne Johnson was his first student. Came there actually during the war. To Berkeley. Berkeley,. Came from Iceland. And he just got going. I mean, he was a determined person. And then it just built. Were there many slots in Berkeley that you could... I don't know how he... He created the slots. He created it. When he decided he wanted something, he just did it. Mates tells about how he would talk to him. Mates in philosophy. Mates was there early. He would tell Mates to go talk to somebody who was in charge, some kind of a dean in philosophy, because he was getting appointments in philosophy as well. You know, he gave Mates his thesis problem as well, which was some problem in Greek philosophy. But he gave him his problem. I didn't know that. Yeah. And he would tell Mates. He supervised the thesis in philosophy? I don't think he did. No, he didn't. It wasn't actually his supervisor. But he gave him his problem. And he was on his thesis committee. And so he would tell Mates to go talk to him. But the problem had... excuse me, he had something to do with logic? I think it was something in Greek philosophy... Yeah, Mates wrote about stoic logic. Oh, I see. Mates would have to go talk to some dean, who was doing something about creating a position, and Mates would say, I can't go talk to him. And the next day Tarski would say, did you talk to that guy yet? And he just kept after him and after, he just simply never took no for an answer. And finally, mates would go talk to the guy and the guy would say, I can't do that. And eventually the guy did it. You know, it was just sheer and again and again. At every level. Incredible. Just like overwhelming a woman, overwhelming a department. It's clear. He hired somebody from England, invited them to come in the sixties. guy says, you mean you could just invite me like this? And he says, well, you come for a visit. And he says, yeah, but what about, you know, if I give up my position here? He says, if I tell them to take you, they will take you. And that's what he thought. And that's not only what he thought, that's what happened up to a certain point, I guess.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE> It was easier in the early days. But also, he had supporters in the department like Kelly and Morris, but also there were people who, maybe Maury, but there were people who were opposed to him. So I'm sure it was a struggle. wasn't automatic.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE> Right.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
-				<ANNOTATION_VALUE> If he said to bring somebody in mathematics, that they would. Well, this guy he brought in philosophy. He brought people in philosophy. This guy came in philosophy. And this is Hans Slugard, who else you know. Yeah, I know. He came straight because that's his story. He did something. Yeah, he was at the University of London and Tarski was visiting there. Basically he was bringing good people. He wasn't trying to cram anybody weak down anybody's throat. And then Sluga eventually drifted away from logic and that was a great disappointment to Tarski that he wasn't doing Tarski's kind of logic. And that was it. He felt, you know, everybody owed him loyalty. But I think that's one of the fascinating things about him, is how determined he was. And it's how things get done. If you want something, you just push for it endlessly. Endlessly. And that's why most people get tired. They want to do something else. They want to work on their work. They don't see that as a goal. He also, he really also wanted to be a historic figure. He wanted to, and it seems to be pretty clear, pretty clear he wants clear he's very happy having somebody writing a biography about him.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE> He left a lot of stuff for a biographer to found, and to someone, he said, who he was very angry with, if you don't do such and such, I'm going to leave you out of my biography. Which of course assures that that person is him. Did he know that you were planning a biography? No. This was after he died? Way after. Yeah, way after. No, he didn't know. I mean, I couldn't, but I wasn't writing a biography at that time. I see. But he might have had an idea or something. No, he had, no, I think he just knew that someone, he just, I think he didn't even know, he just felt, hoped, I think, I think that someone would do it. I think he just knew that someone he just I think he didn't know it just felt hoped I think He fairly saw himself as having a place in history And I guess I mean I think he deserves the place in history well, I mean if he wants it so much Yeah, people who want it so much managed to do it. Yeah Oh yeah, some of his personal history is interesting too, just how he wanted so much. Usually people who wanted so much managed to do it. Yeah. Right. Well, he has some of his personal history is interesting, too. Just how he got from one place to another. I mean, this wasn't his first job at the USA, was it? No, no. I mean, his whole situation in the USA was interesting. Because he came by chance in 39 to give a talk and was caught. He was caught here. The Germans invaded just as he came. He was giving a talk and looking for him. And there were a lot of other people in that situation in 1939. So he gave lectures at Harvard, he lectured at the Y in New York. People patched together stuff for him. He taught at CCNY for a half year. He was at the Institute for a half year. And then this job at Berkeley came in 1942 and it was only a year appointment. And he was very lucky to get it. It was because people like Quine did a lot of work getting him a job. And I think Russell, he got Russell's job at CCNY because Russell couldn't get it because of moral turpitude. That was a temporary job. So he came in 1942 and in 1942 he was 41 years old. He came as a temporary instructor or lecturer. He didn't become a professor until 1946. He was 45 years old before he had that job for sure. Or maybe 45, he was an associate professor. So no, that wasn't his first job. But he was already someone of great importance. You know, everybody, he was, aside from out here, he was certainly known in Europe and known on the East Coast. Did you like him, by the way? Yeah. You liked him? I loved him. Did you feel? I got along with him. Yeah, you got along well. I got along. I had no idea. People were bitter about him. Yeah. Some people were very bitter. Who was bitter, do you think? I think I had Dana was kind of, because he dragged this disease. Yeah. Even though there was resentment. Yeah. There was resentment. I didn't, I liked him. Yeah. I got very well with him. Well, Dana ended up liking him. Yeah, in the end. In the end. Yeah, in the end. But... That worked out all right. Yeah, that worked out. But I got that they were resentful. Well, there were people who got cast aside. They certainly resented it. Yes. Yeah. And... No, I liked... Yeah. No, I liked him. He liked him. Did you feel like you were a friend or more like a colleague? It's more like... I mean, he wasn't kind of a friend. I mean, we were talking about... I mean, I think he the joy when he came back when Maria agreed they are together now. This was really kind of a personal statement. Usually he didn't make personal statements. So he wasn't a friend. Did he ever talk about his kids, for example, his son? Do you remember that? Yeah, in a kind of, I mean his son didn didn't make it all together. He went to physics. He is there. No, not really. I think that was a disappointment to him. I think so. It was a disappointment of his own creation. I mean, he made that poor kid's life so miserable. It's no no wonder. But I just wondered if he spoke about it. No, no, no, he didn't speak about his son. Did he talk about his garden? Did he talk, mostly he talked business in other words. Mostly he talked business. Talked business or talked politics or talked psych and general observations. This kind of thing. Talk about art to you at all? Art? Art, yeah. No. No. No. No. But politics, yes. Politics, yes. World politics or more more local talk about Israeli politics American very very kind of opinion about race black people he thought blacks were inherently inferior he thought yeah he thought so mean, if you look at them and you see them, something like that. Yeah. And he said that there was a big mistake made as a reaction to the Nazis that the whole concept of race became tarnished to such an extent with no serious research. You couldn't talk about it. You couldn't talk about it and this was a shame and should be collected or something like that. Yeah, I think he had a certain sympathy for this guy at. Shockly. Shockly. Yeah. I don't know. Yeah. I think. He has one in Jensen. I don't know about that. Jensen in Belgium. Yeah, right. Yeah, right. So he might be there, but I don't know. Yeah. I don't know about Shokri, but. Yeah. So we talked about that. Might have talked about, I mean, I think he was quite a cultured man. He was quite well read. I think he knew a lot about poetry. Yes. I mean not if he knew a lot, he read a lot of poetry. I think he might have even cited Polish classics. Right. He knew, I mean this kind of European education and so on. Exactly. It's something that gave him a good amount of culture. Well, he had been involved with this avant-garde group in Poland. As I said, the interwar period, there was this great flowering and there was a lot of the Tristech, you know that name, Tristech, who was a logician as well, who got one of the jobs that Tarski didn't get, but was 10 years older. He was, I guess he was a... Yeah, I had the name. I don't know, I know it. Yeah, at any rate, Tristeck was a... Work on tech there. Yeah, but he was also a poet, and maybe a painter as well. And there's, did you ever see this picture in Tarski's house by Witkowski, that chalk, that Pascal paint portrait? I think so. There was one of Tarski and Maria. He's very famous. He was also a poet and a painter. There was a very large avant-garde, I mean large for Poland, avant-garde movement in Poland in that time. He was part of that circle, part of that bohemian circle. And I think this is where a lot of his sexual freedom attitudes come from. There was a very bohemian group, a very literary theater, music. They would go to their special cafes and so forth. So that was part of the stuff that he sort of absorbed in his very early life. And that</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE> was, I think, very important to him, to be part of the movers and shakers of the cultural</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE> world. And he hung on to that. He used to seek out artists here and liked to feel that</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE> he wasn't narrow. He wasn't a provincial person. He didn't do only that. And he had a lot of interest in botany and in plants. Originally he... That I didn't know. That escaped me. Yeah. He was, well he had thought about being a botanist at one time. He did say. And so he was interested in that. And a great, he was also a great climber. He was a great mountain, I mean, walker and climber. And he has, there's a booklet of all the trips he took and all the passes that he crossed in the Tatar Mountains. Literally every single one, every walk he took, very systematic. Summer after summer. Summer, or not only just summers, he kept records of this. He kept records? Yeah, he has a record of every time he went to Zakopane or where he went and what walk he took and so forth. Really? Yeah, yeah. So very systematic about maintaining that record. But Beryl kept records of his temperature. Did he really? Yeah. But that, this is a fascinating little book. He'll reach his own. I think I prefer the record of where I went. That's right. That's fascinating. And who went with him? Who went with him? By what means of transportation? Just like a little quote. A Polish colleague came to me to the library and he was able to decipher all this. Exactly what the day, where it was, by what means of transportation and who was there. And which kind.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE> That's true.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
-				<ANNOTATION_VALUE> And he kept that until, even after he came to this country, I think that goes until 1946. So there are trips that he went, you know, to Long Island or he went to Maine, with Quine and with I think Kleene and with Hamsel and all.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE> That's the end of it. or he went to Maine with Quine and with, I think, Kleene and with Hemphill and all. It's New York. And I don't know whether he stopped keeping that record or the record afterwards of what he did was lost. Because Maria and his wife, his wife and children were left behind when he was here. Then they were able to come, almost immediately after the war, they were able to come through many strings being pulled. And after that there are no records. And I don't know whether that's lost or whether he stopped keeping them. But that was fascinating to find that. I wish I could find out more about</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE> his early history. That's really the hardest stuff to come by. There are a few people who</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
-				<ANNOTATION_VALUE> are around, living sources, which are of course in the back. And the other sources are all</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
-				<ANNOTATION_VALUE> conflagrated in the fires and whatsoever. But there was a living ex-sister-in-law who had been not only to his house, but to his parents' house. So I have some view of that. Did you contact his children? Yeah, I've spoken quite a bit to them. More questions? I have. Yeah, go. Keep shooting. Tarski was one of the founders of the logic methodology philosophy of science congresses. Maybe he was the main pusher. I'm not sure. But he had this idea of the importance of methodology of science and logic's role in that. What do you think of that? I don't know what the... I think the physicalistic, the dream of physicalism and so on. But I don't think much. I mean, as a historic importance, I don't think nowadays something like that would be technical. And I, and in that respect, I don't know, I can't measure, it's difficult to measure his own input into that. Because I mean, this is the Vienna Circle. I mean, this is a heritage of the Vienna Circle. The United Science Movement. Yeah, right. And so, certainly he was influenced and he was, he has some input there, but I don't think his input is directly there. I mean, actually, there are few papers that philosophers as philosophers would read. Few of Tarski's papers. I mean, well, there is the concept of truth, the logical consequence things, some, well, his journal about physics, he has a, but that's about it. And this was more, and this view of science was shared, it was a widely held view. So I think he was more kind of the product of it than the initiator. I see. It was in that atmosphere. That particular organization or, you know, those meetings, Logic Methodology, he was one of the initiators. Oh, yeah. That's no question. That's to his credit. And what do you think of those meetings? Do you think they worked? I think they kind of stopped, kind of deteriorated somehow, but that is very difficult because this is my own point of view when it becomes older and it's kind of, you know, here and there. I mean, my impression was that there was more exciting things happening at the beginning. I mean, if you remember the first meetings, there were actually new results, new very exciting results declared. I mean, this was out about the first Stanford in 1960. Yes. This thing about the. Now, were you there at that time? Yes, I was at that, yes. This was so, so in the, in the beginning that you actually had things happening, very live things happening. Nowadays it's somehow more of a kind of summing up. You want to know what has been done during the year. Was that the very first meeting, the Stanford meeting? Yes, yes, that was it. So my impression is that it's not as lively and not as forceful as it used to be. Did you go to Florence this year? No. What's the last one of these that you went to? Do you remember? I was actually the one in 82. You didn't go to Moscow? No. Wait a minute. Moscow? 87? No. And where was it in 82? It was in Salzburg. Salzburg, yes. Yes. So the last one was 82, the Taiwan. Let's see, was it, what was, I didn't go to Florence. I was actually on the Committee for Probability, I mean, on all these things. But I really didn't. Well, some of the people, I mean, I was on the Committee for Probability, I mean, on all these things. But I really didn't. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was actually on the committee for probability, I mean, all these things. But I really didn't. Well Salzburg was an exciting meeting, wasn't it? Everybody was all jazzed up about Krivel and the side issue. Well, that was a side show. Yeah, a side show, right. But then if it was 82 in Salzburg, it must have been 86 in Moscow. Maybe it was 86. Yeah. I don't know why I have it. Understand? Yeah. Uh-huh. Makes sense because… They were every four years, right? Yeah. And then where was it? Yeah. Epsilon 90. 90, And then Florence, 94. No. No, 95. No, we have to check. And maybe every three years. Oh, okay. So... So what's the last one you went to? Was the Moscow one? Moscow, yeah. Well, I think that was 87. Okay. But when I say, do you think they work, by that I mean having people from so many different fields. Yeah, I think that's a good idea. I think that's a good idea. You think the interdisciplinary... Well, some of the groups hardly interact. Some of the groups hardly interact. But I think if it can, as long as it can survive, I think it's a good idea.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE> I think it's a good idea to have people from many fields.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
-				<ANNOTATION_VALUE> You see, the point is...</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
-	<TIER TIER_ID="SPEAKER_01" LINGUISTIC_TYPE_REF="default-lt" />
-	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
-	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
-	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
-	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
-	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
-	</ANNOTATION_DOCUMENT>
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-06-17T14:35:53-08:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/markjos/projects/montague_archiving/data/SC1206_b01_04_b_sl_Gaifman.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../data/SC1206_b01_04_b_sl_Gaifman.wav"/>
+        <PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a9a73f31-a2e8-4208-9a27-1e023e430717</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">45</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="323080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="325640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="325640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="327000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="327000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="406000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="406080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="408280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="409400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="411400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="412720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="414000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="414080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="417520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="417600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="421360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="421440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="527000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="780500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="781000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="785460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="786860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="786860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="787560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="787560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="985360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="985360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="987560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="989000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="989000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="1027000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1027000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1122000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="1124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="1126000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="1128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="1128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="1128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="1128880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="1128880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="1145000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="1147560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="1149600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="1149600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="1152800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="1152800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="1156880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="1158160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="1161680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="1162800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="1164680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="1164680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="1267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="1267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="1328880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="1622000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="1622500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="1622500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="1625200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="1625200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="1747280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="1747280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="1825200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="2247000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="2247000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="2253120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="2253120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="2260120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="2260120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="2365000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="2365000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="2366000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="2366000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="2367000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="2367000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="2427000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="2430520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="2436160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="2436160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="2442720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="2442720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="2794000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="2794000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="2800000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="2800000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="2802000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="SPEAKER_00">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE> He gave me the impression that he was assimilated altogether. That he wasn't, not that he was particularly keen to hide it, but he wasn't particularly keen to display it either. It was something that he wouldn't hide, but something that for him was completely a neutral issue. He didn't present himself as a Jew or didn't appear to be a Jew, didn't say he was Jewish and so on. He was completely cosmopolitan in his outlook, in his politics, and so on. He was conservative in many respects, but kind of a mildly liberal. In some areas. In some areas. I remember when we spoke, he thought, well, yeah, the Jewish claim to Israel, that's a joke. You can't make a claim because 2 years ago and so on. But okay, so you managed somehow to do that, let's see what we can do now and so on. I mean, legally it means nothing. He was very cosmopolitan. Yeah, Rabin said that he avoided the issue of talking, even when he was in Israel, he didn't talk at all, at all about that. On the other hand, he, from other people, I've learned that he, that the few people he did talk to about being Jewish, he had some fairly, some of the typical traumatic experiences that little Jewish boys in Warsaw had. You know, he was called a dirty Jew, he was beaten up on his way home from the park by gangs of boys, he and his brother, and so forth. So it's not that those things weren't in his background, but he chose not to focus on them. But the reason for changing of name was that he didn't want to appear Jewish, I was in this Polish society. And I was, I heard that academically his career was held back, he had found it very difficult to get a reasonable position in the Polish university. So he was always a docent. All the while being encouraged to change his name. It was a policy of the university to encourage people to change their name. And he still didn't get his job. Damned if you do and damned if you don't. Yes. Excuse me, where were you born? In the Ukraine. Now it is in Ukraine. Oh really? Where? Rovno. It's not far from Chernobyl. Well, it's not in the area, but it's in western Ukraine. It's near the border between... Well, at that time it was some region that was going back and forth from Russia to Poland. And when did you go to Israel then? I came just before the Second World War. I was two years old when I came to Israel. When you went to Israel. But it was before the war. Yeah, just before. Why did you ask? If you'd referred to me, then Hir have been in Seoul. It's the same kind of experience. I had no experience. I thought maybe it occurred to you that he looks a little like your father, because he does to me. He does, yeah. And Saul's father, especially the top of your... Saul's father was born in Omsk, in the fringes of Siberia. And he actually is, what, Saul's father was half Jewish. Half or three quarters? No, half. His mother, but nobody, everybody, everybody always assumed he was all Jewish. It was, it wasn't until years later that he confessed to being only part Jewish. But, was in Siberia, that edge of Siberia. But I thought that's why you laughed, because of the similarity in their appearance. Well, maybe. I didn't think of it, but it's true. The construction of your face from... And the thing is that Saul and his father look very much alike, and yet I don't think of the two of you as looking alike. Yeah. It's not a transit difference. Yeah, right. But it is. Anyway, well, that's... That's right. Both our daughters look like me, but they don't look like each other. Like each other. Yeah, that's right. Well, anyway, back to Tarski. So just the way he looks. Well, it's interesting. People describe him in different ways. Some people, the first thing they say about him is that he's small. Other people don't think he's small at all. It must have to do with their own stature or how they feel about him. Some people have said they thought he looks French. French? Yes. Were they? You know people. Everybody puts their own construct on something. So that's, I do like to ask. So he looked European? He certainly looked European. Yeah, he certainly looked European. But he could come from any place. Yeah. Well, when he opened his mouth, you knew he was either Polish or Russian. There's no question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> And he had some activities that nowadays</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE> would be called racial. Oh, yeah. Right. And he had some activities that nowadays would be called harassment. Yes. Oh, yeah. He wouldn't be able to get away with it nowadays. No. Yeah. But were you aware of gossip about him? Were people talking about him? Oh, yeah. So about? I heard about the story about Dorothy I had already when I came. What did you hear? That's actually one of the harder stories to track down. There was this woman who was a secretary there. And she was this kind of official, unofficial consult. Yeah, yeah, right, okay. And that's one thing. And then I heard that he was kind of messing around with graduate students. Yeah, yeah. And that he had an affair with, there were rumors that he had an affair with Polish logicians. Yeah, like... Shmulev.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE> about that. With the ha-ha-ha accent. He had some quite, in politics, I mean, I remember, he had some quite conservative opinions that nowadays would be called racial. Yeah, yeah, right, right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE> I don't know about...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE> What's the other...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE> Oh, the one called...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE> Roshova. I don't know about Roshova.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE> Roshova was connected with Sikorsky somehow.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE> It didn't occur to me that we had something with Roshard. I heard all kinds of rumors that Tarski boasted of his conquests. But not to you. Not to me, but I know of several affairs that he had with wives of his colleagues. Oh yeah? Like for example? I don't know that I want to go into that. Well, without... Oh, really? Yeah. I don't want to go into that. I know two cases. In Berkeley? Not in Berkeley. In Poland? No, in the USA. In the USA. People who kind of were very collegiate, very friendly terms, and really looked up to him and estimated it all, and he took the occasion and had the... Affairs with their wives. Yes, he had a flame with their wives. Now that I haven't heard. That's new to me. But of course, every gossip you can't trust. One of it I know. You know? I know. Because the person... Because the woman itself hinted as much. Uh-huh. Hinted as much. It was very clear. And the other I had reported that he boasted of it. Huh. That's amazing. That's news. I mean, a lot of his affairs were extremely open. For example, the Shmuleff affair. The whole family knew about it. I mean, the Tarski family knew about it, including the kids. I mean, that, although a lot of people didn't know about it at the time, subsequently, I've learned that a lot of people knew about it and it was open knowledge in the household. So that's as brazen an event as any. Then I know now pretty much for a fact about several students and other people. But I haven't heard about wives of colleagues, you know, who are currently in that, and I've also heard about the boasting, and I've heard... He was discreet there, but I heard about the boasting that he had an affair with that and that wife. Yeah, he did, yeah. That I heard reported that he boasted in some party or something. The other, I just happen to know. You just know. I just know because... We could make a guess. But no, he's saying it's not a local person, not a person in Berkeley. No. No. No. No. Well, I don't think... Is the person still alive? No. No. Still, I don't... You don't want to do it? I wouldn't do it. You don't want to... Because the woman herself said she didn't feel good about it. She said she made a mistake. Yeah, well, he was... I mean, from somebody who I've gotten... I mean, I don't know if I'm going to use her name or not, so I won't use it now, but somebody that I've gotten a very detailed account of what their relationship was like, he put such pressure on her that finally it was as if she said, oh, what the hell, what's the big deal? And then she was sorry, but because it happened, once you say yes, then of course it repeated itself. So it was hard to, you know, and that was it. He was completely, very much obsessed. If he would like a woman, it became like, I don't know, like some kind of trait of character. Yeah, he had. He doesn't release. Yeah, same thing as having priority. Yes, having priority in that. He got into kind of obsessive about that. Right, right. Until he got his wish. Yeah, and I seem to think he was attractive. And I mean, the woman that you know, did she feel attracted to him in any way? In a physical way? I don't know. I wouldn't... I don't know why. Somehow it seemed very forceful and some kind of... this kind of thing. I don't know. I don't know. I thought that she said explicitly that it was... Okay, she made a mistake. She shouldn't have done that. Yeah. Right. She just... whether she whether it was, okay, she made a mistake. She shouldn't have done it. Yeah, right. She just... But I mean, the question is whether she, whether it was just okay... No, in that case, I don't think it... I don't think that she felt that she had no choice, or better do it and so on. Yeah, she actually wanted to at that point. I think she was at some point, they kind of seduced her into it, or that kind of thing. I don't think that it was a case of somebody that wanted to get rid of him. I think some people did find him attractive, I guess. I asked one of the secretaries that I interviewed just recently, whether he ever made advances to her, because she was attractive. She said no. And then I said, if he had, how would she have responded? Did she find him attractive? She said no. She said, but if I had been in his field, and I had known his work, in other words, if she'd been on the same intellectual wavelength, she could see that she might have. In other words, falling in love love with somebody's head because you know what's going on in there. So that's, I think, a good explanation for why somebody would be seduced. Yes, in that case, I mean, I suppose these women, they were not in the field, but they knew of his reputation because he was a colleague of their husband's and he was so much appreciated and so on. So they were kind of overwhelmed to some extent. He was a satyr. I mean, I had no idea. I mean, that's interesting. I mean, you knew, but I had no idea the extent of his desires and needs.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE> Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE> Can you get along with that?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE> Well, I mean, invited me to occasions here and there and so on. And there was one time which he gave me a hint that he kind of thought I should have been more accommodating to, I mean kind of more fawning on him and so on and that was when I finished the PhD then I hesitating, should I, there was a possibility of getting a place in Berkeley, temporary appointment, postdoc in Berkeley, some kind of, some kind of an appointment. But at that time, I was thinking about going back to, I just kind of kept hesitating. And eventually, I came to New York for a year, not to Berkeley, actually to Columbia. But then, I regretted it at some point and then I came to Tarski and asked him if he thought that it would be still possible to get the appointment in Berkeley. Now this was a full-time appointment. This was a full-time appointment, but for, I don't know, for a year or something like that. To try it out, yeah. Try it. I mean, and then I asked him, I said, look, I know. I mean, I didn't ask it at the time, but would it be still possible to get it here? And he said, no. I mean, we gave it to so-and-so. And he said, yes. And he is more, he gave me to understand that he was also nicer more accommodating guy more willing to do yes more willing to do for that and I also think that the kind of I had to press him kind of quite hard to get a good recommendation for that he gave a good recommendation but I remember that he was kind of he wasn't very forthcoming with it. Good recommendation for that. He gave a good recommendation, but I remember that he was kind of, he wasn't very forthcoming with it. A good recommendation for a job anywhere? Anywhere. I mean he gave, he said, I wanted it to be, I mean he kind of duplicated it, you know, in a kind of a mimeograph sheet or something like that, and then I asked the secretary, well, I mean, can't he have it some kind of a little bit more personal, rather than a mimeograph sheet? And he said, no, you know, I mean, his name on it, and it's worse more than that. But then I went and asked him, look, can you do it? And then he did it. Kind of he grumbled, okay. So he did it. So perhaps it was my perspective, but that's the impression I got. So where did you go? I went back to Israel. I spent a year here. In Columbia? In Columbia. And then I went back to Israel. Did you ever visit Berkeley? Oh yes, I visited several times.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE> He was in London for a period of time and by himself, and just kept asking the guy who he saw the most of, let's go find some women. He needed, he physically needed women a lot. Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> I had some kind of temporary appointments, half a year, not for half a year, for a summer. Yeah, I visited. And we always met and it was very nice and very cozy. Yeah, I mean whenever, when they did, invited me, I think, when there was this 70 year conference.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> Yeah, you mean, whenever, when they did, they invited me, I think, when there was this 70 years conference. Yeah, you were there. Yeah, I was there. There was no, we were always very, very friendly in this respect. Yeah, well, I mean, that, there are, there are a few people who gave Tarski to understand that they weren't to be dallied with, let's say. You know, that they did their stuff, and partly by their demeanor, I mean, partly by just frankly saying, you know, behaving, but it's rare.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> And Tarski didn't like those people less, in fact. He probably liked them, probably respected them. I think so. I got this impression of it. Right. You were respected. Yes. But very few people had the guts to stand up to that, and especially people who, say's say, went with him all the way, who felt it was such an honor to be in his company and so forth. So I think this is particularly interesting to get this other view of people who didn't buy into the European professor. His attitude was like the European professor who would let you, you could stay his assistant all your life as far as he was concerned. His priorities came first. I don't know if you know Steve Chavant, who was Bob Vought's student, but was supposed to be working on his own PhD. And I mean, there just wasn't time to do his own work because he was so involved with doing T Tarski's work, that he just kept putting off his own stuff. Tarski used him mercilessly. He just used him mercilessly. And Gervont felt duty-bound. By this time, Tarski was getting old, and Tarski needed him. You know, Tarski would build this thing of need. I mean, it was really using somebody. And that's in the European way.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE> Let's see.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE> Some more.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE> I'm the professor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE> Well, how much effect did he have on you, do you think? So it was, well, let's see, some more.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE> You're here to serve my needs, not the American way. I'm the professor. I'm here to help you finish as quickly as possible so that you have your wings and you fly. So it was, uh...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE> Well, how much effect did he have on you,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE> do you think, Tarski, in terms of your work?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE> Mathematically, quite a lot, quite a lot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE> I mean, it was after all,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE> this thing, the whole thing, model theory,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE> then I went into chemistry. I mean, certainly the two years in Berkeley there and the seminars in the atmosphere really determined to a large extent the kind of thing I will be doing later. Yes, in mathematics, in model theory, everything has to do with model theory and measurable cardinals and set theory and this kind of thing, quite a lot. There were other interests that he didn't, that was different than the philosophical interests which surface now, but work in, put it that way, work set theory and model theory and models of arithmetic, this whole area which really started in a way, started in a way in these two years, in fact, it was a very, very fruitful. Yeah, it. Yeah. Yes. It was just the whole environment. This is a kind of an impetus that you get once. Yeah. You get into the subject. It was a kind of an initiation into the subject. Yeah. And it wasn't just Tarski. It was everybody else. It was everybody. It was the whole thing that was built. I don't know. He himself, I really don't know. Yeah himself, I really don't know. I think the thing with measurable cardinals, where it started with some, actually Scott made the first start at that, and this was done when I was there in Berkeley, and he presented it, and I went on. So it's the whole atmosphere. It's everyone that was there. It wasn't his so much personally, but everyone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE> It was the environment that he created. Yes, this was a big, a very big achievement. Yeah, right. So you see that as his main achievement. I think it's a kind of supplying basic definition and basic project, basic avenues of development, pointing out mapping, where it will be fruitful, the way to look at the subject, and then putting a lot of people to work on it and establishing the center in Berkeley. These are together his achievements. One of the things that, you know, he came from this environment in Poland that was a microcosm of what he recreated in Berkeley and I think that it sort of struck us along the way that that's what he had done. There was this great fertile group in Poland that he must have had in mind that this is the way to go. He had the enormous energy to do all this stuff. He mean, he really put... he just put people to work and delegated responsibility and had these ideas and sought to it that they were done. I mean, he didn't like doing those things himself, but he was very good at seeing to it that everyone else did it. And... I don't know how... Very little bit of... you know, he would stay up all night long, he his cigarettes. He'd go to bed in the wee hours of the morning and sleep till midday and then just get going again. And then on weekends, you know, he wasn't a workaholic all the time. On weekends he'd take these trips. He'd just go all over the place. He wasn't working all the time. It's just this drive. I mean, that's what's come through to me, is in talking to people, looking at just the volumes of stuff that he did. Tremendous drive, this little guy, just a little engine. Yeah, yeah. I don't know how he got this kind of center started there, I don't know. Sure, well, he, well how did he? He just decided he was going to do it. I mean, he had... in other words, he had a model for it. What had been happening in Poland? I mean, they had these seminars going, there were lots of logicians there, then he was going to Vienna back and forth. So there was a... it was a very, very fertile atmosphere, that interwar period in Poland. Uh-huh. You know, it was just... The first person he brought to Berkeley was Hinken. No, but this started actually before Hinken came. Well, he had the students before Hinken. Yeah, he had the students. Actually making appointments. Yeah, right. Hinken was the first. He got the idea that there should be ten appointments in logic in the department. No, 10% of the department should be logic, he decided. Yeah, right. And he did it. At a certain point he achieved that. Kelly, we spoke to Kelly, and Kelly was there early on in the 46 or something like that. Kelly was already there and he was already going, he was getting Kelly to teach set theory. And he was already indoctrinating Kelly. Well, Kelly didn't come there. He was getting Kelly to teach things he didn't know about. Kelly was having to learn them, but was eager to learn them. And then, what, Bjarne Johnson was his first student. Came there actually during the war. To Berkeley. Berkeley,. Came from Iceland. And he just got going. I mean, he was a determined person. And then it just built. Were there many slots in Berkeley that you could... I don't know how he... He created the slots. He created it. When he decided he wanted something, he just did it. Mates tells about how he would talk to him. Mates in philosophy. Mates was there early. He would tell Mates to go talk to somebody who was in charge, some kind of a dean in philosophy, because he was getting appointments in philosophy as well. You know, he gave Mates his thesis problem as well, which was some problem in Greek philosophy. But he gave him his problem. I didn't know that. Yeah. And he would tell Mates. He supervised the thesis in philosophy? I don't think he did. No, he didn't. It wasn't actually his supervisor. But he gave him his problem. And he was on his thesis committee. And so he would tell Mates to go talk to him. But the problem had... excuse me, he had something to do with logic? I think it was something in Greek philosophy... Yeah, Mates wrote about stoic logic. Oh, I see. Mates would have to go talk to some dean, who was doing something about creating a position, and Mates would say, I can't go talk to him. And the next day Tarski would say, did you talk to that guy yet? And he just kept after him and after, he just simply never took no for an answer. And finally, mates would go talk to the guy and the guy would say, I can't do that. And eventually the guy did it. You know, it was just sheer and again and again. At every level. Incredible. Just like overwhelming a woman, overwhelming a department. It's clear. He hired somebody from England, invited them to come in the sixties. guy says, you mean you could just invite me like this? And he says, well, you come for a visit. And he says, yeah, but what about, you know, if I give up my position here? He says, if I tell them to take you, they will take you. And that's what he thought. And that's not only what he thought, that's what happened up to a certain point, I guess.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE> Right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE> If he said to bring somebody in mathematics, that they would. Well, this guy he brought in philosophy. He brought people in philosophy. This guy came in philosophy. And this is Hans Slugard, who else you know. Yeah, I know. He came straight because that's his story. He did something. Yeah, he was at the University of London and Tarski was visiting there. Basically he was bringing good people. He wasn't trying to cram anybody weak down anybody's throat. And then Sluga eventually drifted away from logic and that was a great disappointment to Tarski that he wasn't doing Tarski's kind of logic. And that was it. He felt, you know, everybody owed him loyalty. But I think that's one of the fascinating things about him, is how determined he was. And it's how things get done. If you want something, you just push for it endlessly. Endlessly. And that's why most people get tired. They want to do something else. They want to work on their work. They don't see that as a goal. He also, he really also wanted to be a historic figure. He wanted to, and it seems to be pretty clear, pretty clear he wants clear he's very happy having somebody writing a biography about him.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE> It was easier in the early days. But also, he had supporters in the department like Kelly and Morris, but also there were people who, maybe Maury, but there were people who were opposed to him. So I'm sure it was a struggle. wasn't automatic.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> He left a lot of stuff for a biographer to found, and to someone, he said, who he was very angry with, if you don't do such and such, I'm going to leave you out of my biography. Which of course assures that that person is him. Did he know that you were planning a biography? No. This was after he died? Way after. Yeah, way after. No, he didn't know. I mean, I couldn't, but I wasn't writing a biography at that time. I see. But he might have had an idea or something. No, he had, no, I think he just knew that someone, he just, I think he didn't even know, he just felt, hoped, I think, I think that someone would do it. I think he just knew that someone he just I think he didn't know it just felt hoped I think He fairly saw himself as having a place in history And I guess I mean I think he deserves the place in history well, I mean if he wants it so much Yeah, people who want it so much managed to do it. Yeah Oh yeah, some of his personal history is interesting too, just how he wanted so much. Usually people who wanted so much managed to do it. Yeah. Right. Well, he has some of his personal history is interesting, too. Just how he got from one place to another. I mean, this wasn't his first job at the USA, was it? No, no. I mean, his whole situation in the USA was interesting. Because he came by chance in 39 to give a talk and was caught. He was caught here. The Germans invaded just as he came. He was giving a talk and looking for him. And there were a lot of other people in that situation in 1939. So he gave lectures at Harvard, he lectured at the Y in New York. People patched together stuff for him. He taught at CCNY for a half year. He was at the Institute for a half year. And then this job at Berkeley came in 1942 and it was only a year appointment. And he was very lucky to get it. It was because people like Quine did a lot of work getting him a job. And I think Russell, he got Russell's job at CCNY because Russell couldn't get it because of moral turpitude. That was a temporary job. So he came in 1942 and in 1942 he was 41 years old. He came as a temporary instructor or lecturer. He didn't become a professor until 1946. He was 45 years old before he had that job for sure. Or maybe 45, he was an associate professor. So no, that wasn't his first job. But he was already someone of great importance. You know, everybody, he was, aside from out here, he was certainly known in Europe and known on the East Coast. Did you like him, by the way? Yeah. You liked him? I loved him. Did you feel? I got along with him. Yeah, you got along well. I got along. I had no idea. People were bitter about him. Yeah. Some people were very bitter. Who was bitter, do you think? I think I had Dana was kind of, because he dragged this disease. Yeah. Even though there was resentment. Yeah. There was resentment. I didn't, I liked him. Yeah. I got very well with him. Well, Dana ended up liking him. Yeah, in the end. In the end. Yeah, in the end. But... That worked out all right. Yeah, that worked out. But I got that they were resentful. Well, there were people who got cast aside. They certainly resented it. Yes. Yeah. And... No, I liked... Yeah. No, I liked him. He liked him. Did you feel like you were a friend or more like a colleague? It's more like... I mean, he wasn't kind of a friend. I mean, we were talking about... I mean, I think he the joy when he came back when Maria agreed they are together now. This was really kind of a personal statement. Usually he didn't make personal statements. So he wasn't a friend. Did he ever talk about his kids, for example, his son? Do you remember that? Yeah, in a kind of, I mean his son didn didn't make it all together. He went to physics. He is there. No, not really. I think that was a disappointment to him. I think so. It was a disappointment of his own creation. I mean, he made that poor kid's life so miserable. It's no no wonder. But I just wondered if he spoke about it. No, no, no, he didn't speak about his son. Did he talk about his garden? Did he talk, mostly he talked business in other words. Mostly he talked business. Talked business or talked politics or talked psych and general observations. This kind of thing. Talk about art to you at all? Art? Art, yeah. No. No. No. No. But politics, yes. Politics, yes. World politics or more more local talk about Israeli politics American very very kind of opinion about race black people he thought blacks were inherently inferior he thought yeah he thought so mean, if you look at them and you see them, something like that. Yeah. And he said that there was a big mistake made as a reaction to the Nazis that the whole concept of race became tarnished to such an extent with no serious research. You couldn't talk about it. You couldn't talk about it and this was a shame and should be collected or something like that. Yeah, I think he had a certain sympathy for this guy at. Shockly. Shockly. Yeah. I don't know. Yeah. I think. He has one in Jensen. I don't know about that. Jensen in Belgium. Yeah, right. Yeah, right. So he might be there, but I don't know. Yeah. I don't know about Shokri, but. Yeah. So we talked about that. Might have talked about, I mean, I think he was quite a cultured man. He was quite well read. I think he knew a lot about poetry. Yes. I mean not if he knew a lot, he read a lot of poetry. I think he might have even cited Polish classics. Right. He knew, I mean this kind of European education and so on. Exactly. It's something that gave him a good amount of culture. Well, he had been involved with this avant-garde group in Poland. As I said, the interwar period, there was this great flowering and there was a lot of the Tristech, you know that name, Tristech, who was a logician as well, who got one of the jobs that Tarski didn't get, but was 10 years older. He was, I guess he was a... Yeah, I had the name. I don't know, I know it. Yeah, at any rate, Tristeck was a... Work on tech there. Yeah, but he was also a poet, and maybe a painter as well. And there's, did you ever see this picture in Tarski's house by Witkowski, that chalk, that Pascal paint portrait? I think so. There was one of Tarski and Maria. He's very famous. He was also a poet and a painter. There was a very large avant-garde, I mean large for Poland, avant-garde movement in Poland in that time. He was part of that circle, part of that bohemian circle. And I think this is where a lot of his sexual freedom attitudes come from. There was a very bohemian group, a very literary theater, music. They would go to their special cafes and so forth. So that was part of the stuff that he sort of absorbed in his very early life. And that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> was, I think, very important to him, to be part of the movers and shakers of the cultural</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> world. And he hung on to that. He used to seek out artists here and liked to feel that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> he wasn't narrow. He wasn't a provincial person. He didn't do only that. And he had a lot of interest in botany and in plants. Originally he... That I didn't know. That escaped me. Yeah. He was, well he had thought about being a botanist at one time. He did say. And so he was interested in that. And a great, he was also a great climber. He was a great mountain, I mean, walker and climber. And he has, there's a booklet of all the trips he took and all the passes that he crossed in the Tatar Mountains. Literally every single one, every walk he took, very systematic. Summer after summer. Summer, or not only just summers, he kept records of this. He kept records? Yeah, he has a record of every time he went to Zakopane or where he went and what walk he took and so forth. Really? Yeah, yeah. So very systematic about maintaining that record. But Beryl kept records of his temperature. Did he really? Yeah. But that, this is a fascinating little book. He'll reach his own. I think I prefer the record of where I went. That's right. That's fascinating. And who went with him? Who went with him? By what means of transportation? Just like a little quote. A Polish colleague came to me to the library and he was able to decipher all this. Exactly what the day, where it was, by what means of transportation and who was there. And which kind.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> That's true.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> And he kept that until, even after he came to this country, I think that goes until 1946. So there are trips that he went, you know, to Long Island or he went to Maine, with Quine and with I think Kleene and with Hamsel and all.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> That's the end of it. or he went to Maine with Quine and with, I think, Kleene and with Hemphill and all. It's New York. And I don't know whether he stopped keeping that record or the record afterwards of what he did was lost. Because Maria and his wife, his wife and children were left behind when he was here. Then they were able to come, almost immediately after the war, they were able to come through many strings being pulled. And after that there are no records. And I don't know whether that's lost or whether he stopped keeping them. But that was fascinating to find that. I wish I could find out more about</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> his early history. That's really the hardest stuff to come by. There are a few people who</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> are around, living sources, which are of course in the back. And the other sources are all</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> conflagrated in the fires and whatsoever. But there was a living ex-sister-in-law who had been not only to his house, but to his parents' house. So I have some view of that. Did you contact his children? Yeah, I've spoken quite a bit to them. More questions? I have. Yeah, go. Keep shooting. Tarski was one of the founders of the logic methodology philosophy of science congresses. Maybe he was the main pusher. I'm not sure. But he had this idea of the importance of methodology of science and logic's role in that. What do you think of that? I don't know what the... I think the physicalistic, the dream of physicalism and so on. But I don't think much. I mean, as a historic importance, I don't think nowadays something like that would be technical. And I, and in that respect, I don't know, I can't measure, it's difficult to measure his own input into that. Because I mean, this is the Vienna Circle. I mean, this is a heritage of the Vienna Circle. The United Science Movement. Yeah, right. And so, certainly he was influenced and he was, he has some input there, but I don't think his input is directly there. I mean, actually, there are few papers that philosophers as philosophers would read. Few of Tarski's papers. I mean, well, there is the concept of truth, the logical consequence things, some, well, his journal about physics, he has a, but that's about it. And this was more, and this view of science was shared, it was a widely held view. So I think he was more kind of the product of it than the initiator. I see. It was in that atmosphere. That particular organization or, you know, those meetings, Logic Methodology, he was one of the initiators. Oh, yeah. That's no question. That's to his credit. And what do you think of those meetings? Do you think they worked? I think they kind of stopped, kind of deteriorated somehow, but that is very difficult because this is my own point of view when it becomes older and it's kind of, you know, here and there. I mean, my impression was that there was more exciting things happening at the beginning. I mean, if you remember the first meetings, there were actually new results, new very exciting results declared. I mean, this was out about the first Stanford in 1960. Yes. This thing about the. Now, were you there at that time? Yes, I was at that, yes. This was so, so in the, in the beginning that you actually had things happening, very live things happening. Nowadays it's somehow more of a kind of summing up. You want to know what has been done during the year. Was that the very first meeting, the Stanford meeting? Yes, yes, that was it. So my impression is that it's not as lively and not as forceful as it used to be. Did you go to Florence this year? No. What's the last one of these that you went to? Do you remember? I was actually the one in 82. You didn't go to Moscow? No. Wait a minute. Moscow? 87? No. And where was it in 82? It was in Salzburg. Salzburg, yes. Yes. So the last one was 82, the Taiwan. Let's see, was it, what was, I didn't go to Florence. I was actually on the Committee for Probability, I mean, on all these things. But I really didn't. Well, some of the people, I mean, I was on the Committee for Probability, I mean, on all these things. But I really didn't. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was on the Committee for Probability. I was actually on the committee for probability, I mean, all these things. But I really didn't. Well Salzburg was an exciting meeting, wasn't it? Everybody was all jazzed up about Krivel and the side issue. Well, that was a side show. Yeah, a side show, right. But then if it was 82 in Salzburg, it must have been 86 in Moscow. Maybe it was 86. Yeah. I don't know why I have it. Understand? Yeah. Uh-huh. Makes sense because… They were every four years, right? Yeah. And then where was it? Yeah. Epsilon 90. 90, And then Florence, 94. No. No, 95. No, we have to check. And maybe every three years. Oh, okay. So... So what's the last one you went to? Was the Moscow one? Moscow, yeah. Well, I think that was 87. Okay. But when I say, do you think they work, by that I mean having people from so many different fields. Yeah, I think that's a good idea. I think that's a good idea. You think the interdisciplinary... Well, some of the groups hardly interact. Some of the groups hardly interact. But I think if it can, as long as it can survive, I think it's a good idea.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> I think it's a good idea to have people from many fields.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> You see, the point is...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="SPEAKER_01"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

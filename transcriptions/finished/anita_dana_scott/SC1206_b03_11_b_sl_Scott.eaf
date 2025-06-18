@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2024-08-11T19:41:21-05:00"
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-06-17T08:53:13-08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/markjos/projects/montague_archiving/transcriptions/anita_interviews/SC1206_b03_11_b_sl_Scott.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./SC1206_b03_11_b_sl_Scott.wav"/>
+            MEDIA_URL="file:///Users/markjos/projects/montague_archiving/data/SC1206_b03_11_b_sl_Scott.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../data/SC1206_b03_11_b_sl_Scott.wav"/>
         <PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d3143bc5-4faf-47fc-84ce-ba33e9e8da99</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">588</PROPERTY>
