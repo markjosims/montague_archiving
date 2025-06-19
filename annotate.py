@@ -134,7 +134,7 @@ Audio handling methods
 def load_and_resample(fp: str, sr: int = SAMPLE_RATE) -> torch.Tensor:
     wav_orig, sr_orig = torchaudio.load(fp)
     wav = torchaudio.functional.resample(wav_orig, sr_orig, sr)
-    return wav
+    return wav[:1,:]
 
 def sec_to_samples(time_sec: float) -> int:
     """`time_sec` is a time value in seconds.
