@@ -4,3 +4,4 @@ torchaudio
 huggingface_hub
 pympi-ling
 nemo-toolkit
+librosa
