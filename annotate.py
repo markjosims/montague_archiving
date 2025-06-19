@@ -176,6 +176,7 @@ def init_parser() -> ArgumentParser:
     parser = ArgumentParser("Annotation runner")
     parser.add_argument("-i", "--input", help=".wav file or directory of .wav files to annotate")
     parser.add_argument("-o", "--output", help="Directory to save annotations to.")
+    parser.add_argument("--overwrite", action='store_true')
     parser.add_argument(
         "-s",
         "--strategy",
@@ -285,6 +286,10 @@ def annotate(args) -> int:
         glob_str_upper = glob_str.replace(args.file_extension, args.file_extension.upper())
         audio_fps = glob(glob_str, recursive=args.recursive) + glob(glob_str_upper, recursive=args.recursive)
         for audio_fp in audio_fps:
+            out_txt = change_filepath(media_fp=audio_fp, ext='.txt', new_dir=args.output)
+            if not args.overwrite and os.path.exists(out_txt):
+                print(f"Output file {out_txt} already exists, skipping...")
+                continue
             annotate_file(
                 args,
                 asr_pipe,
