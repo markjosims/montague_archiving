@@ -118,10 +118,14 @@ def get_ipa_labels(elan_fp: str) -> List[Dict[str, Union[str, float]]]:
     ipa_labels = [{'start': a[0], 'end': a[1], 'value': a[2]} for a in ipa_tuples]
     return ipa_labels
     
-def change_file_suffix(media_fp: str, ext: str) -> str:
-    media_suff = os.path.splitext(media_fp)[-1]
-    wav_fp = media_fp.replace(media_suff, ext)
-    return wav_fp
+def change_filepath(media_fp: str, ext: str, new_dir: Optional[str]=None) -> str:
+    stem = os.path.splitext(media_fp)[0]
+    if new_dir:
+        stem = os.path.join(
+            new_dir,
+            os.path.basename(stem),
+        )
+    return stem + ext
 
 """
 Audio handling methods
@@ -130,7 +134,7 @@ Audio handling methods
 def load_and_resample(fp: str, sr: int = SAMPLE_RATE) -> torch.Tensor:
     wav_orig, sr_orig = torchaudio.load(fp)
     wav = torchaudio.functional.resample(wav_orig, sr_orig, sr)
-    return wav
+    return wav[:1,:]
 
 def sec_to_samples(time_sec: float) -> int:
     """`time_sec` is a time value in seconds.
@@ -171,6 +175,8 @@ Main script
 def init_parser() -> ArgumentParser:
     parser = ArgumentParser("Annotation runner")
     parser.add_argument("-i", "--input", help=".wav file or directory of .wav files to annotate")
+    parser.add_argument("-o", "--output", help="Directory to save annotations to.")
+    parser.add_argument("--overwrite", action='store_true')
     parser.add_argument(
         "-s",
         "--strategy",
@@ -280,6 +286,10 @@ def annotate(args) -> int:
         glob_str_upper = glob_str.replace(args.file_extension, args.file_extension.upper())
         audio_fps = glob(glob_str, recursive=args.recursive) + glob(glob_str_upper, recursive=args.recursive)
         for audio_fp in audio_fps:
+            out_txt = change_filepath(media_fp=audio_fp, ext='.txt', new_dir=args.output)
+            if not args.overwrite and os.path.exists(out_txt):
+                print(f"Output file {out_txt} already exists, skipping...")
+                continue
             annotate_file(
                 args,
                 asr_pipe,
@@ -303,7 +313,7 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
     eaf = Elan.Eaf()
 
     # ELAN does not accept .mp3 media files
-    wav_fp = change_file_suffix(audio_fp, '.wav')
+    wav_fp = change_filepath(audio_fp, '.wav', args.output)
     eaf.add_linked_file(wav_fp)
     wav = load_and_resample(audio_fp)
     if args.strategy=='drz-first':
@@ -353,17 +363,17 @@ def annotate_file(args, asr_pipe, drz_pipe, audio_fp, generate_kwargs):
                 asr_api=args.asr_api,
             )
 
-    eaf_fp = change_file_suffix(audio_fp, '.eaf')
+    eaf_fp = change_filepath(audio_fp, '.eaf', args.output)
     eaf.to_file(eaf_fp)
 
     if gecko_json:
-        gecko_fp = change_file_suffix(audio_fp, '.json')
+        gecko_fp = change_filepath(audio_fp, '.json', args.output)
         with open(gecko_fp, encoding='utf8', mode='w') as f:
             json.dump(gecko_json, f)
         print("Saved Gecko JSON annotations to", eaf_fp)
 
 
-    txt_fp = change_file_suffix(audio_fp, '.txt')
+    txt_fp = change_filepath(audio_fp, '.txt', args.output)
     write_script(
         eaf,
         txt_fp,
