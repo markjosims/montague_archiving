@@ -28,9 +28,15 @@ if __name__ == '__main__':
     with open(args.input, encoding='utf8') as f:
         text = f.read()
     
+    # preserve double newlines
+    text = text.replace("\n\n", "<DOUBLELINEBREAK>")
+
     # condense newlines within turn
     newline_re = re.compile(r"(\n)^(\S)", re.MULTILINE)
     text = newline_re.sub(r" \2", text)
+
+    # restore double newlines
+    text = text.replace("<DOUBLELINEBREAK>", "\n\n")
 
     # trim leading whitespace
     whitespace_re = re.compile(r"^ ", re.MULTILINE)
@@ -40,7 +46,7 @@ if __name__ == '__main__':
     speaker_re = re.compile(r"^([A-Z][A-Z]:)", re.MULTILINE)
     text = speaker_re.sub(r"\n\n\1", text)
 
-    # remove double newlines
+    # remove newline sequences in excess of 2
     while "\n\n\n" in text:
         text = text.replace("\n\n\n", "\n\n")
 
