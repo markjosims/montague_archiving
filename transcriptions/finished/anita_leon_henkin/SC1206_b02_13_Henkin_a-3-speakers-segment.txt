@@ -1,0 +1,982 @@
+AF: 0:00:02-0:00:05
+And I am heading to Berkeley Point.
+
+[RECORDING CUTS IN AND OUT]
+
+LH: 0:00:05-0:00:10
+Hi, Catalina.
+Catalina, do you know Mrs Feferman?
+
+Catalina:
+No, let me-
+
+[RECORDING CUTS IN AND OUT]
+
+AF: 0:00:13-0:00:40
+All right, we'll start again.
+This is December 2nd, 1993, or December 1st, is it?
+
+LH:
+It's December 1st. Wednesday, December 1st.
+
+AF:
+December 1st 1993.
+I'm doing an interview with Leon Henkin about Alfred Tarski, and I'm presuming that everything you say today, Leon, will be acceptable for me to put into this biography that I'm writing.
+
+LH: 0:00:40-0:01:43
+I want to say two things before beginning.
+The second in answer to the statement you just made.
+
+The first thing I want to say is that earlier today I spoke on the phone with Steve Givant.
+We have spoken before about his longstanding interest in someday writing a biography of Tarski.
+And so I thought I would let him know that you and I are going to speak today and ask him what his own plans are now.
+He said, "Well, certainly not to do something next year, maybe in five or ten years", he said.
+So he's still thinking that he wants some time in such a time span maybe to sit down and write a biography.
+And he said he would feel uneasy about sharing with you those things that he has been putting away for such an occasion.
+
+AF: 0:01:44-0:01:44
+Right.
+Which he also said to me.
+
+LH: 0:01:45-0:02:52
+On the other hand, he said, Of course, everyone has a right to do what they want to do, including you as regards your interest in writing a biography of Tarski.
+
+And so that changed.
+That's the first thing I wanted to tell you had this conversation.
+
+AF:
+Thank you.
+Thank you.
+
+LH:
+And the second thing I had just thought and well, before you talked about everything I say being able to go into the book, of course, I understand that it doesn't make sense for me to tell you about Tarski unless I tell you things exactly as I remember them and as I felt or feel about them.
+
+Not all of those things would I like to see attributed to me in the book.
+So I would ask that anything that's attributed to me in the book, I would have a right to look at and correct.
+
+AF: 0:02:53-0:03:13
+Attributed as direct quote or even as information to say that I get some indirect.
+
+LH:
+No, to say that you got information from me. 
+
+AF:
+To say "as Leon Henkin said" or from, yeah. But if I use material in a general way that's sort of that is out there and part of it being out there is being from you.
+
+LH: 0:03:13-0:03:36
+You can even use you can even use things that you didn't didn't hear from anyone else but you but me as long as it's not attributed to me.
+You can do it freely.
+
+If you want to attributed to me I ask for a right of-
+
+AF:
+Of looking at it 
+
+LH: looking at it and saying no I don't want my name attached to that.
+
+AF: 0:03:36-0:04:59
+Okay.
+That's perfect.
+That's a perfect understanding of that.
+
+When I did the Van Heijenoort interview I actually had forms that I had people sign. And I probably will work up a form for that because I think it's a good idea to have this in writing as well.
+
+Yes and I will remember that specificity because I didn't have that kind of specific what you might call exception in that.
+So I'll remember that and I may just put it in yours and not offer everyone that opportunity but I certainly will remember to put it in yours.
+
+LH:
+All right. 
+
+AF:
+And so today I'm not going to do I'm certainly going to want to talk to you more than once and I'll probably be floating around today.
+
+LH:
+That's okay. 
+
+You say you want to talk to me more than once perhaps you will find that I'm so old and forgotten so many things that it wouldn't pay you but-
+
+AF:
+Then surely I'll want to talk to you more than once because after we talk you will then remember what you do. 
+Don't mind if I just sort of go here and there everywhere it's not gonna be da-da-da-da.
+
+LH:
+All right
+
+AF:
+I want to know if you held Alfred in awe.
+
+LH: 0:05:01-0:06:28
+In awe? No, I can't say "in awe".
+I knew he was he was quote "a great man" unquote because I heard something like that from my first logic teacher Ernest Nagel.
+
+I was taking a course in my probably junior year at Columbia as an undergraduate so that would be the year 1939-40. And one day Nagel said to us students in the class-
+
+AF:
+You were an undergraduate then? 
+
+LH:
+At Columbia, yes and I think that was my junior year. I know that I graduated in June 1941 and I believe I took this course in my junior year 39-40. And one day, it was in the spring I believe, Nagel said We are going to have a visit from a very famous logician named Alfred Tarski. He's coming from Poland and he's going to talk to us.
+
+So that was the first time I heard of Tarski. And so I was all set to regard him as a famous logician which of course he was.
+
+AF: 0:06:29-0:06:31
+And did he actually show up?
+
+LH: 0:06:31-0:08:59
+Yes, he came and he talked. He gave a lecture on two subjects.
+
+One was decision problems and decision methods in which he was very interested and involved. And the other topic he mentioned was Gödel's incompleteness proofs. And incidentally Nagel himself subsequently wrote a popular account of Gödel's incompleteness results with someone named Neuman, who was a lawyer I believe, on the expositoir.
+
+So Tarski spoke on these two things.
+
+I remember sitting near the back of the room and feeling as if I wanted to make some contact with him so that when at the end of his talk Nagel called for questions, I had a question. I don't know. It was a question that came into my mind about his talk about Gödel's proof or theorem, but my purpose in asking it was not merely to gain information but to establish a contact.
+
+And what I asked was whether there could be a decision method to decide which sentences were unprovable in those systems where Gödel showed they were true but unprovable. That was a good question. And he gave the right answer I'm sure which is "yes"- I mean, no there cannot be such a decision method. Now it's very easy for me to see why is the case .
+
+AF:
+But at the time it really was a question.
+
+LH: Yes, it was may have been the first time I heard of the subject of [decision] decision methods.
+
+I had heard of Gödel's theorem from Nagel who had mentioned in class that it had taken him six months to read Gödel's paper. [UNINTELLIGIBLE]
+
+AF: 0:09:00-0:09:03
+How was his English?
+Was it easily understandable?
+
+LH: 0:09:03-0:09:20
+Yes perfectly easily understandable.
+
+Subsequently I came to feel that he had a pretty heavy Polish accent even years later. But I had no problem all the time.
+
+AF: 0:09:21-0:10:19
+So you know that he came to Harvard to this meeting of the Unity of Science in 39?
+
+LH:
+Yes in the summer of '39 just a few weeks before the invasion of Poland.
+
+AF:
+Right and so this was just shortly after, this was-
+
+LH
+I believe it was the following spring semester. [Yeah] What is known to me is Tarski traveled around at that time giving lectures here and there. 
+
+AF:
+To catch a little money Well according to Quine in his book he had they made some sort of makeshift research position for him so he would have some income and I presume he went as a touring lecturer from place to place.
+
+LH:
+Yes, if he could pick up some of those I'm sure they would be very useful to him but quite apart from that he was he wanted to make his-
+
+AF:
+To spread the gospel.
+
+LH:
+-presence felt.
+
+AF:
+Yes, right. So you felt, I mean you already had the sense then of somebody really quite exceptional.
+
+LH: 0:10:19-0:12:15
+Yes the word "awe," no not right. 
+
+AF:
+So let's have an let's have your word then 
+
+LH: I think I gave him I knew that he was a great figure. I was told that and I believed 
+
+AF:
+You believed it.
+
+LH: I had no reason not to believe it.
+Right and never occurred to me of course that I would never see him again. [Right] but of course I did see him again and in particular I saw him in the fall of 1947 at the Princeton Bicentennial Celebrations.
+
+There were celebrations of various kinds all that year in Princeton. And in particular there was a conference on problems in mathematics and that was divided into sections and one section was logic and foundations. And if I have that date correct, and I believe I do, then I was a new postdoc. I was awarded my doctoral degree at Princeton in September 194. And so the then department chair or maybe vice chair, Professor A W Tucker, who was really arranging details of this conference, he asked me to be a notetaker in this conference on logic and foundations of mathematics. So I took notes some of the talks there, including Gödel's, Church's, and Tarski's and I subsequently showed or sent them my notes and [UNINTELLIGIBLE]
+
+AF:
+Did he remember you?
+
+LH:
+Tarski?
+
+AF:
+Uh-huh.
+
+LH:
+Oh, yes.
+
+AF: 0:12:16-0:12:55
+Did he remember you from that visit?
+
+LH
+No.
+
+AF:
+Did you remind him?
+
+LH:
+I have done so subsequently I don't know it like that 
+
+AF:
+Not that occasion, but you reminded him that you were in the audience.
+
+LH: because it stuck in my mind.
+
+AF:
+Sure. No those are exactly... Did he seem any different to you in those ten years from thirty, or those eight... Let's see you saw him in '39 as a fledgling logician and then you saw him again in '47 as a fledgling beginner postdoc.
+What was the shift in your image?
+
+LH: 0:12:56-0:14:54
+Yes, well most of the time between those two dates logic had been driven out of my mind by my own involvement in World War Two.
+
+So in December 7th, 1941 I realized that I could not finish my graduate work.
+I felt I couldn't even complete two years of work, which was the normal time to take my PhD qualifying exam. I couldn't. So I hurried up and packed in the necessary material into my head by self-studying, as well as by courses, and passed my qualifying exam in May 1992.
+
+AF:
+May 1992? 1942.
+
+LH:
+'42, yeah that was the end of my first academic year. And on May 25th I left for the Signal Corps radar laboratories and didn't return to Princeton or begin thinking again about logic until March 1946 when I got back from war. Even though March is not the time to begin academic work that's the first moment I could be released they accepted  me
+
+AF:
+But just Tarski as a person just that little man there, the little man you saw again in Princeton would you see was the impression any different than in general?
+
+LH:
+No.
+
+AF:
+No. Same?
+
+LH:
+Then in that second occasion I could see, of course, the deference that all the gathered logicians gave to him.
+
+AF:
+I see 
+What was that word?
+Deference?
+
+LH:
+Deference.
+
+AF: 0:14:54-0:15:06
+So by that time it wasn't just one person having said, Nagel having said-
+
+LH:
+It was visible in a community of logicians
+
+AF:
+And by that time he was already established at Berkeley.
+
+LH: 0:15:07-0:15:55
+Yes. [Right] Sure, he got established here in 1942.
+
+AF:
+I don't have that date absolutely clear on my... but certainly you know I know that by the time Sol came in '48 he had already been here a long time.
+
+LH:
+I think the records will show that he began his work here in 1942
+
+AF:
+But by '48 he already had his empire growing
+
+LH:
+Yes. Well, he had to wait for some years. You see I was the first person he was able to bring in.
+He didn't even have a chance to try to bring in any other people until me because of the situation in the department.
+
+AF: 0:15:56-0:16:06
+Well you came when? In 1950?
+
+LH:
+'53.
+
+AF:
+You came in 1953 and you were you were the first logician hired?
+
+LH: 0:16:06-0:18:27
+Yes, in this department at his instigation.
+
+AF:
+So everybody else was the gang of students I didn't realize
+
+LH:
+Yes. Now actually I was invited to come in 1952.
+
+AF:
+You came as a visitor first?
+
+LH:
+No I was invited I was invited to come in 1952 and I declined because they then had that special loyalty oath here. And for me that was a big thing.
+
+I said no but in the following year the courts overturned that special oath they hired back people who had been fired, tenured professors who had been fired, then they invited me to come back again and my accepted.
+
+So I came here as an assistant professor. That was a come down and
+
+AF:
+For you?
+
+LH:
+I hesitated a bit.
+
+AF:
+You had been at USC?
+
+LH:
+I had worked at USC. I had come there in 1949 after two post-doc years at Princeton as an assistant professor there. But I had worked my way up and I had been associate professor for one year when this 1953 offer came along. And they explained to me that-
+
+AF:
+Who "they"?
+
+LH:
+Morrey, who was then the chair, and Alfred, that is the way this university worked is that they would recommend my promotion to Associate Professor the following year and they felt confident that it would through. And indeed that's the way it happened
+
+AF:
+It did.
+So you were the first person, senior person, well the first any other logician
+
+LH:
+Yes, and it had to do, there were then twenty four regular faculty members in the department and one of them had just retired and it was his place that I took.
+
+He had some his name was Bernstein. And he had done a bit of foundation work, I don't know exactly what. And it was his retirement that made it possible for Alfred to ask for my appointment in the department as it was then functioning.
+
+AF: 0:18:28-0:19:10
+Well that's interesting because I had the impression that already he had his... By the time Sol came, by the time Sol came he was such a magnet that he had all that many students... But I didn't realize that there was no one else in the department who was in logic. You were that someone else.
+
+LH: 0:19:10-0:20:02
+I subsequently heard that of course he had wanted to start an empire building as soon as possible but he had had to wait until then. So it was about ten years. He was able to extend an offer in 1950. So that's ten years after he arrived here.
+
+Right now he had already perhaps succeeded in getting some people appointed in the philosophy department. 
+
+AF:
+Right. Well he was here I mean I don't know that they, Mates was here...
+
+LH:
+I don't think Alfred was responsible
+
+AF:
+So who did-?
+
+LH:
+Well I know that just about the time I came the same year or a year before or a year after Jan Kalicki was tragically killed in an automobile accident. That was a new one. But subsequently I have heard people in the philosophy department say, and you should certainly go to Mates with this question, that no less than five members of the philosophy department owed their appointments to Alfred. That phil-
+
+AF: 0:20:03-0:21:03
+Really? At that point?
+
+LH:
+No altogether
+
+AF:
+Oh I see. Well let's see: Montague. Montague was...
+
+LH:
+He was not in the philosophy department.
+
+AF:
+He wasn't?
+
+LH:
+He got his degree in this department and he went to UCLA.
+
+AF:
+He was never in the philosophy 
+
+LH:
+I don't think so. He was in the philosophy department at UCLA.
+
+AF:
+Kalish was here but I don't think he owed his appointment to Tarski.
+
+LH:
+I don't even know if this is a correct statement. [Okay] I say I have heard that five people owed their appointments to him. But you should of course ask.
+
+AF:
+Yes.
+
+Let me back up a bit. So once you came you had really a very, very close professional association with him?[Yes] He expected a lot of you, right?
+
+LH: 0:21:04-0:22:05
+I mean yes, yes he did. I had written a brilliant dissertation. I suppose everybody in the field except me expected a lot from me!
+
+I had the greatest self doubts about my own work. And, well, I did manage to hang in there for forty years or so! But I don't believe that I ever showed as much promise as I did in my doctoral dissertation after. That was smashing.
+
+AF:
+But he expected a lot of you also as a colleague in terms of getting this world going.
+
+LH:
+He got a lot from me. So I suppose he expected it. You can say he expected because he took it for granted! [Yeah] He told me what to do it and I was more than happy to do it.
+
+AF: 0:22:06-0:22:56
+You were more than happy to do it.
+Were there ever occasions where he asked you to do things that you either didn't want to do or that you didn't do?
+Did he ask too much of you?
+
+LH:
+He asked as much as he could! [Yeah] He asked a great deal, but I never felt I was interested in the details, and I was glad to be able to help, and I did help, Hanging back on that point.
+
+AF:
+Well students for example felt like as if they were asked too much
+
+LH:
+Yes! He asked too much of everybody.
+
+AF:
+Well that's what I'm getting at-
+
+LH: But I don't feel that way about it!
+
+AF:
+That's what I'm exploring. He asked, I mean because there are people he asked too much of who did feel that way. You didn't.
+
+LH:
+That's right.
+
+You felt However much he asked you were willing to give.
+
+LH:
+Correct.
+
+AF:
+Yeah. And why?
+
+LH: 0:22:58-0:23:01
+Why?
+It's probably my personality.
+I think he's not the only one to make the... I always wanted to meet people's expectations of me. Starting with my childhood family. That's my type.
+
+AF: 0:23:01-0:23:35
+Yeah so you wanted, you thought the cause was good but besides that you wanted to do what you were asked? And you never you never said "that's too much I can't do that"?
+
+LH:
+No. I remember...
+
+AF:
+And you didn't even ever feel that.
+
+LH:
+Can't remember.
+
+AF:
+No What about Ginette?
+Did she ever feel that? [LAUGHS] Tell you that?
+
+LH: 0:23:35-0:24:33
+I don't know. I can't remember her saying that to me. You can feel free to ask her that.
+
+AF:
+Yeah, right sure I will but because he was such a such a demanding person.
+
+LH:
+He was yeah. At one time
+
+AF:
+And obsessive, I suppose, obsessive about the things he wanted to have. Maybe obsessive isn't the word.
+
+LH: Well, he wanted something very much and he drove for it. And people say that I'm a little like that myself. Ginette certainly tells me that. But at any rate he enlisted me into, his enthusiasm for a project enlisted mine. So I always went into it gung ho.
+
+AF: 0:24:34-0:24:38
+Well did you have disagree-?
+I mean I can't imagine that you didn't sometimes have disagreements.
+
+LH: 0:24:39-0:27:06
+Oh yes of course we had disagreements, but you might say on a technical matter. We were always debating furiously the use of the English language and a variety of manuscripts and letters that he wanted help.
+
+He was always uncertain about his use of the English language.
+He had tremendously high demand for himself, in any normal sense of the word.
+People would say he understood English perfectly. But he didn't have a normal sense of that word.
+
+AF:
+He exactly-
+
+LH: He felt insecure about achieving the level of exactitude that he wanted to achieve. And I was proud that he felt that I was a leading helper. So in fact I had an intense interest in the subtleties of the English language.
+
+AF:
+Right and he cared about that as much as... Well he cared about it in terms of expressing his technical work.
+
+LH: As well as well as in letters-
+
+AF:
+But he cared about it just in general, in general in speech.
+
+LH:
+Well not so much in speech, but in writing he wrote many things besides technical things. Papers, I mean... letters of recommendation. 
+
+AF:
+Exactly .
+
+LH: All sorts of documents. 
+
+AF:
+And he wanted the mot juste all the time.
+
+LH:
+Right, right.
+
+AF:
+So he showed you all of those things
+
+LH: And you asked if we had differences.
+Yes, sometimes I insisted that that word had a different meaning than he thought it did and he didn't always just say "okay since you say so." He would argue! So we had differences of that kind.
+
+AF:
+That kind, but did you have differences about larger objectives?
+
+LH:
+No, not about organizing congresses, organizing meetings, bringing people here.
+
+AF:
+What about, yes, strategies of who to invite, who makes, who to appoint?
+
+LH:
+I always thought that he had the... He was well placed to have the right ideas, and it would never have occurred to me [To-] to say not him if he said this would be an interesting person.
+He already met them in Europe and he knew about them and I didn't.
+
+AF: 0:27:07-0:27:15
+Right so you defered to his judgment, really, in all cases.
+
+LH: 0:27:15-0:28:41
+Yes. So I was starting to tell you that there was one time when I began to experience physical symptoms of stress in the form of what a doctor said to me might be an incipient ulcer. That was the one and only time, but in fact it never developed that...
+
+But I know the occasion it was organizing that december 1957 International Conference on the Axiomatic method.
+He was the chair, we now say chairperson, those days the chairman of that thing and I was designated as the secretary. And one of the hard things I had to do was try to get visas for people from Eastern Europe at a time when the State Department didn't want to give them and said "if they came they had to have somebody watching them all the time and mustn't move more than twenty five feet"
+
+AF: 0:28:42-0:30:20
+"Fifty miles from," that's true. I remember that we took a group of people down to Monaco, yeah, and somebody disappeared down the cliff.
+Remember that?
+
+There was a bus trip and a couple of the Russians, I think maybe Yershov, went down the cliff, you know, ran down the cliff-or maybe it was Ehrenfreucht, I don't know who, and they-no it couldn't have been Ehrenfreucht, it was Russian.
+
+And so there was this great concern and then, especially because there had been special dispensation to take... And then they came back. I mean they were late! They were causing everybody to wait, I mean it was really quite an irresponsible and not nice thing to do. And they came back and they said "Typical... It's all your fault, your country is too beautiful we have to take this." It was those days.
+
+But well there's a student, somebody an Italian logician, Sambin. Do you know him?
+No anyway he's in Padua now and, Giovanni Sambin, and he had come here in the sixties and Alfred allowed him to sit in on his course.
+
+He was a young Italian boy in his twenties away from his mama for the first time. He sat in on his course and then he was supposed to present, he was supposed to do a presentation and he wasn't getting it and he wasn't getting he wasn't just able. And he comes to Alfred and he says well I'm having some personal problems and I'm just not ready. And so Alfred says "how long do you think these problems will take to heal? These are personal problems?"
+"I don't know one week, two weeks" [LAUGHS]
+
+So I mean... But you didn't feel things like that.
+
+LH: 0:30:20-0:31:06
+Your talking about his seminars reminds me that he for many years invited me to cosponsor his seminars. So that he and I sort of team-taught them. And that was of course a tremendous experience for me both pedagogically and mathematically.
+
+AF: 0:31:06-0:31:40
+Right. What did you learn about his personal past in any way in all the years that you knew him?
+Did he talk about his years in Poland with you?
+Because that's something I'm having not an easy time reconstructing.
+I mean I'm getting information but I'm not getting a lot.
+
+So for example I don't know very much at all about his own family.
+Did he talk about that at all?
+
+LH: 0:31:40-0:32:51
+Of course they were installed in [UNINTELLIGIBLE] and on Cragmont back
+
+AF:
+No I mean in Poland
+
+LH:
+Yes, oh.
+
+AF:
+I mean the yers when... Did he talk about "when I was a little boy" ever to you? Never.
+
+LH:
+No... I guess he mentioned he had been a high school teacher...
+
+AF:
+Maybe just tell me everything you know about him before you know him here, before you know him  in '39.
+
+LH:
+Extremely little. For one thing I'm not the kind of person who asks anybody to tell things about their own life. If they volunteer I'm down to listen but I do want to appear to be a prober.
+I feel that people have a right to privacy.
+
+AF:
+Right. But he didn't tell, he never referred to his past in any way?
+
+LH:
+I think he told me he had been a high school teacher. I certainly know that he had studied seven or twenty seven foreign languages when he was a student.
+
+AF:
+He did tell you that, he told you that. I mean that's not things you heard from other people, he told you he'd studied languages. He'd been a high school teacher.
+
+LH:
+He said how many languages it was.
+I think it was about seven for sure and he enumerated that and it included Latin and Greek.
+
+AF: 0:32:51-0:34:13
+Right. Did he tell you anything about being Jewish, not being Jewish?
+
+LH:
+No
+
+AF:
+He never discussed his name change?
+
+LH:
+No.
+
+AF:
+He never discussed his never mentioned the war?
+He never alluded back to that in any way, never alluded to family tragedy of any sort?
+
+LH:
+No cause he was not in Poland during the war.
+
+AF:
+I know that, just I want to know what he talked about.
+
+You know, Ina, for example who I've already interviewed knows this much and cares about this much. It's very interesting.
+
+LH:
+She was very small.
+
+AF:
+But she also was extremely distant from her father which is
+
+LH:
+Not surprising.
+
+AF:
+No, right. And I mean I'll be talking to her more, but she was a source that I expected some information from and the amount of information she has is staggeringly small. And her disinclination about it is also of interest. But I mean she knows she knows that his parents were in the ghetto and died, but she doesn't know much more about that.
+
+LH:
+I'm hearing about that for the first time.
+
+AF:
+But they didn't hear... So in other words he never talked about that.
+
+LH: 0:34:14-0:34:32
+Yeah I heard some things about Poland during the war from Andrzej Mostowski.
+
+AF:
+Right, yeah.
+
+LH:
+But not to from Alfred. And in particular Mostowski's accounts of what happened in Poland and the war, of course, never referred to Alfred. He wasn't there.
+
+AF: 0:34:32-0:35:16
+And well I've heard accounts from other people.
+I did do interviews with people in Poland.
+
+LH:
+You told me you were going.
+
+AF:
+I did I did go.
+
+LH:
+Who did you-?
+
+AF:
+I talked to Maria Mostowski, I talked to... Mostowska, the wife yeah. I talked to Pawlok who was in computer science, I talked to Szczerba who was here and lived in... Well Pawlok, too, lived in Maria's house on Regent Street for a while when she was here. Szczerba I talked to Grzegorczyk...
+
+LH:
+How about Rasiowa?
+
+AF:
+I talked to Rasiowa. She knows very little, very little. I mean she's somebody who, the reason I bring up, awe is she's somebody who really does hold him in awe and has only really a very general picture.
+
+LH: 0:35:17-0:35:20
+She must be about the oldest of the people who have had a lot of contact with him.
+
+AF: 0:35:21-0:36:28
+Yeah, well there's Madame Kotarbińska. She's still alive and I did not talk to her but I sent, somebody has interviewed her for me. And I just heard that there's an hour on tape with her.
+
+LH:
+Was she here?
+
+AF:
+Madam Kotarbińska, I don't know.
+
+LH:
+I believe her husband was here for a short visit [Yeah] and I think maybe she was with him.
+
+AF:
+Maybe so but she... Henry Heesch will know a lot. And Henry Heech was... Henry Heesch knew him in Poland as a student and then knew him here, so I'm counting on it. I'm in correspondence both email and...
+
+LH:
+Is he in Philadelphia?
+
+AF:
+Yes he is he is he only goes in, he's retired, and only goes in once a week and see what they're doing.
+
+LH:
+And another person of those days now dead was Ribeiro-
+
+AF:
+Ribeiro, yeah.
+
+LH:
+-who when he retired he went back to Portugal. I visited him there-
+
+AF:
+Did you?
+
+LH: 0:36:30-0:36:31
+-in '82.
+He subsequently died.
+
+AF: 0:36:32-0:37:44
+So that's somebody I'm counting on a bit. And Łoś I didn't see but he wasn't there but I'm in correspondence with him. But he's again later.
+
+So Maria Mostowska knew, was in contact a bit with Maria Tarska during the war. and I don't know-
+
+LH:
+During the war? Oh, yes.
+
+AF:
+Yes, she was there. So you know I am picking up stories but I'm not picking up, not picking up a lot, you know. And I'm used I'm used to Von Heijenoort who was his own source and could tell how he felt.
+
+So I mean I'm looking for things like did he, what you know what kind of nickname did he have?
+What kind of character did he have as a kid? And you never had any evidence from him?
+
+LH:
+Never heard a word about it from anyone.
+
+AF:
+Yeah, so what he talked about to you was logic and all the world surrounding logic and did he talk to you about personal things at all?
+
+LH:
+No.
+
+AF:
+No, he didn't ask advice about practical problems in any way?
+
+LH: 0:37:45-0:38:06
+Advice about practical problems? Oh yes, about income taxes. He once had an interview with the IRS and he asked me for some advice about what to say 
+
+AF: 0:38:07-0:38:09
+What to say with that, that's it. 
+Didn't ask you what car mechanic to go to?
+
+
+LH: 0:38:09-0:39:22
+No.
+
+AF:
+So would you but you would still you considered him not just a colleague you considered him a friend. Or maybe I shouldn't put words in your mouth. How did you consider him?
+
+LH:
+Sometimes I feel that I don't have people that I call friends. Family and people I know. I don't have [intimate] kind of friendships that I see some pairs of people have.
+
+AF:
+Yeah it's not easy
+
+LH:
+And it's the same setting, I didn't feel... I felt easy going when I spoke to Alfred but I felt he and I had respect for one another. We characterized the relationship and felt we could talk easily about those things that occupied our conversation.
+
+AF:
+which were professional matters 
+Right but he never he never talked to you about his girlfriends
+
+LH:
+No
+
+AF:
+And you certainly wouldn't have talked to him about your girlfriends.
+
+LH:
+No [LAUGHS]
+
+AF: 0:39:22-0:39:40
+How much did you know about his girlfriends?
+
+LH:
+Nothing, nothing.
+
+AF:
+Did you know for example that he was having an affair with [Schmeela ??? 39:30]?
+
+LH:
+No, I didn't know.
+
+AF:
+Yeah.
+Do you know it now?
+
+LH:
+You've just told me.
+
+AF:
+That's the first you know.
+
+LH: 0:39:40-0:40:28
+Yes.
+However, it doesn't surprise me No because I saw them together [Right] and perhaps well I don't think a real question could have come into my mind.
+
+I was not-
+
+AF:
+Didn't think of those terms.
+
+LH:
+Right yeah but as I say from my observation of them together I now find it easy to believe what you are telling me.
+
+AF:
+Right.
+Well what about the whole Dorothy affair and the-
+
+LH:
+Well of course we all saw Dorothy that was an explicit matter. And, you know, so painful for Maria that was my primary concern but I never spoke to him about it.
+
+AF: 0:40:28-0:40:39
+Not a word.
+What was Dorothy's last name?
+But she was a secretary, was she the Logic secretary?
+
+LH: 0:40:39-0:40:53
+I believe so [RECORDING CUTS OUT AND BACK IN] ...status as a secretary, but I believe she was the logic logic secretary for awhile.
+
+AF: 0:40:54-0:40:56
+And you remember would you remember the years?
+She's still around, isn't she?
+
+LH: 0:40:56-0:41:03
+I believe she went away from Berkeley at that time when they broke up.
+
+AF: 0:41:04-0:41:13
+They broke up.
+See, I saw that they had actually, that Tarski and Maria had actually divorced.
+
+LH:
+Yes I believe so.
+
+AF:
+Ina says that not.
+You're learning that too?
+
+LH: 0:41:13-0:41:23
+Yeah I was led to believe that they had.
+
+AF:
+That's what I thought
+
+LH:
+But of course it was rumored.
+
+AF:
+Yeah right, nobody ever asked.
+
+LH:
+And before they never told me, certainly neither Maria nor Alfred.
+
+AF: 0:41:24-0:42:13
+Well according to Ina they never divorced, so she must know because [UNINTELLIGIBLE].
+
+Also according to Ina that when Maria said she wanted to move out, Alfred did not want her to. That...
+
+LH:
+That doesn't surprise me.
+
+AF:
+and then she moved out and she got the house on Regent Street. Certainly. And that then what was interesting is that from the people, both from Pawlok and from Szczerba, they described what it was like to be living in the house on Regent Street and having Alfred come "courting" Maria and, which is apparently what he did and that their relations became much better.
+
+Then I've heard that from three different sources now which is really interesting.
+
+LH: 0:42:13-0:43:11
+So I have never seen or thought of Alfred as courting Maria.
+Yeah, of course he must have done so long ago.
+He sometimes would refer in her presence of those beautiful pictures of her youth. He would sometimes refer to her, that was olden days.
+
+AF:
+Now but this was courting her in these days...
+
+LH:
+I understand, but what I want to emphasize is that in all my observations of their relation there is no shred of a percentage of courting.
+There's always Maria, where "can have some wine, where are the cookies?"
+[Yes] Carrying on in Polish but that much was clear.
+
+AF: 0:43:14-0:43:34
+Did you separate that from your view of him?
+In other words "here's this great man and then here's this man who has this way of behaving around the household"
+
+LH:
+Why do you say separating? They were the same person.
+
+
+AF: Yeah what I mean is, did that color your view of him in any way seeing the way he...?
+
+LH: 0:43:34-0:43:56
+Well sure my view of a person is based on all my experience with her or him. And of course in his relations with many individuals, professional individuals as well as family, he was a kind of a tough cookie compared with many of the people.
+
+AF: 0:43:56-0:44:00
+Would you have called him a tyrant?
+Would you use that word?
+
+LH: 0:44:00-0:44:10
+I have never called him a tyrant, thought of him as a tyrant, but if you ask me "was he a tyrant", maybe I would say yes.
+
+AF: 0:44:10-0:44:14
+If I write that in the thing, "Leon Henkin says tyrant."
+Is that one that you would take out?
+
+LH: 0:44:15-0:44:24
+Yeah I didn't say it
+
+AF:
+No, I know you didn't.
+
+LH:
+If you wrote that I said "maybe he was" I would probably take it out.
+
+AF: 0:44:24-0:44:25
+Yeah, okay.
+I'm just trying to do a little test here.
+
+LH: 0:44:25-0:44:38
+I'm not trying to look ahead and see what I would take out.
+
+AF:
+No, no, no, I just
+
+LH:
+You want me to be open enough-
+
+AF:
+I do I do
+
+LH:
+And we can talk about cutting out later.
+
+
+AF: 0:44:38-0:45:43
+Right.
+No, it's just it's... well it's interesting how people want to be protective of someone that they have a great deal of respect for.
+
+I mean Rasiowa, for example, wanted to say that Maria and Tarski loved each other very much.
+That's all she wanted to say.
+
+LH:
+I believe there was a time when that was trye.
+
+AF:
+I know but there's a lot of others.
+In other words, she would not... "He was a great man, he and Maria loved each other very much, etcetera etcetra."
+
+LH:
+And they livd happily ever after!
+
+AF:
+And that makes the dullest kind of reading one ever wants to read and it's not a true life.
+I mean, a life is a life.
+
+Yeah, so I think that that's it's such a danger to do... I'm not let's not even talk about hagiography, but I mean what's interesting in a biography are the passions that rule a life, the tensions within a life, the desires that the person has and pushing... And if those things aren't on the page, you know, all the time, all the time, all the time it's a sleeper.
+And so I mean, I'm not setting about writing a biography...
+
+LH: 0:45:43-0:45:57
+You may find this difficult to get the information and materials that you want to write about.
+
+AF: 0:45:57-0:46:58
+Well this is a turbulent man.
+I mean, this was not a simple man.
+There was a complexity in that life that should be out there.
+
+And I think Steve in his piece in the [intelligencer ???] did a good job of showing that.
+
+And I mean, he may not have shown that awe. And I think that maybe maybe there's a little bit of that awe that's there between those people, between Steve vis-à-vis Tarski, that I know that I don't have.
+
+And in that sense I feel I might be in a better position to write something that's more socially interesting, certainly not technically interesting. And so those are the kinds of things I'm going to to probe for, yeah. And-
+
+LH:
+As you see cannot be a very rich source.
+
+AF:
+No, but you're a source and yeah. No, and you're a good source because you knew him. You know you knew him well in your way for a good many years now-[RECORDING CUTS]
+
