@@ -1,0 +1,2114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4156.080000
+tiers? <exists>
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "default"
+        xmin = 0.000000
+        xmax = 4156.080000
+        intervals: size = 1
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 4156.080000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "SPEAKER_00"
+        xmin = 0.000000
+        xmax = 4156.080000
+        intervals: size = 362
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2357.200000
+            text = ""
+        intervals [2]:
+            xmin = 2357.200000
+            xmax = 2462.720000
+            text = "Maybe some other questions So if not shall make a very short reflect about three minutes I'll have you in a floor That's designated by standard designation Earlier I was kind enough to distribute some scratch paper on which you could take some notes on what you call I still have some in case some of you didn't get any actually I'll refer to some garbage on the back of it later on so if anybody wants to cut off and get some please feel free or somebody no more than N people please feel free The title of my paper is God the Devil and Girdle My lesson for today is taken from the Gospel according to Paul Rosenbloom who attributes to Andre Weil the saying God exists since mathematics is consistent and the devil exists since we cannot prove it Gerdel however is the missing link for he supposedly proved very roughly speaking that if mathematics is consistent we cannot prove it."
+        intervals [3]:
+            xmin = 2462.720000
+            xmax = 2462.800000
+            text = ""
+        intervals [4]:
+            xmin = 2462.800000
+            xmax = 2471.120000
+            text = "It might therefore be said that he's clinched the case for Satan's existence for surely if mathematics isn't consistent we can hardly prove that it is, though Satan wins either way."
+        intervals [5]:
+            xmin = 2471.120000
+            xmax = 2471.280000
+            text = ""
+        intervals [6]:
+            xmin = 2471.280000
+            xmax = 2480.080000
+            text = "God on the other hand may not fare so well for should mathematics not be consistent we would have to look to some other aspect of His infinite bounty or evidence of His existence."
+        intervals [7]:
+            xmin = 2480.080000
+            xmax = 2480.480000
+            text = ""
+        intervals [8]:
+            xmin = 2480.480000
+            xmax = 2491.520000
+            text = "These are heavy matters dark doings and I do not propose to entertain you this morning with my speculations on the present state of mathematical theology."
+        intervals [9]:
+            xmin = 2491.520000
+            xmax = 2492.720000
+            text = ""
+        intervals [10]:
+            xmin = 2492.720000
+            xmax = 2503.760000
+            text = "I only raise the matter one to give you an indication of how far reaching the philosophical consequences of dirt and complete asterisk might be and two to justify having used the title that I did."
+        intervals [11]:
+            xmin = 2503.760000
+            xmax = 2504.400000
+            text = ""
+        intervals [12]:
+            xmin = 2504.400000
+            xmax = 2509.040000
+            text = "Alas I'm not sure that the first is a very good reason nor that I succeeded in doing the second."
+        intervals [13]:
+            xmin = 2509.040000
+            xmax = 2509.280000
+            text = ""
+        intervals [14]:
+            xmin = 2509.280000
+            xmax = 2518.560000
+            text = "Yet the example is not entirely frivolous, for though it might fail to illustrate the actual implications of Goerdel's theorems, it does illustrate rather neatly the mechanism by which philosophical implications get alleged."
+        intervals [15]:
+            xmin = 2518.560000
+            xmax = 2518.640000
+            text = ""
+        intervals [16]:
+            xmin = 2518.640000
+            xmax = 2544.320000
+            text = "The formula is simple Take a view about what Godel proved i e that i e what the theorem states in this case that we cannot prove the consistency of mathematics add a more clearly philosophical view in this case that what it takes to conjure up the devil mix and you have ready made a philosophical implication in this case Satan's existence but to take a more realistic example based on the same quotation we can analyze an argument that might be given for the view that Gerd will prove that we cannot prove that mathematics is consistent."
+        intervals [17]:
+            xmin = 2544.320000
+            xmax = 2544.400000
+            text = ""
+        intervals [18]:
+            xmin = 2544.400000
+            xmax = 2547.600000
+            text = "The first ingredient in this case might be the second incompleteness theorem."
+        intervals [19]:
+            xmin = 2547.600000
+            xmax = 2547.680000
+            text = ""
+        intervals [20]:
+            xmin = 2547.680000
+            xmax = 2571.200000
+            text = "For present purposes I hate to repeat the drastically attackable version of this which has been drastically attacked a few minutes ago but for present purposes that's a good prefix that's always good for this purpose we can say that Gerdel proved that any consistent formal system s for ordinary arithmetic containing piano's familiar actions of their equivalent contains certain formulas which express the consistency of s and out of which are theorems of S."
+        intervals [21]:
+            xmin = 2571.200000
+            xmax = 2571.360000
+            text = ""
+        intervals [22]:
+            xmin = 2571.360000
+            xmax = 2592.160000
+            text = "Actually that's correct To extract the consequence that the consistency of mathematics could not be proved we must add the second ingredient philosophical view concerning what constitutes mathematics and what constitutes proof it would suffice to identify probability with derivability in some particular formal system and mathematics with the body of propositions expressible in that system under a suitable rendering of expressible."
+        intervals [23]:
+            xmin = 2592.160000
+            xmax = 2592.320000
+            text = ""
+        intervals [24]:
+            xmin = 2592.320000
+            xmax = 2594.400000
+            text = "These are, of course, not the only things that would suffice."
+        intervals [25]:
+            xmin = 2594.400000
+            xmax = 2594.480000
+            text = ""
+        intervals [26]:
+            xmin = 2594.480000
+            xmax = 2602.640000
+            text = "Perhaps some plausible assumptions can be found which when conjoined to the second incompleteness theorem yield the desired result I gather it's supposedly not to do so."
+        intervals [27]:
+            xmin = 2602.640000
+            xmax = 2602.720000
+            text = ""
+        intervals [28]:
+            xmin = 2602.720000
+            xmax = 2603.680000
+            text = "That's not the point."
+        intervals [29]:
+            xmin = 2603.680000
+            xmax = 2603.920000
+            text = ""
+        intervals [30]:
+            xmin = 2603.920000
+            xmax = 2623.600000
+            text = "The point is that you need some, and in this case clearly philosophical for it's hardly a mathematical fact if a fact at all that absolute probability can be identified with formal derivability in some particular formal system, although to give a mathematically precise definition of probability is to make it a mathematical question for probability for probability so defined."
+        intervals [31]:
+            xmin = 2623.600000
+            xmax = 2623.760000
+            text = ""
+        intervals [32]:
+            xmin = 2623.760000
+            xmax = 2706.320000
+            text = "Of course I assert this without being in a position to argue it by presenting a neat distinction between what constitutes mathematics and what constitutes philosophy I'm making a sort of Duhenian point about philosophical implications You need some to get some, at least any interesting ones but this is a point which once made should be forgotten or to take another example I do not mean to imply that the following could not be a philosophical view one All mathematical propositions are expressible as closed formulas of principia mathematica two Of any pair a not a closed formulas of principia exactly one is true under the intended interpretation three A closed formula of principia is true if and only if it is a theorem of principia and therefore four mathematical proposition is true if and only if some formula expressing it in principia is a theorem of principia I only wish to indicate that once I think that is clearly a philosophical view I only wish to indicate that once Rosser standing Girdel's first incompleteness theorem showed that number two and three that is of any pair A, not Ah exactly one is true and of any and then a closed formula is true if and only if it's a theorem is once Rosser extending Girdel's first incompleteness theorem showed that two and three are incompatible because they jointly imply that of any such pair exactly one is a theorem, it's still possible consistently to maintain any combination of the above which doesn't include both two and three."
+        intervals [33]:
+            xmin = 2706.320000
+            xmax = 2706.560000
+            text = ""
+        intervals [34]:
+            xmin = 2706.560000
+            xmax = 2726.480000
+            text = "One may, as some are inclined to do deny two that is of any pair of closed formulas exactly one is true, presumably weakening exactly one to with most one or one might deny three asking with Alan Roy Sanderson If the proof does not show that truth outruns probability in principia and what of importance does it show?"
+        intervals [35]:
+            xmin = 2726.480000
+            xmax = 2726.640000
+            text = ""
+        intervals [36]:
+            xmin = 2726.640000
+            xmax = 2744.160000
+            text = "The truth is, as these examples illustrate that in a typical case what is shown by Girdel's theorems to be false is the conjunction of two or more philosophical views say P and Q such that there always remain adherents of P and adherents of Q and alas sometimes also adherents of p and Q as well."
+        intervals [37]:
+            xmin = 2744.160000
+            xmax = 2744.800000
+            text = ""
+        intervals [38]:
+            xmin = 2744.800000
+            xmax = 2750.640000
+            text = "However in such a case what is usually alleged to have been disproved by Girdel is either that P or that Q."
+        intervals [39]:
+            xmin = 2750.640000
+            xmax = 2750.800000
+            text = ""
+        intervals [40]:
+            xmin = 2750.800000
+            xmax = 2757.360000
+            text = "It therefore requires not only the mathematical result but also considerable philosophical argument to establish the desired conclusion."
+        intervals [41]:
+            xmin = 2757.360000
+            xmax = 2757.440000
+            text = ""
+        intervals [42]:
+            xmin = 2757.440000
+            xmax = 2767.440000
+            text = "I wish in this paper to examine in detail one such alleged implication and to show that it conforms to the above pattern that what is alleged to have been disproved by Girdel's incompleteness theorems has not been disproved."
+        intervals [43]:
+            xmin = 2767.440000
+            xmax = 2767.520000
+            text = ""
+        intervals [44]:
+            xmin = 2767.520000
+            xmax = 2778.480000
+            text = "Rather it is a conjunction of the allegedly faulty principle to some other possibly more dubious principles that must be rejected Considerable further argument must be given to show that some particular member of this conjunction must be discarded."
+        intervals [45]:
+            xmin = 2778.480000
+            xmax = 2778.560000
+            text = ""
+        intervals [46]:
+            xmin = 2778.560000
+            xmax = 2807.040000
+            text = "In our first example we saw that one of the satanic consequences being drawn from Godel's theorem is that it demonstrated a limitation on man's powers in this case the power to prove things Not everyone however has thought that Godel's theorem established a limitation on human powers John Lucas for one makes Godel's theorem to prove the falsity of mechanism Goer's theorem seems to me to prove that mechanism is false that is that minds cannot be explained as machines It is this view and the arguments Lucas presents in its support that I wish to examine here."
+        intervals [47]:
+            xmin = 2807.040000
+            xmax = 2807.120000
+            text = ""
+        intervals [48]:
+            xmin = 2807.120000
+            xmax = 2810.240000
+            text = "First, however, a word about the relation of Girdel to machines."
+        intervals [49]:
+            xmin = 2810.240000
+            xmax = 2810.320000
+            text = ""
+        intervals [50]:
+            xmin = 2810.320000
+            xmax = 2814.720000
+            text = "Lucas identifies a Turing Machine as the instantiation of a formal system."
+        intervals [51]:
+            xmin = 2814.720000
+            xmax = 2814.880000
+            text = ""
+        intervals [52]:
+            xmin = 2814.880000
+            xmax = 2822.400000
+            text = "This is legitimate since for any system which is formal in the required sense there exists a theorem proving machine which proves all and only the theorems of that system."
+        intervals [53]:
+            xmin = 2822.400000
+            xmax = 2822.640000
+            text = ""
+        intervals [54]:
+            xmin = 2822.640000
+            xmax = 2829.680000
+            text = "Similarly, for any theoremproving turing machine there exists a formal system whose theorems are all and only the theorems the machine prints on its face."
+        intervals [55]:
+            xmin = 2829.680000
+            xmax = 2829.760000
+            text = ""
+        intervals [56]:
+            xmin = 2829.760000
+            xmax = 2838.160000
+            text = "Consequently many theorems such as Girdel's concerning what can and cannot be done with formal systems are exact analogues concerning what can and cannot be done with Turing machines."
+        intervals [57]:
+            xmin = 2838.160000
+            xmax = 2838.320000
+            text = ""
+        intervals [58]:
+            xmin = 2838.320000
+            xmax = 2840.480000
+            text = "This connects Girdel's theorem with Turing Machines."
+        intervals [59]:
+            xmin = 2840.480000
+            xmax = 2840.560000
+            text = ""
+        intervals [60]:
+            xmin = 2840.560000
+            xmax = 2845.200000
+            text = "But if we are to believe its name, mechanism is a thesis having to do with machines to cool."
+        intervals [61]:
+            xmin = 2845.200000
+            xmax = 2845.440000
+            text = ""
+        intervals [62]:
+            xmin = 2845.440000
+            xmax = 2848.160000
+            text = "What connection is there between Turing Machines and Honest Machines?"
+        intervals [63]:
+            xmin = 2848.160000
+            xmax = 2848.240000
+            text = ""
+        intervals [64]:
+            xmin = 2848.240000
+            xmax = 2852.160000
+            text = "Well turing machines are mathematically defined objects and need not have much to do with real ones."
+        intervals [65]:
+            xmin = 2852.160000
+            xmax = 2852.240000
+            text = ""
+        intervals [66]:
+            xmin = 2852.240000
+            xmax = 2860.080000
+            text = "So there is at least this much Theoretically one of our standard digital computers could, properly programmed and given enough tape, do the work of any Turing machine."
+        intervals [67]:
+            xmin = 2860.080000
+            xmax = 2860.160000
+            text = ""
+        intervals [68]:
+            xmin = 2860.160000
+            xmax = 2866.560000
+            text = "There is an open question whether certain things which do not satisfy Turing specifications might also count as machines for the purposes of mechanism."
+        intervals [69]:
+            xmin = 2866.560000
+            xmax = 2867.040000
+            text = ""
+        intervals [70]:
+            xmin = 2867.040000
+            xmax = 2879.040000
+            text = "This be a possibility and to prove that it is impossible to explain the mind as a touring machine whatever that might involve, would not suffice to establish Lucas' thesis, which as we saw is that it is impossible to explain the mind as a machine."
+        intervals [71]:
+            xmin = 2879.040000
+            xmax = 2879.280000
+            text = ""
+        intervals [72]:
+            xmin = 2879.280000
+            xmax = 2883.360000
+            text = "I mention this here to establish the link between Girdel's theorem and Lucas' thesis."
+        intervals [73]:
+            xmin = 2883.360000
+            xmax = 2883.440000
+            text = ""
+        intervals [74]:
+            xmin = 2883.440000
+            xmax = 2888.000000
+            text = "I will not return to this point in what follows, I will not distinguish between Turing Machine and Real Library."
+        intervals [75]:
+            xmin = 2888.000000
+            xmax = 2888.160000
+            text = ""
+        intervals [76]:
+            xmin = 2888.160000
+            xmax = 2902.880000
+            text = "Now here I have a section which mercifully for I think all of us I can skip since Simon View has done the hard work at case of getting some of the Gertel results stated in a form in which I can use them."
+        intervals [77]:
+            xmin = 2902.880000
+            xmax = 2902.960000
+            text = ""
+        intervals [78]:
+            xmin = 2902.960000
+            xmax = 2908.800000
+            text = "But let me just say one or two words about the form in which I need them."
+        intervals [79]:
+            xmin = 2908.800000
+            xmax = 2911.360000
+            text = ""
+        intervals [80]:
+            xmin = 2911.360000
+            xmax = 2960.640000
+            text = "I just want to mention two things really that Girdel produced a sentence called G which had the following property that it said that for all numbers x x is not X is not a proof of the of the sentence called G let me just fudge all the relevant things That is fudging everything that I'm arguing a lot of self fudge and possibly something else this sentence says of itself it is not provable Now Girdel also showed that if this sentence was provable so was its negation namely that it's not the case that for all X not G or should not g so that certainly if the system was consistent not g now x four should what?"
+        intervals [81]:
+            xmin = 2960.640000
+            xmax = 2962.800000
+            text = ""
+        intervals [82]:
+            xmin = 2962.800000
+            xmax = 2996.000000
+            text = "Not green what if G if G is provable so is this It's just not the same notation So at any rate so that if the system is consistent it is not the case that G is a theorem so that if g is a theorem the system is inconsistent one form this is one half of the first incompleteness theorem the first half it's called the system Z which I will refer to it as usual If Z is consistent then it's not the case that it's a theorem of z that G."
+        intervals [83]:
+            xmin = 2996.000000
+            xmax = 2996.800000
+            text = ""
+        intervals [84]:
+            xmin = 2996.800000
+            xmax = 2998.640000
+            text = "First half of the first girdle theorem."
+        intervals [85]:
+            xmin = 2998.640000
+            xmax = 2999.200000
+            text = ""
+        intervals [86]:
+            xmin = 2999.200000
+            xmax = 3004.960000
+            text = "The second half is on the assumption of omega consistency it's not the case that g is a theorem of z."
+        intervals [87]:
+            xmin = 3004.960000
+            xmax = 3005.120000
+            text = ""
+        intervals [88]:
+            xmin = 3005.120000
+            xmax = 3034.640000
+            text = "Now the second girdle theorem was in a form in which I needed it for this argument for this paper that we found a class of sentences which I'll ambiguously designate members of as con z in the system Z which express the consistency of Z in that you can give an argument that such a sentence and only if this is consistent such that con z horseshoe gas oh man was a theorem of z."
+        intervals [89]:
+            xmin = 3034.640000
+            xmax = 3034.800000
+            text = ""
+        intervals [90]:
+            xmin = 3034.800000
+            xmax = 3042.400000
+            text = "So that clearly if Canz itself were a theorem of z then g would be and by the first half of the first Girdle theorem system would be inconsistent."
+        intervals [91]:
+            xmin = 3042.400000
+            xmax = 3042.480000
+            text = ""
+        intervals [92]:
+            xmin = 3042.480000
+            xmax = 3057.120000
+            text = "So that would take the second Girdle theorem for the purposes I need it that there's a class of sentences any member of which I'll say is con zero that Kanzi horseshoe g is a theorem of the arithmetic in question for a wide class of system."
+        intervals [93]:
+            xmin = 3057.120000
+            xmax = 3061.600000
+            text = ""
+        intervals [94]:
+            xmin = 3061.600000
+            xmax = 3066.880000
+            text = "Now in some sense or other this is what Girdel proved How do we go from here to the falsity of mechanism?"
+        intervals [95]:
+            xmin = 3066.880000
+            xmax = 3067.200000
+            text = ""
+        intervals [96]:
+            xmin = 3067.200000
+            xmax = 3071.120000
+            text = "Let us first replace all talk of formal systems with the equivalent talk about machines."
+        intervals [97]:
+            xmin = 3071.120000
+            xmax = 3071.200000
+            text = ""
+        intervals [98]:
+            xmin = 3071.200000
+            xmax = 3074.720000
+            text = "Instead of speaking of formal systems, let's speak of their corresponding turing machine."
+        intervals [99]:
+            xmin = 3074.720000
+            xmax = 3074.800000
+            text = ""
+        intervals [100]:
+            xmin = 3074.800000
+            xmax = 3085.200000
+            text = "Lucas wants to show that Girdel's theorems imply that no such machine could match the deductive output of a mind that the mind can outstrip any machine in deductive prowess."
+        intervals [101]:
+            xmin = 3085.200000
+            xmax = 3085.280000
+            text = ""
+        intervals [102]:
+            xmin = 3085.280000
+            xmax = 3092.160000
+            text = "We must take care here for there are some trivial ways in which a thesis could be false and Lucas is well aware of many of these and does not intend it in these ways."
+        intervals [103]:
+            xmin = 3092.160000
+            xmax = 3092.320000
+            text = ""
+        intervals [104]:
+            xmin = 3092.320000
+            xmax = 3099.760000
+            text = "For example it's clear that present digital computers can add, multiply etc much faster and more efficiently than any human but this does not count."
+        intervals [105]:
+            xmin = 3099.760000
+            xmax = 3100.640000
+            text = ""
+        intervals [106]:
+            xmin = 3100.640000
+            xmax = 3117.040000
+            text = "By the deductive output of a device, Lucas means simply the set of theorems that device is capable of proving in the weak sense of capable in which a whole life spent doing nothing but proving theorems producing a meager total of just seventeen does not prove that there were not infinitely many theorems that I was capable of proving."
+        intervals [107]:
+            xmin = 3117.040000
+            xmax = 3117.280000
+            text = ""
+        intervals [108]:
+            xmin = 3117.280000
+            xmax = 3124.640000
+            text = "So to establish that I can outstrip machines in this sense it would suffice to show that the set of theorems I am capable of proving includes that of any machine."
+        intervals [109]:
+            xmin = 3124.640000
+            xmax = 3124.720000
+            text = ""
+        intervals [110]:
+            xmin = 3124.720000
+            xmax = 3131.520000
+            text = "Lucas's paper contains several statements of this view and arguments for it, all essentially similar, though I must confess that some are more puzzling than others."
+        intervals [111]:
+            xmin = 3131.520000
+            xmax = 3131.600000
+            text = ""
+        intervals [112]:
+            xmin = 3131.600000
+            xmax = 3140.960000
+            text = "The rest of his paper is taken up with matters which are essentially irrelevant to the main point discussions of inductive machines, comments on their selfreflective nature of consciousness, the establishment of moral responsibility etc."
+        intervals [113]:
+            xmin = 3140.960000
+            xmax = 3141.440000
+            text = ""
+        intervals [114]:
+            xmin = 3141.440000
+            xmax = 3146.960000
+            text = "In the present section I will outline briefly excuse me I will outline and briefly discuss the highlights of his views and arguments."
+        intervals [115]:
+            xmin = 3146.960000
+            xmax = 3147.040000
+            text = ""
+        intervals [116]:
+            xmin = 3147.040000
+            xmax = 3151.760000
+            text = "It should come as no surprise that I will claim to find them inadequate, though as I have said interesting and puzzling."
+        intervals [117]:
+            xmin = 3151.760000
+            xmax = 3151.920000
+            text = ""
+        intervals [118]:
+            xmin = 3151.920000
+            xmax = 3173.920000
+            text = "In the following section I will reconstruct what I take to be the best case that one can make for a view such as Lucas's and extract from that what would seem to be the import of the Girdel theorems for the philosophical thesis of mechanism After a rather unfortunate start in which he badly mistakes Girdel's argument Lucas presents his case Goerdel's theorem must apply to cybernetical machines because it is of the essence of being a machine that it should be a concrete instantiation of a formal system."
+        intervals [119]:
+            xmin = 3173.920000
+            xmax = 3174.160000
+            text = ""
+        intervals [120]:
+            xmin = 3174.160000
+            xmax = 3188.960000
+            text = "It follows that given any machine which is consistent and capable of doing simple arithmetic there is a formula which it is capable of producing at being true to which it is incapable of producing as being true that is the formula is unprovable in the system but which we can see to be true."
+        intervals [121]:
+            xmin = 3188.960000
+            xmax = 3189.200000
+            text = ""
+        intervals [122]:
+            xmin = 3189.200000
+            xmax = 3211.200000
+            text = "It follows that no machine can be an adequate model of the mind that minds are essentially different from machines and again quote that now any mechanical model of the mind must include a mechanism which can enunciate truth of arithmetic because this is something which minds can do, but in this one respect it cannot do so well in that for every machine there is a truth which it cannot produce as being true, but which a mind can."
+        intervals [123]:
+            xmin = 3211.200000
+            xmax = 3211.440000
+            text = ""
+        intervals [124]:
+            xmin = 3211.440000
+            xmax = 3227.360000
+            text = "The Gerdelian formula G is the Achilles heel of the cybernetical machine and therefore we cannot hope to produce a machine that will be able to do all that a mind can do we can never not even in principle have a mechanical model of the mind As further support Lucas refutes some objections that might be raised against him."
+        intervals [125]:
+            xmin = 3227.360000
+            xmax = 3227.440000
+            text = ""
+        intervals [126]:
+            xmin = 3227.440000
+            xmax = 3240.480000
+            text = "He correctly argues that the fact that for every consistent machine there is another equally consistent machine that can outstrip the first one in deductive capacity is no refutation of his point, which is that the mind can outstrip every machine and hence couldn't be one itself."
+        intervals [127]:
+            xmin = 3240.480000
+            xmax = 3240.640000
+            text = ""
+        intervals [128]:
+            xmin = 3240.640000
+            xmax = 3244.800000
+            text = "The general drift of the argument should be clear, although its detailed form might not be."
+        intervals [129]:
+            xmin = 3244.800000
+            xmax = 3244.880000
+            text = ""
+        intervals [130]:
+            xmin = 3244.880000
+            xmax = 3253.280000
+            text = "Girdel one, as I referred to the first Girdel theorem establishes that any omegaconsistent formal system or machine adequate for arithmetic contains undecidable propositions."
+        intervals [131]:
+            xmin = 3253.280000
+            xmax = 3253.360000
+            text = ""
+        intervals [132]:
+            xmin = 3253.360000
+            xmax = 3258.160000
+            text = "In particular if a machine is consistent then its Girdel formula G cannot be among experiments."
+        intervals [133]:
+            xmin = 3258.160000
+            xmax = 3258.320000
+            text = ""
+        intervals [134]:
+            xmin = 3258.320000
+            xmax = 3265.920000
+            text = "As Lucas claims the mind can see it to be true or produce it as true therefore G is in the output of the mind but not of that machine."
+        intervals [135]:
+            xmin = 3265.920000
+            xmax = 3266.160000
+            text = ""
+        intervals [136]:
+            xmin = 3266.160000
+            xmax = 3268.000000
+            text = "Two things must be noticed about this argument."
+        intervals [137]:
+            xmin = 3268.000000
+            xmax = 3268.080000
+            text = ""
+        intervals [138]:
+            xmin = 3268.080000
+            xmax = 3298.560000
+            text = "The first is that it's not obviously valid in the sense that it is not at all clear that the prowess claimed for the mind is one which Girdel one precludes for machines for the argument seems to commit an equivocation The conclusions it is possible for the machine to produce as being true will therefore correspond to the theorems that can be proved in the corresponding formal system This formula cannot be proved in the tomorrow We now construct a Gerdelian formula in this formal system This formula cannot be proved in the system therefore the machine cannot produce the corresponding formula as being true."
+        intervals [139]:
+            xmin = 3298.560000
+            xmax = 3298.800000
+            text = ""
+        intervals [140]:
+            xmin = 3298.800000
+            xmax = 3319.200000
+            text = "Any rational being could follow Gerdel's argument and convince himself that the Gerdelian formula although unprovable in the given system was nonetheless in fact for that very reason true Ignoring for the time being the respect in which this hangs on the unproved assumption of the consistency of the system What is it that Girdel one precludes the machine call her mod from doing?"
+        intervals [141]:
+            xmin = 3319.200000
+            xmax = 3319.520000
+            text = ""
+        intervals [142]:
+            xmin = 3319.520000
+            xmax = 3326.960000
+            text = "Evidently it is to prove G her own Girdel formula from her axioms according to her rules but can Lucas do that?"
+        intervals [143]:
+            xmin = 3326.960000
+            xmax = 3327.200000
+            text = ""
+        intervals [144]:
+            xmin = 3327.200000
+            xmax = 3328.400000
+            text = "Just as evidently not."
+        intervals [145]:
+            xmin = 3328.400000
+            xmax = 3328.640000
+            text = ""
+        intervals [146]:
+            xmin = 3328.640000
+            xmax = 3331.840000
+            text = "But what then can Lucas do which Maude cannot?"
+        intervals [147]:
+            xmin = 3331.840000
+            xmax = 3332.080000
+            text = ""
+        intervals [148]:
+            xmin = 3332.080000
+            xmax = 3340.800000
+            text = "One thing he might be able to do is to give an informal proof of Jig informal in the sense that it cannot be formalized in Maude's system, but is it clear that Maude cannot do this too?"
+        intervals [149]:
+            xmin = 3340.800000
+            xmax = 3341.040000
+            text = ""
+        intervals [150]:
+            xmin = 3341.040000
+            xmax = 3350.720000
+            text = "Maude is limited in the things for which she can offer formal submaude proofs but does this limit the informal that is not formalizable and maud proofs she can conjure up?"
+        intervals [151]:
+            xmin = 3350.720000
+            xmax = 3350.880000
+            text = ""
+        intervals [152]:
+            xmin = 3350.880000
+            xmax = 3360.880000
+            text = "It is not clear that it does Maude can carry out the girdle argument on herself That is the argument that says that if G is a theorem of Maud then Maud is inconsistent."
+        intervals [153]:
+            xmin = 3360.880000
+            xmax = 3361.040000
+            text = ""
+        intervals [154]:
+            xmin = 3361.040000
+            xmax = 3367.440000
+            text = "Maud can carry out the girdle argument on herself by the second girdle theorem she can prove if con then G."
+        intervals [155]:
+            xmin = 3367.440000
+            xmax = 3367.760000
+            text = ""
+        intervals [156]:
+            xmin = 3367.760000
+            xmax = 3392.560000
+            text = "Couldn't she thus convince herself that G, although unprovable in Maud was nonetheless in fact for that very reason prove I don't see what in Girdel's argument precludes this To be sure one might reply that no machine not even one named Maude can be said to convince herself that formulas are true but of course if that's why she can't we hardly need a Girdel's theorem to establish it and they don't help."
+        intervals [157]:
+            xmin = 3392.560000
+            xmax = 3392.800000
+            text = ""
+        intervals [158]:
+            xmin = 3392.800000
+            xmax = 3405.600000
+            text = "As far as Girdel's theorems are concerned, provided that Maude doesn't delude herself into thinking that just because she's convinced herself that G is true she's proved it, she can go on convincing herself of that and of many other things besides."
+        intervals [159]:
+            xmin = 3405.600000
+            xmax = 3405.680000
+            text = ""
+        intervals [160]:
+            xmin = 3405.680000
+            xmax = 3410.080000
+            text = "Of course if convincing herself in this way would count as proof it would indeed be inconsistent."
+        intervals [161]:
+            xmin = 3410.080000
+            xmax = 3410.320000
+            text = ""
+        intervals [162]:
+            xmin = 3410.320000
+            xmax = 3413.280000
+            text = "Let us try to construe the argument in such a way that it does not equivocate."
+        intervals [163]:
+            xmin = 3413.280000
+            xmax = 3413.360000
+            text = ""
+        intervals [164]:
+            xmin = 3413.360000
+            xmax = 3416.560000
+            text = "There is such a construal, but Lucas never makes it clear that he would opt for it."
+        intervals [165]:
+            xmin = 3416.560000
+            xmax = 3416.640000
+            text = ""
+        intervals [166]:
+            xmin = 3416.640000
+            xmax = 3420.720000
+            text = "He seems content to allow the sense in which he can prove things that mod cannot remain an informal."
+        intervals [167]:
+            xmin = 3420.720000
+            xmax = 3421.040000
+            text = ""
+        intervals [168]:
+            xmin = 3421.040000
+            xmax = 3422.480000
+            text = "This can be made more precise."
+        intervals [169]:
+            xmin = 3422.480000
+            xmax = 3422.560000
+            text = ""
+        intervals [170]:
+            xmin = 3422.560000
+            xmax = 3430.560000
+            text = "Let us interpret Lucas as claiming that he can prove g sub mod in some formal system which is consistent and includes axioms for elementary arithmetic."
+        intervals [171]:
+            xmin = 3430.560000
+            xmax = 3430.640000
+            text = ""
+        intervals [172]:
+            xmin = 3430.640000
+            xmax = 3437.840000
+            text = "But to prove a formula is to derive it as a formal theorem of some consistent system which includes the postulates of arithmetic."
+        intervals [173]:
+            xmin = 3437.840000
+            xmax = 3437.920000
+            text = ""
+        intervals [174]:
+            xmin = 3437.920000
+            xmax = 3457.120000
+            text = "But now derive blank and that what I just said can not mean show that blank is a theorem of the system x because the relation t is a theorem of the formal system s is one which has its analog in Maude herself under a suitable numbering of formal systems and of their vocabularies."
+        intervals [175]:
+            xmin = 3457.120000
+            xmax = 3457.280000
+            text = ""
+        intervals [176]:
+            xmin = 3457.280000
+            xmax = 3461.280000
+            text = "We could limit our attention here to formal systems whose vocabulary is the same as Maude's."
+        intervals [177]:
+            xmin = 3461.280000
+            xmax = 3461.360000
+            text = ""
+        intervals [178]:
+            xmin = 3461.360000
+            xmax = 3466.720000
+            text = "A set of all such formal systems or machines can be enumerated by Maude by assigning a number to each."
+        intervals [179]:
+            xmin = 3466.720000
+            xmax = 3467.120000
+            text = ""
+        intervals [180]:
+            xmin = 3467.120000
+            xmax = 3484.880000
+            text = "Identifying the iF formal system in the enumeration w sub i it follows from Godel's work that the relation sequence f one through fn is a proof of f n in w sub i has its counterpart in modern whenever a statement of that form is true its translation into mod is provable by mod."
+        intervals [181]:
+            xmin = 3484.880000
+            xmax = 3485.280000
+            text = ""
+        intervals [182]:
+            xmin = 3485.280000
+            xmax = 3498.080000
+            text = "So if we call mod sub one the result of adding g as an axiom to mod, then g as a theorem of mod sub one is provable by mod for thus interpreted what Lucas can prove does not differentiate him from Maude."
+        intervals [183]:
+            xmin = 3498.080000
+            xmax = 3498.160000
+            text = ""
+        intervals [184]:
+            xmin = 3498.160000
+            xmax = 3507.600000
+            text = "If however we add the requirement that the actions of each such system be themselves theorems for Lucas, then certainly Maud cannot in that sense prove G."
+        intervals [185]:
+            xmin = 3507.600000
+            xmax = 3507.920000
+            text = ""
+        intervals [186]:
+            xmin = 3507.920000
+            xmax = 3509.520000
+            text = "But what is that sense?"
+        intervals [187]:
+            xmin = 3509.520000
+            xmax = 3509.600000
+            text = ""
+        intervals [188]:
+            xmin = 3509.600000
+            xmax = 3511.360000
+            text = "It cannot be formal derivability."
+        intervals [189]:
+            xmin = 3511.360000
+            xmax = 3511.440000
+            text = ""
+        intervals [190]:
+            xmin = 3511.440000
+            xmax = 3518.960000
+            text = "It must be some sense of absolute probability in which everything Maud can prove is provable but in which some things Maud cannot are also provable."
+        intervals [191]:
+            xmin = 3518.960000
+            xmax = 3519.120000
+            text = ""
+        intervals [192]:
+            xmin = 3519.120000
+            xmax = 3521.840000
+            text = "Whether or not there is such a sense Lucas never makes clear."
+        intervals [193]:
+            xmin = 3521.840000
+            xmax = 3521.920000
+            text = ""
+        intervals [194]:
+            xmin = 3521.920000
+            xmax = 3527.680000
+            text = "Nor does he indicate what he thinks his properties are, though it seems obvious from his arguments that whatever is thus provable must also be true."
+        intervals [195]:
+            xmin = 3527.680000
+            xmax = 3527.760000
+            text = ""
+        intervals [196]:
+            xmin = 3527.760000
+            xmax = 3532.640000
+            text = "In each case the system must be not only consistent but correct or so it seems from what little he says."
+        intervals [197]:
+            xmin = 3532.640000
+            xmax = 3532.720000
+            text = ""
+        intervals [198]:
+            xmin = 3532.720000
+            xmax = 3545.040000
+            text = "Clearly in this sense there are things that Maud cannot prove, and similarly for any other consistent machine but now Lucas is claiming that given any such machine he can prove in the same sense of prove formulas which that machine cannot prove."
+        intervals [199]:
+            xmin = 3545.040000
+            xmax = 3545.120000
+            text = ""
+        intervals [200]:
+            xmin = 3545.120000
+            xmax = 3556.480000
+            text = "Thus interpreted of course, the argument does not equivocate on proof and now every proof that he produces will be a formal one in a suitable system just like Maude's, but there will be no formal system in which every proof that he produces will be a proof."
+        intervals [201]:
+            xmin = 3556.480000
+            xmax = 3556.800000
+            text = ""
+        intervals [202]:
+            xmin = 3556.800000
+            xmax = 3560.000000
+            text = "The union of all formal systems he produces is not a formal system."
+        intervals [203]:
+            xmin = 3560.000000
+            xmax = 3560.160000
+            text = ""
+        intervals [204]:
+            xmin = 3560.160000
+            xmax = 3567.360000
+            text = "So certainly if he can do this, he is not a machine and if he is not a machine, then Goerdel's theorems do not preclude his being able to do it."
+        intervals [205]:
+            xmin = 3567.360000
+            xmax = 3567.440000
+            text = ""
+        intervals [206]:
+            xmin = 3567.440000
+            xmax = 3570.640000
+            text = "But of course very little reason has been given for thinking that Lucas can."
+        intervals [207]:
+            xmin = 3570.640000
+            xmax = 3570.960000
+            text = ""
+        intervals [208]:
+            xmin = 3570.960000
+            xmax = 3575.040000
+            text = "His born a deductive prowess may be but a vain boast, for all that has been shown."
+        intervals [209]:
+            xmin = 3575.040000
+            xmax = 3575.360000
+            text = ""
+        intervals [210]:
+            xmin = 3575.360000
+            xmax = 3583.680000
+            text = "Secondly, as Lucas notes in his paper, in order to conclude that the Girdel sentence under consideration is true, one must conclude or presuppose that the machine in question is consistent."
+        intervals [211]:
+            xmin = 3583.680000
+            xmax = 3583.760000
+            text = ""
+        intervals [212]:
+            xmin = 3583.760000
+            xmax = 3587.920000
+            text = "For all that follows from Gerdel's theorem is that if the machine is consistent, then grab."
+        intervals [213]:
+            xmin = 3587.920000
+            xmax = 3588.000000
+            text = ""
+        intervals [214]:
+            xmin = 3588.000000
+            xmax = 3591.520000
+            text = "In order to conclude that g, one must be able to conclude that the machine is consistent."
+        intervals [215]:
+            xmin = 3591.520000
+            xmax = 3591.600000
+            text = ""
+        intervals [216]:
+            xmin = 3591.600000
+            xmax = 3596.240000
+            text = "That, of course, does not appear in the cited arguments, which are apparently supposed to be valid in their own rights."
+        intervals [217]:
+            xmin = 3596.240000
+            xmax = 3596.960000
+            text = ""
+        intervals [218]:
+            xmin = 3596.960000
+            xmax = 3599.680000
+            text = "But Lucas is aware of this objection and discusses a general problem."
+        intervals [219]:
+            xmin = 3599.680000
+            xmax = 3599.760000
+            text = ""
+        intervals [220]:
+            xmin = 3599.760000
+            xmax = 3609.040000
+            text = "He concludes that we can know that arithmetic and certain formal systems embodying it are consistent, for as we have already seen, the mind can, in the relevant sense, enunciate truth of arithmetic."
+        intervals [221]:
+            xmin = 3609.040000
+            xmax = 3609.520000
+            text = ""
+        intervals [222]:
+            xmin = 3609.520000
+            xmax = 3621.600000
+            text = "Add to this, it seems both proper and reasonable for the mind to assert its own consistency, not only can we fairly say simply that we know that we're consistent apart from our mistakes, we must in any case assume that we are if thought is to be possible at all."
+        intervals [223]:
+            xmin = 3621.600000
+            xmax = 3622.240000
+            text = ""
+        intervals [224]:
+            xmin = 3622.240000
+            xmax = 3624.640000
+            text = "And of course we know this on the basis of informal arguments."
+        intervals [225]:
+            xmin = 3624.640000
+            xmax = 3624.800000
+            text = ""
+        intervals [226]:
+            xmin = 3624.800000
+            xmax = 3626.000000
+            text = "There's nothing wrong with that."
+        intervals [227]:
+            xmin = 3626.000000
+            xmax = 3626.160000
+            text = ""
+        intervals [228]:
+            xmin = 3626.160000
+            xmax = 3635.040000
+            text = "There is no quote objection to producing informal arguments either for the consistency of a formal system or of something that's formal and less systematized."
+        intervals [229]:
+            xmin = 3635.040000
+            xmax = 3635.120000
+            text = ""
+        intervals [230]:
+            xmin = 3635.120000
+            xmax = 3643.680000
+            text = "Such informal arguments will not be able to be completely formalized, but then the whole tenor of Godel's results is that we ought not to ask and cannot obtain complete formalization."
+        intervals [231]:
+            xmin = 3643.680000
+            xmax = 3644.320000
+            text = ""
+        intervals [232]:
+            xmin = 3644.320000
+            xmax = 3649.280000
+            text = "Lucas presents one more argument which we should examine, one which is considerably more seductive than the last."
+        intervals [233]:
+            xmin = 3649.280000
+            xmax = 3649.440000
+            text = ""
+        intervals [234]:
+            xmin = 3649.440000
+            xmax = 3662.240000
+            text = "Lucas imagines a sort of fencing match between himself and a satanic mechanist As this is portrayed, the mechanist is challenged to produce a machine excuse me to produce a mechanical model of the mind that is a blueprint for a tour machine he produces one, say Sam."
+        intervals [235]:
+            xmin = 3662.240000
+            xmax = 3662.640000
+            text = ""
+        intervals [236]:
+            xmin = 3662.640000
+            xmax = 3666.480000
+            text = "Lucas then finds something that Sam cannot do, but which the mind can."
+        intervals [237]:
+            xmin = 3666.480000
+            xmax = 3666.800000
+            text = ""
+        intervals [238]:
+            xmin = 3666.800000
+            xmax = 3671.120000
+            text = "The mechanist may modify his example and Lucas then has a shot at the revised model."
+        intervals [239]:
+            xmin = 3671.120000
+            xmax = 3671.200000
+            text = ""
+        intervals [240]:
+            xmin = 3671.200000
+            xmax = 3685.760000
+            text = "If the mechanist can produce a machine for which Lucas cannot find and prove a girdle sentence, then mechanism in the form of the Prince of Darkness triumphs, but if he cannot, then the mechanist thesis is not proven, and since, as it turns out, he necessarily cannot, it is refuted."
+        intervals [241]:
+            xmin = 3685.760000
+            xmax = 3685.840000
+            text = ""
+        intervals [242]:
+            xmin = 3685.840000
+            xmax = 3698.480000
+            text = "To succeed, he must be able to produce some definite mechanical model of the mind, but since he cannot, in principle cannot, produce any mechanical model that is adequate, even though the point of failure is only a minor one, he is bound to fail, and mechanism must be false."
+        intervals [243]:
+            xmin = 3698.480000
+            xmax = 3699.200000
+            text = ""
+        intervals [244]:
+            xmin = 3699.200000
+            xmax = 3714.000000
+            text = "His proof of the falsity of mechanism rests on the claim that Lucas could find a flaw in any mechanical model of the mind that the mechanist might conjure up, the flaw being that Lucas could find and prove some statement which was not a theorem of the machine for which this was a model."
+        intervals [245]:
+            xmin = 3714.000000
+            xmax = 3714.080000
+            text = ""
+        intervals [246]:
+            xmin = 3714.080000
+            xmax = 3716.160000
+            text = "Let us give Lucas his due and more."
+        intervals [247]:
+            xmin = 3716.160000
+            xmax = 3716.320000
+            text = ""
+        intervals [248]:
+            xmin = 3716.320000
+            xmax = 3721.920000
+            text = "Let us grant that he can, in this sense, find a flaw in any machine that the mechanist constructs."
+        intervals [249]:
+            xmin = 3721.920000
+            xmax = 3722.000000
+            text = ""
+        intervals [250]:
+            xmin = 3722.000000
+            xmax = 3725.680000
+            text = "This does not prove his point, but it is conceivable that a machine could do that as well."
+        intervals [251]:
+            xmin = 3725.680000
+            xmax = 3726.000000
+            text = ""
+        intervals [252]:
+            xmin = 3726.000000
+            xmax = 3735.760000
+            text = "By shifting to this fencing match, Lucas abandons the claim that he can find a flaw in any machine or the claim that he can find one in any machine the mechanist can construct."
+        intervals [253]:
+            xmin = 3735.760000
+            xmax = 3736.000000
+            text = ""
+        intervals [254]:
+            xmin = 3736.000000
+            xmax = 3743.200000
+            text = "The mechanist, despite a satanic purpose, is but a man, and therefore probably a machine of relatively low order of complexity, in what's possible."
+        intervals [255]:
+            xmin = 3743.200000
+            xmax = 3743.360000
+            text = ""
+        intervals [256]:
+            xmin = 3743.360000
+            xmax = 3752.000000
+            text = "There might well be a low limit on what kinds of machines his mind can develop and encompass, though getting to a point where he can't produce anything Lucas can't fault proves nothing at all."
+        intervals [257]:
+            xmin = 3752.000000
+            xmax = 3752.080000
+            text = ""
+        intervals [258]:
+            xmin = 3752.080000
+            xmax = 3763.200000
+            text = "But this argument is more convincing, precisely because Lucas is being pitted against a mere man, and we have fresh in our memories the example of Lucas stilting at all logically possible machines and laying them low one by one."
+        intervals [259]:
+            xmin = 3763.200000
+            xmax = 3763.360000
+            text = ""
+        intervals [260]:
+            xmin = 3763.360000
+            xmax = 3779.520000
+            text = "Finally, as to the claim that the mechanist necessarily cannot bring forth a faultless machine, it must be pointed out that even if it is a necessary truth that the mechanist cannot produce a consistent athletic machine, it is hardly necessary that Lucas should be able to make up the deficiency, that is what is at issue, but I think we have sufficiently labored the point."
+        intervals [261]:
+            xmin = 3779.520000
+            xmax = 3779.600000
+            text = ""
+        intervals [262]:
+            xmin = 3779.600000
+            xmax = 3782.880000
+            text = "Lucas certainly does not present sufficiently cogent arguments for his case."
+        intervals [263]:
+            xmin = 3782.880000
+            xmax = 3782.960000
+            text = ""
+        intervals [264]:
+            xmin = 3782.960000
+            xmax = 3792.240000
+            text = "Yet I don't think we should abandon it all without making a serious effort to see what, if anything, does follow from Godel's theorems concerning the possible existence of a mechanistic model for the mind."
+        intervals [265]:
+            xmin = 3792.240000
+            xmax = 3792.480000
+            text = ""
+        intervals [266]:
+            xmin = 3792.480000
+            xmax = 3795.920000
+            text = "I will do this by trying to make rigorous the vague arguments Lucas presents."
+        intervals [267]:
+            xmin = 3795.920000
+            xmax = 3796.240000
+            text = ""
+        intervals [268]:
+            xmin = 3796.240000
+            xmax = 3798.080000
+            text = "Possibly something of interest will emerge."
+        intervals [269]:
+            xmin = 3798.080000
+            xmax = 3798.400000
+            text = ""
+        intervals [270]:
+            xmin = 3798.400000
+            xmax = 3809.520000
+            text = "I wish now to present an argument which contains the assumption that the mind is at best Turing machine, employs both girdle theorems and ends in a contradiction."
+        intervals [271]:
+            xmin = 3809.520000
+            xmax = 3809.680000
+            text = ""
+        intervals [272]:
+            xmin = 3809.680000
+            xmax = 3817.040000
+            text = "I think that this argument fairly represents what underlies the vague ones that Lucas presents and has the additional virtue that it is spelled out in detail."
+        intervals [273]:
+            xmin = 3817.040000
+            xmax = 3817.120000
+            text = ""
+        intervals [274]:
+            xmin = 3817.120000
+            xmax = 3824.000000
+            text = "On the basis of it, I come to a rather different conclusion from Lucas concerning what implication Girdles incompleteness theorems have for mechanistic philosophy."
+        intervals [275]:
+            xmin = 3824.000000
+            xmax = 3824.160000
+            text = ""
+        intervals [276]:
+            xmin = 3824.160000
+            xmax = 3830.400000
+            text = "I'll present the argument discussing each step, and you have, on the back of your scratch paper, an outline of that argument."
+        intervals [277]:
+            xmin = 3830.400000
+            xmax = 3831.840000
+            text = ""
+        intervals [278]:
+            xmin = 3831.840000
+            xmax = 3834.720000
+            text = "One, let s be the set of things I can prove."
+        intervals [279]:
+            xmin = 3834.720000
+            xmax = 3835.040000
+            text = ""
+        intervals [280]:
+            xmin = 3835.040000
+            xmax = 3839.680000
+            text = "S represents my deductive output, may be viewed as consisting of sentences under an interpretation."
+        intervals [281]:
+            xmin = 3839.680000
+            xmax = 3839.840000
+            text = ""
+        intervals [282]:
+            xmin = 3839.840000
+            xmax = 3844.160000
+            text = "The sense of prove involved is not one which limits S to the output of a machine."
+        intervals [283]:
+            xmin = 3844.160000
+            xmax = 3844.640000
+            text = ""
+        intervals [284]:
+            xmin = 3844.640000
+            xmax = 3849.600000
+            text = "It does involve the assumption of correctness which we saw Lucas making, and without which his arguments don't go through."
+        intervals [285]:
+            xmin = 3849.600000
+            xmax = 3850.000000
+            text = ""
+        intervals [286]:
+            xmin = 3850.000000
+            xmax = 3852.800000
+            text = "It must be a sense of proof which Lucas can use."
+        intervals [287]:
+            xmin = 3852.800000
+            xmax = 3853.040000
+            text = ""
+        intervals [288]:
+            xmin = 3853.040000
+            xmax = 3858.160000
+            text = "So let S star be the closure of S under the rules of first order logic with identity."
+        intervals [289]:
+            xmin = 3858.160000
+            xmax = 3858.240000
+            text = ""
+        intervals [290]:
+            xmin = 3858.240000
+            xmax = 3862.160000
+            text = "I either derivable from S by first order logic with identity is an STAR."
+        intervals [291]:
+            xmin = 3862.160000
+            xmax = 3862.240000
+            text = ""
+        intervals [292]:
+            xmin = 3862.240000
+            xmax = 3866.880000
+            text = "I do not assume that S is thus closed, so that would be gratuitous and in any way seems false."
+        intervals [293]:
+            xmin = 3866.880000
+            xmax = 3867.040000
+            text = ""
+        intervals [294]:
+            xmin = 3867.040000
+            xmax = 3871.120000
+            text = "Some deductive chains might be too long or too complicated for me to follow."
+        intervals [295]:
+            xmin = 3871.120000
+            xmax = 3871.440000
+            text = ""
+        intervals [296]:
+            xmin = 3871.440000
+            xmax = 3871.600000
+            text = "three."
+        intervals [297]:
+            xmin = 3871.600000
+            xmax = 3872.160000
+            text = ""
+        intervals [298]:
+            xmin = 3872.160000
+            xmax = 3879.760000
+            text = "S star is consistent since every member of S is true, I can't prove what is false, and first order logic reserves true, every member of STAR is true."
+        intervals [299]:
+            xmin = 3879.760000
+            xmax = 3879.840000
+            text = ""
+        intervals [300]:
+            xmin = 3879.840000
+            xmax = 3881.680000
+            text = "STAR is therefore highly consistent four."
+        intervals [301]:
+            xmin = 3881.680000
+            xmax = 3882.000000
+            text = ""
+        intervals [302]:
+            xmin = 3882.000000
+            xmax = 3889.040000
+            text = "Con S star is an s that is, that s star is consistent excuse me, the sentence S star is consistent is in s."
+        intervals [303]:
+            xmin = 3889.040000
+            xmax = 3889.200000
+            text = ""
+        intervals [304]:
+            xmin = 3889.200000
+            xmax = 3899.280000
+            text = "Since one through three approved above constitutes approved a proof of pronar, and since I produce that proof, it follows that I can prove that s star is consistent."
+        intervals [305]:
+            xmin = 3899.280000
+            xmax = 3899.360000
+            text = ""
+        intervals [306]:
+            xmin = 3899.360000
+            xmax = 3902.720000
+            text = "Therefore, by the definition of s, pron s star belongs to s."
+        intervals [307]:
+            xmin = 3902.720000
+            xmax = 3902.880000
+            text = ""
+        intervals [308]:
+            xmin = 3902.880000
+            xmax = 3907.040000
+            text = "five, Cran S star is an S star, since s is a subset of STAR."
+        intervals [309]:
+            xmin = 3907.040000
+            xmax = 3907.120000
+            text = ""
+        intervals [310]:
+            xmin = 3907.120000
+            xmax = 3911.840000
+            text = "Note that this corresponds roughly to Lucas' statement that I quoted, that he knows he is consistent."
+        intervals [311]:
+            xmin = 3911.840000
+            xmax = 3912.080000
+            text = ""
+        intervals [312]:
+            xmin = 3912.080000
+            xmax = 3917.280000
+            text = "Actually, that would be the statement that con s belongs to S, not constar belongs to STR."
+        intervals [313]:
+            xmin = 3917.280000
+            xmax = 3917.440000
+            text = ""
+        intervals [314]:
+            xmin = 3917.440000
+            xmax = 3918.960000
+            text = "The five could then be derived."
+        intervals [315]:
+            xmin = 3918.960000
+            xmax = 3919.040000
+            text = ""
+        intervals [316]:
+            xmin = 3919.040000
+            xmax = 3921.840000
+            text = "Note also that we haven't yet run a foul of Girdel."
+        intervals [317]:
+            xmin = 3921.840000
+            xmax = 3921.920000
+            text = ""
+        intervals [318]:
+            xmin = 3921.920000
+            xmax = 3933.600000
+            text = "For it is only formal systems that e machines that are precluded by Girdel's argument from proving their own consistency, although not necessarily an extension of six Any subset of S star is consistent."
+        intervals [319]:
+            xmin = 3933.600000
+            xmax = 3933.840000
+            text = ""
+        intervals [320]:
+            xmin = 3933.840000
+            xmax = 3937.840000
+            text = "Follows from three, since STAR is consistent, so is every subset of STAR."
+        intervals [321]:
+            xmin = 3937.840000
+            xmax = 3938.000000
+            text = ""
+        intervals [322]:
+            xmin = 3938.000000
+            xmax = 3944.800000
+            text = "Seven Since one through six is a proof that every subset of STAR is consistent, that sentence belongs to S."
+        intervals [323]:
+            xmin = 3944.800000
+            xmax = 3944.960000
+            text = ""
+        intervals [324]:
+            xmin = 3944.960000
+            xmax = 3956.480000
+            text = "Now I'm being a bit cavalier here, but only to avoid the tedium of actually producing such a proof is laying out all the minute steps in an argument which would establish that if a set is consistent to where all of its subsets."
+        intervals [325]:
+            xmin = 3956.480000
+            xmax = 3956.720000
+            text = ""
+        intervals [326]:
+            xmin = 3956.720000
+            xmax = 3957.680000
+            text = "I think I can produce it."
+        intervals [327]:
+            xmin = 3957.680000
+            xmax = 3958.800000
+            text = ""
+        intervals [328]:
+            xmin = 3958.800000
+            xmax = 3968.240000
+            text = "Eight if S star is consistent excuse me, that every subset of S star is consistent belongs to S star since it belongs to S and S is a subset of S star."
+        intervals [329]:
+            xmin = 3968.240000
+            xmax = 3968.400000
+            text = ""
+        intervals [330]:
+            xmin = 3968.400000
+            xmax = 3993.520000
+            text = "Now nine, this is the only assumption of the proof suppose that there exists a recurbly enumerable set W subj such that the theory Q that is arithmetic, which Professor Montague was kind enough to refer to in his talk that the theory Q that the theory Q is a subset of WJ is something I can prove that is that's an STAR."
+        intervals [331]:
+            xmin = 3993.520000
+            xmax = 3993.680000
+            text = ""
+        intervals [332]:
+            xmin = 3993.680000
+            xmax = 4011.680000
+            text = "Furthermore, that WJ is a subset of STAR is an STAR, I can prove that that recursively numerable set WJ is a subset of the things that I can prove and finally C that the set of things I can prove is a subset of W subj."
+        intervals [333]:
+            xmin = 4011.680000
+            xmax = 4012.080000
+            text = ""
+        intervals [334]:
+            xmin = 4012.080000
+            xmax = 4025.200000
+            text = "Namely that C corresponds to Lucas' assumption that I am a touring machine or that I am at best a turing machine for the purpose of proving as he wants to prove that I am not a turing machine because the contradiction is supposed to follow from this."
+        intervals [335]:
+            xmin = 4025.200000
+            xmax = 4025.280000
+            text = ""
+        intervals [336]:
+            xmin = 4025.280000
+            xmax = 4034.000000
+            text = "So C really says that there exists a tour machine w subj which can prove everything I can prove because STAR certainly includes everything I can prove."
+        intervals [337]:
+            xmin = 4034.000000
+            xmax = 4034.080000
+            text = ""
+        intervals [338]:
+            xmin = 4034.080000
+            xmax = 4040.640000
+            text = "Now that WJ is recursively enumerable is simply the condition that it be the output of some theorem proving Turing machine."
+        intervals [339]:
+            xmin = 4040.640000
+            xmax = 4040.720000
+            text = ""
+        intervals [340]:
+            xmin = 4040.720000
+            xmax = 4048.640000
+            text = "For a fixed alphabet there exists an enumeration of all such machines by the device of girdle numbering all possible programs in some normal form."
+        intervals [341]:
+            xmin = 4048.640000
+            xmax = 4048.720000
+            text = ""
+        intervals [342]:
+            xmin = 4048.720000
+            xmax = 4056.560000
+            text = "Letting WX be the machine whose program is numbered x and this numbering lets us effectively recover the program from the number."
+        intervals [343]:
+            xmin = 4056.560000
+            xmax = 4056.800000
+            text = ""
+        intervals [344]:
+            xmin = 4056.800000
+            xmax = 4062.560000
+            text = "It will arbitrarily extend the enumeration by assigning the empty set to wz if z is not the number of a program."
+        intervals [345]:
+            xmin = 4062.560000
+            xmax = 4062.720000
+            text = ""
+        intervals [346]:
+            xmin = 4062.720000
+            xmax = 4071.040000
+            text = "In this way for each integer i Wi is a gurl number of a recursively enumable set of theorems theorems which the iT machine can prove."
+        intervals [347]:
+            xmin = 4071.040000
+            xmax = 4071.120000
+            text = ""
+        intervals [348]:
+            xmin = 4071.120000
+            xmax = 4079.280000
+            text = "It is important here that the machines be named in a transparent way that the program for the machine should be effectively recoverable from the name of the machine."
+        intervals [349]:
+            xmin = 4079.280000
+            xmax = 4079.520000
+            text = ""
+        intervals [350]:
+            xmin = 4079.520000
+            xmax = 4084.880000
+            text = "Why this is important will emerge later in the proof which is simply noted here as a reason for the W notation."
+        intervals [351]:
+            xmin = 4084.880000
+            xmax = 4085.040000
+            text = ""
+        intervals [352]:
+            xmin = 4085.040000
+            xmax = 4090.720000
+            text = "Now the first condition on WJ is that I should be able to prove that it is adequate for arithmetic in the usual sense."
+        intervals [353]:
+            xmin = 4090.720000
+            xmax = 4091.120000
+            text = ""
+        intervals [354]:
+            xmin = 4091.120000
+            xmax = 4100.080000
+            text = "WJ to contain the first order closure of axioms as weak as those of the theory Q of Totsky Mostky Robinson's book is Robinson's arithmetic would suffice."
+        intervals [355]:
+            xmin = 4100.080000
+            xmax = 4100.399000
+            text = ""
+        intervals [356]:
+            xmin = 4100.399000
+            xmax = 4121.600000
+            text = "Although Lucas obviously assumes that there is at least one formal system adequate for arithmetic all of whose theorems and more of course he can prove he does not seem to distinguish between that assumption and call it a and the further assumption that he can prove the A, that is that he can prove that there exists a system adequate for arithmetic all of whose theorems he can prove."
+        intervals [357]:
+            xmin = 4121.600000
+            xmax = 4121.680000
+            text = ""
+        intervals [358]:
+            xmin = 4121.680000
+            xmax = 4126.480000
+            text = "It is the latter which he needs the reason why will emerge more clearly in steps fifteen and seventeen."
+        intervals [359]:
+            xmin = 4126.480000
+            xmax = 4127.920000
+            text = ""
+        intervals [360]:
+            xmin = 4127.920000
+            xmax = 4137.120000
+            text = "Similarly let me say a word here actually nine A can be weakened to simply Q a subset of WJ."
+        intervals [361]:
+            xmin = 4137.120000
+            xmax = 4137.520000
+            text = ""
+        intervals [362]:
+            xmin = 4137.520000
+            xmax = 4156.080000
+            text = "These last remarks are correct relative to this argument but I can produce an argument that actually weakens nine A to remove the requirement that I be able to prove that it's a subset of WJ, but I don't want to get involved in that it's just too long and the proof is a little more intelligible as it stands now the proof is a little more intelligible as it stands now."
+    item [3]:
+        class = "IntervalTier"
+        name = "SPEAKER_01"
+        xmin = 0.000000
+        xmax = 4156.080000
+        intervals: size = 159
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.360000
+            text = ""
+        intervals [2]:
+            xmin = 1.360000
+            xmax = 76.400000
+            text = "Join's symposium of Association for Symbolic Logic with the American Philosophical Association under the title Philosophic Implications of the Gedel Incompletes are only one market We have three speakers, three participants of this Professor Benacera Professor Palm and I know she is third participant and I would like to ask him to come here Professor There he is the plan schedule which I proposed is as follows Each of the speakers will be allowed forty minutes to address."
+        intervals [3]:
+            xmin = 76.400000
+            xmax = 76.800000
+            text = ""
+        intervals [4]:
+            xmin = 76.800000
+            xmax = 89.360000
+            text = "After this forty minutes we shall have five minutes of preliminary discussion concerning specific job you will be able to ask questions ask for clarifications of some point."
+        intervals [5]:
+            xmin = 89.360000
+            xmax = 89.760000
+            text = ""
+        intervals [6]:
+            xmin = 89.760000
+            xmax = 110.720000
+            text = "Then I propose we shall have still five minutes of recovery from strong impression to prepare just for a new doors and then after three speeches are completed we shall have a general Now there were some questions regarding the order of speeches."
+        intervals [7]:
+            xmin = 110.720000
+            xmax = 110.960000
+            text = ""
+        intervals [8]:
+            xmin = 110.960000
+            xmax = 143.200000
+            text = "Well I must be indiscreet and tell you something that I have heard there was a minority opinion in all the organizing committee and the representative of this minority opinion suggested and this had entitled the greed incompleteness theories and their philosophical implications and he was planning to talk only about the first half of the cycle about Gider's sympistus theorem but not about the philosophical implications."
+        intervals [9]:
+            xmin = 143.200000
+            xmax = 143.360000
+            text = ""
+        intervals [10]:
+            xmin = 143.360000
+            xmax = 192.400000
+            text = "Now he was overbolted he is an obstinate man on what he suggested before and now there is an agreement between speakers to other ones who speak mostly about theosophical implications it is probably better for all of us if the first man, the first speaker tells us about theorems themselves about some extended improved forum at least to one of the certain I shall be concerned with the second theorem of Girdel's nineteen thirty one paper."
+        intervals [11]:
+            xmin = 192.400000
+            xmax = 192.960000
+            text = ""
+        intervals [12]:
+            xmin = 192.960000
+            xmax = 220.480000
+            text = "By the way whenever I become inaudible would someone please raise his hand thirty one so why don't you use this microphone here I think that's what this is the theorem which asserts that within arithmetic a certain sentence expressing the consistency of arithmetic is not provable."
+        intervals [13]:
+            xmin = 220.480000
+            xmax = 220.720000
+            text = ""
+        intervals [14]:
+            xmin = 220.720000
+            xmax = 244.880000
+            text = "In this form, Girdel's original formulation the etherem is rather special however the proof has overtones of generality these were perceived by Girdel and in fact his paper nineteen thirty one was called Part one He promised a second part in which general formulations would be given but this never appeared."
+        intervals [15]:
+            xmin = 244.880000
+            xmax = 245.040000
+            text = ""
+        intervals [16]:
+            xmin = 245.040000
+            xmax = 329.040000
+            text = "Actually general formulations of the first incomplete noserum have appeared in the literature I think in Girdel's unpublished Princeton notes Bosser has a formulation more general formulations were obtained by Tarsky and Matowski However very little was done with the nondemonstrable consistency theorem A generalization of a sort was given in Hilbert Bernis in nineteen thirty eight but it was not as general as some people would have liked Finally in nineteen fifty seven Pfefferman obtained his generalization however not everyone waited until Pfefferman had done his work on a number of occasions in the literature on a number of occasions people had been willing to assert and even employ in the literature rather daring general formulations usually of the following sort this assertion would be made If T is any consistent and recursively axiomatizable theory which is an extension of Peano's arithmetic then it is not provable in T that T is consistent."
+        intervals [17]:
+            xmin = 329.040000
+            xmax = 329.520000
+            text = ""
+        intervals [18]:
+            xmin = 329.520000
+            xmax = 338.080000
+            text = "Pefferman showed that this formulation is unacceptably vague and that it has indeed led to errors."
+        intervals [19]:
+            xmin = 338.080000
+            xmax = 338.240000
+            text = ""
+        intervals [20]:
+            xmin = 338.240000
+            xmax = 350.640000
+            text = "The trouble is that we do not know from this assertion what particular sentence or sentences are claimed not to be provable."
+        intervals [21]:
+            xmin = 350.640000
+            xmax = 352.400000
+            text = ""
+        intervals [22]:
+            xmin = 352.400000
+            xmax = 376.960000
+            text = "In fact Pefferman obtained in fact Pefferman showed that one can find theories A and assertions which one would naturally regard as expressing the consistency of A and such that these assertions are provable within A, even when A satisfies the other conditions of the hypothesis of this assertion."
+        intervals [23]:
+            xmin = 376.960000
+            xmax = 377.280000
+            text = ""
+        intervals [24]:
+            xmin = 377.280000
+            xmax = 389.040000
+            text = "So Pfefferman's result gave some satisfactory general conditions under which one could assert that a consistency statement is not provable."
+        intervals [25]:
+            xmin = 389.040000
+            xmax = 389.360000
+            text = ""
+        intervals [26]:
+            xmin = 389.360000
+            xmax = 404.480000
+            text = "However, his generalization concerns only recursively axiomatizable arithmetical theories and this seems to be the limit to which Girdel's original methods without amplification will lead."
+        intervals [27]:
+            xmin = 404.480000
+            xmax = 404.880000
+            text = ""
+        intervals [28]:
+            xmin = 404.880000
+            xmax = 418.960000
+            text = "It's my purpose to generalize the theorem further so that it will be applicable to arbitrary axiom sets which are arithmetically definable."
+        intervals [29]:
+            xmin = 418.960000
+            xmax = 419.200000
+            text = ""
+        intervals [30]:
+            xmin = 419.200000
+            xmax = 464.800000
+            text = "Now I don't regard this task as completely unsuitable even under the second title of this symposium because I believe that Godel's second theorem is more important as a philosophical result than as a mathematical result so that itself Girdel's second theorem is a result of philosophy Well that's one justification but I might say that if time permits I will indulge in another piece of philosophy a quite unspectacular application to another philosophical domain of the general formulation of Fergel's theorem."
+        intervals [31]:
+            xmin = 464.800000
+            xmax = 464.880000
+            text = ""
+        intervals [32]:
+            xmin = 464.880000
+            xmax = 473.440000
+            text = "So let me proceed by the only formulas I shall speak about today are formulas of arithmetic."
+        intervals [33]:
+            xmin = 473.440000
+            xmax = 474.560000
+            text = ""
+        intervals [34]:
+            xmin = 474.560000
+            xmax = 553.120000
+            text = "I could speak about more comprehensive class of formulas but for definiteness we can restrict ourselves to this These are formulas built up from These are formulas built up from the symbols zero successor plus times and less than or equal by means of variables and the usual logical constants of the first order predicate calculus with identity so these are arithmetical formulas I should like to distinguish some subclasses of the arithmetical formulas an elementary formula I understand one that can be built up from atomic formulas by means of sentential connectives and bounded quantification By a bounded quantification I understand that assertion of the form for all u if u is less than or equal to V then Phi or for some u is less than or equal to V and P."
+        intervals [35]:
+            xmin = 553.120000
+            xmax = 553.680000
+            text = ""
+        intervals [36]:
+            xmin = 553.680000
+            xmax = 559.840000
+            text = "In other words we do not speak about arbitrary numbers but only numbers less than or equal to a given number."
+        intervals [37]:
+            xmin = 559.840000
+            xmax = 560.080000
+            text = ""
+        intervals [38]:
+            xmin = 560.080000
+            xmax = 561.920000
+            text = "These are the elementary formulas."
+        intervals [39]:
+            xmin = 561.920000
+            xmax = 562.240000
+            text = ""
+        intervals [40]:
+            xmin = 562.240000
+            xmax = 612.560000
+            text = "Now I shall introduce two sequences of sets of formulas E super n and a super n defined recursively as follows E super zero equals A super zero equals a set of elementary formulas E super n plus one is the set of formulas of the form sum alpha phi where phi is an A super n formula analogously A super n plus one is the set of formulas for all alpha phi where phi is a member of E super n."
+        intervals [41]:
+            xmin = 612.560000
+            xmax = 612.720000
+            text = ""
+        intervals [42]:
+            xmin = 612.720000
+            xmax = 633.600000
+            text = "Thus for example e super n plus one will consist of those formulas which begin with a string of n plus one quantifiers the first of which is existential and which end with an elementary formula."
+        intervals [43]:
+            xmin = 633.600000
+            xmax = 634.320000
+            text = ""
+        intervals [44]:
+            xmin = 634.320000
+            xmax = 648.400000
+            text = "By an N formula or an n quantifier formula we understand a formula which is in the union of E super n and a super nice."
+        intervals [45]:
+            xmin = 648.400000
+            xmax = 648.480000
+            text = ""
+        intervals [46]:
+            xmin = 648.480000
+            xmax = 654.640000
+            text = "By a sentence I as usual understand a formula which contains no free variables."
+        intervals [47]:
+            xmin = 654.640000
+            xmax = 657.120000
+            text = ""
+        intervals [48]:
+            xmin = 657.120000
+            xmax = 662.080000
+            text = "So this is the symbolism of the object language."
+        intervals [49]:
+            xmin = 662.080000
+            xmax = 662.400000
+            text = ""
+        intervals [50]:
+            xmin = 662.400000
+            xmax = 676.480000
+            text = "Now this symbolism is calculated primarily to discuss natural numbers however it is also possible here to talk about syntax to talk about syntax."
+        intervals [51]:
+            xmin = 676.480000
+            xmax = 676.800000
+            text = ""
+        intervals [52]:
+            xmin = 676.800000
+            xmax = 693.200000
+            text = "In other words it's possible to use this language as a syntax language how we set up a girdle numbering of all expressions this is a onetoone correspondence of a certain kind between expressions and natural numbers."
+        intervals [53]:
+            xmin = 693.200000
+            xmax = 693.280000
+            text = ""
+        intervals [54]:
+            xmin = 693.280000
+            xmax = 702.720000
+            text = "Now this will induce a correspondence between notions applicable to expressions and notions applicable to natural numbers."
+        intervals [55]:
+            xmin = 702.720000
+            xmax = 702.960000
+            text = ""
+        intervals [56]:
+            xmin = 702.960000
+            xmax = 764.320000
+            text = "Furthermore some of these induced arithmetical notions will turn out to be definable within the number theoretic symbolism consider well for example if alpha chalk does anyone know where there's more chalk For example if alpha is any formula with just one free variable then PR sub alpha of uh to be a certain formula of arithmetic which defines a set of girdle numbers of sentences which are provable from the axiom set whose girdle numbers are defined by the formula alpha."
+        intervals [57]:
+            xmin = 764.320000
+            xmax = 765.040000
+            text = ""
+        intervals [58]:
+            xmin = 765.040000
+            xmax = 776.320000
+            text = "Now when using this as a syntax language it's convenient to forget about the distinction between an expression and its girdle number."
+        intervals [59]:
+            xmin = 776.320000
+            xmax = 776.880000
+            text = ""
+        intervals [60]:
+            xmin = 776.880000
+            xmax = 807.280000
+            text = "This means to speak as though expressions were identical with their girdle numbers This is a harmless confusion in which we can indulge and if anyone objects to it it is always possible to read everything putting in explicitly the reference to the girdle number However if we commit this confusion then we can read this formula as saying that u is provable from the axiom set defined by alpha."
+        intervals [61]:
+            xmin = 807.280000
+            xmax = 809.360000
+            text = ""
+        intervals [62]:
+            xmin = 809.360000
+            xmax = 813.760000
+            text = "So this is to be a complicated formula of this symbolism."
+        intervals [63]:
+            xmin = 813.760000
+            xmax = 813.920000
+            text = ""
+        intervals [64]:
+            xmin = 813.920000
+            xmax = 816.800000
+            text = "I don't want to say exactly what it looks like."
+        intervals [65]:
+            xmin = 816.800000
+            xmax = 818.480000
+            text = ""
+        intervals [66]:
+            xmin = 818.480000
+            xmax = 844.320000
+            text = "Now another possibility within this symbolism is this suppose that n is any natural number we can introduce a formula with one free variable uR sub n of u we can regard this as a truth predicate applicable to all n quantifier sentences."
+        intervals [67]:
+            xmin = 844.320000
+            xmax = 844.400000
+            text = ""
+        intervals [68]:
+            xmin = 844.400000
+            xmax = 848.480000
+            text = "So again this is a complicated formula."
+        intervals [69]:
+            xmin = 848.480000
+            xmax = 848.800000
+            text = ""
+        intervals [70]:
+            xmin = 848.800000
+            xmax = 857.920000
+            text = "It's known from Tarski's results that truth the general truth predicate cannot be defined cannot be expressed within arithmetic."
+        intervals [71]:
+            xmin = 857.920000
+            xmax = 858.000000
+            text = ""
+        intervals [72]:
+            xmin = 858.000000
+            xmax = 871.440000
+            text = "However, if we restrict ourselves to n quantifier formulas for any anth, we can express a truth paradigm so we read this as saying that u is an n quantifier sentence that is true."
+        intervals [73]:
+            xmin = 871.440000
+            xmax = 875.360000
+            text = ""
+        intervals [74]:
+            xmin = 875.360000
+            xmax = 876.960000
+            text = "I intend them in the same way."
+        intervals [75]:
+            xmin = 876.960000
+            xmax = 879.280000
+            text = ""
+        intervals [76]:
+            xmin = 879.280000
+            xmax = 901.760000
+            text = "You see I well the secret is this you write subscripts when you when you don't want people to suppose that these expressions actually occur as variables in the formulas So this means with each natural number n we associate a certain formula whose only free variable is u and the same with alpha No not really."
+        intervals [77]:
+            xmin = 901.760000
+            xmax = 907.200000
+            text = ""
+        intervals [78]:
+            xmin = 907.200000
+            xmax = 916.080000
+            text = "Now what do I say for example what do I mean by saying that TR subanamu is an appropriate truth predicate for formulas of this sort?"
+        intervals [79]:
+            xmin = 916.080000
+            xmax = 916.320000
+            text = ""
+        intervals [80]:
+            xmin = 916.320000
+            xmax = 973.840000
+            text = "Well I mean really that this formula defines the set of true sentences with this kind of quantifier prefix and furthermore that certain natural assertions about truth will be provable from the ordinary axioms of arithmetic for example the restricted material criterion for truth restricted in that the formulas must be assumed to have no more than n quantifiers will be provable from the axioms of Now I said that I wanted to generalize Pfefferman's formulation of Girdel's theorem so as to apply it to any axiom set that is arithmetically definable."
+        intervals [81]:
+            xmin = 973.840000
+            xmax = 974.000000
+            text = ""
+        intervals [82]:
+            xmin = 974.000000
+            xmax = 1092.720000
+            text = "Now a direct generalization is impossible it would be false I mean we simply cannot weaken the hypothesis instead we have to look rather carefully into the meaning of consistency or the consistency assertion in particular suppose that alpha is any formula with just one free variable and that n is any natural number by ton sub alpha n I mean the following sentence For all x if x is provable from the set defined by alpha and x is an end quantifier sentence then x is true so the n so this says that alpha is n consistent that means that every consequence of alpha containing no more than n quantifiers is true incorrect So Professor Putnam suggests that we call this ncorrectness and perhaps that is a better terminology but notice that this is a generalization of ordinary consistency that is consider the assertion of zero correctness this is equivalent This is provably equivalent within Keano's arithmetical axiom system to the assertion not provable from alpha zero equals one What do I mean by the bar?"
+        intervals [83]:
+            xmin = 1092.720000
+            xmax = 1092.960000
+            text = ""
+        intervals [84]:
+            xmin = 1092.960000
+            xmax = 1104.000000
+            text = "Well in general if I have a formula phi phi bar is the numeral which designates the girdle number of phi."
+        intervals [85]:
+            xmin = 1104.000000
+            xmax = 1104.480000
+            text = ""
+        intervals [86]:
+            xmin = 1104.480000
+            xmax = 1112.800000
+            text = "So if we perpetuate the confusion this is the standard name of the formula phi."
+        intervals [87]:
+            xmin = 1112.800000
+            xmax = 1113.200000
+            text = ""
+        intervals [88]:
+            xmin = 1113.200000
+            xmax = 1165.200000
+            text = "So this equivalent is provable in piano's arithmetic now the righthand side is simply the usual way of expressing consistency of an X set album Now I can formulate the theorem, the main theorem which is the generalization suppose that A is a set of sentences secondly every theorem of A that is every logical consequence of A no every logical consequence of Piano's arithmetic is a theorem of A."
+        intervals [89]:
+            xmin = 1165.200000
+            xmax = 1169.680000
+            text = ""
+        intervals [90]:
+            xmin = 1169.680000
+            xmax = 1255.360000
+            text = "Thirdly every n sentence provable from A is true and fourthly alpha is an EN plus one formula defining A Then it's not possible to prove in A the assertion A is Norrect under the aspect alpha as Buradin Yes under the aspect alpha as Buradin would say I think I can prove this assume the contrary that is the hypotheses and that the correctness assertion is provable Let pi be a single sufficient axiom for the theory Q of undecidable theories."
+        intervals [91]:
+            xmin = 1255.360000
+            xmax = 1256.000000
+            text = ""
+        intervals [92]:
+            xmin = 1256.000000
+            xmax = 1262.000000
+            text = "This is the theory this is the finitely axiomatizable theory known as Robinson's arithmetic."
+        intervals [93]:
+            xmin = 1262.000000
+            xmax = 1262.080000
+            text = ""
+        intervals [94]:
+            xmin = 1262.080000
+            xmax = 1264.800000
+            text = "It's a certain subthory of Peano's arithmetic."
+        intervals [95]:
+            xmin = 1264.800000
+            xmax = 1264.880000
+            text = ""
+        intervals [96]:
+            xmin = 1264.880000
+            xmax = 1274.960000
+            text = "Its precise nature we don't need to go into except to say that Chi can be chosen as an A one sentence."
+        intervals [97]:
+            xmin = 1274.960000
+            xmax = 1277.200000
+            text = ""
+        intervals [98]:
+            xmin = 1277.200000
+            xmax = 1385.040000
+            text = "Now by beta of u understand this formula U is provable from alpha and u is an AN plus one sentence by gamma of x I understand the formula that says that x is provable from the axiom set defined by the formula beta of u or u equals pi bar Now I have to go to the other blackboard Let delta of x is there any good in your die let delta of x be an AN plus one formula which is logically equivalent to not gamma of x."
+        intervals [99]:
+            xmin = 1385.040000
+            xmax = 1385.920000
+            text = ""
+        intervals [100]:
+            xmin = 1385.920000
+            xmax = 1413.360000
+            text = "From inspecting these formulas it's easily seen that there will be such a formula delta or perhaps if not logically equivalent what we can say is that the equivalence is provable in the theory Q we might have to collapse a quantifier two."
+        intervals [101]:
+            xmin = 1413.360000
+            xmax = 1413.920000
+            text = ""
+        intervals [102]:
+            xmin = 1413.920000
+            xmax = 1553.840000
+            text = "Now there's the famous lemma of reflexive reference Given any definable property of formulas we can find a sentence of arithmetic which is probably equivalent to the assertion which says that the sentence itself has that property so in particular we can find a sentence phi of arithmetic such that in the theory Q we can prove phi if and only if delta pi bar well of course since we can prove the biconditional we can prove the conditional in one direction hence reminding ourselves of the nature of the formula gamma we see that in the theory A we can prove gamma of this implication Hence again using the nature of the formula gamma we can prove in A if gamma phi bar then gamma delta phi Now I say that in A we can also prove this universal assertion for all x if gamma x and x is an one sentence then x is true I don't want to go into the details of this let me say only that this depends on the fact that within Peano's arithmetic we can prove the Herbrand theorem we can then use the notion of truth as applied to the various steps of an Herbrand derivation in order to see that this is provable in arithmetic and hence in A."
+        intervals [103]:
+            xmin = 1553.840000
+            xmax = 1554.240000
+            text = ""
+        intervals [104]:
+            xmin = 1554.240000
+            xmax = 1606.720000
+            text = "Now certainly we can prove in A that delta Pi is an N plus one sentence simply because it is now applying applying the last two steps we see that in A we can show if gamma of delta phi and delta phi is true Hence since within arithmetic we can prove the criterion of material adequacy or truth we can show the same implication except that we replace the consequence simply by delta five."
+        intervals [105]:
+            xmin = 1606.720000
+            xmax = 1608.560000
+            text = ""
+        intervals [106]:
+            xmin = 1608.560000
+            xmax = 1629.040000
+            text = "Now combining several steps I say that we can show in a delta phi Phi well let me give an argument in the system a."
+        intervals [107]:
+            xmin = 1629.040000
+            xmax = 1629.440000
+            text = ""
+        intervals [108]:
+            xmin = 1629.440000
+            xmax = 1650.320000
+            text = "Assume not delta phi then we have gamma phi that gives us gamma delta phi which gives us delta phi so we have proved in a if not delta phi then delta phi and hence we can prove in a delta phi."
+        intervals [109]:
+            xmin = 1650.320000
+            xmax = 1650.800000
+            text = ""
+        intervals [110]:
+            xmin = 1650.800000
+            xmax = 1675.520000
+            text = "Now by assumption So assumption three of the theorem says that every n sentence provable from A is true It follows that every a n plus one sentence provable from A is true."
+        intervals [111]:
+            xmin = 1675.520000
+            xmax = 1676.000000
+            text = ""
+        intervals [112]:
+            xmin = 1676.000000
+            xmax = 1696.720000
+            text = "We could not say EN plus one but we can say AN plus one Well this is something you will see if you simply think about it you take the universal instantiation Therefore delta phi is true because it's an anus one sentence and provable in a."
+        intervals [113]:
+            xmin = 1696.720000
+            xmax = 1697.520000
+            text = ""
+        intervals [114]:
+            xmin = 1697.520000
+            xmax = 1797.440000
+            text = "Hence since not gamma phi is provably equivalent within Q to it we have not gamma phi well I should say delta phi and hence not gamma phi is true All right But delta phi is easily seen to be true just by looking at the meaning of beta so delta phi is provable from alpha and delta phi is an antence furthermore it is provable in Q that delta phi implies phi this is the other half of the biconditional Therefore I say the assertion that phi is provable from this set divide by beta of u or u equals pi bar is true why?"
+        intervals [115]:
+            xmin = 1797.440000
+            xmax = 1797.840000
+            text = ""
+        intervals [116]:
+            xmin = 1797.840000
+            xmax = 1839.920000
+            text = "Because it says that phi is derivable from the sentences in beta together with the theory q but we just have to take one sentence in beta namely delta phi and then we have in fact that phi is derivable using Q from delta phi so this is true but if we look at gamma we see that this is simply gamma phi so gamma phi is true and also not gamma phi is true contradiction and the theorem is proved."
+        intervals [117]:
+            xmin = 1839.920000
+            xmax = 1840.720000
+            text = ""
+        intervals [118]:
+            xmin = 1840.720000
+            xmax = 1842.800000
+            text = "So this is the general formulation."
+        intervals [119]:
+            xmin = 1842.800000
+            xmax = 1843.760000
+            text = ""
+        intervals [120]:
+            xmin = 1843.760000
+            xmax = 1853.200000
+            text = "Now you might wonder whether this is the best possible formulation in this direction."
+        intervals [121]:
+            xmin = 1853.200000
+            xmax = 1854.080000
+            text = ""
+        intervals [122]:
+            xmin = 1854.080000
+            xmax = 1863.520000
+            text = "Well of course one has to leave vague the notion of a direction but in one sense it is the best possible formulation."
+        intervals [123]:
+            xmin = 1863.520000
+            xmax = 1864.080000
+            text = ""
+        intervals [124]:
+            xmin = 1864.080000
+            xmax = 1891.680000
+            text = "This means if you keep the same assumptions but simply say that alpha is an AN one sentence rather than an EN plus one sentence then you can find counterexamples to the theorem and hence of course if you were to say that alpha is an EN plus two sentence or anything higher we could also find counterxamples."
+        intervals [125]:
+            xmin = 1891.680000
+            xmax = 1892.480000
+            text = ""
+        intervals [126]:
+            xmin = 1892.480000
+            xmax = 1897.440000
+            text = "So that's the end of the formal presentation."
+        intervals [127]:
+            xmin = 1897.440000
+            xmax = 1897.840000
+            text = ""
+        intervals [128]:
+            xmin = 1897.840000
+            xmax = 1901.840000
+            text = "Now do I have time to go into the philosophical presentation?"
+        intervals [129]:
+            xmin = 1901.840000
+            xmax = 1902.000000
+            text = ""
+        intervals [130]:
+            xmin = 1902.000000
+            xmax = 1950.240000
+            text = "No I won't be yes consider the assertion it is probable from a set B of sentences that A is consistent Now uncareful people used to use assertions of this sort and as I said they led to difficulty."
+        intervals [131]:
+            xmin = 1950.240000
+            xmax = 1950.640000
+            text = ""
+        intervals [132]:
+            xmin = 1950.640000
+            xmax = 1965.040000
+            text = "Now you can see that this is an exemplification of a general species of philosophical difficulty that is the difficulty of indirect contexts to which Frege calls so much attention."
+        intervals [133]:
+            xmin = 1965.040000
+            xmax = 1965.280000
+            text = ""
+        intervals [134]:
+            xmin = 1965.280000
+            xmax = 1991.440000
+            text = "The trouble is that we have after the word that a variable which is supposed to refer outside outside the indirect context for instance we might wish to say that for every set A of sentences satisfying certain general conditions this holds or we might wish to identify A with B."
+        intervals [135]:
+            xmin = 1991.440000
+            xmax = 1993.280000
+            text = ""
+        intervals [136]:
+            xmin = 1993.280000
+            xmax = 1996.000000
+            text = "So this is the general difficulty here."
+        intervals [137]:
+            xmin = 1996.000000
+            xmax = 1996.240000
+            text = ""
+        intervals [138]:
+            xmin = 1996.240000
+            xmax = 2002.880000
+            text = "Now I would like to indicate a way of making sense of this assertion."
+        intervals [139]:
+            xmin = 2002.880000
+            xmax = 2004.000000
+            text = ""
+        intervals [140]:
+            xmin = 2004.000000
+            xmax = 2040.000000
+            text = "We could say there is a standard denotation of there is a standard denotation alpha of the set a such that con alpha is provable in Battle you see I'd like to put I'd like to say N consistent."
+        intervals [141]:
+            xmin = 2040.000000
+            xmax = 2040.960000
+            text = ""
+        intervals [142]:
+            xmin = 2040.960000
+            xmax = 2049.920000
+            text = "So in other words I suggest this as a meaningful analysis of the first sentence."
+        intervals [143]:
+            xmin = 2049.920000
+            xmax = 2050.320000
+            text = ""
+        intervals [144]:
+            xmin = 2050.320000
+            xmax = 2056.400000
+            text = "We have to say of course what a standard denotation of a set of sentences is."
+        intervals [145]:
+            xmin = 2056.400000
+            xmax = 2056.960000
+            text = ""
+        intervals [146]:
+            xmin = 2056.960000
+            xmax = 2094.480000
+            text = "Well I would suggest the following possibility consider the least k such that a is definable by means of an EK plus one formula then by a standard denotation of A, I would understand simply any EK plus one formula which defines a defines I've used throughout in the semantical sense of course."
+        intervals [147]:
+            xmin = 2094.480000
+            xmax = 2095.760000
+            text = ""
+        intervals [148]:
+            xmin = 2095.760000
+            xmax = 2145.280000
+            text = "Well if we understand if we understand the assertion in this way then indeed we can make a mathematically correct formulation involving this indirect context and in fact it would read as follows If A is an EN plus one definable set of sentences of arithmetic and furthermore assumptions two and three of the earlier theorem are satisfied then it is not provable in A that A is N consistent and I mean that literally."
+        intervals [149]:
+            xmin = 2145.280000
+            xmax = 2145.600000
+            text = ""
+        intervals [150]:
+            xmin = 2145.600000
+            xmax = 2171.200000
+            text = "Well that will now become a mathematical theorem Well so why is this a philosophical insight Because I think it gives rather general insight into the analysis of indirect context Actually it suggests really a general approach to the analysis of sentences involving this subordinate conjunction that."
+        intervals [151]:
+            xmin = 2171.200000
+            xmax = 2171.760000
+            text = ""
+        intervals [152]:
+            xmin = 2171.760000
+            xmax = 2265.680000
+            text = "Thank you So we have a few minutes for clearing a very few minutes for Peninari want to ask any questions and whoever wants to ask a question come see I will do it From the point of view of cadence theorem it would be sufficient to have your generalization for n equals zero This means without speaking or for the this means one obtains the original theorem or rather Pfefferman's formulation of it by taking n equal to zero Yes exactly Pfefferman's formulation Exactly I believe you want correction Yes and still need proof I notice you have to use N plus one sentences this notion of truth for sentences for one sense is this correct?"
+        intervals [153]:
+            xmin = 2265.680000
+            xmax = 2265.920000
+            text = ""
+        intervals [154]:
+            xmin = 2265.920000
+            xmax = 2289.440000
+            text = "Yes because in defining in formulating theorem you use only the notion of proof for zero centencies if you consider and this of course something very elemental so that actually you don't need to However in the proof you have to use this for any place who are is this unemployed?"
+        intervals [155]:
+            xmin = 2289.440000
+            xmax = 2290.640000
+            text = ""
+        intervals [156]:
+            xmin = 2290.640000
+            xmax = 2322.000000
+            text = "Yes, yes I believe so and because well one has to use arbitrary consider arbitrary RE formulas formulas expressing recursively enumerable sets and second question also comes from the related I think that in this proof in this outline issue it's much less of arithmetization in the bow than in the original details proof Is this correct or is this only an illusion?"
+        intervals [157]:
+            xmin = 2322.000000
+            xmax = 2322.400000
+            text = ""
+        intervals [158]:
+            xmin = 2322.400000
+            xmax = 2356.720000
+            text = "I'm afraid it's only an illusion There's a great deal of arithmetization involved in proving this particular step is that young Yes this was just my question I thought that by using heground Quality which was not involved in original agreements to avoid much of arithmetization but this is not the Well it's just that the arithmetization is displaced into the proof of the Abras theorem."
+        intervals [159]:
+            xmin = 2356.720000
+            xmax = 4156.080000
+            text = ""
