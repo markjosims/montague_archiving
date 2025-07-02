@@ -101,7 +101,12 @@ def load_asr_model(args):
         tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
         forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
         return asr_pipe, forced_decoder_ids
-    return nemo_asr.models.ASRModel.from_pretrained(args.asr_model), None
+    asr_pipe = nemo_asr.models.ASRModel.from_pretrained(args.asr_model)
+    # Enable local attention
+    asr_pipe.change_attention_model("rel_pos_local_attn", [128, 128])
+    # Enable chunking for subsampling module
+    asr_pipe.change_subsampling_conv_chunking_factor(1) # 1 = auto select
+    return asr_pipe, None
 
 """
 ELAN methods
