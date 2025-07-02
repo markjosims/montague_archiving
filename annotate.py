@@ -430,7 +430,11 @@ def asr_first(
         asr_pipe: Pipeline,
         **kwargs,
 ):
+    asr_pipe = asr_pipe.to(torch.device(0))
+    drz_pipe = drz_pipe.to(torch.device('cpu'))
     chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
+    asr_pipe = asr_pipe.to(torch.device('cpu'))
+    drz_pipe = drz_pipe.to(torch.device(0))
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
     # build an EAF file and Gecko JSON object simultaneously
