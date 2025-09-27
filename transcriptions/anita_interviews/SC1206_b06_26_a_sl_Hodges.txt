@@ -1,0 +1,648 @@
+WH: 0:00:01-0:00:12
+Well, in nineteen ninety five or six, I forget, I published a paper on Tarski's truth definition in a philosophical journal.
+
+AF: 0:00:13-0:00:21
+Excuse me, just one second.
+
+I'm talking to Wilfred Hodges on july twenty eighth, nineteen ninety four at Clermont Film about Tarski.
+
+WH: 0:00:24-0:08:38
+In the mid eighties, I published a paper in The Proceedings of the Aristotelian Society, that's a philosophical journal, about Tarski's truth definition.
+
+More or less any English-speaking philosopher with an interest in Tarski will know that journal and what's in it.
+
+So I found immediately I started getting, I got labelled as a Tarski person among philosophers.
+
+AF:
+As a Tarski expert somehow, right? Okay.
+
+WH:
+And I get sent quite a lot of stuff, including papers to referee and request to comment on this level.
+
+I notice that English speaking philosophers as a community tend to make what seem to me to be some systematic mistakes in their reading of Tarski.
+
+I'm just wondering in the light of this experience, I should jot down some notes under the title "Reading Tarski, Notes for Philosophers" or something like that.
+
+I don't know if I'll get time to do it, that's the only problem.
+
+If I do get time, I think it would be a Vaughthwhile thing.
+
+If I could just say a bit about the kind of mistakes which are made, there are two basic kinds of mistakes.
+
+The first mistake is made by people who don't realize that some things which Tarski says are part of a mathematical program.
+
+AF:
+A part of a mathematical mathematical program, yeah.
+
+WH:
+If they knew the program, they would see at once why these remarks fit into how these remarks fit into place and they wouldn't look for other interpretations of them, which they often do.
+
+And the second thing is that, this is my own estimate, English-speaking philosophers as a tribe seem quite unusually bad at getting into other people's minds and to do that you've got to talk to a person or read what they say and get some idea of their style and the kind of things they're likely to say or mean.
+
+And somehow this approach is completely foreign to analytical philosophy where you've got to take statements as... Somebody says something, you've got to regard that as a thesis and you've got to tear it to pieces.
+
+[Yeah] It doesn't leave much room for understanding what on earth they're talking about!
+
+AF:
+Attack is immediately aggressively to take it apart.
+
+WH:
+Yes there's a very good example of this in a fairly recent book by Etchemendy on the nature of logical deduction where he's a little bit guarded because some people sat on him I think, but [guarded? was that your word?] guarded, but essentially he complains in one of his early chapters that Tarski committed a thing which he calls "Tarski's fallacy" and the fallacy consists of misplacing a modal operator in an absolutely key step in Tarski's paper on logical deduction, and the rest of the book is devoted to sorting out what Tarski should have said.
+
+AF:
+And you think-
+
+WH:
+Well I actually read what Tarski said and it was clear that although he, I say modal operator, Tarski says "must", something must happen. Although he says "must" the modal force of that word is completely ignored in everything which follows in his argument and is obviously irrelevant.
+
+If you just read through the argument you see it's irrelevant but also if you look more carefully at Tarski's style and see the kinds of words that he uses he never had to touch wood on this because there's an awful lot of Tarski but his key works of philosophical import are contained in one volume together and he never rests any argument on the meaning of "possible" or "necessary" or "must" or these modal words.
+
+AF:
+Just repeat quickly first all what you said in the very beginning because he's that just the problem about English philosophers, English speaking philosophers and how they read Tarski.
+
+WH:
+as I said in the mid eighties I published an article on Tarski is truth definition the proceedings of the Aristotelian Society and this got me labeled as a Tarski person in the English speaking philosophical community.
+
+Also among Poles but the things that I get from Poles are usually very helpful and lots of factual information but among them I now get a fair amount of stuff to referee or with requests for comments I have a picture of that there is a lot of interest at the moment among English-speaking analytic philosophers in Tarski's methodological views in the nineteen thirties and I was commenting that there seem to be some to me to be some systematic mistakes through all this philosophical literature.
+
+I've commented that there are two things that the philosophers are particularly bad at, which seem to be the chief causes of the problem one is that the philosophers it's not their fault it's not their field but they tend not to realize when Tarski makes a remark which, well when Tarski is doing something that's part of a mathematical program, and some remark that he makes is completely explained by that program, but they don't know the program, and they have to make guesses at what he must have meant. 
+
+AF:
+So they don't get it.
+
+WH:
+When they guess by the way they usually guess that he this must be the result of some conversation between Tarski and Quine. This is a standard move.
+
+AF:
+But that's not a good guess.
+
+WH:
+I'm exaggerating a little bit here but the other thing I said is that the methods of debate in analytical philosophy are not conducive to taking seriously other people's intentions or to understanding what people mean by looking at the kind of thing they say in general, their style and their approach.
+
+You take a thesis at a time, a couple of sentences and you hammer it.
+
+AF:
+And do you think that's what Etchemendy did?
+
+WH:
+Yes he's a pretty good example of both things. So are most of the things that reach me. I think Etchemendy is worse than most people, and I think he's more rigid than most philosophers. If somebody points out to him something that doesn't fit with his views this is a challenge to defend his views, it's not a piece of evidence which fills in a larger picture.
+
+AF: 0:08:42-0:08:44
+Have you read a Etchemendy's book?
+
+SF: 0:08:45-0:19:08
+I've read his thesis on which the book is based I never quite understood the point of it and he kept trying to so I thought it was my fault that I was missing something. 
+
+AF:
+So what do you think now?
+
+SF:
+Well the way I read it I wasn't, I didn't find it much persuasive as I say. There was some idea that there's some sort of program of semantics for natural language and that people who think that what Tarski did provides a foundation for that are wrong.
+
+WH:
+Oh yes, he's this... I think most people agree with him about that, the program in question is Davidson's. Davidson does play fast and loose. [UNINTELLIGIBLE] Tarski.
+
+SF:
+But then there is another business about what the model theoretic definition of logical consequences is not the right definition of logical consequences. Is that what he's saying?
+And that I never understood.
+
+WH:
+It needs a lot of unpicking and I corresponded with him a bit and he said some strange things, so I pressed it to the point where he said some utterly absurd things but there were things about what so and so had meant, Gödel or Quine. At that point I gave up because there wasn't anything. If he was prepared to take seriously the view that Gödel had mistakenly thought... He got too silly.
+
+SF:
+Did you ever review Etchemendy?
+
+WH:
+I was talking to a philosopher just at the beginning of this conference who said that he thought Etchemendy had irritated a lot of people.
+
+AF:
+With this particular work?
+
+WH:
+Yes it's rather aggressively written and does have rather an air of taking everybody else for a fool.
+
+SF:
+This is completely confidential but when Etchemendy was being promoted to tenure you wrote a letter, which I read of course, and a number of other people wrote letters and all those other letters were extremely supportive and people didn't know what to make of yours. In fact most people didn't know who you were. I had to tell them that this was to be taken seriously but-
+
+WH:
+I've wondered many times since then if I was unfair. I don't think that his work has in any way improved since I wrote that letter but a person can achieve something important in a field by sticking to his guns and resisting all comers.
+
+I think what needs to be seen is whether he can develop any further.
+
+SF:
+But what he's done since then has nothing to do with, I mean he's worked with Barwise
+
+WH:
+On what?
+
+SF:
+Well their programs, Turing's World, Tarski's World, Hyperproof, Diagrammatic Reason. It's all applied logic.
+
+WH:
+I found that terribly difficult to write.
+
+SF:
+Then there was the book The Liar.
+
+WH:
+Which was one of the things I based my letter on.
+
+SF:
+Now that I hadn't remembered that. I was- Well I had long talks with Barwise about my view that they hadn't accomplished what they thought. 
+
+WH:
+That was clear. That's exactly what I that was my main comment, I think. But they shouldn't have claimed they were going to accomplish that, it's a silly claim in the introduction. [Right]
+
+That's a very useful little book and it's beautiful. Yes I do suspect that the beautiful things in it are likely to be Barwise rather than Etchemendy, but I don't know that they have and I've never seen any evidence that Etchemendy is capable of the kind of insight that wove Peter Axel in, for example.
+
+SF:
+That was clearly Barwise's appreciation [sorry?] Barwise's appreciation of how Axel's work could be used. Well Barwise I think working on trying to use Axel's Set theory and foundations of situations theory, situation semantics, so it came from that. But I guess this is all getting a field from
+
+AF:
+That's all right that's okay
+
+WH:
+From what other people have said to me my impression is that philosophers by and large take Etchemendy more seriously as an authority than I do and I don't take him as any kind of authority on anything. And I was rather appalled to see his name suggested as one of the program committee for the 1996 European meeting in a section on history and philosophy of logic because although I think... I had no qualms about him going forward in the program committee in philosophy, to see him doing anything in history would scare me a bit. He's just not competent and philosophers on the whole tend to regard him as more of an authority than I would, but on the other hand the philosophers that I've talked to can see less that they agree with in what he says than I do. [Perhaps] He's a person everybody loves to disagree with. I'm very, very interested to hear, in some way it's a burden off me to hear a response here, because I've been carrying this with me.
+Did I do something terrible with that?
+
+AF:
+Well he got the job.
+
+SF:
+He got tenure.
+
+WH:
+I hope I didn't give you a hard time with it. I gave the department a hard time. Well that's not a bad thing people should take the decision seriously.
+
+SF:
+Sure absolutely.
+
+What about Davidson and Tarski's theory of truth?
+Do you have opinions about this?
+
+WH:
+No, I've always refused to have any opinions about this.
+
+My old philosophy tutor David Wiggins is a fan of Davidson on some points and opponent of his on others. He keeps asking me if I'll come in and adjudicate somehow and I absolutely refuse.
+
+Davidson's program is a program for... By implication it's a program for a total semantics of some natural language and I think that this is a silly program at this stage in things. All we can hope to do sensibly is to pick away at little pieces and see where a pattern starts to emerge and follow it up and the kind of thing that Hans Kamp does. This is not what Davidson does and as a result I don't think if Davidson achieves anything it's rather by accident. But there's no nothing's gained by saying that so...
+
+SF:
+Why?
+
+WH:
+Purely negative
+
+WH:
+And you know Kamp's work?
+
+WF:
+Kamp was my successor in one sense of colleague in another sense at Bedford. He and I also knew each other quite well in Los Angeles when I was there in 1967. I haven't kept quite so well in touch with him but I think we have a common understanding from the fact that we both- our philosophical views are a product of the Montague-Kaplan-Lewis circle that was in Los Angeles.
+
+AF: 0:19:08-0:19:18
+Who's the Lewis?
+
+SF:
+David Lewis.
+
+AF:
+L-E-W-I-S? You say he's at Princeton now?
+
+SF:
+David Lewis David Lewis is at Princeton.
+He gave some awful lectures at Stanford.
+
+WH: 0:19:18-0:19:56
+He lectures into the floor is it is embarrassing yes I mean Dutch is a bit like that anyway. Well not always no.
+
+SF:
+The subject was mereology or some version of that.
+
+AF:
+These were general general Kamp lectures were supposed to appeal to a general audience.
+And it was twenty three people.
+
+SF:
+These axioms and these consequences.
+
+AF: 0:19:56-0:19:57
+He's Dutch?
+Why did he say Dutch?
+
+WH: 0:19:58-0:20:54
+He's Dutch.
+
+AF:
+David Lewis is Dutch?
+
+SF:
+I didn't know that.
+
+WH:
+Kamp?
+
+AF:
+No not Kamp, he's saying David Lewis.
+
+WH:
+David Lewis? Oh I'm sorry. Oh David, oh no he's very different. Yeah so what went wrong with these lectures?
+
+SF:
+Well he was they were very formal.
+
+AF:
+Why do you keep doing that? You make sounds on the recording.
+
+SF:
+Oh I'm sorry. It was about basing set theory on the part-hole relationship
+
+WH:
+Oh yes yes I know yes.
+
+SF:
+You know it's just a fake I mean it's just a fake?
+
+WH:
+Yeah. The last time I had a meal David was explaining this to me and I was desperately thinking of something I could say and didn't succeed.
+
+SF:
+Well he just builds in everything that he wants to get out of it.
+
+AF:
+Next time you can say "just a fake"
+
+WH:
+I don't think it's a fake but I don't think it's an answer to any question that you or I would want to ask!
+
+SF: 0:20:57-0:21:30
+I find that thinking about axioms for the part-hole relation very plausible in and of itself. But what he was going... the axioms that he came up with were just so implausible. But he published a book on that.
+
+AF:
+So besides that first thing you wrote on Tarski have you written other stuff? Have you written other things about Tarski?
+
+WH: 0:21:31-0:25:54
+Yes but has anything been published? We have yards and yards of reports on papers, some of which involve going into a lot of detail on some points.
+
+AF:
+Like referee?
+
+WH:
+My old tutor asked me if I would... This is David Wiggins who's just going to the chair in logic in Oxford.
+
+AF:
+He's been becoming the chair in logic in Oxford?
+
+WH:
+Yes they were trying all over the place for this-
+
+SF:
+Is that the [heir ???] chair?
+
+WH:
+Yes, I think they offered it to Kit Fine and he hovered and then refused and they offered it to Wiggins. I think I'm not sure.
+
+And he's just coming up to his sixtieth and some of his students decided to write a volume in his honour.
+
+AF:
+In Wiggins' honor?
+
+WH:
+Yes and they invited all his old students to contribute and I said I'd love to, I'm very fond of him and I'm enormously grateful to him. What can I possibly write about a philosophical volume? So they asked him to think of something that he would like me to write on and this Davidson thing as expected came up.
+
+But he also sent an article that he took on the question whether moral truths, whether there can in any proper sense be moral truths. And quite a lot of the article is about Tarski's notion of truth.
+
+AF:
+Now that's your article, right? That's your article for the big Wiggins... [No] Wiggins' article?
+
+WH:
+No, Wiggins'. This is an article that Wiggins wrote maybe ten years ago and he wanted me to comment. Essentially what he does is to take the text of Tarski and interpret Tarski's real motivation and tie it in with his own and emerge with some kind of David Sonyian recasting of Tarski's convention T then apply this to moral judgments.
+
+So I looked at it and tried to write down what I thought were the correct things to say about those things in Tarski that he'd been looking at.
+
+I don't know where anywhere in the literature where the correct things are said and I had an anxious letter back from the editors of the volume saying this is hopeless. It just doesn't interact with what David has said.
+
+Absolutely true it didn't. By the way I was telling you about the Irvine lexicon. One version of it had a definition of "Wiggins." Wiggins, this is not verbatim, but wiggins are a series of
+
+[TRAIN PASSING]
+
+AF:
+Where is that train anyway?
+
+SF:
+It is down below it's a different train.
+
+AF:
+Not necessarily.
+
+WH:
+Wiggins are a series of disconnected and incomprehensible jumps from one position to any other position.
+
+
+AF: 0:25:54-0:25:55
+Is that right?
+Is that the way you write?
+
+WH: 0:25:56-0:28:00
+No comment. There it is in the Lexicon!
+
+He's an inspired writer but he doesn't he doesn't proceed by logical deduction.
+
+AF:
+But he says something, then he says something else and then he says something else.
+
+WH:
+Yes, he knows where he wants to get to and he knows where he'd like to start from.
+
+AF:
+But the connections.
+
+WH:
+But the connections are sometimes very strange.
+
+AF:
+So he leaps and-
+
+SF:
+-makes lots of Wiggins!
+
+AF:
+Now what's this lexicon?
+
+SF:
+It's apparently it's the names of known philosophers [Yeah] or logicians.
+
+AF:
+So what's a Feferman? What's a Feferman?
+
+SF:
+I don't know if, I haven't got a copy of it and last time I asked somebody from Irvine and they said they didn't know of it so either it's just got lost, which I can't believe, or it's been bought out by some other philosophy department somewhere.
+
+Popper was defined in terms of Im-Popper.
+
+SF:
+Im-popper!
+
+AF:
+Im-popper!
+
+WH:
+Impopper, yes because he was a very pompous and self-important person. So I'm told I never met him.
+
+SF:
+You never met him?
+
+WH:
+No I would have met him at the farewell dinner that the Board of Studies normally gives to retiring philosophers in London University but he made conditions so difficult in his specification of the place we should meet in that it was to be a place where it could be guaranteed that nobody had smoked in the previous twenty four hours.
+
+The philosophers decided that either they should hire a boat in the middle of the Thames or they should take this in indication that he really didn't want to return to the party  and they read it the second way. And if that wasn't his intention then tough it is.
+
+SF:
+So it would have to be a place-
+
+AF: 0:28:03-0:28:40
+-where nobody had smoked for twenty four hours so all it had to be is some room that was considered a nonsmoking room. There is such a thing in Britain?
+
+
+WH: 0:28:42-0:29:20
+The states is way ahead of Britain.
+
+AF:
+I know but aren't there restaurants where people can't smoke?
+
+WH:
+It's not so easy to find them. Well it may be easier now than it was then but it's still not easy.
+
+SF:
+What about philosophers taking part who have smoke. [Sorry?] Have their clothes reeking of smoke.
+
+AF:
+Yeah but twenty-four hours.
+
+WH:
+Bernard Williams claims that Popper was a fraud and that Bernard had carried out a ten minute conversation with Popper with a burning cigarette behind his back and Popper never complained about anything.
+
+AF: 0:29:24-0:29:26
+Did you ever met Tarski?
+
+WH: 0:29:26-0:29:51
+Yes I met him twice, but can I just finish with Wiggins?
+
+So last month one of my jobs was to rewrite this thing and see if I could somehow tie it in with-
+
+AF:
+The Wiggins' thing?
+
+WH:
+-Wiggin's intentions and I have rewritten it and I hope it ties in with Wiggins better than it did before and if they accept it in this form then it's a second publication on Tarski. [Okay] So if that answers your question.
+
+AF: 0:29:51-0:30:12
+All right and well send it to me?
+
+SF:
+I seem to recall something on the history of model theory here in which Tarski's work had a central central place. But was that this first thing you mentioned?
+
+WH: 0:30:13-0:35:17
+No. [UNINTELLIGIBLE] or Tarski's work. I don't know, it could be anything. There's some historical bits in my book. Sometimes I give a talk and occasionally bits of it written up appear somewhere on Present Aims of Model Theory. That's a title I readily offer. I'm sorry I don't know...
+
+Oh I know! Of course, I know, yes it was, I'd suppressed the memory of it! It was the paper with Doner in the JSL. Maybe for history I'd better set down the awful things that happened there.
+
+AF:
+John Doner?
+
+WH:
+John Doner, yes. I undertook to collect together a set of essays on different aspects of Tarski's work in logic for the JSL. And there was a hope, we were working on this together at the beginning because you were the
+
+SF:
+I was president.
+
+WF:
+Yes The hope was that we could get something out in time for his birthday celebrations, but I could never get any kind of response from Berkeley. I did write to people but they always referred me to other people. And I had left a rather strong impression which I remember mentioning to you in a letter that somehow they just didn't want to be involved with it at this point, they didn't want to say that.
+
+And indeed shortly after he died, I forget which of us whether it was I or they, made the first move but it seemed that the log jam had cleared and
+
+SF:
+Wilfred was reviews editor.
+
+AF:
+Of the JSL?
+
+SF:
+Yeah reviews and surveys.
+
+WH:
+I've never reviewed not reviewed.
+
+SF:
+Not reviews sorry.
+
+WH:
+Survey expository.
+
+SF:
+Survey expository. Yes.
+
+So there was a proposal to have a series of articles about Tarski's way which
+
+WH:
+Some of us did get some of us put together a list of possible authors and more or less that stuck. But I learnt an awful lot of mistakes one should not make in doing these things and I had two particular disasters, one with Vaught and Henken and the other with Givant.
+
+The one with Vaught and Henken is the relevant one here. There were two parts two things were proposed one that Van De Dries should write an article about the Tarski decision matter for Rothhurst Fields.
+
+Vaught was very guarded about that one. He had a rather dim view of Lou van de Dries and in particular he was frightened that Lou would try to expand this into a discussion of Lou's own stuff or work by
+
+AF:
+An expansion of what?
+
+WH:
+The article that Lou was invited to write or had been invited to write.
+
+AF:
+That he would expand it on to what?
+
+WH:
+To material by himself and his friends. [Ah]
+
+My own view on this was that what we wanted was material, not exactly by Lou's friends, but stuff that would show the thing in proper context because Tarski had no idea how important this work was.
+
+There's an amazing remark by Tarski somewhere in the thirties, I think it may be in his late thirties write up of that material, that he considers he's now answered all questions of interest in this area.
+
+As a historical judgment it's an all time loser that these versions of his work here have been fundamental for all sorts of things that obviously he never dreamt of. I think he had a clear self-contained idea of what he hoped to achieve and he'd achieve that.
+
+AF:
+Do you think that, could you make a generalization about that and other things that he did?
+
+WH:
+That's a very interesting question but it's the sort of point where I would refer to the solo and other people who work directly with Tarski.
+
+AF: 0:35:17-0:35:19
+Well, could one make a generalization?
+He did something he thought it was complete in a sense he was provincial about his work.
+
+SF: 0:35:21-0:46:45
+Well I mean he had a series of programs and one was the program of [incitability?] and the prime method for that would be the elimination of quantifiers and once he had settled that for real closed fields he thought that's all there was to it.
+
+But he was happy for example to learn of mathematical applications of...
+
+AF:
+I guess he was happy when Rabin did what he did.
+
+SF:
+Wait that's separate. [Yeah] But I don't think he really took in what the Eastern School of Model theory was. MacIntyre and Russ others
+
+WH:
+Well did he take in [Zeitenberg???]?
+
+SF:
+So that's the other question. I think I hesitate to say I wouldn't on the spot.
+
+WH
+It's certainly not just MacIntyre and [Ricenta?], it's a whole swathe of real algebraic geometers. And then more recently of course there's been applications in robotics where fragments of the decision method which are actually feasible for important classes of sentences.
+
+SF:
+Anita interviewed Rabin and Rabin spoke about his work on nonfeasibility of, Fischer and Rabin, and I guess she got from him the sense that Tarski liked it.
+
+WH:
+Tarski liked the-
+
+AF:
+He liked-
+
+SF:
+I didn't hear the interview.
+
+WH:
+Tarski liked what?
+
+AF:
+The fact that... he didn't I guess I'm not sure I'm remembering exactly because I haven't listened, but my recollection is that he really didn't care about applications of his work, but he liked the fact that it was, that Rabin was able to use it. It's my gross recollection, in other words it didn't matter to him so much that things could have applications.
+
+I think Rabin had a sense that he didn't quite appreciate what went on in the work, but the fact that Rabin was [UNINTELLIGIBLE].
+
+WH:
+Yes I meant something more specific than maybe you did. What Tarski's view was of the fact that his decision procedure was shown to be... It was always clear that that decision procedure was nonfeasible, not polynomial time, but it was then proved that it couldn't be have been. There's a remarkin Doner-Mustowski-Tarski, their late paper on linear orderings or theories of ordinance about recent developments having taken the "gloss" off, and I think he refers to the well they refer to the [Lowell-Kurtz-Fuhls???] result.
+
+And it looks as if whoever wrote that sentence did regard the complexity result of Rabin and Fischer as somehow slightly tarnishing Tarski's original result.
+
+But can I, there's something I do want to come back to that and it's a reason why you might want to talk to Doner if you can. Anyway this paper, yes. Van den Dries was invited to write this paper, and also I think it was Vaught who suggested that we might try and get somebody to collect together, the...
+
+Well it amounted to two things in the end. One was a list of Tarski's problems and the other was a list of the various decision procedures that had been, well the quantifier eliminations that had been done by Tarski or under his patronage. Doner undertook to do this, to tackle these two things.
+
+He wrote round to quite a lot of people and asked if they knew of any problems of Tarski that should go in the list and got nothing useful back. 
+
+This was fairly late on in the getting these articles ready for the JSL and I was still missing two namely Van den Dries tends to produce a bit at the last moment, and a Doner who seemed to have been a bit wet on it. He'd written these letters but he didn't see anything that he could do.
+
+So at that point in order to chivy things, these people along a bit.
+
+AF:
+In order to doo what?
+
+WH:
+To chivy them along.
+
+AF:
+Chivy them? There's an expression I haven't heard
+
+WH:
+Oh I probably got it wrong but I thought that was
+
+AF:
+No, it's not English! Or it's not American
+
+WH:
+I wrote an article with some blank spaces in it, some to be filled by Doner and some to be filled by Van den Dries, which I then circulated to all the people involved in order to produce maximum impact.
+
+AF:
+How did it get so noisier I was just saying how it got so noisy all of a sudden? I'll move this a little closer to you. So go on.
+
+WH:
+This had the desired effect on Doner-
+
+AF:
+He filled in blank?
+
+WH:
+He filled in the blank spaces really very vigorously and promptly. Very interesting stuff he dug out about the 1938 or 1939 write up of the [Real Close Fields???] material.
+
+It was just the [Reals?] then I think the [Real Close Fields???] only appeared in the 1949. And it had the desired effect on Van den Dries too at least a manuscript from him appeared very soon afterwards. So as intended it was a success but as not intended it was rather a disaster because Vaught was very angry at what he claimed were multiple distortions and inappropriate style.
+
+AF:
+Not Tarski's style in other words
+
+WH:
+Well I don't know 
+
+SF:
+And he fingered you as the-
+
+WH:
+Well, yes I accept responsibility for it. I've written it.
+
+AF:
+In an inappropriate style is that what you're saying?
+
+WH:
+Well that's my phrasing
+
+AF:
+Yeah right that's what I want your phrasing.
+
+WH:
+What he seemed most annoyed about was a suggestion that Tarski in the 1930 seminar in Warsaw wasn't greatly interested in the matter of decidability, he was much more interested in surveying the complete extensions of a given theory. And the decidability came to the fore in Tarski's own words when Tarski went to work with the Rand Corporation.
+
+AF:
+The Rand Corporation?
+
+WH:
+The Rand Corporation. This is Tarski, the book that Tarski wrote in 1948 I think, footnotes in 1949 where he says in the preface that he's brought decidability questions to the fore because of the situation in which he's now working.
+
+Of course it's after Church's thesis and I want to come back to that. Church's thesis wasn't there in 1930 and decidability was a slightly vague idea. But I had a very difficult conversation with Vaught that lasted about 50 minutes. He was obviously quite unaware of the possible costs of this! That may have been that may be confusing, that may have been earlier in the business but I rewrote the relevant sections and Vaught was so angry at this point and felt that his points had not been met. I got a letter signed by Vaught and Henkin together saying that what I'd written was a disgrace because of the many factual errors and inappropriate wordings in it. They insisted that I should send the article to six people, that they named, for these six people's comments which would set me right.
+
+Now I don't remember who all of them were but they included McIntyre and Tarski, sorry and Kleene and Church and Gregory Moore.
+
+AF:
+Now this is when and what year?
+
+WH:
+Somewhere around eighty six.
+
+[RECORDING ENDS]
