@@ -1,0 +1,3038 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4821.120000
+tiers? <exists>
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "default"
+        xmin = 0.000000
+        xmax = 4821.120000
+        intervals: size = 1
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 4821.120000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "SPEAKER_00"
+        xmin = 0.000000
+        xmax = 4821.120000
+        intervals: size = 19
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 688.960000
+            text = ""
+        intervals [2]:
+            xmin = 688.960000
+            xmax = 699.760000
+            text = "I wondered whether I could comment on Just like a very short question just to pick up this intervention and turn it into a sharper question."
+        intervals [3]:
+            xmin = 699.760000
+            xmax = 701.520000
+            text = ""
+        intervals [4]:
+            xmin = 701.520000
+            xmax = 712.240000
+            text = "You were very precise about many things, but I'm afraid not so precise about I think what was your crucial thesis, namely, is the Turing machine a model of human mind?"
+        intervals [5]:
+            xmin = 712.240000
+            xmax = 712.400000
+            text = ""
+        intervals [6]:
+            xmin = 712.400000
+            xmax = 714.000000
+            text = "Now, what do you mean by model?"
+        intervals [7]:
+            xmin = 714.000000
+            xmax = 714.400000
+            text = ""
+        intervals [8]:
+            xmin = 714.400000
+            xmax = 724.080000
+            text = "Because if you mean by model that we produce proofs, mathematical proofs is a Turing machine does, I don't think we need Builder's Theorem to say that we don't."
+        intervals [9]:
+            xmin = 724.080000
+            xmax = 725.680000
+            text = ""
+        intervals [10]:
+            xmin = 725.680000
+            xmax = 730.960000
+            text = "But if it is so, the Builder's Theorem has no relevance to this whole problem."
+        intervals [11]:
+            xmin = 730.960000
+            xmax = 731.040000
+            text = ""
+        intervals [12]:
+            xmin = 731.040000
+            xmax = 732.960000
+            text = "How this of course worries me."
+        intervals [13]:
+            xmin = 732.960000
+            xmax = 733.280000
+            text = ""
+        intervals [14]:
+            xmin = 733.280000
+            xmax = 758.960000
+            text = "On the other hand, what you said that perhaps it can be said that if we are the torturing machines, then we can't obey Socrates advice, again, Socrates certainly didn't mean that we should know ourselves perfectly, and again, I don't see how Guda's CoreMs has the slightest relevance to the issues discussed."
+        intervals [15]:
+            xmin = 758.960000
+            xmax = 4364.560000
+            text = ""
+        intervals [16]:
+            xmin = 4364.560000
+            xmax = 4367.200000
+            text = "Well it doesn't vanish entirely."
+        intervals [17]:
+            xmin = 4367.200000
+            xmax = 4392.240000
+            text = ""
+        intervals [18]:
+            xmin = 4392.240000
+            xmax = 4394.480000
+            text = "So still certain problems exist."
+        intervals [19]:
+            xmin = 4394.480000
+            xmax = 4821.120000
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "SPEAKER_01"
+        xmin = 0.000000
+        xmax = 4821.120000
+        intervals: size = 733
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 7.840000
+            text = "Now, similarly, the second condition is that I can prove of W sub J that it is a subset of my output."
+        intervals [2]:
+            xmin = 7.840000
+            xmax = 7.920000
+            text = ""
+        intervals [3]:
+            xmin = 7.920000
+            xmax = 12.160000
+            text = "Now it will not suffice that W sub J merely be a subset of my output."
+        intervals [4]:
+            xmin = 12.160000
+            xmax = 12.320000
+            text = ""
+        intervals [5]:
+            xmin = 12.320000
+            xmax = 28.480000
+            text = "I must be able to identify it as such, and not just simply identify it as such, but identify it as such by that name, by the name WJ, and by a name which reveals its program, by a name and some standard enumeration on the basis of which I can recover the program from the name."
+        intervals [6]:
+            xmin = 28.480000
+            xmax = 28.560000
+            text = ""
+        intervals [7]:
+            xmin = 28.560000
+            xmax = 32.240000
+            text = "Again, the reason for the distinction will emerge later, in this case in step fourteen."
+        intervals [8]:
+            xmin = 32.240000
+            xmax = 32.720000
+            text = ""
+        intervals [9]:
+            xmin = 32.720000
+            xmax = 39.600000
+            text = "Finally, the third condition on WJ is that I be a subset of it, or more precisely, that my closure on the first order logic be a one."
+        intervals [10]:
+            xmin = 39.600000
+            xmax = 39.920000
+            text = ""
+        intervals [11]:
+            xmin = 39.920000
+            xmax = 43.840000
+            text = "This corresponds to the assumption that my closure on the first order logic is a subset of the Turing Machine."
+        intervals [12]:
+            xmin = 43.840000
+            xmax = 43.920000
+            text = ""
+        intervals [13]:
+            xmin = 43.920000
+            xmax = 53.520000
+            text = "To assume this is to assume the negation of what Lucas wants to prove, for if S star is a subset of WJ, then there is a machine WJ which can prove everything I can prove and possibly mortal."
+        intervals [14]:
+            xmin = 53.520000
+            xmax = 53.600000
+            text = ""
+        intervals [15]:
+            xmin = 53.600000
+            xmax = 57.760000
+            text = "Note that nine C is not equivalent to the supposition that I am a Turing Machine."
+        intervals [16]:
+            xmin = 57.760000
+            xmax = 57.840000
+            text = ""
+        intervals [17]:
+            xmin = 57.840000
+            xmax = 59.680000
+            text = "It pails to be equivalent in two ways."
+        intervals [18]:
+            xmin = 59.680000
+            xmax = 59.840000
+            text = ""
+        intervals [19]:
+            xmin = 59.840000
+            xmax = 68.800000
+            text = "The most obvious, of course, is that it does not assert that S star equals WJ, although the identity follows from nine b and the fact that only truth can be proved."
+        intervals [20]:
+            xmin = 68.800000
+            xmax = 69.120000
+            text = ""
+        intervals [21]:
+            xmin = 69.120000
+            xmax = 75.680000
+            text = "The less obvious way is that for me to be a Turing Machine would be for S to be identical to WJ."
+        intervals [22]:
+            xmin = 75.680000
+            xmax = 75.920000
+            text = ""
+        intervals [23]:
+            xmin = 75.920000
+            xmax = 79.920000
+            text = "So nine C might be true, and I might not be a Turing Machine."
+        intervals [24]:
+            xmin = 79.920000
+            xmax = 80.000000
+            text = ""
+        intervals [25]:
+            xmin = 80.000000
+            xmax = 83.120000
+            text = "Of course, not in the way in which Lucas would have me fail to be one."
+        intervals [26]:
+            xmin = 83.120000
+            xmax = 83.440000
+            text = ""
+        intervals [27]:
+            xmin = 83.440000
+            xmax = 95.760000
+            text = "Lucas argues that the mind is not a Turing Machine on the grounds that it can prove more than any Turing Machine, but it may still fail to be a Turing Machine by being able to prove less than any given machine adequate for arithmetic and satisfying nine A and nine B."
+        intervals [28]:
+            xmin = 95.760000
+            xmax = 96.240000
+            text = ""
+        intervals [29]:
+            xmin = 96.240000
+            xmax = 100.480000
+            text = "I don't know if this would be much solace to Lucas, but the possibility is worth noting here."
+        intervals [30]:
+            xmin = 100.480000
+            xmax = 100.720000
+            text = ""
+        intervals [31]:
+            xmin = 100.720000
+            xmax = 115.760000
+            text = "If his argument for the nonmachinehood of the mind is based on the supposition that the mind can prove more than any machine should fail, he might like to avail himself of the view that minds are limited to proving what turn out to be nondecursively newerable subsets of what perfectly sound machines can prove."
+        intervals [32]:
+            xmin = 115.760000
+            xmax = 115.840000
+            text = ""
+        intervals [33]:
+            xmin = 115.840000
+            xmax = 119.760000
+            text = "In any event, I use nine C in this reconstruction because this is the way Lucas argues."
+        intervals [34]:
+            xmin = 119.760000
+            xmax = 119.840000
+            text = ""
+        intervals [35]:
+            xmin = 119.840000
+            xmax = 123.840000
+            text = "He thinks that the reason we are not machines is that we can prove more than any machine."
+        intervals [36]:
+            xmin = 123.840000
+            xmax = 124.160000
+            text = ""
+        intervals [37]:
+            xmin = 124.160000
+            xmax = 130.720000
+            text = "The way in which nine will be used is that what follows will be proved for any WJ satisfying it, should there be any."
+        intervals [38]:
+            xmin = 130.720000
+            xmax = 130.880000
+            text = ""
+        intervals [39]:
+            xmin = 130.880000
+            xmax = 135.280000
+            text = "If nine leads to a contradiction, then there is no Turing machine satisfying all three parts of nine."
+        intervals [40]:
+            xmin = 135.280000
+            xmax = 135.520000
+            text = ""
+        intervals [41]:
+            xmin = 135.520000
+            xmax = 138.240000
+            text = "What this would establish will of course require some discussion."
+        intervals [42]:
+            xmin = 138.240000
+            xmax = 138.320000
+            text = ""
+        intervals [43]:
+            xmin = 138.320000
+            xmax = 144.880000
+            text = "But to continue the argument Q is a subset of WJ This follows from nine a since whatever can be proved must be true."
+        intervals [44]:
+            xmin = 144.880000
+            xmax = 144.960000
+            text = ""
+        intervals [45]:
+            xmin = 144.960000
+            xmax = 153.040000
+            text = "eleven There is a formula g having the girdle properties such that if g is in Wj, so is not g and Wj is inconsistent."
+        intervals [46]:
+            xmin = 153.040000
+            xmax = 153.440000
+            text = ""
+        intervals [47]:
+            xmin = 153.440000
+            xmax = 172.800000
+            text = "This is a version of the first half of the Girdle theorem first Girdle theorem as applied to W subj since by ten WJ is adequate for arithmetic and by nine it's equivalent to a formal system So pronwj horseshoe G is a theorem of WJ."
+        intervals [48]:
+            xmin = 172.800000
+            xmax = 173.120000
+            text = ""
+        intervals [49]:
+            xmin = 173.120000
+            xmax = 174.720000
+            text = "It belongs to the set WJ."
+        intervals [50]:
+            xmin = 174.720000
+            xmax = 174.880000
+            text = ""
+        intervals [51]:
+            xmin = 174.880000
+            xmax = 181.520000
+            text = "Again, since by nine and ten WJ is formal and adequate for arithmetic this is the second girdle theorem WJ."
+        intervals [52]:
+            xmin = 181.520000
+            xmax = 181.760000
+            text = ""
+        intervals [53]:
+            xmin = 181.760000
+            xmax = 186.480000
+            text = "That is that if WJ is consistent then G is provable itself in WJ."
+        intervals [54]:
+            xmin = 186.480000
+            xmax = 186.720000
+            text = ""
+        intervals [55]:
+            xmin = 186.720000
+            xmax = 207.040000
+            text = "Note now that concerning the antecedent of the sentence mentioned in twelve is not underlined while it is underlined wherever it appears previously in this proof in particularly in steps three through eight is it because con WJ not underlined must be in the form appropriate to mirror the first half of the first girdle theorem in WJ itself."
+        intervals [56]:
+            xmin = 207.040000
+            xmax = 207.280000
+            text = ""
+        intervals [57]:
+            xmin = 207.280000
+            xmax = 235.600000
+            text = "There's an abbreviation for some sentence in which the program for WJ is coded in the proof predicate in particular we're not entitled to assume without proof that if Conwj underlying Conwj is an STAR, that if I can prove that WJ is consistent in some other sense of consistency then necessarily I can also prove that WJ's sentence expressed meaning WJ, the consistency of WJ is true."
+        intervals [58]:
+            xmin = 235.600000
+            xmax = 235.920000
+            text = ""
+        intervals [59]:
+            xmin = 235.920000
+            xmax = 251.200000
+            text = "We'll therefore keep them these two senses of consistently at least typographically distinct thirteen Now if WJ is a subset of STAR then WJ is consistent this broad sense of consistent that statement is one I can prove there that belongs to STAR."
+        intervals [60]:
+            xmin = 251.200000
+            xmax = 251.280000
+            text = ""
+        intervals [61]:
+            xmin = 251.280000
+            xmax = 260.480000
+            text = "That follows from eight since STAR is followed in the first order of logic and this is an instantiation of it fourteen Scott WJ is consistent belongs to STAR."
+        intervals [62]:
+            xmin = 260.480000
+            xmax = 260.720000
+            text = ""
+        intervals [63]:
+            xmin = 260.720000
+            xmax = 265.840000
+            text = "That comes from nine B thirteen and the fact that STAR is closed under modus ponens."
+        intervals [64]:
+            xmin = 265.840000
+            xmax = 266.000000
+            text = ""
+        intervals [65]:
+            xmin = 266.000000
+            xmax = 281.280000
+            text = "The use made here of nine B illustrates the fact that not only need I be able to prove everything the machine WJ can prove, but I also need to be able to prove that even to obtain the consistency of WJ in this weaker form or this possibly weaker form."
+        intervals [66]:
+            xmin = 281.280000
+            xmax = 281.360000
+            text = ""
+        intervals [67]:
+            xmin = 281.360000
+            xmax = 289.440000
+            text = "It would of course have sufficed to assume fourteen directly instead of nine b we must be a bit circuitous if we were to give Lucas' argument the appearance of an argument."
+        intervals [68]:
+            xmin = 289.440000
+            xmax = 289.520000
+            text = ""
+        intervals [69]:
+            xmin = 289.520000
+            xmax = 345.120000
+            text = "It's important to dig out some reasons why he might think that he can prove the consistency of WJ fifteen This is sort of complicated fifteen says that for any number x sorry but I'm almost done okay well let's skip fifteen take it for granted that fifteen follows and sixteen is an instantiation of fifteen now by nine a fourteen and the closure of STAR are the truth functions we have seventeen that meant that WJ is consistent in the relevant sense is in STAR and now STAR contains a consistency of WJ in the usable form so we can now feed it into the antecedent of the formula of step twelve provided of course we can show that WJ is consistent is in WJ."
+        intervals [70]:
+            xmin = 345.120000
+            xmax = 345.440000
+            text = ""
+        intervals [71]:
+            xmin = 345.440000
+            xmax = 348.160000
+            text = "But now this is where assumption nine C comes in."
+        intervals [72]:
+            xmin = 348.160000
+            xmax = 348.320000
+            text = ""
+        intervals [73]:
+            xmin = 348.320000
+            xmax = 360.800000
+            text = "If S star is part of the output of some Turing machine then that turing machine can prove its own consistency it is therefore inconsistent and we have nineteen G not g are in WJ and WJ is inconsistent."
+        intervals [74]:
+            xmin = 360.800000
+            xmax = 360.880000
+            text = ""
+        intervals [75]:
+            xmin = 360.880000
+            xmax = 369.200000
+            text = "This follows from nine b that Wj is a subset of S star, therefore g and not g are in star and star is inconsistent, contradicting free."
+        intervals [76]:
+            xmin = 369.200000
+            xmax = 369.680000
+            text = ""
+        intervals [77]:
+            xmin = 369.680000
+            xmax = 375.200000
+            text = "S is also inconsistent but perhaps only semantically so depending on exposure properties about which nothing has been assumed."
+        intervals [78]:
+            xmin = 375.200000
+            xmax = 375.280000
+            text = ""
+        intervals [79]:
+            xmin = 375.280000
+            xmax = 378.080000
+            text = "It would seem to follow that there is no machine satisfying nine."
+        intervals [80]:
+            xmin = 378.080000
+            xmax = 378.400000
+            text = ""
+        intervals [81]:
+            xmin = 378.400000
+            xmax = 384.400000
+            text = "If we review the above argument, we can see that the contradiction was derived from our tripartite assumption nine plus definitions one and two."
+        intervals [82]:
+            xmin = 384.400000
+            xmax = 384.640000
+            text = ""
+        intervals [83]:
+            xmin = 384.640000
+            xmax = 388.320000
+            text = "Assuming that the definitions are not to be questioned, then it seems that we must reject nine."
+        intervals [84]:
+            xmin = 388.320000
+            xmax = 388.480000
+            text = ""
+        intervals [85]:
+            xmin = 388.480000
+            xmax = 402.480000
+            text = "Lucas argues that Girdel's theorems imply the negation of nine c, that I can prove more than any Turing machine adequate for arithmetic as always I have it, the negation of nine c amounts to my closure on the rules of first order logic being able to prove more than any Turing machine."
+        intervals [86]:
+            xmin = 402.480000
+            xmax = 402.560000
+            text = ""
+        intervals [87]:
+            xmin = 402.560000
+            xmax = 404.800000
+            text = "In any event, I suggest that they imply no such thing."
+        intervals [88]:
+            xmin = 404.800000
+            xmax = 404.880000
+            text = ""
+        intervals [89]:
+            xmin = 404.880000
+            xmax = 409.600000
+            text = "At best Girdel theorems imply the negation of the conjunction of nine, A, B, and C."
+        intervals [90]:
+            xmin = 409.600000
+            xmax = 409.920000
+            text = ""
+        intervals [91]:
+            xmin = 409.920000
+            xmax = 423.360000
+            text = "They imply that given any Turing machine WJ, either I cannot prove that WJ is adequate for arithmetic, or if I am a subset of WJ, then I cannot prove that I can prove everything WJ can."
+        intervals [92]:
+            xmin = 423.360000
+            xmax = 423.520000
+            text = ""
+        intervals [93]:
+            xmin = 423.520000
+            xmax = 431.840000
+            text = "It seems to be consistent with all this that I am indeed a Turing Machine, but one with such a complex machine table of program that I cannot ascertain what it is."
+        intervals [94]:
+            xmin = 431.840000
+            xmax = 432.000000
+            text = ""
+        intervals [95]:
+            xmin = 432.000000
+            xmax = 436.720000
+            text = "In a relevant sense, if I am a Turing Machine, then perhaps I cannot ascertain which one."
+        intervals [96]:
+            xmin = 436.720000
+            xmax = 436.960000
+            text = ""
+        intervals [97]:
+            xmin = 436.960000
+            xmax = 444.480000
+            text = "In the absence of such knowledge, I can cheerfully go around proving my own consistency, but not in an arithmetic way, not using my own proof predicate."
+        intervals [98]:
+            xmin = 444.480000
+            xmax = 444.640000
+            text = ""
+        intervals [99]:
+            xmin = 444.640000
+            xmax = 445.520000
+            text = "Ignorance is bliss."
+        intervals [100]:
+            xmin = 445.520000
+            xmax = 445.680000
+            text = ""
+        intervals [101]:
+            xmin = 445.680000
+            xmax = 453.120000
+            text = "Of course, I might be an inconsistent Turing machine, and Lucas' protestations to the contrary are not very convincing they sound like so much whistling in the dark."
+        intervals [102]:
+            xmin = 453.120000
+            xmax = 453.280000
+            text = ""
+        intervals [103]:
+            xmin = 453.280000
+            xmax = 456.960000
+            text = "Actually, the result that we have obtained is a bit stronger than I make out in the last paragraph."
+        intervals [104]:
+            xmin = 456.960000
+            xmax = 457.120000
+            text = ""
+        intervals [105]:
+            xmin = 457.120000
+            xmax = 482.080000
+            text = "If I am a Turing Machine, not only can I not ascertain which one, but neither can I ascertain of any instantiation of the machine that I happen to be, that it is an extantiation of that machine, I need in no way identify it with myself, for if presented with a machine with my program in such a way that I can decipher its program, then by the argument I gave, if everything else holds, I can prove its consistency, and then we are both inconsistent, contradicting three."
+        intervals [106]:
+            xmin = 482.080000
+            xmax = 482.400000
+            text = ""
+        intervals [107]:
+            xmin = 482.400000
+            xmax = 491.520000
+            text = "This is represented in my argument by the fact that for the contradiction, I needed only nine C and not the stronger assumption that the sentence in nine C belongs to West Star."
+        intervals [108]:
+            xmin = 491.520000
+            xmax = 491.840000
+            text = ""
+        intervals [109]:
+            xmin = 491.840000
+            xmax = 497.680000
+            text = "Together with nine b, that would have required me to know or be able to prove that I am the Turing Machine that I am."
+        intervals [110]:
+            xmin = 497.680000
+            xmax = 497.920000
+            text = ""
+        intervals [111]:
+            xmin = 497.920000
+            xmax = 509.280000
+            text = "As things now stand, if there is a Turing Machine that can prove everything my first vote of closure can, then I cannot show of any instantiation of that machine both that it is adequate for arithmetic and that I can prove everything it can."
+        intervals [112]:
+            xmin = 509.280000
+            xmax = 509.360000
+            text = ""
+        intervals [113]:
+            xmin = 509.360000
+            xmax = 513.039000
+            text = "This result, though considerably weaker than what Lucas claims, seems still significant."
+        intervals [114]:
+            xmin = 513.039000
+            xmax = 513.120000
+            text = ""
+        intervals [115]:
+            xmin = 513.120000
+            xmax = 517.120000
+            text = "One person to whom I explained it concluded that psychology as we know it is therefore impossible."
+        intervals [116]:
+            xmin = 517.120000
+            xmax = 517.360000
+            text = ""
+        intervals [117]:
+            xmin = 517.360000
+            xmax = 527.280000
+            text = "If we're not at best turing machines, then it's impossible, and if we are, then there are certain things we cannot know about ourselves, or any others without the same with the same input excuse me, with the same output as ourselves."
+        intervals [118]:
+            xmin = 527.280000
+            xmax = 527.360000
+            text = ""
+        intervals [119]:
+            xmin = 527.360000
+            xmax = 528.480000
+            text = "I won't take sides."
+        intervals [120]:
+            xmin = 528.480000
+            xmax = 528.560000
+            text = ""
+        intervals [121]:
+            xmin = 528.560000
+            xmax = 543.120000
+            text = "But if we ignore the possibility that nine a might be false, then we can restate the import of Gerdel's theorem as follows If I am a Turing Machine, then I am barred by my very nature from obeying Socrates' profound philosophic injunction, Know thyself."
+        intervals [122]:
+            xmin = 543.120000
+            xmax = 565.440000
+            text = ""
+        intervals [123]:
+            xmin = 565.440000
+            xmax = 570.960000
+            text = "I would like to question some of the really whether the whole argument is about the right thing."
+        intervals [124]:
+            xmin = 570.960000
+            xmax = 571.280000
+            text = ""
+        intervals [125]:
+            xmin = 571.280000
+            xmax = 580.000000
+            text = "Whether or not we are a touring machine, we are a machine of some sort or at least an object of some sort with inputs, and these inputs are quite general."
+        intervals [126]:
+            xmin = 580.000000
+            xmax = 580.640000
+            text = ""
+        intervals [127]:
+            xmin = 580.640000
+            xmax = 597.680000
+            text = "We have as much of the universe as we can perceive as a source of stimuli, at the very least even in rational ways, besides which the impingement of the universe upon our mechanism may also behave in some irrational ways, such as cosmic rays may come along and disturb the neurons in our brains occasionally so they flip the wrong way."
+        intervals [128]:
+            xmin = 597.680000
+            xmax = 598.000000
+            text = ""
+        intervals [129]:
+            xmin = 598.000000
+            xmax = 605.360000
+            text = "The result is this can be summed up by saying that whatever we are, the mind can inject a lot of noise into its deliberations."
+        intervals [130]:
+            xmin = 605.360000
+            xmax = 606.480000
+            text = ""
+        intervals [131]:
+            xmin = 606.480000
+            xmax = 621.760000
+            text = "If this noise is random, if there is such a thing as random, then it is not finitely describable and our behavior is not finitely describable, and we certainly do things that Turing machines don't do, because turing machines are finitely describable objects, and they are deterministic."
+        intervals [132]:
+            xmin = 621.760000
+            xmax = 621.920000
+            text = ""
+        intervals [133]:
+            xmin = 621.920000
+            xmax = 636.960000
+            text = "Therefore, I would propose that the real question to be considered in this issue is whether or not a suitable touring machine with adequate access to noise and other random effects upon its deliberations can do what the human mind can do."
+        intervals [134]:
+            xmin = 636.960000
+            xmax = 637.040000
+            text = ""
+        intervals [135]:
+            xmin = 637.040000
+            xmax = 645.280000
+            text = "It is clear that if the human mind does have access to nondeterministic inputs, then of course it can do more than any Turing machine can."
+        intervals [136]:
+            xmin = 645.280000
+            xmax = 646.400000
+            text = ""
+        intervals [137]:
+            xmin = 646.400000
+            xmax = 647.440000
+            text = "It wasn't the question."
+        intervals [138]:
+            xmin = 647.440000
+            xmax = 651.360000
+            text = ""
+        intervals [139]:
+            xmin = 651.360000
+            xmax = 659.440000
+            text = "Yeah, well, I thought about this particular problem, but as you say, some things need to be finitely describable and papers have to be finitely expressable."
+        intervals [140]:
+            xmin = 659.440000
+            xmax = 659.840000
+            text = ""
+        intervals [141]:
+            xmin = 659.840000
+            xmax = 663.200000
+            text = "And there's a limit to how far I can go."
+        intervals [142]:
+            xmin = 663.200000
+            xmax = 663.280000
+            text = ""
+        intervals [143]:
+            xmin = 663.280000
+            xmax = 664.800000
+            text = "I didn't discuss machines with inputs."
+        intervals [144]:
+            xmin = 664.800000
+            xmax = 664.880000
+            text = ""
+        intervals [145]:
+            xmin = 664.880000
+            xmax = 673.360000
+            text = "Now, there's obviously depending on what kind of input, what kind of none effective input you put into a machine, you get a lot of give it very none effective outputs."
+        intervals [146]:
+            xmin = 673.360000
+            xmax = 673.440000
+            text = ""
+        intervals [147]:
+            xmin = 673.440000
+            xmax = 680.560000
+            text = "And if we're hooked up to some truth predicate for arithmetic, for example, then we can decide the truth of arithmetic."
+        intervals [148]:
+            xmin = 680.560000
+            xmax = 680.720000
+            text = ""
+        intervals [149]:
+            xmin = 680.720000
+            xmax = 684.720000
+            text = "If cosmic rays have the right pattern, possibly so, but that's a long story."
+        intervals [150]:
+            xmin = 684.720000
+            xmax = 686.560000
+            text = ""
+        intervals [151]:
+            xmin = 686.560000
+            xmax = 688.720000
+            text = "See, Professor Putnam had a comment on that."
+        intervals [152]:
+            xmin = 688.720000
+            xmax = 762.240000
+            text = ""
+        intervals [153]:
+            xmin = 762.240000
+            xmax = 770.000000
+            text = "Well, I would say two things, the slightest relevance to the issues I discuss, I'll come to, I think, later."
+        intervals [154]:
+            xmin = 770.000000
+            xmax = 770.240000
+            text = ""
+        intervals [155]:
+            xmin = 770.240000
+            xmax = 776.960000
+            text = "About your first question, I was imprecise about what it is for the Turing Machine to be a model for the mind."
+        intervals [156]:
+            xmin = 776.960000
+            xmax = 777.280000
+            text = ""
+        intervals [157]:
+            xmin = 777.280000
+            xmax = 804.000000
+            text = "You're right, in a section, which I omitted, I said I said I was being imprecise, but I was precise enough in the following respect, namely, that I should think that whatever it is, and I think Lucas argues this too, that whatever it is that you take as being adequate as a model, the output of the model must match the output of what it is a model for."
+        intervals [158]:
+            xmin = 804.000000
+            xmax = 804.320000
+            text = ""
+        intervals [159]:
+            xmin = 804.320000
+            xmax = 809.920000
+            text = "Now, if you can show, this would be a logical consequence of something being an adequate model."
+        intervals [160]:
+            xmin = 809.920000
+            xmax = 810.320000
+            text = ""
+        intervals [161]:
+            xmin = 810.320000
+            xmax = 818.640000
+            text = "If you can show that that's impossible, then whatever other properties being a model for the mind has is irrelevant."
+        intervals [162]:
+            xmin = 818.640000
+            xmax = 818.800000
+            text = ""
+        intervals [163]:
+            xmin = 818.800000
+            xmax = 819.760000
+            text = "It can't be a model."
+        intervals [164]:
+            xmin = 819.760000
+            xmax = 819.840000
+            text = ""
+        intervals [165]:
+            xmin = 819.840000
+            xmax = 826.320000
+            text = "If this is a necessary condition, a necessary condition cannot be satisfied, then I don't care what other properties, you don't have to be any more precise than that."
+        intervals [166]:
+            xmin = 826.320000
+            xmax = 826.560000
+            text = ""
+        intervals [167]:
+            xmin = 826.560000
+            xmax = 848.080000
+            text = "Now that's one comment, in respect to whether it's irrelevant, it might well be irrelevant, but if this previous comment that I made is correct, and if the argument I present is correct, then it's not irrelevant because it entails a negation of a conjunction of statements, one of which is an adequate model for the mind."
+        intervals [168]:
+            xmin = 848.080000
+            xmax = 849.840000
+            text = ""
+        intervals [169]:
+            xmin = 849.840000
+            xmax = 885.680000
+            text = "Drive Robinson's question, I originally in my paper, I had a paragraph which I cut out on similar points about how unrealistic the discussion is that for example, even if we could be made immortal as Lucas' argument presupposes and also supplied with an infinite amount of note paper to write arbitrarily long proofs and arbitrarily long tablets errors would creep in, human memory is limited and the argument you could use an external slow memory doesn't work because you'd have to hold in mind for an indefinitely long period of time what you were searching the slow memory for and so on."
+        intervals [170]:
+            xmin = 885.680000
+            xmax = 886.080000
+            text = ""
+        intervals [171]:
+            xmin = 886.080000
+            xmax = 901.760000
+            text = "Then it occurred to me really that I don't think this is a killer against Lucas because I think Lucas has a reasonable reply to both the points you raised considers them On the external inputs thing he can simply say, well I'm assuming that we don't use empirical information in pure mathematics."
+        intervals [172]:
+            xmin = 901.760000
+            xmax = 902.000000
+            text = ""
+        intervals [173]:
+            xmin = 902.000000
+            xmax = 905.520000
+            text = "I don't care what inputs are supplied, I'm not allowed to use them."
+        intervals [174]:
+            xmin = 905.520000
+            xmax = 905.600000
+            text = ""
+        intervals [175]:
+            xmin = 905.600000
+            xmax = 934.880000
+            text = "I'm considering a mathematician who may learn a lot from his experience what his girlfriend is like and human nature and physics and so on, but who this is not supposed to influence what he counts as a proof You might say well it might influence it in the way that might call to attention some possibilities he wouldn't have otherwise thought of Okay if inputs are relevant that way though then just consider a Turing machine which considers since it has an infinite amount of future time all possible experiences it could have."
+        intervals [176]:
+            xmin = 934.880000
+            xmax = 935.120000
+            text = ""
+        intervals [177]:
+            xmin = 935.120000
+            xmax = 982.000000
+            text = "That can be enumerated, all possible finite sequences of inputs are tried out then it would still be a recursively enumerable set what it could prove and that and the meaning of random would not even arise it considers all possible finite input sequences are random and not random With respect to the second speaker's statement that one can show anyway that the human mind does not prove theorems in the way a turing machine does literally no I don't think the mind is a paper tape for example but I assume the notion of a probabilistic automaton state deterministic or probabilistic change of state can be suitably generalized so that that is an important objection it can still be shown even with all this generalization that human beings are not say probabilistic automata well and good."
+        intervals [178]:
+            xmin = 982.000000
+            xmax = 982.320000
+            text = ""
+        intervals [179]:
+            xmin = 982.320000
+            xmax = 986.160000
+            text = "Then one would have to show me that in this sense of show what can be shown is true."
+        intervals [180]:
+            xmin = 986.160000
+            xmax = 987.040000
+            text = ""
+        intervals [181]:
+            xmin = 987.040000
+            xmax = 1003.440000
+            text = "Now I know that other than what we used to the discussion has assumed the character of a general discussion which we were planning to postpone for the time when all speeches are completed."
+        intervals [182]:
+            xmin = 1003.440000
+            xmax = 1003.520000
+            text = ""
+        intervals [183]:
+            xmin = 1003.520000
+            xmax = 1007.840000
+            text = "So would you mind belay your comments at this moment?"
+        intervals [184]:
+            xmin = 1007.840000
+            xmax = 1007.920000
+            text = ""
+        intervals [185]:
+            xmin = 1007.920000
+            xmax = 1050.320000
+            text = "You would be the first speaker in the general so then we shall make again a short decision three minutes only okay Thatcher Mr I have been asked to make one announcement Mr Robert Battle is asked to call his room his hotel room and now we turn to the last part of our program."
+        intervals [186]:
+            xmin = 1050.320000
+            xmax = 1050.640000
+            text = ""
+        intervals [187]:
+            xmin = 1050.640000
+            xmax = 1066.320000
+            text = "Our speaker is Professor Dach My paper is titled Truth and Proof The first section is on Lucas' arguments."
+        intervals [188]:
+            xmin = 1066.320000
+            xmax = 1066.720000
+            text = ""
+        intervals [189]:
+            xmin = 1066.720000
+            xmax = 1073.520000
+            text = "As Nasaref has pointed out the arguments of Lucas do not show that human beings are not automatic."
+        intervals [190]:
+            xmin = 1073.520000
+            xmax = 1074.640000
+            text = ""
+        intervals [191]:
+            xmin = 1074.640000
+            xmax = 1100.960000
+            text = "I tried to avoid technical language in this paper like Turing I didn't have Yep in the technical sense of the perch of the most that Lucas's arguments might have shown had they been correct is that paradoxically if human beings are automata then if they wish to be consistent mathematicians it is incumbent upon them to refuse to believe that they are automata."
+        intervals [192]:
+            xmin = 1100.960000
+            xmax = 1101.440000
+            text = ""
+        intervals [193]:
+            xmin = 1101.440000
+            xmax = 1104.560000
+            text = "To be sure there does seem to be somewhat of a paradox here."
+        intervals [194]:
+            xmin = 1104.560000
+            xmax = 1104.720000
+            text = ""
+        intervals [195]:
+            xmin = 1104.720000
+            xmax = 1126.800000
+            text = "I believe that the paradox can be stated in this way let s be any set of truths say in the language of set theory that I can list then if it is possible to define the set s in number theory or even in set theory I can construct a certain sentence the diagonal sentence for Such that sentence is obviously true and in the language of set theory but not in the set s."
+        intervals [196]:
+            xmin = 1126.800000
+            xmax = 1127.440000
+            text = ""
+        intervals [197]:
+            xmin = 1127.440000
+            xmax = 1137.840000
+            text = "It seems to follow that if I can ever arrive at a set theoretic characterization of the set s a set theoretic truths that I can list, then I can list the set theoretic truth that is not in the list."
+        intervals [198]:
+            xmin = 1137.840000
+            xmax = 1138.000000
+            text = ""
+        intervals [199]:
+            xmin = 1138.000000
+            xmax = 1141.200000
+            text = "That is I can list the set theoretic truths that I cannot list."
+        intervals [200]:
+            xmin = 1141.200000
+            xmax = 1141.840000
+            text = ""
+        intervals [201]:
+            xmin = 1141.840000
+            xmax = 1150.880000
+            text = "The reasoning just drawn through depends not upon Verdel's truth of Verdel's theorem but upon the version due to Professor Tarsky exploits the Menides paradox."
+        intervals [202]:
+            xmin = 1150.880000
+            xmax = 1151.200000
+            text = ""
+        intervals [203]:
+            xmin = 1151.200000
+            xmax = 1190.000000
+            text = "Thus we see that not Lucas' conclusion but still a sufficiently paradoxical conclusion that any creature, automaton or not with sufficient insight to diagonalize must either A lack the insight to characterize the set of mathematical truths it can list assuming that set to possess a set theoretic definition or B be able to list the set of mathematical truths which is so irregular that it is incapable of exact definition even in the language of all set theory a much more sounding conclusion than the conclusion that the set is not a recursively enumerable set, which is what Lucas claims to be able to prove."
+        intervals [204]:
+            xmin = 1190.000000
+            xmax = 1191.680000
+            text = ""
+        intervals [205]:
+            xmin = 1191.680000
+            xmax = 1201.920000
+            text = "In order to drive the paradox home, let us suppose that we are in fact a comment and that we have succeeded by empirical investigation in determining our own machine table."
+        intervals [206]:
+            xmin = 1201.920000
+            xmax = 1202.480000
+            text = ""
+        intervals [207]:
+            xmin = 1202.480000
+            xmax = 1233.120000
+            text = "So we must know what the class s of mathematical truths that is truths in the language of set theory is that we can list for presumably this is a straightforward function of the machine table but that we must be able to list the mathematical proof that we cannot list contradiction One way out is to conclude with Lucas that we have just proved that we are not automata unfortunately if we were automatop then we might perfectly well have convinced ourselves that we were not automaton by just this very bit of reasoning."
+        intervals [208]:
+            xmin = 1233.120000
+            xmax = 1233.840000
+            text = ""
+        intervals [209]:
+            xmin = 1233.840000
+            xmax = 1235.760000
+            text = "So something is surely wrong."
+        intervals [210]:
+            xmin = 1235.760000
+            xmax = 1237.440000
+            text = ""
+        intervals [211]:
+            xmin = 1237.440000
+            xmax = 1243.440000
+            text = "What has gone wrong is this let A be an automaton and let M be the machine table of A."
+        intervals [212]:
+            xmin = 1243.440000
+            xmax = 1243.920000
+            text = ""
+        intervals [213]:
+            xmin = 1243.920000
+            xmax = 1251.200000
+            text = "We will suppose that A, instead of operating on a paper tape in the usual fashion is an automaton that resembles a human being."
+        intervals [214]:
+            xmin = 1251.200000
+            xmax = 1251.840000
+            text = ""
+        intervals [215]:
+            xmin = 1251.840000
+            xmax = 1259.600000
+            text = "The instructions listed in A's machine table will accordingly be more complicated than the instructions in the machine table of the usual Turing machine."
+        intervals [216]:
+            xmin = 1259.600000
+            xmax = 1260.080000
+            text = ""
+        intervals [217]:
+            xmin = 1260.080000
+            xmax = 1265.360000
+            text = "They will include the instructions to move arms or legs or mouth, produce speech and all the rest of it."
+        intervals [218]:
+            xmin = 1265.360000
+            xmax = 1265.760000
+            text = ""
+        intervals [219]:
+            xmin = 1265.760000
+            xmax = 1316.560000
+            text = "If we reflect on this case for a moment it quickly becomes apparent that we have no idea what he meant by the set of mathematical truths that A can list list indeed if we abstract from such actual human limitations mortality and finite memory as Lucas does and imagine that A is able to live forever and somehow acquires a potentially infinite external slow memory say in the form of a potentially infinite supply of writing paper and pencils for carrying out computations then in one sense of list A can list all mathematical truths for A can list the wellformed formulas of set theory and surely these include all the truths of set theory no matter what sense may be given the truth of set theory a question which will be the main burden of this paper to discuss."
+        intervals [220]:
+            xmin = 1316.560000
+            xmax = 1318.240000
+            text = ""
+        intervals [221]:
+            xmin = 1318.240000
+            xmax = 1341.200000
+            text = "It will be objected that Lucas did not employ the notion of listing mathematical truths, he employed the notion of proving mathematical truths so much the worse for if it is not clear in precisely what sense we are to take the expression mathematical truths that A can list, it is even less clear in what sense we should take the expression mathematical truths that A can approve."
+        intervals [222]:
+            xmin = 1341.200000
+            xmax = 1342.000000
+            text = ""
+        intervals [223]:
+            xmin = 1342.000000
+            xmax = 1348.960000
+            text = "Suppose that we identify one or more of A's internal states as the state of being convinced that such and such is the case."
+        intervals [224]:
+            xmin = 1348.960000
+            xmax = 1349.520000
+            text = ""
+        intervals [225]:
+            xmin = 1349.520000
+            xmax = 1360.480000
+            text = "One possible definition of proof is this A can prove S if there is some argument such that if A reads that argument then A will be convinced that S is true."
+        intervals [226]:
+            xmin = 1360.480000
+            xmax = 1361.360000
+            text = ""
+        intervals [227]:
+            xmin = 1361.360000
+            xmax = 1380.080000
+            text = "Unfortunately if A resembles a human mathematician then in this sense of proof there are some false statements that A can prove for every human mathematician is sometimes convinced by a falacious argument since the class of things that A can prove in this sense of proof is not a class of truths, the whole diagonal argument does not apply."
+        intervals [228]:
+            xmin = 1380.080000
+            xmax = 1380.640000
+            text = ""
+        intervals [229]:
+            xmin = 1380.640000
+            xmax = 1393.600000
+            text = "Now suppose we take proof in the following sense A can prove S one A can prove s in the sense previously explained and two S is true and the argument that convinces A can S is true is not fallacious."
+        intervals [230]:
+            xmin = 1393.600000
+            xmax = 1393.920000
+            text = ""
+        intervals [231]:
+            xmin = 1393.920000
+            xmax = 1400.080000
+            text = "Now the argument collapses because there is no reason for the class of things that A can prove to be set theoretically definable."
+        intervals [232]:
+            xmin = 1400.080000
+            xmax = 1400.400000
+            text = ""
+        intervals [233]:
+            xmin = 1400.400000
+            xmax = 1402.400000
+            text = "Let us however try a different tact."
+        intervals [234]:
+            xmin = 1402.400000
+            xmax = 1402.880000
+            text = ""
+        intervals [235]:
+            xmin = 1402.880000
+            xmax = 1420.080000
+            text = "Let us define a proof as an argument which satisfies two conditions one that it convinces A that a sentence S is true and two that there is no argument B such that if that argument B occurred to A, then A will become convinced that the first argument was fallacious."
+        intervals [236]:
+            xmin = 1420.080000
+            xmax = 1420.320000
+            text = ""
+        intervals [237]:
+            xmin = 1420.320000
+            xmax = 1433.520000
+            text = "In short, A can prove S means that if A were to work through all time examining all possible arguments then at some time T zero A would accept S and at no time T greater than T zero would A change its mind."
+        intervals [238]:
+            xmin = 1433.520000
+            xmax = 1435.280000
+            text = ""
+        intervals [239]:
+            xmin = 1435.280000
+            xmax = 1442.480000
+            text = "Let us assume that the things that A can prove in this math sense are all in fact true and call the set of these things as of one."
+        intervals [240]:
+            xmin = 1442.480000
+            xmax = 1442.880000
+            text = ""
+        intervals [241]:
+            xmin = 1442.880000
+            xmax = 1454.480000
+            text = "Since the whole Gertel argument depends upon the assumption that the proof predicate is recursively enumerable, the first thing we note is that Girdel's original argument simply does not apply when the notion of proof is taken in this way."
+        intervals [242]:
+            xmin = 1454.480000
+            xmax = 1454.800000
+            text = ""
+        intervals [243]:
+            xmin = 1454.800000
+            xmax = 1464.560000
+            text = "It may be that we are a tableta and yet still be the case that the set S of one things that we can prove that won't later change our minds about is not a recursively enumerable set."
+        intervals [244]:
+            xmin = 1464.560000
+            xmax = 1464.640000
+            text = ""
+        intervals [245]:
+            xmin = 1464.640000
+            xmax = 1471.920000
+            text = "And even if S one is a recursively enumerable set, there need not be any way of knowing that it is just from being given the machine table."
+        intervals [246]:
+            xmin = 1471.920000
+            xmax = 1472.160000
+            text = ""
+        intervals [247]:
+            xmin = 1472.160000
+            xmax = 1514.000000
+            text = "In spite of this, let us generate a Lukatian paradox by supposing that one I am A and I know my machine table and two I am able to determine the arithmetical definition of the set S one from this information What about the sentence that says of itself that it does not belong to the set s one I do not dare let myself become convinced by any argument that purports to show that this diagonal sentence is true for if I come to believe that the diagonal sentence does not belong to the set S one, that is if I come to believe the diagonal sentence and I do not change my mind, then the diagonal sentence will belong to the set s one and I will believe something false."
+        intervals [248]:
+            xmin = 1514.000000
+            xmax = 1514.160000
+            text = ""
+        intervals [249]:
+            xmin = 1514.160000
+            xmax = 1521.440000
+            text = "So I do not dare believe the diagonal sentence or at least I do not dare come to believe that I have proved the diagonal sentence."
+        intervals [250]:
+            xmin = 1521.440000
+            xmax = 1521.680000
+            text = ""
+        intervals [251]:
+            xmin = 1521.680000
+            xmax = 1525.040000
+            text = "On the other hand I may suspect that the diagonal sentence is true."
+        intervals [252]:
+            xmin = 1525.040000
+            xmax = 1525.440000
+            text = ""
+        intervals [253]:
+            xmin = 1525.440000
+            xmax = 1540.240000
+            text = "I may suspect that it is true, for example precisely because I do not think that I will ever accept any argument as showing that the diagonal sentence is true and I know that if this expectation is correct the diagonal sentence is true once again there is no contradiction."
+        intervals [254]:
+            xmin = 1540.240000
+            xmax = 1540.320000
+            text = ""
+        intervals [255]:
+            xmin = 1540.320000
+            xmax = 1546.720000
+            text = "Moreover, there is a builtin barrier to my coming to be too convinced that the diagonal sentence is true."
+        intervals [256]:
+            xmin = 1546.720000
+            xmax = 1546.960000
+            text = ""
+        intervals [257]:
+            xmin = 1546.960000
+            xmax = 1564.560000
+            text = "Namely from the way in which the SATS worm is defined, it is clear that if I become very convinced that the diagonal sentence is true, so convinced that it seems inconceivable to me that I would ever change my mind, then it is bound to occur to me that just for that very reason the diagonal sets must be false."
+        intervals [258]:
+            xmin = 1564.560000
+            xmax = 1565.040000
+            text = ""
+        intervals [259]:
+            xmin = 1565.040000
+            xmax = 1570.960000
+            text = "This will surely have the effect of lowering my confidence in the diagonal sense for the paradox of waiting points."
+        intervals [260]:
+            xmin = 1570.960000
+            xmax = 1572.800000
+            text = ""
+        intervals [261]:
+            xmin = 1572.800000
+            xmax = 1575.680000
+            text = "Obviously there is somewhat of a paradox here."
+        intervals [262]:
+            xmin = 1575.680000
+            xmax = 1576.000000
+            text = ""
+        intervals [263]:
+            xmin = 1576.000000
+            xmax = 1588.080000
+            text = "The diagonal sense looks true, it better be true, I'm inclined to believe that it is true, but I dare not let myself be absolutely convinced because if I am and don't change my mind then it won't be true."
+        intervals [264]:
+            xmin = 1588.080000
+            xmax = 1588.320000
+            text = ""
+        intervals [265]:
+            xmin = 1588.320000
+            xmax = 1596.880000
+            text = "One way out of the paradox movements is what to reject the premise that I am an automaton or at least to reject the premise that I have such and such a machine table."
+        intervals [266]:
+            xmin = 1596.880000
+            xmax = 1597.200000
+            text = ""
+        intervals [267]:
+            xmin = 1597.200000
+            xmax = 1604.320000
+            text = "Even if I am an automaton, if I refuse to believe that any description of my machine table is correct, then the whole paradox will not arise."
+        intervals [268]:
+            xmin = 1604.320000
+            xmax = 1604.800000
+            text = ""
+        intervals [269]:
+            xmin = 1604.800000
+            xmax = 1614.560000
+            text = "But it does not seem to me that one's desire to avoid a slightly paradoxical situation just described should lead one to cut Gordian lots in quite so drastic a fashion."
+        intervals [270]:
+            xmin = 1614.560000
+            xmax = 1614.800000
+            text = ""
+        intervals [271]:
+            xmin = 1614.800000
+            xmax = 1621.040000
+            text = "If empirical science discloses that we are automatoph, then this is just the predicament that we shall be in."
+        intervals [272]:
+            xmin = 1621.040000
+            xmax = 1621.360000
+            text = ""
+        intervals [273]:
+            xmin = 1621.360000
+            xmax = 1621.920000
+            text = "So what?"
+        intervals [274]:
+            xmin = 1621.920000
+            xmax = 1622.160000
+            text = ""
+        intervals [275]:
+            xmin = 1622.160000
+            xmax = 1623.760000
+            text = "We have lived this word."
+        intervals [276]:
+            xmin = 1623.760000
+            xmax = 1624.880000
+            text = ""
+        intervals [277]:
+            xmin = 1624.880000
+            xmax = 1632.880000
+            text = "Truth and proof in mathematics I believe that there is something to the idea that truth in pure mathematics is nothing over and above profability."
+        intervals [278]:
+            xmin = 1632.880000
+            xmax = 1633.200000
+            text = ""
+        intervals [279]:
+            xmin = 1633.200000
+            xmax = 1640.880000
+            text = "Since the main philosophical application of the Girdel theorem has been to discredit this very idea, it seems appropriate to discuss it here."
+        intervals [280]:
+            xmin = 1640.880000
+            xmax = 1641.040000
+            text = ""
+        intervals [281]:
+            xmin = 1641.040000
+            xmax = 1654.160000
+            text = "I will not pretend that it is easy to say what is correct about the view that truth in pure mathematics is nothing over and above probability, nor that the statement to follow of the point of view in question is free of difficulties or immune from objections."
+        intervals [282]:
+            xmin = 1654.160000
+            xmax = 1654.240000
+            text = ""
+        intervals [283]:
+            xmin = 1654.240000
+            xmax = 1668.960000
+            text = "But since I believe that this is the right track, it should be worthwhile to try to improve on previous statements of the point of view and to try to meet some of the objections if only to tempt or enrage others to make still further improvements in the future."
+        intervals [284]:
+            xmin = 1668.960000
+            xmax = 1669.440000
+            text = ""
+        intervals [285]:
+            xmin = 1669.440000
+            xmax = 1677.840000
+            text = "The usual style in philosophy is still the style of the debate, a wouldbe conclusive argument followed by wouldbe crushing rejoinders."
+        intervals [286]:
+            xmin = 1677.840000
+            xmax = 1678.160000
+            text = ""
+        intervals [287]:
+            xmin = 1678.160000
+            xmax = 1690.800000
+            text = "I shall try to avoid this style, although I shall have to discuss arguments and rejoiners in what follows, both because this style is kid stuff and because I don't think there are any conclusive arguments in this particular controversy."
+        intervals [288]:
+            xmin = 1690.800000
+            xmax = 1690.960000
+            text = ""
+        intervals [289]:
+            xmin = 1690.960000
+            xmax = 1696.880000
+            text = "The term platonism has often been used to describe a certain kind of position in the philosophy of mathematics."
+        intervals [290]:
+            xmin = 1696.880000
+            xmax = 1697.120000
+            text = ""
+        intervals [291]:
+            xmin = 1697.120000
+            xmax = 1701.440000
+            text = "In order to fix our ideas, let us give this term a rather restricted meaning here."
+        intervals [292]:
+            xmin = 1701.440000
+            xmax = 1701.680000
+            text = ""
+        intervals [293]:
+            xmin = 1701.680000
+            xmax = 1713.920000
+            text = "We know today that the continuum hypothesis, that is the statement that every nonenumerable set of real numbers has the cardinality c is independent of the usual axioms of set theory assuming these to be consistent."
+        intervals [294]:
+            xmin = 1713.920000
+            xmax = 1714.400000
+            text = ""
+        intervals [295]:
+            xmin = 1714.400000
+            xmax = 1723.520000
+            text = "Moreover, it is very unlikely that there are metamathematical arguments, so called revealing arguments, which would establish either the continuum hypothesis or its negation."
+        intervals [296]:
+            xmin = 1723.520000
+            xmax = 1724.640000
+            text = ""
+        intervals [297]:
+            xmin = 1724.640000
+            xmax = 1747.280000
+            text = "Knowing this, knowing that there is no such thing as proving or refuting the continuum hypothesis, unless we first make it clear what new assumptions we are willing to add to the axioms of classical set theory, what shall we say of the man who says, Even if it is impossible to prove it, I still believe that every nondenumerable set of real numbers does have the cardinality c."
+        intervals [298]:
+            xmin = 1747.280000
+            xmax = 1747.840000
+            text = ""
+        intervals [299]:
+            xmin = 1747.840000
+            xmax = 1753.520000
+            text = "The philosopher I shall call a platonist would say there is nothing wrong with this assertion at all."
+        intervals [300]:
+            xmin = 1753.520000
+            xmax = 1753.920000
+            text = ""
+        intervals [301]:
+            xmin = 1753.920000
+            xmax = 1757.920000
+            text = "It is clear what the speaker believes and what he believes is either true or false."
+        intervals [302]:
+            xmin = 1757.920000
+            xmax = 1758.160000
+            text = ""
+        intervals [303]:
+            xmin = 1758.160000
+            xmax = 1767.040000
+            text = "The philosopher I shall call an antiplatonist would say it is not clear what the speaker believes or in what sense what he believes to be true."
+        intervals [304]:
+            xmin = 1767.040000
+            xmax = 1767.600000
+            text = ""
+        intervals [305]:
+            xmin = 1767.600000
+            xmax = 1776.000000
+            text = "Consistent platonist can, I think, maintain its position without falling into any inconsistency, violating ordinary language, etcetera."
+        intervals [306]:
+            xmin = 1776.000000
+            xmax = 1776.240000
+            text = ""
+        intervals [307]:
+            xmin = 1776.240000
+            xmax = 1778.480000
+            text = "So I think can antiplatonist."
+        intervals [308]:
+            xmin = 1778.480000
+            xmax = 1778.640000
+            text = ""
+        intervals [309]:
+            xmin = 1778.640000
+            xmax = 1782.800000
+            text = "The best argument either side has to offer is a burden of proof argument."
+        intervals [310]:
+            xmin = 1782.800000
+            xmax = 1782.880000
+            text = ""
+        intervals [311]:
+            xmin = 1782.880000
+            xmax = 1790.960000
+            text = "Thus, the antiplatonist will argue by issuing a challenge to the platonist to say in what sense the quote assertion could be true."
+        intervals [312]:
+            xmin = 1790.960000
+            xmax = 1791.040000
+            text = ""
+        intervals [313]:
+            xmin = 1791.040000
+            xmax = 1798.000000
+            text = "The platonist will retort In the sense that every nonenumerable set of real numbers does have the cardinality."
+        intervals [314]:
+            xmin = 1798.000000
+            xmax = 1798.880000
+            text = ""
+        intervals [315]:
+            xmin = 1798.880000
+            xmax = 1803.920000
+            text = "The end he platists will ask, from what axioms for set theory is that supposed to be provable."
+        intervals [316]:
+            xmin = 1803.920000
+            xmax = 1804.080000
+            text = ""
+        intervals [317]:
+            xmin = 1804.080000
+            xmax = 1810.640000
+            text = "And the platonist will answer, I didn't say the continuum hypothesis was true, I said in what sense it might be true."
+        intervals [318]:
+            xmin = 1810.640000
+            xmax = 1810.800000
+            text = ""
+        intervals [319]:
+            xmin = 1810.800000
+            xmax = 1813.040000
+            text = "Of course, this is still the platonist speaking."
+        intervals [320]:
+            xmin = 1813.040000
+            xmax = 1813.360000
+            text = ""
+        intervals [321]:
+            xmin = 1813.360000
+            xmax = 1823.200000
+            text = "If it is true in the sense that every nonenumerable set of real numbers does have the cardinality c, that doesn't imply that it can be proved the platon is continuous."
+        intervals [322]:
+            xmin = 1823.200000
+            xmax = 1823.360000
+            text = ""
+        intervals [323]:
+            xmin = 1823.360000
+            xmax = 1826.400000
+            text = "It can, of course, be proved from some sets of axioms."
+        intervals [324]:
+            xmin = 1826.400000
+            xmax = 1826.480000
+            text = ""
+        intervals [325]:
+            xmin = 1826.480000
+            xmax = 1837.200000
+            text = "For example, we might take the continuum hypothesis itself as an axiom, but it may well be that it cannot be proved from any sets of axioms whose truth is or ever will be evident to human beings."
+        intervals [326]:
+            xmin = 1837.200000
+            xmax = 1837.440000
+            text = ""
+        intervals [327]:
+            xmin = 1837.440000
+            xmax = 1840.800000
+            text = "That's a question about human psychology and a rather vague one."
+        intervals [328]:
+            xmin = 1840.800000
+            xmax = 1841.280000
+            text = ""
+        intervals [329]:
+            xmin = 1841.280000
+            xmax = 1849.520000
+            text = "It is true that human beings could not be convinced of the continuum hypothesis by mathematical argument, of course they could be convinced by torture, drugs, etcetera."
+        intervals [330]:
+            xmin = 1849.520000
+            xmax = 1849.840000
+            text = ""
+        intervals [331]:
+            xmin = 1849.840000
+            xmax = 1850.720000
+            text = "That is not allowed."
+        intervals [332]:
+            xmin = 1850.720000
+            xmax = 1850.880000
+            text = ""
+        intervals [333]:
+            xmin = 1850.880000
+            xmax = 1860.800000
+            text = "While every nondenumerable set of real numbers does have the cardinality C, the Nicotine hypothesis is the truth of pure mathematics that the human race is incapable of learning."
+        intervals [334]:
+            xmin = 1860.800000
+            xmax = 1861.120000
+            text = ""
+        intervals [335]:
+            xmin = 1861.120000
+            xmax = 1861.600000
+            text = "So what?"
+        intervals [336]:
+            xmin = 1861.600000
+            xmax = 1861.920000
+            text = ""
+        intervals [337]:
+            xmin = 1861.920000
+            xmax = 1875.760000
+            text = "At this point the antiplatus will reply that to know what someone means by asserting the cutting hypothesis, I have to know by virtue of what he supposes that his statement is true or by virtue of what he supposes it could be true."
+        intervals [338]:
+            xmin = 1875.760000
+            xmax = 1875.840000
+            text = ""
+        intervals [339]:
+            xmin = 1875.840000
+            xmax = 1894.960000
+            text = "If all he can tell me is that he supposes his statement might be true by virtue of the fact that every nonnumerable set of real numbers does, it doesn't matter if you underline it or even capitalize does at the cardinality see then in fact he cannot tell me at all by virtue of what he supposes his statement could be true."
+        intervals [340]:
+            xmin = 1894.960000
+            xmax = 1897.120000
+            text = ""
+        intervals [341]:
+            xmin = 1897.120000
+            xmax = 1901.920000
+            text = "I have just told you in what sense to continue hypotheses could be true, platonist will reply."
+        intervals [342]:
+            xmin = 1901.920000
+            xmax = 1902.320000
+            text = ""
+        intervals [343]:
+            xmin = 1902.320000
+            xmax = 1909.520000
+            text = "Are you suggesting that the words, every nonenumerable set of real numbers on the cardinality c are unintelligible?"
+        intervals [344]:
+            xmin = 1909.520000
+            xmax = 1910.000000
+            text = ""
+        intervals [345]:
+            xmin = 1910.000000
+            xmax = 1913.280000
+            text = "The words are intelligible, the antiplatinist will reply."
+        intervals [346]:
+            xmin = 1913.280000
+            xmax = 1913.600000
+            text = ""
+        intervals [347]:
+            xmin = 1913.600000
+            xmax = 1917.920000
+            text = "What is not intelligible is what the speaker means by saying these words."
+        intervals [348]:
+            xmin = 1917.920000
+            xmax = 1918.160000
+            text = ""
+        intervals [349]:
+            xmin = 1918.160000
+            xmax = 1920.320000
+            text = "Let us break off this dialogue here."
+        intervals [350]:
+            xmin = 1920.320000
+            xmax = 1922.160000
+            text = ""
+        intervals [351]:
+            xmin = 1922.160000
+            xmax = 1940.240000
+            text = "I think it is obvious that if the antiplatonist is right about where the burden of proof lies, that is, if the platonist has to provide an intelligible sense in which the continuum hypothesis might be true, and the continuing hypothesis itself and similar set theoretic statements do not count, then the antiplatonist wins the debate."
+        intervals [352]:
+            xmin = 1940.240000
+            xmax = 1940.480000
+            text = ""
+        intervals [353]:
+            xmin = 1940.480000
+            xmax = 1960.240000
+            text = "On the other hand, if the antiplatonist has to in some way prove that the continuum hypothesis is neither true nor false, and the only thing that counts as proving this is showing that there is something linguistically wrong with the utterance every nonenumerable set of real numbers has the cardinality see, then I think it is quite clear that the antiplatonist will lose the debate."
+        intervals [354]:
+            xmin = 1960.240000
+            xmax = 1961.360000
+            text = ""
+        intervals [355]:
+            xmin = 1961.360000
+            xmax = 1966.240000
+            text = "Should we then discuss the question on whose side the burden of proof really lies?"
+        intervals [356]:
+            xmin = 1966.240000
+            xmax = 1966.640000
+            text = ""
+        intervals [357]:
+            xmin = 1966.640000
+            xmax = 1969.760000
+            text = "This seems no more promising than the original question."
+        intervals [358]:
+            xmin = 1969.760000
+            xmax = 1969.920000
+            text = ""
+        intervals [359]:
+            xmin = 1969.920000
+            xmax = 1971.840000
+            text = "Am I urging skepticism here?"
+        intervals [360]:
+            xmin = 1971.840000
+            xmax = 1972.160000
+            text = ""
+        intervals [361]:
+            xmin = 1972.160000
+            xmax = 1972.800000
+            text = "Not at all."
+        intervals [362]:
+            xmin = 1972.800000
+            xmax = 1973.280000
+            text = ""
+        intervals [363]:
+            xmin = 1973.280000
+            xmax = 1990.240000
+            text = "Anyone who worries seriously about questions in the philosophy of mathematics has, I think, an obligation to make up his mind on this issue and on many other issues just what the character of mathematical statements is, in what sense they have meaning, in what sort of meaning they have, and so on."
+        intervals [364]:
+            xmin = 1990.240000
+            xmax = 1990.720000
+            text = ""
+        intervals [365]:
+            xmin = 1990.720000
+            xmax = 1997.840000
+            text = "The real difficulty is not to take a position with respect to these issues and not to convince others that the position one has taken is correct."
+        intervals [366]:
+            xmin = 1997.840000
+            xmax = 1998.000000
+            text = ""
+        intervals [367]:
+            xmin = 1998.000000
+            xmax = 2000.720000
+            text = "The former is too easy and the latter is too hard."
+        intervals [368]:
+            xmin = 2000.720000
+            xmax = 2002.480000
+            text = ""
+        intervals [369]:
+            xmin = 2002.480000
+            xmax = 2007.040000
+            text = "The problem is not finding a position one can demonstrate to everyone's satisfaction."
+        intervals [370]:
+            xmin = 2007.040000
+            xmax = 2007.280000
+            text = ""
+        intervals [371]:
+            xmin = 2007.280000
+            xmax = 2014.560000
+            text = "The problem if one is intellectually honest, is finding even one position that meets with one's own even partial satisfaction."
+        intervals [372]:
+            xmin = 2014.560000
+            xmax = 2014.720000
+            text = ""
+        intervals [373]:
+            xmin = 2014.720000
+            xmax = 2042.560000
+            text = "Let us begin by recognizing honestly that if we do philosophy it is for our own sake because we are worried about the problem that our objective is not to find a conclusive argument but to find at least one point of view that seems to be on the right track Truth Any discussion of the concept of truth must at some point touch on the Epimenidese paradox Today there are two schools of thought with respect to the significance of the Epimenides and Similar paradoxes."
+        intervals [374]:
+            xmin = 2042.560000
+            xmax = 2042.720000
+            text = ""
+        intervals [375]:
+            xmin = 2042.720000
+            xmax = 2053.199000
+            text = "Most logicians following Tarski or perhaps even Whiteheaded Russell although the writings of Whitehead Russell show considerable confusion on these matters adopt the distinction of levels of language."
+        intervals [376]:
+            xmin = 2053.199000
+            xmax = 2053.280000
+            text = ""
+        intervals [377]:
+            xmin = 2053.280000
+            xmax = 2059.120000
+            text = "What this comes to is this that truth is not a property but rather a family or hierarchy of properties."
+        intervals [378]:
+            xmin = 2059.120000
+            xmax = 2059.280000
+            text = ""
+        intervals [379]:
+            xmin = 2059.280000
+            xmax = 2062.720000
+            text = "Indeed it is not even a well defined family of properties."
+        intervals [380]:
+            xmin = 2062.720000
+            xmax = 2062.800000
+            text = ""
+        intervals [381]:
+            xmin = 2062.800000
+            xmax = 2070.240000
+            text = "We cannot quantify over all truth predicates in all languages or if we do we get the same difficulty semantic closure but we do."
+        intervals [382]:
+            xmin = 2070.240000
+            xmax = 2070.480000
+            text = ""
+        intervals [383]:
+            xmin = 2070.480000
+            xmax = 2097.040000
+            text = "We try to introduce a single truth predicate applicable to statements in arbitrary languages or a single relation as is true in L is a variable over all languages So even though we're dealing not with one property but with a family of properties or a family of relations as is true in L sub I where the L sub I are constant languages and both the family and the very notion of a language are ill defined nevertheless we can say something about the meaning true."
+        intervals [384]:
+            xmin = 2097.040000
+            xmax = 2097.200000
+            text = ""
+        intervals [385]:
+            xmin = 2097.200000
+            xmax = 2110.160000
+            text = "To do this we do not specify a single property or a single relation s is true in L for which the word stands we rather specify what the various properties or rather relations is true in L sub I all have in common."
+        intervals [386]:
+            xmin = 2110.160000
+            xmax = 2110.480000
+            text = ""
+        intervals [387]:
+            xmin = 2110.480000
+            xmax = 2113.840000
+            text = "This is done by the famous Tarsky criterion of adequacy."
+        intervals [388]:
+            xmin = 2113.840000
+            xmax = 2114.000000
+            text = ""
+        intervals [389]:
+            xmin = 2114.000000
+            xmax = 2123.040000
+            text = "According to the second view, the whole tradition that descends from Russell's notion of borders and Tarski's notion of levels of language is fundamentally misguided."
+        intervals [390]:
+            xmin = 2123.040000
+            xmax = 2123.200000
+            text = ""
+        intervals [391]:
+            xmin = 2123.200000
+            xmax = 2128.000000
+            text = "This view is taken mostly by philosophers illiterate or at best semiliterate in modern logic."
+        intervals [392]:
+            xmin = 2128.000000
+            xmax = 2128.960000
+            text = ""
+        intervals [393]:
+            xmin = 2128.960000
+            xmax = 2148.000000
+            text = "These philosophers contend first and with some obvious warrant that truth is not a property of sentences at all but primarily a property of statements that is of the things that people use sentences to say and secondly that once the sentence statement distinction is properly needed then the need for the whole distinction between levels of language disappears."
+        intervals [394]:
+            xmin = 2148.000000
+            xmax = 2148.400000
+            text = ""
+        intervals [395]:
+            xmin = 2148.400000
+            xmax = 2156.480000
+            text = "If we leave aside for the moment the nominalism platonism issue, the second statement distinction is one that would certainly be very easy to formalize."
+        intervals [396]:
+            xmin = 2156.480000
+            xmax = 2156.720000
+            text = ""
+        intervals [397]:
+            xmin = 2156.720000
+            xmax = 2171.520000
+            text = "And if it is really true that drawing the distinction and applying true and false only to statements and never to sentences really avoids all of the semantical paradoxes then this is certainly something surprising and important and worthy of the most extended investigation."
+        intervals [398]:
+            xmin = 2171.520000
+            xmax = 2172.320000
+            text = ""
+        intervals [399]:
+            xmin = 2172.320000
+            xmax = 2182.320000
+            text = "A little reflection however will disclose that although it may be desirable to make the second statement distinction on other grounds, it is no help whatsoever with the semantical paradox."
+        intervals [400]:
+            xmin = 2182.320000
+            xmax = 2183.120000
+            text = ""
+        intervals [401]:
+            xmin = 2183.120000
+            xmax = 2193.280000
+            text = "Indeed, just as true stands for a family of notions that could be made precise rather than for a single notion, so does statement stand for a family of such notions."
+        intervals [402]:
+            xmin = 2193.280000
+            xmax = 2193.600000
+            text = ""
+        intervals [403]:
+            xmin = 2193.600000
+            xmax = 2203.440000
+            text = "To show that this is so, what we do is point out features of these notions set and ordinal number have similar features but make them indefinitely extendable."
+        intervals [404]:
+            xmin = 2203.440000
+            xmax = 2203.920000
+            text = ""
+        intervals [405]:
+            xmin = 2203.920000
+            xmax = 2230.560000
+            text = "Thus, suppose someone rejects this conclusion and says I know exactly what I mean by true and exactly what I mean by statement If he can convince us that he does, that he has a clear and intelligible notion of true and statement in mind, then we can use his notions of truth and statemanhood as a basis to introduce new notions of truth and statemanhood which are more generous than his but not unreasonably so and this procedure can be indefinitely extended."
+        intervals [406]:
+            xmin = 2230.560000
+            xmax = 2230.800000
+            text = ""
+        intervals [407]:
+            xmin = 2230.800000
+            xmax = 2237.520000
+            text = "On the other hand we are not thereby forced to say that folks true or folks true and false statement are ambiguous."
+        intervals [408]:
+            xmin = 2237.520000
+            xmax = 2237.840000
+            text = ""
+        intervals [409]:
+            xmin = 2237.840000
+            xmax = 2249.920000
+            text = "True has a single meaning in the sense that eG in any context in which the word is used anyone who asserts s would assent to S is true and anyone who asserts s is true would assent to S."
+        intervals [410]:
+            xmin = 2249.920000
+            xmax = 2250.160000
+            text = ""
+        intervals [411]:
+            xmin = 2250.160000
+            xmax = 2256.240000
+            text = "Moreover anyone who grants that S is true or false would assent to the biconditional s is true ifin only is S."
+        intervals [412]:
+            xmin = 2256.240000
+            xmax = 2256.720000
+            text = ""
+        intervals [413]:
+            xmin = 2256.720000
+            xmax = 2266.320000
+            text = "I do not wish to suggest for one moment someone's acceptance of the bic say the biconditional S is troy if only if S commits us to translating troy by true."
+        intervals [414]:
+            xmin = 2266.320000
+            xmax = 2266.560000
+            text = ""
+        intervals [415]:
+            xmin = 2266.560000
+            xmax = 2279.040000
+            text = "In Tarski's reconstruction this feature that is the existence of a single meaning for the word true is represented by the fact that all admissible uses of true are required to satisfy the criterion of adequacy."
+        intervals [416]:
+            xmin = 2279.040000
+            xmax = 2279.920000
+            text = ""
+        intervals [417]:
+            xmin = 2279.920000
+            xmax = 2294.720000
+            text = "Let us now suppose that we can make precise the notion of an object level statement that is the notion of a statement which does not contain any semantical notions that it is consistent to assume that there is a single well defined property or set of object level truth."
+        intervals [418]:
+            xmin = 2294.720000
+            xmax = 2295.040000
+            text = ""
+        intervals [419]:
+            xmin = 2295.040000
+            xmax = 2317.520000
+            text = "On the other hand we are not forced to assume this for instance if the notion of object level statement includes the statements of all set theories then one reason for rejecting the view that when I ask if a statement of set theory is either true or false there's always some single well defined property of statements about which I'm asking is that I haven't the foggiest notion what that property might be."
+        intervals [420]:
+            xmin = 2317.520000
+            xmax = 2317.840000
+            text = ""
+        intervals [421]:
+            xmin = 2317.840000
+            xmax = 2344.640000
+            text = "Put it another way, the fact that it is unsatisfactory from a logical point of view to assume that truth is a single welldefined property at least if we consider all the levels of language at once and that indeed all the levels of language at once is not a welldefined notion does not show that truth is not a welldefined property with respect to any fixed level of language, but it does at least raise the possibility that it may not be even here."
+        intervals [422]:
+            xmin = 2344.640000
+            xmax = 2345.600000
+            text = ""
+        intervals [423]:
+            xmin = 2345.600000
+            xmax = 2359.920000
+            text = "Of course if we formalize all or some of our object level language then the notion of truth could be made precise by means of a truth definition partial or total provided that the truth definition employed only concepts that we are willing to count as clear."
+        intervals [424]:
+            xmin = 2359.920000
+            xmax = 2360.320000
+            text = ""
+        intervals [425]:
+            xmin = 2360.320000
+            xmax = 2377.440000
+            text = "But it is one thing to say that this could be done and another thing to pretend that it has been done even implicitly in the ordinary use of the word true neither true nor false One use of the concept of truth is to say that some statement is neither true nor false."
+        intervals [426]:
+            xmin = 2377.440000
+            xmax = 2378.080000
+            text = ""
+        intervals [427]:
+            xmin = 2378.080000
+            xmax = 2380.240000
+            text = "This use is somewhat hard to characterize."
+        intervals [428]:
+            xmin = 2380.240000
+            xmax = 2380.640000
+            text = ""
+        intervals [429]:
+            xmin = 2380.640000
+            xmax = 2388.240000
+            text = "If we say that a statement s is true then we can say what this means at least in the case of a fixed statement s by saying that it means that s."
+        intervals [430]:
+            xmin = 2388.240000
+            xmax = 2388.720000
+            text = ""
+        intervals [431]:
+            xmin = 2388.720000
+            xmax = 2403.280000
+            text = "Even when true occurs with a variable over statements, if the variable can be restricted to statements and some flasks that can be represented by a formalized language then we can give an extensionally correct explanation of our assertion by means of a truth definition."
+        intervals [432]:
+            xmin = 2403.280000
+            xmax = 2403.520000
+            text = ""
+        intervals [433]:
+            xmin = 2403.520000
+            xmax = 2413.360000
+            text = "Similarly, to say that S is false can be explained as meaning that not s, but no such handy paraphrase is available in the case that S is neither true nor false."
+        intervals [434]:
+            xmin = 2413.360000
+            xmax = 2413.840000
+            text = ""
+        intervals [435]:
+            xmin = 2413.840000
+            xmax = 2418.800000
+            text = "Yet this is something that we often do want to say and for a variety of different kinds of reasons."
+        intervals [436]:
+            xmin = 2418.800000
+            xmax = 2419.040000
+            text = ""
+        intervals [437]:
+            xmin = 2419.040000
+            xmax = 2434.160000
+            text = "For example, if someone says the population of India is N or certain values of N, we may want to say that the statement is neither true nor false because the boundaries of India are simply not that well defined although this is not a popular view with the Indian government."
+        intervals [438]:
+            xmin = 2434.160000
+            xmax = 2436.160000
+            text = ""
+        intervals [439]:
+            xmin = 2436.160000
+            xmax = 2442.400000
+            text = "Of course when the antiplatinist says that the continuum hypothesis is neither true nor false his reasons are quite different."
+        intervals [440]:
+            xmin = 2442.400000
+            xmax = 2442.960000
+            text = ""
+        intervals [441]:
+            xmin = 2442.960000
+            xmax = 2454.560000
+            text = "In the case of the statement about India, the difficulty is that although we know what sorts of objects are in question persons, we do not know just which of these objects form part of the population of India."
+        intervals [442]:
+            xmin = 2454.560000
+            xmax = 2454.720000
+            text = ""
+        intervals [443]:
+            xmin = 2454.720000
+            xmax = 2459.840000
+            text = "That is to say it is not well defined which of these objects form part of the population of India."
+        intervals [444]:
+            xmin = 2459.840000
+            xmax = 2460.160000
+            text = ""
+        intervals [445]:
+            xmin = 2460.160000
+            xmax = 2466.800000
+            text = "In the case of the continuum hypothesis the difficulty is not that we do not know what objects count as sets of real numbers."
+        intervals [446]:
+            xmin = 2466.800000
+            xmax = 2466.960000
+            text = ""
+        intervals [447]:
+            xmin = 2466.960000
+            xmax = 2471.040000
+            text = "Rather the difficulty is that we don't know what object counts to here."
+        intervals [448]:
+            xmin = 2471.040000
+            xmax = 2471.520000
+            text = ""
+        intervals [449]:
+            xmin = 2471.520000
+            xmax = 2491.360000
+            text = "To put it another way, there's a difference between being unclear what x's are when we know at least that x's are a kind of group and we know what grouples are and being unclear about these problematical uses of such expressions as for every nondenumerable set of real numbers and for every onetoone correspondence between sets of real numbers."
+        intervals [450]:
+            xmin = 2491.360000
+            xmax = 2491.440000
+            text = ""
+        intervals [451]:
+            xmin = 2491.440000
+            xmax = 2506.160000
+            text = "For this latter case we encounter the difficulty that for every general term grouble such as we can say sets are a kind of group, quantification over group puzzles us in exactly the way that quantification oversex does."
+        intervals [452]:
+            xmin = 2506.160000
+            xmax = 2506.720000
+            text = ""
+        intervals [453]:
+            xmin = 2506.720000
+            xmax = 2530.160000
+            text = "A platonist would probably characterize the notion of being neither true nor false by saying that the statement is neither true nor false a when there are no such entities as the entities over which the statement purports to quantify or b when one of the predicates occurring in the statement is such that it is undefined for scienties of the relevant kind whether they fall under the extension of that predicate."
+        intervals [454]:
+            xmin = 2530.160000
+            xmax = 2530.640000
+            text = ""
+        intervals [455]:
+            xmin = 2530.640000
+            xmax = 2550.160000
+            text = "This explanation however assumes there is some one clear notion of entity or object in which physical objects persons, sensations and also sets, numbers, universals etc are all entities Part of the point of antiplatonism however is at least suspicion with respect to this use of such words as entity and object."
+        intervals [456]:
+            xmin = 2550.160000
+            xmax = 2550.640000
+            text = ""
+        intervals [457]:
+            xmin = 2550.640000
+            xmax = 2563.760000
+            text = "One suggestion which must be rejected is this that if someone says that a statement is neither true nor false then it is incumbent upon him to show that there is something linguistically wrong with the sentence that is used in making that statement."
+        intervals [458]:
+            xmin = 2563.760000
+            xmax = 2564.000000
+            text = ""
+        intervals [459]:
+            xmin = 2564.000000
+            xmax = 2580.480000
+            text = "If someone ignorant of the theory of relativity supposes that the statement A and B happens simultaneously has a well defined truth value independently of the situation of the speaker where A and B are say two explosions one in the vicinity of the sun and the other in the vicinity of the earth."
+        intervals [460]:
+            xmin = 2580.480000
+            xmax = 2580.720000
+            text = ""
+        intervals [461]:
+            xmin = 2580.720000
+            xmax = 2584.320000
+            text = "So there is much wrong with his physics but nothing wrong with his language."
+        intervals [462]:
+            xmin = 2584.320000
+            xmax = 2584.960000
+            text = ""
+        intervals [463]:
+            xmin = 2584.960000
+            xmax = 2592.720000
+            text = "Indeed it would be wrong to classify any word in the word in the utterance the population of India is N is either ambiguous or vague."
+        intervals [464]:
+            xmin = 2592.720000
+            xmax = 2592.800000
+            text = ""
+        intervals [465]:
+            xmin = 2592.800000
+            xmax = 2599.040000
+            text = "It is not the words that are vague but the boundaries of India and this is not a political remark, not a linguistic one."
+        intervals [466]:
+            xmin = 2599.040000
+            xmax = 2599.280000
+            text = ""
+        intervals [467]:
+            xmin = 2599.280000
+            xmax = 2615.680000
+            text = "Of course I may say that the notion of the population of India is vague, but that is not to say that some such statements as the one mentioned are neither true nor false, but that is to say that some such statements as the one mentioned are neither true nor false and not that the words are vague in a sense in which a linguist would use vague."
+        intervals [468]:
+            xmin = 2615.680000
+            xmax = 2618.080000
+            text = ""
+        intervals [469]:
+            xmin = 2618.080000
+            xmax = 2628.880000
+            text = "These examples suggest that the reasons why a statement may be neither true nor false are capable of being very different in kind and it seems doubtful if any kind of an exhaustive list can be given today."
+        intervals [470]:
+            xmin = 2628.880000
+            xmax = 2629.520000
+            text = ""
+        intervals [471]:
+            xmin = 2629.520000
+            xmax = 2641.440000
+            text = "Suppose we abandon the attempt to give an exhaustive characterization of the cases in which a statement is neither true nor false and ask rather what does it come to say that a statement is neither true nor false?"
+        intervals [472]:
+            xmin = 2641.440000
+            xmax = 2641.680000
+            text = ""
+        intervals [473]:
+            xmin = 2641.680000
+            xmax = 2643.760000
+            text = "What is the point of this sort of remark?"
+        intervals [474]:
+            xmin = 2643.760000
+            xmax = 2644.080000
+            text = ""
+        intervals [475]:
+            xmin = 2644.080000
+            xmax = 2661.440000
+            text = "The partial answer is this if a man says that a statement is neither true nor false then it is inconsistent of him to either assent to or dissent from the statement consider the oddity of saying it is neither true nor false that the population of India is N, but the population of India is N."
+        intervals [476]:
+            xmin = 2661.440000
+            xmax = 2661.840000
+            text = ""
+        intervals [477]:
+            xmin = 2661.840000
+            xmax = 2673.440000
+            text = "Also if a man says that S is neither true nor false then he refuses to say such things as I don't know whether S, or John doesn't know whether S, I guess that s, I conjecture that s, etcetera."
+        intervals [478]:
+            xmin = 2673.440000
+            xmax = 2673.680000
+            text = ""
+        intervals [479]:
+            xmin = 2673.680000
+            xmax = 2678.720000
+            text = "Also someone else says I conjecture that s, he says such a thing as it's not clear what you mean."
+        intervals [480]:
+            xmin = 2678.720000
+            xmax = 2679.120000
+            text = ""
+        intervals [481]:
+            xmin = 2679.120000
+            xmax = 2689.440000
+            text = "In short, to say that a statement is neither true nor false is to disbar that statement from being the domain or converse domain of any number of epistemic and semantic relations."
+        intervals [482]:
+            xmin = 2689.440000
+            xmax = 2690.400000
+            text = ""
+        intervals [483]:
+            xmin = 2690.400000
+            xmax = 2713.680000
+            text = "Let L be a formalized interpreted first order language but if we say that some of the statements sentences of L are neither true nor false or that the statements these sentences symbolize are neither true nor false then the objection may be offered that we are contradicting a theorem of metalanguage or if we define true and l in the usual way then it is a simple theorem of meta length that every sentence of L is either true or false."
+        intervals [484]:
+            xmin = 2713.680000
+            xmax = 2714.000000
+            text = ""
+        intervals [485]:
+            xmin = 2714.000000
+            xmax = 2720.240000
+            text = "Does this not mean that the idea that some wellformed statements are neither true nor false is one that must be abandoned?"
+        intervals [486]:
+            xmin = 2720.240000
+            xmax = 2720.480000
+            text = ""
+        intervals [487]:
+            xmin = 2720.480000
+            xmax = 2721.040000
+            text = "Not at all."
+        intervals [488]:
+            xmin = 2721.040000
+            xmax = 2721.440000
+            text = ""
+        intervals [489]:
+            xmin = 2721.440000
+            xmax = 2734.960000
+            text = "Well the fact is that although truth is usually defined in such a way that it is a theorem of meta LEVERY sentence of L is either true or false if in some particular case this is not desired, it is easy to modify the definition."
+        intervals [490]:
+            xmin = 2734.960000
+            xmax = 2736.720000
+            text = ""
+        intervals [491]:
+            xmin = 2736.720000
+            xmax = 2753.120000
+            text = "A truth definition according to which some sentences of the object language are neither true nor false that is to say a pair of definitions one of true n and one of false nine false cannot be defined as not true in such a case is called a partial truth definition in the present favor."
+        intervals [492]:
+            xmin = 2753.120000
+            xmax = 2753.600000
+            text = ""
+        intervals [493]:
+            xmin = 2753.600000
+            xmax = 2767.600000
+            text = "If we use a partial truth definition instead of the complete one then we replace Tarsky's condition of adequacy by the condition that s is true if and only if s should be derivable in met of l whenever s is either true or false."
+        intervals [494]:
+            xmin = 2767.600000
+            xmax = 2767.920000
+            text = ""
+        intervals [495]:
+            xmin = 2767.920000
+            xmax = 2771.200000
+            text = "Sentences which are neither true nor false are nonparsium."
+        intervals [496]:
+            xmin = 2771.200000
+            xmax = 2771.680000
+            text = ""
+        intervals [497]:
+            xmin = 2771.680000
+            xmax = 2786.160000
+            text = "My point is that since it is trivial to formalize partial notions of truth we know how to write down partial truth definitions as well as complete ones appeal to truth definitions is of no use in settling disputes of the kind that we are interested in."
+        intervals [498]:
+            xmin = 2786.160000
+            xmax = 2786.400000
+            text = ""
+        intervals [499]:
+            xmin = 2786.400000
+            xmax = 2798.880000
+            text = "Formalized truth definitions can be used to codify any decision we may have reached on independent grounds to regard some sentences of the object language as neither true nor false or to regard all such sentences as neither true or false."
+        intervals [500]:
+            xmin = 2798.880000
+            xmax = 2799.280000
+            text = ""
+        intervals [501]:
+            xmin = 2799.280000
+            xmax = 2819.920000
+            text = "This is not to say that truth definitions are necessarily useless however if we arrive at an intuitively adequate partial truth definition for a language where the concepts employed in the truth definition are themselves concepts that we regard as well defined then we can at least give an extensionally correct characterization of the class of sentences in the object language that are neither true nor false."
+        intervals [502]:
+            xmin = 2819.920000
+            xmax = 2820.000000
+            text = ""
+        intervals [503]:
+            xmin = 2820.000000
+            xmax = 2825.200000
+            text = "Moreover we can say why we regard certain sentences in the object language as neither true nor false."
+        intervals [504]:
+            xmin = 2825.200000
+            xmax = 2825.600000
+            text = ""
+        intervals [505]:
+            xmin = 2825.600000
+            xmax = 2834.480000
+            text = "We regard them as neither true nor false because there is no acceptable and intuitively adequate truth condition for these sentences statible in terms we regard as clear."
+        intervals [506]:
+            xmin = 2834.480000
+            xmax = 2834.720000
+            text = ""
+        intervals [507]:
+            xmin = 2834.720000
+            xmax = 2843.440000
+            text = "Someone else regards the whole of the object language as completely clear and well defined and he will undoubtedly accept a complete truth definition for the object language."
+        intervals [508]:
+            xmin = 2843.440000
+            xmax = 2843.600000
+            text = ""
+        intervals [509]:
+            xmin = 2843.600000
+            xmax = 2849.280000
+            text = "Even here, if truth definitions do not serve to resolve the dispute, they at least serve to point it out."
+        intervals [510]:
+            xmin = 2849.280000
+            xmax = 2849.440000
+            text = ""
+        intervals [511]:
+            xmin = 2849.440000
+            xmax = 2857.760000
+            text = "Incidentally it should be remarked that even if truth definitions may be extensionally correct, they do not provide us with synonyms for true and false."
+        intervals [512]:
+            xmin = 2857.760000
+            xmax = 2858.320000
+            text = ""
+        intervals [513]:
+            xmin = 2858.320000
+            xmax = 2867.200000
+            text = "I am sorry to take so much of your time with this matter of neither true nor false, but this is the concept on which the whole platonism antiplatonism dispute hinges."
+        intervals [514]:
+            xmin = 2867.200000
+            xmax = 2867.360000
+            text = ""
+        intervals [515]:
+            xmin = 2867.360000
+            xmax = 2880.000000
+            text = "The last point I wish to make in this connection is this normally it would be thought that if a statement T expresses a truth condition for a statement s, then s and T must be if not synonymous at least logically equivalent."
+        intervals [516]:
+            xmin = 2880.000000
+            xmax = 2880.320000
+            text = ""
+        intervals [517]:
+            xmin = 2880.320000
+            xmax = 2906.080000
+            text = "However, this is not the case if partial truth definitions are permitted Now suppose that we have an object language containing the predicate good and we decide to adopt the partial truth definition but a sentence of the form x is good is true when x is in everyone's interest, false when x is in no one's interest and neither true nor false otherwise I do not wish to suggest that this is a reasonable truth definition for good as good is actually employed."
+        intervals [518]:
+            xmin = 2906.080000
+            xmax = 2906.960000
+            text = ""
+        intervals [519]:
+            xmin = 2906.960000
+            xmax = 2918.080000
+            text = "Even if the object language were employed in a way which made this an intuitively correct and adequate truth definition x is good and x is in everyone's interest would not be synonymous or even logically equivalent."
+        intervals [520]:
+            xmin = 2918.080000
+            xmax = 2918.240000
+            text = ""
+        intervals [521]:
+            xmin = 2918.240000
+            xmax = 2930.000000
+            text = "For one thing, x is in everyone's interest may be supposed for the sake of the example to be always either true or false whereas the whole point of the partial truth definition is that x is good may not be either true or false."
+        intervals [522]:
+            xmin = 2930.000000
+            xmax = 2930.160000
+            text = ""
+        intervals [523]:
+            xmin = 2930.160000
+            xmax = 2944.480000
+            text = "Thus it would be fallacious to object to the partial truth definition just given by saying that to say x is good is not to say that x is in the interest of every person for all this means is that x is good is not synonymous with x is in the interest of every person."
+        intervals [524]:
+            xmin = 2944.480000
+            xmax = 2945.520000
+            text = ""
+        intervals [525]:
+            xmin = 2945.520000
+            xmax = 2956.720000
+            text = "Platonism versus antiplatonism these preliminaries out of the way, we are now ready to discuss the main question the question whether in set theory truth is anything over and above probability."
+        intervals [526]:
+            xmin = 2956.720000
+            xmax = 2957.120000
+            text = ""
+        intervals [527]:
+            xmin = 2957.120000
+            xmax = 2966.560000
+            text = "The antiplatinist thesis that truth is nothing over and above probability can be taken in a number of different ways and in some ways of taking it, the thesis is certainly false."
+        intervals [528]:
+            xmin = 2966.560000
+            xmax = 2966.880000
+            text = ""
+        intervals [529]:
+            xmin = 2966.880000
+            xmax = 2976.800000
+            text = "For example it is certainly false that s is true and s is probable are synonymous even if s is a sentence of pure mathematics equals set theory for the purposes of this paper."
+        intervals [530]:
+            xmin = 2976.800000
+            xmax = 2977.040000
+            text = ""
+        intervals [531]:
+            xmin = 2977.040000
+            xmax = 2984.320000
+            text = "We characterize the meaning of true roughly when we give the criterion of adequacy for statements that are either true or false."
+        intervals [532]:
+            xmin = 2984.320000
+            xmax = 2984.560000
+            text = ""
+        intervals [533]:
+            xmin = 2984.560000
+            xmax = 2990.480000
+            text = "Even more roughly we may say that we say that a statement is true when we are prepared to assent to that statement."
+        intervals [534]:
+            xmin = 2990.480000
+            xmax = 2990.880000
+            text = ""
+        intervals [535]:
+            xmin = 2990.880000
+            xmax = 2997.040000
+            text = "On the other hand we say that a statement is provable when there is an argument which convinces us to accept that statement."
+        intervals [536]:
+            xmin = 2997.040000
+            xmax = 2997.280000
+            text = ""
+        intervals [537]:
+            xmin = 2997.280000
+            xmax = 3008.000000
+            text = "Even if we are never prepared to assent to a statement in the relevant object language unless we possess a proof still what we are doing when we say s is different from what we are doing when we say that s is probable."
+        intervals [538]:
+            xmin = 3008.000000
+            xmax = 3009.120000
+            text = ""
+        intervals [539]:
+            xmin = 3009.120000
+            xmax = 3020.400000
+            text = "For example if s is the statement that the sum of i from one to n is one half n squared plus n, so what I mean by saying that s is true is that the sum of i is one half n squared plus n."
+        intervals [540]:
+            xmin = 3020.400000
+            xmax = 3021.040000
+            text = ""
+        intervals [541]:
+            xmin = 3021.040000
+            xmax = 3039.600000
+            text = "What that means roughly is that the algorithm called algorithm a grading one plus two dot plus n if the algorithm is correctly carried out and the algorithm branding n squared plus n and dividing by two is correctly carried out then the output will always be the same for any input n."
+        intervals [542]:
+            xmin = 3039.600000
+            xmax = 3040.160000
+            text = ""
+        intervals [543]:
+            xmin = 3040.160000
+            xmax = 3052.800000
+            text = "This inference ticket may not express the whole meaning of the statement that the sum of i is one half n squared n, but it certainly is a good first order approximation to a characterization of the meaning of that statement."
+        intervals [544]:
+            xmin = 3052.800000
+            xmax = 3053.040000
+            text = ""
+        intervals [545]:
+            xmin = 3053.040000
+            xmax = 3058.160000
+            text = "But it is not even a good first order approximation to the meaning of the statement that S is probable."
+        intervals [546]:
+            xmin = 3058.160000
+            xmax = 3058.800000
+            text = ""
+        intervals [547]:
+            xmin = 3058.800000
+            xmax = 3061.760000
+            text = "So in one sense truth doesn't equal probability."
+        intervals [548]:
+            xmin = 3061.760000
+            xmax = 3062.080000
+            text = ""
+        intervals [549]:
+            xmin = 3062.080000
+            xmax = 3087.680000
+            text = "However, there is another way of taking the assertion that truth is nothing over and above probability in pure mathematics and that is this we may take this assertion as meaning that if the statement of pure mathematics cannot be proved and also cannot be refuted where the can mean something stronger than mathematical possibility at least physical possibility but something weaker than technical possibility at any given kind, that statement is neither true nor false."
+        intervals [550]:
+            xmin = 3087.680000
+            xmax = 3087.920000
+            text = ""
+        intervals [551]:
+            xmin = 3087.920000
+            xmax = 3094.240000
+            text = "In short, the thesis of the antiplatist is that a partial truth definition of the kind is proposed is a reasonable one."
+        intervals [552]:
+            xmin = 3094.240000
+            xmax = 3094.480000
+            text = ""
+        intervals [553]:
+            xmin = 3094.480000
+            xmax = 3104.560000
+            text = "It seems to me that the antiplatist is correct with reservations to be noted below as to how reasonable any truth definition is in connection with classical mathematics."
+        intervals [554]:
+            xmin = 3104.560000
+            xmax = 3105.440000
+            text = ""
+        intervals [555]:
+            xmin = 3105.440000
+            xmax = 3114.320000
+            text = "I am also inclined to suppose that if the antiplatinist position is tenable apart from the girdle theorem, then the girdle theorem does not render it untenable."
+        intervals [556]:
+            xmin = 3114.320000
+            xmax = 3114.960000
+            text = ""
+        intervals [557]:
+            xmin = 3114.960000
+            xmax = 3128.800000
+            text = "Indeed a difficulty that seems much more acute for the antiplatinist than the girdle theorem is this suppose that the basic assumptions accepted in mathematics are changed that is that a new basic assumption becomes accepted in mathematics."
+        intervals [558]:
+            xmin = 3128.800000
+            xmax = 3129.120000
+            text = ""
+        intervals [559]:
+            xmin = 3129.120000
+            xmax = 3154.000000
+            text = "For example, suppose that the mathematicians come to accept the socalled axiom of constructibility which implies the hypothesis because it has so many attractive consequences and that after many years proofs using the axiom of constructability come simply to count as proofs that e the referees of the mathematics journals do not require one to list the axiom of constructibility among the hypotheses of the theorem one is proofing."
+        intervals [560]:
+            xmin = 3154.000000
+            xmax = 3154.960000
+            text = ""
+        intervals [561]:
+            xmin = 3154.960000
+            xmax = 3165.120000
+            text = "In particular, suppose the deduction given by Girgl of the continuum hypothesis from the axiom of constructibility becomes accepted as the standard proof of the continuum hypothesis."
+        intervals [562]:
+            xmin = 3165.120000
+            xmax = 3165.440000
+            text = ""
+        intervals [563]:
+            xmin = 3165.440000
+            xmax = 3171.680000
+            text = "On the antiquest account it would seem that the continuum hypothes would be true at this future time and yet it's not true now."
+        intervals [564]:
+            xmin = 3171.680000
+            xmax = 3172.320000
+            text = ""
+        intervals [565]:
+            xmin = 3172.320000
+            xmax = 3174.480000
+            text = "What should we say about such a case?"
+        intervals [566]:
+            xmin = 3174.480000
+            xmax = 3174.880000
+            text = ""
+        intervals [567]:
+            xmin = 3174.880000
+            xmax = 3189.120000
+            text = "First thing we have to do is to distinguish this from the case of a statement which we have just proved and which we've never proved before which we could have proved at any time in the past had the proof occurred to someone and the proof would have counted as a proof."
+        intervals [568]:
+            xmin = 3189.120000
+            xmax = 3189.360000
+            text = ""
+        intervals [569]:
+            xmin = 3189.360000
+            xmax = 3199.760000
+            text = "This other creates no difficulty for the antiflatonist since he identifies truth not with being actually proved but with being able to be proved in some sense in which this is not time dependent."
+        intervals [570]:
+            xmin = 3199.760000
+            xmax = 3200.480000
+            text = ""
+        intervals [571]:
+            xmin = 3200.480000
+            xmax = 3202.400000
+            text = "So this other case is no parallel."
+        intervals [572]:
+            xmin = 3202.400000
+            xmax = 3202.640000
+            text = ""
+        intervals [573]:
+            xmin = 3202.640000
+            xmax = 3207.520000
+            text = "S was always true and what this comes to is that it was always possible to produce a proof of that."
+        intervals [574]:
+            xmin = 3207.520000
+            xmax = 3207.840000
+            text = ""
+        intervals [575]:
+            xmin = 3207.840000
+            xmax = 3215.600000
+            text = "Now let us take the case of the continuum hypothesis and imagine ourselves in this future time in which the continuum hypothesis has been proved."
+        intervals [576]:
+            xmin = 3215.600000
+            xmax = 3216.000000
+            text = ""
+        intervals [577]:
+            xmin = 3216.000000
+            xmax = 3219.920000
+            text = "Was the continuum hypothesis true way back in the twentieth century?"
+        intervals [578]:
+            xmin = 3219.920000
+            xmax = 3220.000000
+            text = ""
+        intervals [579]:
+            xmin = 3220.000000
+            xmax = 3223.840000
+            text = "Is the Category Hypothesis eternally or better tantlessly true?"
+        intervals [580]:
+            xmin = 3223.840000
+            xmax = 3224.000000
+            text = ""
+        intervals [581]:
+            xmin = 3224.000000
+            xmax = 3228.640000
+            text = "The answer I myself find satisfying is a straightforward yes and no."
+        intervals [582]:
+            xmin = 3228.640000
+            xmax = 3231.280000
+            text = ""
+        intervals [583]:
+            xmin = 3231.280000
+            xmax = 3240.560000
+            text = "That is to say the continuing hypothesis was always true in the sense that proof could always have been produced not in the sense that it would always have counted as true."
+        intervals [584]:
+            xmin = 3240.560000
+            xmax = 3240.960000
+            text = ""
+        intervals [585]:
+            xmin = 3240.960000
+            xmax = 3257.200000
+            text = "If we feel uncomfortable either with saying that the continuum hypothesis is eternally or even tenslessly true or that it becomes true when the axiom became true when the axiom of constructibility came to be accepted then this is in part due to the peculiar nature of the mathematical enterprise."
+        intervals [586]:
+            xmin = 3257.200000
+            xmax = 3257.760000
+            text = ""
+        intervals [587]:
+            xmin = 3257.760000
+            xmax = 3264.960000
+            text = "In physics if we come to accept the statement p that we did not previously know, we say that we discovered that P is true."
+        intervals [588]:
+            xmin = 3264.960000
+            xmax = 3265.200000
+            text = ""
+        intervals [589]:
+            xmin = 3265.200000
+            xmax = 3281.360000
+            text = "But in set theory if we come to accept the axiom of replacement or the axiom of regularity or the axiom of constructibility we do not say that we have discovered the axiom of replacement or the axiom of regularity or the axiom of constructibility is true but we have adopted this axiom."
+        intervals [590]:
+            xmin = 3281.360000
+            xmax = 3281.760000
+            text = ""
+        intervals [591]:
+            xmin = 3281.760000
+            xmax = 3287.680000
+            text = "This indeed is one of the reasons for taking the antiplatinist position in the philosophy of mathematics."
+        intervals [592]:
+            xmin = 3287.680000
+            xmax = 3288.240000
+            text = ""
+        intervals [593]:
+            xmin = 3288.240000
+            xmax = 3308.080000
+            text = "It is because there appears to be this degree of conventionality in set theory that the language of truth and falsity is not a comfortable language here, which is not to say that it is wrong to speak of mathematical results upon occasion as true, but that it is wrong to make a notion of truth and falsity bear too much of a burden here."
+        intervals [594]:
+            xmin = 3308.080000
+            xmax = 3309.440000
+            text = ""
+        intervals [595]:
+            xmin = 3309.440000
+            xmax = 3317.760000
+            text = "Girdle again I have suggested the truth in mathematics is nothing over and above probability but what is probability?"
+        intervals [596]:
+            xmin = 3317.760000
+            xmax = 3318.240000
+            text = ""
+        intervals [597]:
+            xmin = 3318.240000
+            xmax = 3338.800000
+            text = "But sigma be some system of set theory, say one intermediate expression between Zermilo and Zermilo Frankel such that any proof in sigma would pass informal mathematics that is the referees of the mathematics journals would not require one to explicitly include any of the axioms of sigma in the hypothesis of whatever theory one might be proving."
+        intervals [598]:
+            xmin = 3338.800000
+            xmax = 3339.120000
+            text = ""
+        intervals [599]:
+            xmin = 3339.120000
+            xmax = 3344.160000
+            text = "Can one suppose that provility might reasonably be identified as provability in sigma?"
+        intervals [600]:
+            xmin = 3344.160000
+            xmax = 3344.960000
+            text = ""
+        intervals [601]:
+            xmin = 3344.960000
+            xmax = 3376.240000
+            text = "Or does the Girdel theorem show that some suppose that our intuitive notion of provability can never be captured by any formal system It is contended that for any such sigma Con sigma the arithmetic equivalent of the statement of sigma is consistent is provable in the intuitive sense but not provable in sigma if sigma is consistent Is this so suppose you take Samile Frankl set theory as sigma is Ponzf provable in the intuitive sense?"
+        intervals [602]:
+            xmin = 3376.240000
+            xmax = 3376.640000
+            text = ""
+        intervals [603]:
+            xmin = 3376.640000
+            xmax = 3378.160000
+            text = "If so, what is the proof?"
+        intervals [604]:
+            xmin = 3378.160000
+            xmax = 3379.040000
+            text = ""
+        intervals [605]:
+            xmin = 3379.040000
+            xmax = 3385.040000
+            text = "One suggests the proof is this the axioms of ZF are true, the rules preserve truths."
+        intervals [606]:
+            xmin = 3385.040000
+            xmax = 3385.120000
+            text = ""
+        intervals [607]:
+            xmin = 3385.120000
+            xmax = 3392.560000
+            text = "Therefore all theorems of ZF are true but one equals zero is not true Therefore one equals zero is not a theorem of ZF."
+        intervals [608]:
+            xmin = 3392.560000
+            xmax = 3392.800000
+            text = ""
+        intervals [609]:
+            xmin = 3392.800000
+            xmax = 3394.560000
+            text = "Therefore Zf is consistent."
+        intervals [610]:
+            xmin = 3394.560000
+            xmax = 3395.200000
+            text = ""
+        intervals [611]:
+            xmin = 3395.200000
+            xmax = 3400.080000
+            text = "This is often referred to as a good dealing argument although Girdale never fact uses such arguments."
+        intervals [612]:
+            xmin = 3400.080000
+            xmax = 3400.960000
+            text = ""
+        intervals [613]:
+            xmin = 3400.960000
+            xmax = 3405.440000
+            text = "Well if you really think that this is a proof find a mathematics journal that will publish it."
+        intervals [614]:
+            xmin = 3405.440000
+            xmax = 3407.440000
+            text = ""
+        intervals [615]:
+            xmin = 3407.440000
+            xmax = 3411.760000
+            text = "A mathematics journal will publish it again."
+        intervals [616]:
+            xmin = 3411.760000
+            xmax = 3427.920000
+            text = ""
+        intervals [617]:
+            xmin = 3427.920000
+            xmax = 3448.800000
+            text = "The proof might be given a semblance of respectability by placing a naive notion of truth on which it appears to depend a suitable set theoretic equivalent In other words one might introduce stronger set theory in VF the set theory in Kelly's topology and formalize the above proof with the ATROF definition for VS in Kelly's set theory."
+        intervals [618]:
+            xmin = 3448.800000
+            xmax = 3448.880000
+            text = ""
+        intervals [619]:
+            xmin = 3448.880000
+            xmax = 3497.920000
+            text = "Then a mathematics journal might publish the proof as the proof that the consistency of ZF is provable in Kelly's flat theory but this does not show that Kon Z is proof in this intuitive sense but that it's a theorem of Kelly's set theory conzif Morris Morris took one but actually Morris said he referred to as Kelly's decision I referred to as Kelly's assumption is provable in other words this does not show that Khanzf is provable in the intuitive set, the whole statement Khan ZF is provable and the more Showi won that there is true This statement can be proved in ZF or even in first order risk."
+        intervals [620]:
+            xmin = 3497.920000
+            xmax = 3498.080000
+            text = ""
+        intervals [621]:
+            xmin = 3498.080000
+            xmax = 3526.240000
+            text = "In short, if I accept all proofs in assistant sigma as intuitively correct it does not follow that I must also accept Pahn sigma at least if I do not have to accept the above proof sigma for if the above proof is a proof in Lauve semantics then I reject it because Nause semantics is known to be inconsistent while if it is a proof in a stronger system sigma prime, I reject it because I haven't yet decided to adopt sigma prime."
+        intervals [622]:
+            xmin = 3526.240000
+            xmax = 3526.560000
+            text = ""
+        intervals [623]:
+            xmin = 3526.560000
+            xmax = 3548.560000
+            text = "Sometimes it is argued even if Kon sigma cannot be proved still if I accept the system sigma then it is incumbent upon me also to accept Khan sigma for the argument runs If sigma turned out to be inconsistent I would surely abandon sigma thus in using sigma I am assuming Khan sigma This argument is confused."
+        intervals [624]:
+            xmin = 3548.560000
+            xmax = 3549.120000
+            text = ""
+        intervals [625]:
+            xmin = 3549.120000
+            xmax = 3559.360000
+            text = "If I accept every proof sigma then indeed I must accept con sigma but it does not follow that if I accept any proofs in sigma then I must accept con sigma."
+        intervals [626]:
+            xmin = 3559.360000
+            xmax = 3559.440000
+            text = ""
+        intervals [627]:
+            xmin = 3559.440000
+            xmax = 3575.360000
+            text = "Now if I accept sigma in the sense indicated that means that I have accepted all the proofs in sigma that I have so far seen as intuitively correct and I will accept further proofs in sigma as correct unless they have unacceptable consequences of some kind."
+        intervals [628]:
+            xmin = 3575.360000
+            xmax = 3575.680000
+            text = ""
+        intervals [629]:
+            xmin = 3575.680000
+            xmax = 3582.960000
+            text = "My confidence that these proofs are intuitively correct is not however dependent on being confident that all sigma is consistent."
+        intervals [630]:
+            xmin = 3582.960000
+            xmax = 3583.040000
+            text = ""
+        intervals [631]:
+            xmin = 3583.040000
+            xmax = 3614.880000
+            text = "Even if sigma turns out to be inconsistent, these proofs may be essentially all right that is they may go through even after the axioms of sigma have been modified to remove the inconsistency thus there is no contradiction in saying I accept these proofs of sigma as good proofs but I'm not absolutely confident that causing and I suggest this is just the way we do think and working mathematics the consistency of the whole system is simply not taken as evidence which is not to say that individual proofs are not accepted."
+        intervals [632]:
+            xmin = 3614.880000
+            xmax = 3615.680000
+            text = ""
+        intervals [633]:
+            xmin = 3615.680000
+            xmax = 3621.520000
+            text = "Suppose however mathematicians did come to accept Gerdelian arguments what then?"
+        intervals [634]:
+            xmin = 3621.520000
+            xmax = 3621.600000
+            text = ""
+        intervals [635]:
+            xmin = 3621.600000
+            xmax = 3711.360000
+            text = "Well if they were careless they might well fall in the contradiction otherwise this reduces to the question whether a person who carries out Gerdelian arguments can be represented by an automaton which was discussed in the first section of this paper I think we can doubt of general discussion and I suggest three minutes I don't know and if anybody wants to speak I would like to hear the shot before coming names and I would be glad if each of you who would like to take part in the discussion would come here to talk to Macrov my government I'd like to make two comments that mainly pertain to Professor Venasaref's paper but also I think to the general discussion in which both Professors Putnam and Benasaref engaged."
+        intervals [636]:
+            xmin = 3711.360000
+            xmax = 3712.400000
+            text = ""
+        intervals [637]:
+            xmin = 3712.400000
+            xmax = 3719.600000
+            text = "It's this people two comments first is really terminological."
+        intervals [638]:
+            xmin = 3719.600000
+            xmax = 3720.720000
+            text = ""
+        intervals [639]:
+            xmin = 3720.720000
+            xmax = 3731.040000
+            text = "People including Girdel have talked about an absolute notion of provability."
+        intervals [640]:
+            xmin = 3731.040000
+            xmax = 3732.560000
+            text = ""
+        intervals [641]:
+            xmin = 3732.560000
+            xmax = 3741.120000
+            text = "This is a notion which is not necessarily supposed to coincide with provability in any particular formal system."
+        intervals [642]:
+            xmin = 3741.120000
+            xmax = 3742.880000
+            text = ""
+        intervals [643]:
+            xmin = 3742.880000
+            xmax = 3757.120000
+            text = "I really detest this terminology because when you speak of provability, a notion of provability, you imply that there is a corresponding notion of proof or this is a psychological implication."
+        intervals [644]:
+            xmin = 3757.120000
+            xmax = 3757.600000
+            text = ""
+        intervals [645]:
+            xmin = 3757.600000
+            xmax = 3762.800000
+            text = "Well what sorts of proofs do you have corresponding to absolute provability?"
+        intervals [646]:
+            xmin = 3762.800000
+            xmax = 3762.960000
+            text = ""
+        intervals [647]:
+            xmin = 3762.960000
+            xmax = 3777.120000
+            text = "Well you have informal proofs and to believe in the existence of informal proofs as against formal proofs I think a terrible retrogression after Frege and Hilbert One ought not to use this terminology probability at all."
+        intervals [648]:
+            xmin = 3777.120000
+            xmax = 3777.600000
+            text = ""
+        intervals [649]:
+            xmin = 3777.600000
+            xmax = 3801.200000
+            text = "Instead there's a perfectly good philosophical term which is applicable in this context it's a priori knowledge or really potential a priori knowledge This is the notion which is involved perfectly good notion but it's clear that it should not be analyzed in terms of proof as a sequence of steps."
+        intervals [650]:
+            xmin = 3801.200000
+            xmax = 3802.560000
+            text = ""
+        intervals [651]:
+            xmin = 3802.560000
+            xmax = 3806.240000
+            text = "Now the second comment is not terminological."
+        intervals [652]:
+            xmin = 3806.240000
+            xmax = 3806.640000
+            text = ""
+        intervals [653]:
+            xmin = 3806.640000
+            xmax = 3818.560000
+            text = "Suppose you want to discuss a priori knowledge Now you need not assume that knowledge is definable by a formula of set theory or so there's no reason to do this."
+        intervals [654]:
+            xmin = 3818.560000
+            xmax = 3818.640000
+            text = ""
+        intervals [655]:
+            xmin = 3818.640000
+            xmax = 3837.440000
+            text = "In fact Godel was most explicit in this connection You can introduce knowledge axiomatically you can introduce a new symbol meaning is a potential piece of a priori knowledge one place predicate for your formalism How can you investigate this?"
+        intervals [656]:
+            xmin = 3837.440000
+            xmax = 3837.520000
+            text = ""
+        intervals [657]:
+            xmin = 3837.520000
+            xmax = 3842.080000
+            text = "Well as usual when you introduce a new symbol you have to use axioms concerning it."
+        intervals [658]:
+            xmin = 3842.080000
+            xmax = 3842.160000
+            text = ""
+        intervals [659]:
+            xmin = 3842.160000
+            xmax = 3857.440000
+            text = "Now the arguments employed by Lucas and Professor Benasareh show that there's something a bit mysterious about this notion but I think they show nothing new."
+        intervals [660]:
+            xmin = 3857.440000
+            xmax = 3857.760000
+            text = ""
+        intervals [661]:
+            xmin = 3857.760000
+            xmax = 3864.560000
+            text = "I mean in particular Lucas' argument leads to no point of purpose at all."
+        intervals [662]:
+            xmin = 3864.560000
+            xmax = 3864.800000
+            text = ""
+        intervals [663]:
+            xmin = 3864.800000
+            xmax = 3904.000000
+            text = "You can do everything he did without the assumption that as Professor Ben Assef realizes without the assumption that knowledge coincides with provability in any formal system that is totally irrelevant What you can do is introduce some quite plausible axioms about knowledge and using the kinds of arguments that you've heard today you can prove a contradiction from these assumptions Now actually I think the first and perhaps clearest place where this was done is in Professor Tarsky's paper on truth simply read the predicate is true as is known then the axiom that's given is the unrestricted material criterion."
+        intervals [664]:
+            xmin = 3904.000000
+            xmax = 3904.080000
+            text = ""
+        intervals [665]:
+            xmin = 3904.080000
+            xmax = 3906.800000
+            text = "Professor Tarsky showed simply that it leads to contradiction."
+        intervals [666]:
+            xmin = 3906.800000
+            xmax = 3906.960000
+            text = ""
+        intervals [667]:
+            xmin = 3906.960000
+            xmax = 3910.560000
+            text = "In other words, this is a notion of knowledge which cannot be entertained."
+        intervals [668]:
+            xmin = 3910.560000
+            xmax = 3910.640000
+            text = ""
+        intervals [669]:
+            xmin = 3910.640000
+            xmax = 3948.080000
+            text = "You cannot have these axioms Other axiom systems were considered by Professor Kaplan and myself in a and these and contradictions obtained on the basis of the paradox of the hangman and Professor Benazareth in the appendix of his paper considers still another axiom system and shows that inconsistent So the point of this remark is really that in investigating an absolute notion of proof one has to be exceedingly cautious in choosing the axioms intuitive plausibility is not enough one is led almost immediately to contradiction whenever one introduces intuitively plausible axioms."
+        intervals [670]:
+            xmin = 3948.080000
+            xmax = 3948.320000
+            text = ""
+        intervals [671]:
+            xmin = 3948.320000
+            xmax = 3971.920000
+            text = "That reminds me that yesterday Professor Kaplan suggested to me another way of axiomatizing absolute know apriori knowledge axioms that would imply this that one knows the basic truths of arithmetic like the theory Q and in addition one's knowledge is closed under the omega rule."
+        intervals [672]:
+            xmin = 3971.920000
+            xmax = 3972.000000
+            text = ""
+        intervals [673]:
+            xmin = 3972.000000
+            xmax = 4027.120000
+            text = "Well it just occurred to me that that system too is inconsistent Marco Bricks coincides No I would be so honored by Marco Brooks of the University of Michigan to comments first of all it seems to me that maybe an idea which is in the back of the mind of a person like Lucas is that he's thinking of a machine as working in a formal language he realizes that the human normally works in a natural language and also has the capacity to formalize that language and he wonders whether we can program a machine which could both work with a natural language and formalize it seems to me that such machines could in principle be produced and will someday be produced but actually technologically we're a long way from that."
+        intervals [674]:
+            xmin = 4027.120000
+            xmax = 4027.600000
+            text = ""
+        intervals [675]:
+            xmin = 4027.600000
+            xmax = 4037.520000
+            text = "The second point is an implication not of Gertel's theorem as such but of the general technique that Girdel used and Tarski also used."
+        intervals [676]:
+            xmin = 4037.520000
+            xmax = 4038.000000
+            text = ""
+        intervals [677]:
+            xmin = 4038.000000
+            xmax = 4052.960000
+            text = "People used to say that a sentence cannot refer to itself Girdel's undecidable sentence that is a sentence cannot refer to itself without contradiction and this was used as a method of expressing the requirement of a ramified theory of types."
+        intervals [678]:
+            xmin = 4052.960000
+            xmax = 4053.200000
+            text = ""
+        intervals [679]:
+            xmin = 4053.200000
+            xmax = 4058.400000
+            text = "The undecidable sentence of Girdle certainly does refer to itself in a certain sense."
+        intervals [680]:
+            xmin = 4058.400000
+            xmax = 4058.640000
+            text = ""
+        intervals [681]:
+            xmin = 4058.640000
+            xmax = 4076.320000
+            text = "On the other hand, sentences which refer to their own truth very often produce contradictions and so I think an outcome of the technique of Gertel and Tarski was a better idea of the conditions under which a sentence can and cannot refer to itself."
+        intervals [682]:
+            xmin = 4076.320000
+            xmax = 4088.720000
+            text = ""
+        intervals [683]:
+            xmin = 4088.720000
+            xmax = 4132.160000
+            text = "I was really not planning to talk here but I have promised to Mrs Martin that if anything occurs to me which seems to be more or less reasonable then I shall say I don't know whether it's reasonable first I think that we all listeners here should agree will agree that this has been a very successful sympos very many sided we had a talk where some progress of mathematical character in studying Padel's result has been presented and reported far reaching generalization of Edel's incomplete theory."
+        intervals [684]:
+            xmin = 4132.160000
+            xmax = 4132.560000
+            text = ""
+        intervals [685]:
+            xmin = 4132.560000
+            xmax = 4145.680000
+            text = "Then we had two other talks and I was happy to hear that the two different aspects of Gadel's results were discussed in these talks two aspects which are really often confused."
+        intervals [686]:
+            xmin = 4145.680000
+            xmax = 4146.160000
+            text = ""
+        intervals [687]:
+            xmin = 4146.160000
+            xmax = 4157.359000
+            text = "I could refer to one aspect as machine aspect and the second as truth aspect only to use slogans Let's address this first aspect machine aspect."
+        intervals [688]:
+            xmin = 4157.359000
+            xmax = 4157.760000
+            text = ""
+        intervals [689]:
+            xmin = 4157.760000
+            xmax = 4170.880000
+            text = "I'm not prepared to say much at any rate not about philosophical discussions aspect of this part of the problem maybe rather one historical remark that would be proper place."
+        intervals [690]:
+            xmin = 4170.880000
+            xmax = 4171.200000
+            text = ""
+        intervals [691]:
+            xmin = 4171.200000
+            xmax = 4182.800000
+            text = "There was really no discussion of some implications logical implications of Gidel's methods which are extremely important that means those which involve the notion of desired."
+        intervals [692]:
+            xmin = 4182.800000
+            xmax = 4183.520000
+            text = ""
+        intervals [693]:
+            xmin = 4183.520000
+            xmax = 4196.480000
+            text = "It is not my tendency at all to deny credit to Professor Church who was first to formulate the essential fundamental result about undecidability."
+        intervals [694]:
+            xmin = 4196.480000
+            xmax = 4196.960000
+            text = ""
+        intervals [695]:
+            xmin = 4196.960000
+            xmax = 4236.320000
+            text = "However it is obvious that this is one of the implications of the whole Geidel's construction and actually Geidel's results are much closer to statements about undecidability than it would first seem to us after all what was the first Geidel's incompleteness theorem the theorem by which not only a given system of arithmetic has ten Z but each of its omega consistent extensions has this property that the set of PRMs in this extension is not limited to."
+        intervals [696]:
+            xmin = 4236.320000
+            xmax = 4236.880000
+            text = ""
+        intervals [697]:
+            xmin = 4236.880000
+            xmax = 4239.600000
+            text = "Now this result was improved in two directions."
+        intervals [698]:
+            xmin = 4239.600000
+            xmax = 4239.920000
+            text = ""
+        intervals [699]:
+            xmin = 4239.920000
+            xmax = 4258.160000
+            text = "Omega consistency was replaced by consistence Well I'm sorry you see I think my formulation was wrong you know well no primitive recursive extension of original system can be complete and omega consistent."
+        intervals [700]:
+            xmin = 4258.160000
+            xmax = 4258.320000
+            text = ""
+        intervals [701]:
+            xmin = 4258.320000
+            xmax = 4284.640000
+            text = "If it is omega consistent it will not be complete so now replace omega consistent by consistent and replace primitive recursive by recursive and then you obtain statement which is very well known to be equivalent to the statement about undecidability Now I am turning rather to the second aspect which is closer to me."
+        intervals [702]:
+            xmin = 4284.640000
+            xmax = 4284.720000
+            text = ""
+        intervals [703]:
+            xmin = 4284.720000
+            xmax = 4302.560000
+            text = "Professor Putnam talked about a possible discussion between a platonist and antiplatonist but this antiplatonist was of a very mild genre of antiplatic platonist I happen to be you know a much more extreme antiplatonist."
+        intervals [704]:
+            xmin = 4302.560000
+            xmax = 4302.720000
+            text = ""
+        intervals [705]:
+            xmin = 4302.720000
+            xmax = 4321.040000
+            text = "I am sorry don't take this as an expression of an egotism when I talk about myself but somehow since I am not a professional philosopher if I happen to talk publicly about philosophical problems I feel on much firmer ground when I use autobiographical language."
+        intervals [706]:
+            xmin = 4321.040000
+            xmax = 4321.600000
+            text = ""
+        intervals [707]:
+            xmin = 4321.600000
+            xmax = 4332.240000
+            text = "So you see I am much more extreme I would not accept the challenge of platformism You agree that continuing hypothesis has good sense it's understandable."
+        intervals [708]:
+            xmin = 4332.240000
+            xmax = 4332.400000
+            text = ""
+        intervals [709]:
+            xmin = 4332.400000
+            xmax = 4335.520000
+            text = "No, I would say it's not understandable to me at all."
+        intervals [710]:
+            xmin = 4335.520000
+            xmax = 4336.240000
+            text = ""
+        intervals [711]:
+            xmin = 4336.240000
+            xmax = 4350.160000
+            text = "I would not be able to use like you antiplatonistic terms can be able in such a way that it has no time coefficient you know to me the words are understandable only if they have time coefficient."
+        intervals [712]:
+            xmin = 4350.160000
+            xmax = 4350.320000
+            text = ""
+        intervals [713]:
+            xmin = 4350.320000
+            xmax = 4364.320000
+            text = "Now one could think that from this point of view the whole problem vanishes if one doesn't understand then why to bother certain things certain strange phenomena appear, strange things happen."
+        intervals [714]:
+            xmin = 4364.320000
+            xmax = 4367.440000
+            text = ""
+        intervals [715]:
+            xmin = 4367.440000
+            xmax = 4392.160000
+            text = "It takes another aspect to think why other people are so impressed by it, why other people use it, why is it so that this platonic way of thinking found such a firm ground in our society in our culture seems to have been very useful and very helpful in the development in the progress achieved."
+        intervals [716]:
+            xmin = 4392.160000
+            xmax = 4394.880000
+            text = ""
+        intervals [717]:
+            xmin = 4394.880000
+            xmax = 4437.120000
+            text = "However, you know I represent this very rude naive kind of antiplatonism one thing which I could describe as materialism or nominalism with some materialistic taint and it's very difficult for a man to live his whole life with this philosophical attitude, especially if he's a mathematician, especially if for some reason he has a hobby which is called set theory and very difficult and sometimes I think maybe in some future reincarnation and we agree that in my age it's very proper thing to think about possible future reincarnations."
+        intervals [718]:
+            xmin = 4437.120000
+            xmax = 4437.680000
+            text = ""
+        intervals [719]:
+            xmin = 4437.680000
+            xmax = 4472.880000
+            text = "I shall not be such an extreme antiplatonist as I am now I don't know what will happen where it's so difficult to go out of one's skin so I imagine you know that I shall not abandon all my tendencies let's say rejection of knowledge of priori if I understand it some empiristical tendencies, physicalist tendencies still I shall perhaps learn to understand mathematical statements, statements about classes."
+        intervals [720]:
+            xmin = 4472.880000
+            xmax = 4473.040000
+            text = ""
+        intervals [721]:
+            xmin = 4473.040000
+            xmax = 4577.600000
+            text = "Maybe I shall arrive at the conclusion that the existence of classes is not proper problem, it's not good, it makes no sense or maybe I shall accept some milder form of platonism from what I remember from old times when I studied the history of philosophy one distinguishes at least three kinds of idealism the ideas anters the four things this is Platonism Ineregus Aristotle point of view and conceptualism posteres who was representative of Dinuscotus and some logicians identify with the contemporary logician Dinascot Should not be done Well at any at any rate you know I shall be able to understand Without abandoning all my tendencies I shall be able to understand mathematical statements and in this case I think that what happened due to Geter will have some essential influence may have on my way of thinking in connection with the notion of truth or maybe in connection with something more general with connection with the whole logic which we see from such a rude empirical point of view logic can be treated as empirical science or at any rate as a science where linguistic connections and accumulated experiences are confused in very strange way so that in each particular case it is difficult to say whether something is only a result of some linguistic convention or is a result of accumulated experience."
+        intervals [722]:
+            xmin = 4577.600000
+            xmax = 4577.760000
+            text = ""
+        intervals [723]:
+            xmin = 4577.760000
+            xmax = 4666.320000
+            text = "Often you read these that actually well at any more elementary parts of logic this purely logical terminological convention for instance take the law of excluded middle purely linguistic things take the table zero one table and since it's always one we agree to use or and in such a way that one forms the table and therefore we accept it Now analyze a little the way in which you show that it agrees with this table you use the law of absolute middle in showing that the law of abscluded middle is verified by the table a trivial remark you know so I am inclined to think that the law of excluded middle which is perhaps a critical point here is to some extent a result of accumulated experiences Let's go back to the history I know that historical explanation is never essential for the problem I think still it throws some light Let's then add in our thought let's make a Gedanken experiment to such a period when people did not know at all any abstract notion mathematics did not exist were no classes but they knew various things which were white and others which were black and in certain cases they claimed something is white and in other cases they were certain and they claimed something is not white."
+        intervals [724]:
+            xmin = 4666.320000
+            xmax = 4666.400000
+            text = ""
+        intervals [725]:
+            xmin = 4666.400000
+            xmax = 4677.520000
+            text = "It is not the case that something is white and they learned to use the word not and there were many situations where they could not say either that something is white or is not white."
+        intervals [726]:
+            xmin = 4677.520000
+            xmax = 4677.600000
+            text = ""
+        intervals [727]:
+            xmin = 4677.600000
+            xmax = 4692.480000
+            text = "However, you see they saw that even if they were uncertain then sooner or later they came to the knowledge of them they somehow saw what is true in this case whether the thing is white or not white."
+        intervals [728]:
+            xmin = 4692.480000
+            xmax = 4692.640000
+            text = ""
+        intervals [729]:
+            xmin = 4692.640000
+            xmax = 4784.240000
+            text = "So as perhaps as a result of this million years long accumulated experiences I thought it natural to accept in logic the law of excluded middle and in the theory of truth to define the notion of truth in such a way that it obeys the law of excluded Now in a later stage became acquainted with abstract knowledge with classes and they learned to understand these sentences involving class names and to use them in such a way that well the grammar of these sentences is the same as the grammar of sentences where only the names of physical objects occur and first natural thing was to extend this experience concerning material objects to abstract objects so this means to apply the whole logic, all the logic to this abstract logic but then it turns out that this was not justified this extension is no reason to extend it in this way to assume that this logic will still apply to this substraction It seems now pretty certain that there are expressions here which we consider sentences expression of truth or false and of regarding which we shall never have slightly at least any possibility of deciding whether they are true or false and the natural question arises whether it makes a sense to stick at this logic old logic when dealing with this type of sentence."
+        intervals [730]:
+            xmin = 4784.240000
+            xmax = 4784.480000
+            text = ""
+        intervals [731]:
+            xmin = 4784.480000
+            xmax = 4800.720000
+            text = "So in this sense I would not go as far as you in mathematics truth is only probability I don't know which probability but at any rate maybe the notion of two systems did not profit the practical notion of truth for mathematical stuff."
+        intervals [732]:
+            xmin = 4800.720000
+            xmax = 4800.960000
+            text = ""
+        intervals [733]:
+            xmin = 4800.960000
+            xmax = 4821.120000
+            text = "I think you see that this is this negative conclusion which one could draw from these developments starting with the game and therefore I am quite interested in attempts of constructing such theory on the basis of some nonclassical logic simply as an experiment and see to what it will be."

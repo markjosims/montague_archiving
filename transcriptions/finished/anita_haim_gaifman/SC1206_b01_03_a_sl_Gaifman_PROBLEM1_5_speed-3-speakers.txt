@@ -1,0 +1,212 @@
+HG 0:00:00-0:00:37
+Is there a section of linguistics yet?
+
+SF:
+I think so.
+
+HG:
+Really? Is there a section of linguistics?
+
+SF: Well, not necessarily every time, but there's certainly an [UNINTELLIGIBLE].
+
+HG:
+Sometimes, yeah. Perhaps oh okay, I don't I really I mean, to tell you the truth, I didn't think that much about it. Perhaps it is too much discussed, but I would keep some kind of framework. I think it's a good idea to have this kind of framework because I think these disciplines can contribute to a certain point of view. There should be interactions. In a way you want it to be the input, it gives a good occasion for logic to display some kind of input into analytic philosophy in general. [Yeah] And I think it's a good idea that logic should have an input in this direction.
+
+SF: 0:01:11-0:01:11
+What do you think of the state of logic today?
+In twenty five words or less?
+
+HG: 0:01:11-0:03:07
+Why it's certainly stopped to be the unique thing it was in the fifties. I mean, it's one of the programs that by being successful they come to an end, you know? I mean, that and that has been achieved, that and that has been known and so on and so forth. When it comes to mathematics, it becomes an extremely specialized higher power, very, very deep, but on the other hand, much less wide impact in because it's a respectable specialized field. Unless there's going to be some kind of new shattering result in set theory, which will kind of open our eyes and so on, I think we are more or less left where we are after a big shock of the dependence results and when it was shown how much this method can do, okay, so philosophically speaking, I think we are less in the same place. People working in descriptive set theory might have, of course, much insight and so on, higher cardinality and so on, I think philosophically more or less that's previously that's it's [UNINTELLIGIBLE]. That's my impression about
+it. So it became a kind of, it's a success story but then, things go other ways. This is as far as mathematical logic goes. Now when it comes to  logic in all kinds of, linear log and non-monotonic logic and this kind of thing.
+
+It's a lot less thriving, let's put it that way.
+It cannot be written off, there is there's certainly a lot of things being done. It's difficult to appreciate now what's going to be the outcome. Apprently logics play a more minor role as things go by, because things are being solved by kind of brute algorithmic processes. Because more models are made of analysis of network and more combinatorial-oriented than logic per se. So logic just goes into the whole thing.
+But there's some theory about what logic has to say about non-monotonic reasoning about all kinds of, very interesting. So I think logic is a living, living with wider impact. It's not as big mathematically, but it certainly has some kind of impact, yeah I would say so. And then linguistics,  the same project of analyzing the logical structure of language, I think is very interesting.
+
+So in many in many areas logic is certainly a very essential component and [Right],
+but it's kind of, you know, it splinters. It splinters. What was one big point of view and this went here, this went here, this went there.
+
+SF: 0:04:34-0:04:37
+Well what was interesting, I need to mention the Cornell meeting which I was at
+
+HG: 0:04:38-0:04:39
+When was that?
+
+SF: 0:04:39-0:04:42
+1957. That brought together people who had been working separately in recursion theory, model theory, set theory and proof theory.
+And that was kind of an implosion which was a framework, I think for the "glory period," the fifties and the sixties. but now you're saying is it's going the other way.
+
+HG:
+Right. There are still people producing very good technical results.
+
+SF:
+Indeed!
+
+HG:
+And very fascinating, but they became part of mathematics! They became part of mathematics. [Right] You know that the philosophical impact has already been done and this is kind of marginal additional things which I don't think change very much in the picture. Unless there's some kind of big revolution in some foundation but I don't see how I take how.
+
+AF:
+Good, does that answer all of your questions?
+
+SF:
+Yeah.
+
+AF:
+I have one more question whether you think you had some influence on Tarski, I asked about your influence on him?
+
+SF: 0:05:35-0:05:52
+I saw the problems, well was impressed by my results about... I mean the influence I had with interest it doesn't matter that he thought the results were very impressive and he was very satisfied and happy, which he let me know that "yeah I thought it was a very good result."
+That's fine but that's the only influence I had.
+
+AF:
+I think you may have had another influence in that he realized that he couldn't take advantage of you [LAUGHS].
+
+HG: 0:05:52-0:05:52
+That probably, but this is not... I mean he would have tried to 
+
+SF: 0:05:52-0:05:55
+wrong but this is another I mean he would have tried to do it in any case I mean this is not something that would have changed it, he would have done it and then if somebody would have stood up to him. Somehow I don't know the relationship didn't develop from the first day, it went on a different track and then he couldn't put it on there.
+
+SF:
+Maybe he learned something about the varieties of human [ingenuity ???]
+
+HG: 0:06:07-0:06:07
+Yeah perhaps he learned something about the varieties of human [ingenuity ???]
+
+AF: 0:06:07-0:06:17
+Well this secretary Dale, who I interviewed, who worked for him for six years and she was the one who actually organized this conference when he was seventy years old in 1971, and she came to work for him as a twenty four or twenty five year old girl. It was her first main job out of college.
+She had a shaky marriage and she came to work for him and she said he was just a tyrant. He just told her to "do this, do this, do this, do that." Nothing was good enough so and she had to do everything right and he treated her like a servant, she said.
+
+And she... originally this meeting was supposed to secret. Bob Vaught came to her one day, shut the door and said we were going to have this wonderful meeting. So she was supposed to be organizing this whole thing on the QT. Meanwhile he's got all these demands on her all the time and she's supposed to be keeping her other work for this conference. You know what it is to organize conference. Secret! He'd come in to her office and she had to hide everything and she wasn't doing everything she was supposed to be doing quickly enough because she was doing this other thing
+
+And she says she was just going crazy. And you know he was he was a mess to work for anyway I mean you know this all over the place, cigars. She had to "where's my cigar, where's my cigar?" You know, under the table and the ashtray was all filled with cigar.
+
+But finally she said by the end of this meeting that she got some very special public acknowledgment. And you know, he gave her this big embrace because he could be so warm at any given moment, and tears streaming down her face and tears streaming down his face. And she said she thinks maybe that had a little influence, that maybe he was a little nicer to the "servants" after that, she isn't sure but it was...
+
+HG: 0:07:24-0:07:27
+He was touched, he was very touched. He was very happy, very happy.
+
+AF: 0:07:28-0:07:44
+He could be but how long it lasted is another question. She did very, very well at that job and she wanted to upgrade her position and the university refused to do it. They wouldn't give her a higher status. So she was in a sense running this whole logic methodology program by then and so she quit and as a result of quitting she went to work for the Department of Public Health, and she's now managing she's now managing editor of the Berkeley Wellness Letter which is one of these first medical letters and she has a job she just adores. She's the director and she said this job with Tarski just gave her tremendous training [LAUGHS]. But she said it was really, really tough to work for him in that way. Everything was so
+hard
+
+HG: 0:08:11-0:08:11
+He used to take later on various stimulants.
+
+AF: 0:08:11-0:08:19
+Uh huh? Yeah. Did he talk about that with you or you just know it?
+
+HG:
+I knew it, I knew it.
+
+AF:
+Did he discuss them with you?
+
+HG: 0:08:19-0:08:19
+Not with me. He'd never discussed them with me.
+
+AF: 0:08:20-0:08:21
+Yeah, he didn't, but he told you he took them.
+
+HG: 0:08:21-0:08:21
+No he didn't...
+
+SF: 0:08:22-0:08:24
+Oh so you just heard it from others Who did you hear that from?
+
+HG: 0:08:26-0:08:27
+I heard that from his daughter.
+
+AF:
+From his daughter.
+
+HG:
+But she was very unhappy about it.
+
+AF:
+Ina?
+
+HG:
+Yes, Ina was very unhappy about it. That he used to take this kind of, in order to perk him up.
+
+AF:
+Yeah he took this stuff called Cola Astier. He took, he was quite willing to try anything I think which is sort of surprising because he was somebody who valued his intellect. You'd think he would be afraid of destroying something.
+
+
+HG:
+But he had the kind of an experimental spirit that
+
+AF:
+I know he did but still. He did have definitely, he would drink. He would drink everybody under the table.
+There are stories about you know...
+
+HG:
+The Polish tradition.
+
+AF:
+Yeah but even other Poles he would drink under the table. So he would drink, smoke. Smoked himself to death literally, but also stimulants. Well I don't know did you ever say? I'm gonna ask her but the ones I heard were Cola Astier that he used to get?
+
+HG:
+No, don't tell her I told you.
+
+AF:
+No no, I know.
+
+HG:
+Because maybe she doesn't love this, you know she would be ashamed about me telling it because, I don't know, she didn't tell me as if it was a family secret but it might have been for all I know.
+
+AF:
+I don't think so I mean it's well known that he took stimulants. So I mean there was an article that Steve Givant wrote in The Mathematical Intelligence and it's stated in there so I'm not revealing anything to anybody, just know what I don't know is what specifically took. I think he may have tried marijuana, there's some story about marijuana.
+
+HG:
+Yes of course I brought him the marijuana.
+
+AF:
+You brought him the marijuana!
+
+HG:
+I brought, [there was a park ???] in Los Angeles.
+
+AF:
+Aha that's the story! Wasn't he...?
+
+HG:
+I, Solomon gave me the marijuana [Yeah?] and I supplied the whole pocket. [Yeah?] There were logicians and they all smoked marijuana smoked marijuana. And he smoked marijuana.
+
+AF:
+And how did he behave?
+
+HG:
+[UNINTELLIGIBLE] he was very happy with me. He kind of enjoyed it.
+
+AF:
+When was this was?
+
+HG:
+This was in Logic here in Los Angeles. 1965?
+
+
+[CROSSTALK + DISTORTION]
+
+AF:
+Somebody with marijuana but I don't know he was [UNINTELLIGIBLE] under arrest, but this is thirty years I don't think the statute of limitations.
+
+[DISTORTION]
+
+AF:
+...you were there.
+
+HG:
+[This part is very distorted, but the auto transcription is somewhat believable, so I'm mostly leaving it intact here.]
+Yeah but I thought it was funny because I was a surprise because it was six days six days the logic here was a big party I don't think he's not actually there you might have. Oh yeah unless it was Tarski. Right. And he was pleased with the idea that pleased with it's interesting contact very much. Yeah. He's the one who gave it. I always had one story all before this psychological analysis scientifically incredible. I was talking theory you wrote the whole thing to the last detail line three parentheses all this and this completely normal everything so that was and again one definition it was very something it was very something I mean he gave a wonderful finish. He was really impressed.
+
+[DISTORTION]
+
+AF:
+Okay, now I'm recording on top of the garbled stuff. From 94 9 to 95, 95 1, 95 or is it 96? 95 2, 95 3, 95 4.
+
+[DISTORTION]
+
+AF: 0:19:26-0:23:22
+Now I'm trying to record and I'm wondering how this is going to sound on here if I record now will it be garbled, or was it something that was happening there that was making it all garbled? I'm going to put the counter on and I'm going to record for, one second four two seconds and for three seconds, one two three.

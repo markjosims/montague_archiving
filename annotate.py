@@ -55,7 +55,7 @@ def perform_asr_nemo(
         **kwargs,
 ) -> str:
     audio = audio.squeeze()
-    result = pipe.transcribe(audio,**kwargs)[0]
+    result = pipe.transcribe(audio,**kwargs, verbose=True, batch_size=1)[0]
     result = {
         "chunks": result.timestamp[timestamp_level],
         "text": result.text
@@ -101,7 +101,12 @@ def load_asr_model(args):
         tokenizer = WhisperTokenizer.from_pretrained(args.asr_model)
         forced_decoder_ids = tokenizer.get_decoder_prompt_ids(language="english", task="transcribe")
         return asr_pipe, forced_decoder_ids
-    return nemo_asr.models.ASRModel.from_pretrained(args.asr_model), None
+    asr_pipe = nemo_asr.models.ASRModel.from_pretrained(args.asr_model)
+    # Enable local attention
+    asr_pipe.change_attention_model("rel_pos_local_attn", [128, 128])
+    # Enable chunking for subsampling module
+    asr_pipe.change_subsampling_conv_chunking_factor(1) # 1 = auto select
+    return asr_pipe, None
 
 """
 ELAN methods
@@ -425,7 +430,13 @@ def asr_first(
         asr_pipe: Pipeline,
         **kwargs,
 ):
+    asr_pipe = asr_pipe.to(torch.device(0))
+    drz_pipe = drz_pipe.to(torch.device('cpu'))
+    torch.cuda.empty_cache()
     chunks = perform_asr(wav, pipe=asr_pipe, **kwargs)["chunks"]
+    asr_pipe = asr_pipe.to(torch.device('cpu'))
+    drz_pipe = drz_pipe.to(torch.device(0))
+    torch.cuda.empty_cache()
     diarization = diarize(wav, drz_pipe, num_speakers=num_speakers)
 
     # build an EAF file and Gecko JSON object simultaneously
