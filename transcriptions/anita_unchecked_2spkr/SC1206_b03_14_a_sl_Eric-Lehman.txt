@@ -1,0 +1,679 @@
+SPEAKER_01: 0:00:01-0:04:04
+two, three, four, five.
+
+This morning I'm going to interview Eric Lehman about his days with Tarski and Niman.
+
+Right.
+
+So he's having a wonderful time.
+
+I hope you're enjoying the project.
+
+It is always fun.
+
+Yeah, I wrote another biography of Jean Van Heyenert.
+
+I don't know if you know, so it's a biography and a lot of that was done by interview, a lot of it interview with him.
+
+Jan van Heyert was a mathematician, logician who had been Trotsky's secretary and bodyguard and translator for many years.
+
+And yeah, he had a very, very interesting life.
+
+And so I did that was a very exciting very exciting Charlie are young?
+
+Are you in the Castle project?
+
+I would say maybe a quarter of the way.
+
+Sol's just gotten dragged into it.
+
+He's now and he's not wanting to do his part for a while.
+
+But I'm doing more the personality, the general story, the historical scene, and I think Saul will be expert on the work in his Do you have a lot of Polish material?
+
+I have a fair amount, not a whole lot, but I have a lot of I have some personal information and there's historical material, of course, and things to read about period.
+
+The whole Polish mathematical scene, of course, was incredibly interesting.
+
+And the whole period between the wars in Poland, that period from nineteen eighteen to nineteen thirty nine was a very, very fruitful period in all aspects.
+
+Intellectual and cultural life was just flourished, a real Renaissance and Tarski was part of that.
+
+So those were his He was born in thirty he was born in nineteen oh one and he left in ' thirty nine.
+
+He left just to come for a lecture and then was here when the war started, so to stay.
+
+But I think the thing that caught my attention most about you in this book was the point where you actually there's she writes that you went to discuss with Tarsi the possibility of working in Yeah, I wanted to work with him and then got pulled back.
+
+Got pulled back.
+
+So tell me a little about that.
+
+Well, I don't really I kept, you know, long ago and it was a very turbulent times I knew.
+
+But I was actually not so much interested in logic but in the university algebra that he was at that time.
+
+That took once and I had talked with him and he said he'd be happy to work with me but then it didn't work out when the statistics would Evans pushed me into statistics because of the war he felt that I should go back to work rather than the right of work.
+
+So I went see Nin and then if you ready to do I didn't look particularly like it after a year and was going to go back to the African and then they offered me a job and I just thought I couldn't turn that down.
+
+It turned out very well for me.
+
+I probably did much better in statistics than I really would have done, although it's much further away from what I really want to do in life.
+
+I want to work in man I want to work in literature.
+
+And from there I went to geometematics and then geometrics and statistics as a weird weird traveler Eric, what year was that you approached first?
+
+SPEAKER_00: 0:04:05-0:04:06
+That was tough.
+
+SPEAKER_01: 0:04:07-0:05:06
+Risky Well try and work it out If it was still the war.
+
+Oh yeah yeah it wasn't long after you came to Berkeley then?
+
+It was probably forty three forty three forty three forty three.
+
+Had you had a course with Dursty?
+
+I've not taken a course with them no but I took a seminar I sat in on the seminar So were you a graduate student?
+
+You were a graduate student at that point you were a graduate student?
+
+I came in nineteen nineteen forty.
+
+Uh huh.
+
+And so you were here when Tarski appeared on the scene and he did.
+
+And were you privy to this information about how Tarski wanted about how Neyman preferred Preferred Siegmund And you knew that.
+
+So everybody knew it.
+
+That was well known in Named but not very sieged.
+
+Yeah.
+
+And so Tarski knew it too.
+
+SPEAKER_00: 0:05:07-0:05:10
+Probably I don't know.
+
+SPEAKER_01: 0:05:12-0:09:13
+I mean it's my conjecture that this must have been contributed to their detachment or if not active dislike of one another.
+
+Well to some extent probably also a consequence active kind of Yeah I don't know people always call the poets of parasites and this name for other Tarsky politically is much more conservative than myself and social issues.
+
+But at first what Tarsky's original politics were very were leftish he moved Oh really?
+
+Yes he moved in Poland Tarski was a socialist.
+
+Poland and in fact had friends who were communists and he was always not a communist but he was a socialist and he definitely had leftist leanings.
+
+That's interesting because Connelly refers to that talking to Sygmund saying that Sygmund and then were left from that I had assumed that Task was not Well he was he moved further and further to the right.
+
+Although he always considered himself a socialist nevertheless he was this sort of socialist who said in name.
+
+But I know he tries to change his name.
+
+Did he also convert the Chinese religion?
+
+Yeah very early That might convert it But Niman wasn't an he was basically strongly anticolic.
+
+Well I don't know that Tarvski was proCatholic.
+
+I mean this may have been just it's not absolutely clear to me but from most people's eyes it was a cynical move just in terms of being able to get a job and just making your life simpler.
+
+He also married a Catholic woman but he had done this before.
+
+It wasn't when he got married that he did it quite a rule.
+
+I have some Micro family so I have some of this kind of conversion.
+
+Lots of people that actually talked about Polia Poli all the Hungarians did it all.
+
+I mean you could not get a job a lot of places if you weren't Catholic in a country that was ninety five percent Catholic.
+
+It was simply it was simply that.
+
+But I would like you to describe what Tuskey looked like to you at that point when he arrived because there aren't too many people around who were here when he came.
+
+Which year did he think he came in forty two forty two so that must have been the next it must have been forty three so I went overseas forty four and you know the problem of course is that I've seen Taski since then show around I have a very clear picture of him but I don't think that there's a picture of that time Okay do your best to see if you can give me some sort of spectrum of or even just one image.
+
+One aspect is very lively.
+
+I love the thing about it.
+
+It's clear and he's very committed to it and very excited about it and he was able to transmit that excitement.
+
+But you were talking more about physical anything that you know that he was in a his family was in Poland at that time.
+
+So he emotionally he must have been somewhat torn up because they were in Poland all during the war.
+
+But did you have any sense of that for example?
+
+SPEAKER_00: 0:09:13-0:09:13
+No.
+
+SPEAKER_01: 0:09:14-0:09:30
+I had really no personal conversations with But you know had no sense of a troubled man either.
+
+No or somebody who looks sort of visible excited.
+
+SPEAKER_00: 0:09:31-0:09:31
+Okay.
+
+SPEAKER_01: 0:09:32-0:12:06
+Uhhuh I know that was he had more hair then than he actually later or he had already lost most of his hair but my certainly my image of him is without very Short Moving very rapidly moving rather red face.
+
+Did you have any trouble understanding his English?
+
+No, no.
+
+Benson Mates who was you know Benson Mates in philosophy?
+
+He was around about then as I think he came maybe in forty he might have come in forty six Benson Mates.
+
+Benson Mates or no he came before that.
+
+He maybe have come in forty five or forty four.
+
+But he said he had the image he had of Tarski looking at him was that he looked as if he may have slept in his suit.
+
+When he turned his back, you could see the imprint of his body against his clothes.
+
+Do you have any image of clothing?
+
+Not a very observant person.
+
+I'm not a very visual person and I have no It doesn't sound unreasonable but you have don't have the have an image of somebody who's arrogant or paid a lot of parents about what he's wearing.
+
+Yeah, because later on people I mean it's funny there are some people who thought he was that his the way he dressed and carried himself was totally consistent with his presentation of his work very precise, very neat and all that he always wore at time.
+
+Yeah, but David Call we all did that but he also wore it later.
+
+Yeah because those were the first years that I taught the taught even as a TA as a TART Yeah but he always David Kaplan who knew him later always felt he was extremely well put together and very almost dandyish which I didn't think.
+
+So different people have this.
+
+But since you knew him that early thing, I'm wishing you could dredge him back into your digital fortune we have to hypnotize him.
+
+You know my intersection with him was rather brief.
+
+It was really must have been just essentially one semester.
+
+So you went to this seminar then and you found the work very you found him I take it attractive.
+
+SPEAKER_00: 0:12:07-0:12:07
+Yes.
+
+SPEAKER_01: 0:12:08-0:12:51
+His enthusiasm for his subject attractive and yeah that was the kind of thing that I drag into mathematics for Right.
+
+And he was very encouraging to you he wanted you to be his student.
+
+Yeah he was like that he found somebody he was a sort of person who really was very inviting to students.
+
+He liked to have good students but he was encouraging to almost everyone who expressed interest in his kind of work.
+
+I'm trying to remember who else was let's say Donnie Johnson could be Donnie Johnson got his degree in ' forty six.
+
+SPEAKER_00: 0:12:52-0:12:56
+He was one of the earliers.
+
+Yeah I didn't ask you if you remember him.
+
+SPEAKER_01: 0:12:57-0:13:15
+Judithing not Judithing.
+
+What's her name?
+
+Louise Chim, Louise Chim.
+
+Yeah.
+
+She was China.
+
+Julia Robinson?
+
+Yes.
+
+Well, Julia and we were students together throughout.
+
+We took complex variables from Robinson.
+
+SPEAKER_00: 0:13:16-0:13:18
+Only you didn't marry him, huh?
+
+SPEAKER_01: 0:13:21-0:14:06
+So I was there when we started getting together.
+
+All right.
+
+Do you remember anything that Julia said to you about Tarski later on since you probably were a good friend?
+
+Any of her comments?
+
+Uh huh.
+
+She didn't know we were students together, but then later on You didn't see that much of her.
+
+Right.
+
+And so once you stopped going to the seminar and once it became clear to you that you weren't going to work in Elspora, then you really didn't run into him much or No, I mean just met the pack of action the fact that he met.
+
+Yes.
+
+SPEAKER_00: 0:14:07-0:14:07
+Yeah.
+
+SPEAKER_01: 0:14:10-0:14:13
+Right.
+
+So it would be broken really?
+
+SPEAKER_00: 0:14:14-0:14:14
+Yeah.
+
+SPEAKER_01: 0:14:15-0:14:36
+You see him around but I don't remember You didn't have social relations with him?
+
+No.
+
+You weren't part of the circle that was invited to his house now and then you weren't at a party at his house.
+
+And you think that might have been because you were alive with Nana?
+
+No, wouldn't that?
+
+SPEAKER_00: 0:14:37-0:14:37
+No.
+
+SPEAKER_01: 0:14:38-0:16:44
+So I think if I'd stayed but I mean I was just out of out of the circles.
+
+I mean in an indirect way yes because I was in a different circle to Nim was he saw people totally people who were around him really the people who were around him twenty four hours a day in fact.
+
+Well Tarski was like that too I guess some people.
+
+Yeah.
+
+Did Naiman talk about Tarski at all?
+
+I mean or would Well he must have a little bit because I was the two things that I do remember is that A, I was on the impression from what he said that they were politically far apart and B, the story about Sigmund, his not wanting his preferring Sigmund.
+
+That was not necessarily an antitowski thing so much as a pro Sigmund thing.
+
+As a subject thing.
+
+Well perhaps not even so much Sigmund was a close friend who he felt very congenered to and who had a very unsatisfactory job at the time and here was this opening.
+
+Tarski had no job, I think zero job.
+
+You know those were tough years.
+
+Tarski had come not to stay.
+
+He had come for a conference.
+
+He had come to look around to see what the potential was, but then the Germans invaded Poland and going back was like going to the death camp now.
+
+Okay, so he stayed.
+
+And things were patched together for him here and so he did not have a job at all in fact.
+
+But I guess Neyman so Neyman must have had a disinterest in well if he had an interest in Zygmann naturally he would have had a disinterest in Tarski.
+
+But one of my great heroes in this whole story is Evans.
+
+It's Evans.
+
+SPEAKER_00: 0:16:44-0:16:44
+Yeah.
+
+SPEAKER_01: 0:16:45-0:16:51
+That somebody would bring both Naiman and Tarski here to Berke Evans is just an amazing achievement.
+
+SPEAKER_00: 0:16:51-0:16:51
+Yeah.
+
+SPEAKER_01: 0:16:52-0:17:10
+And particularly for both being sort of in a way on the margins of mathematics, not in what Rodberg Batheims thought of the central mathematics.
+
+But that seems to me just an amazing foresight from his husband.
+
+SPEAKER_00: 0:17:11-0:17:11
+Yeah.
+
+SPEAKER_01: 0:17:13-0:21:03
+Well Tarski already had a very big reputation You did name it at that point.
+
+Well, yes and no.
+
+No, he was beginning to get it.
+
+I see.
+
+I mean he'd already done his most basic work.
+
+Right.
+
+But statistics was a pretty unknown subject.
+
+Yeah, well so But Tarski did have an international reputation already Both in mathematics and philosophy.
+
+Well in philology partly philosophy Right.
+
+I mean I suppose his biggest promoter in this country was Quine at Harvard.
+
+And it was Quine who wrote as you even read in this book, Qine had written written to Evans about get of hiring Tarski but Tarski I'm sure he'd written to a lot of people but you know he was already certainly on the all over the scene in Europe and although he didn't have a professorship in Europe, he was just in Nosec and was teaching high school.
+
+But so I mean it was foresight but he kind of knew what he was getting I think what was I suppose it was special that he was willing to hire a logician but as he if he was hiring a logician he was getting the greatest logician going and he knew that I think he could isn't that right?
+
+Pretty much convinced of that.
+
+So it was So do you know any stories about Tarski that people told?
+
+Yeah nothing that and did you have the sense he was the same kind of figure as Naiman?
+
+I mean, did you know that they were these parallel universes so to speak?
+
+I don't know to what extent.
+
+I don't really know to what extent I mean statistics wasn't statistics really became such a big thing only in after the war before the war it was this country didn't exist at all existed by now in England and so when I went over there I didn't know anything.
+
+Evan said the physics or statistics and I knew that I didn't like physics so I said I don't know anything about statistics, give it a try.
+
+That's all I knew No, I did not realize that Linda's really created a new paradigm that would take over so long.
+
+Well at some point you realized it I guess well gradually Yeah they choose to say and so I probably didn't realize the bottom test You know as a graduate student Yeah so you were sort of but once you got caught up in the world of statistics Statistics that was all your focus was there and you really didn't know what was going on in the other part in the other part of the universe.
+
+Well what's interesting is that Tarsky had such love for Poles and Poland in spite of having been treated very badly by his own country, he was a tremendous patriot.
+
+And so that makes the fact of his competition and whatever it was that was going on with Nain even more interesting than the Polish was a great point.
+
+SPEAKER_00: 0:21:03-0:21:05
+Right.
+
+Right.
+
+SPEAKER_01: 0:21:05-0:29:53
+It's very interesting that they wouldn't be were there struggles between them over appointments while statistics was part of mathematics?
+
+No, I don't think so.
+
+I suspect that Men did not participate very much in mathematical requirements except in that one school test was just three men experience at that point.
+
+Yeah, so they weren't competing for physicians for slots.
+
+In a certain sense Len of course was taking away slots from that sure so there was a struggle but I think that was mainly Evans Evans' name.
+
+Well Poski was pretty much able to get who he wanted once he got established.
+
+Yeah between the mid fifties on wasn't he able to get whoever he wanted and probably name them the same thing, right?
+
+Wasn't he able to bring him name?
+
+Yes.
+
+If he wanted somebody he brought them right?
+
+You know he started as one person within ten years after the war twelve people essentially they very parallel careers in a way.
+
+Tarski said he wanted he thought at some point he thought that ten percent of the math department should be logicians and he achieved that at a certain point just because logic being a field that a lot of mathematicians think that really are on the periphery was pretty amazing.
+
+I mean it was Storld Center Storld Center It's very interesting yeah I think Naman was about five years older older Yeah when was Naman born?
+
+eighteen ninety four And Tarski was born in nineteen eleven so they even had the same professor Shepinsky and Kocharvinsky I don't know whether anyone had courses with Kocharvinsky or not but they were were you here when those people visited?
+
+I remember Steinhouse when you then you remember to Cavinsky but not quite here Uhhuh yeah it was in the late fifties I think.
+
+Now was Tuski involved with Oscar Liner's visit here?
+
+I don't know.
+
+Oscar Liner who kind of professor of economics in this country then went back to Poland and became resumed his Polish citizenship which he'd given up to become an American citizen then was appointed Polish ambassador to the United States.
+
+Really?
+
+When was this?
+
+We can look it up in there Oscar Lang and then he came on a visit to San Francisco and Name was strongly involved with that and had some very strange ideas which I probably was not fully recorded here but I don't know where the castle was at all.
+
+So he had been professor here Not in Birk Day I don't remember waiting for his visitorship was also a curious history is something US citizen then getting back Port citizen then becoming Polish ambassador to this country His friend Lang by then Polish ambassador to the United States Have you talked to Connie to Connie?
+
+Yeah a bit.
+
+I talked to her about Julia's what Julia used to tell her what she said So this is nineteen well this period is nineteen forty nine, nineteen fifty one so I guess that's what that was that Lang was Polish ambassador to the United States Lang was convinced that there would be demonstrations and he was convinced that this would be organized by the Catholic Hirat City where in San Francisco When came to speak It's referred to here but some part of it is suppressed So this is Naman's true So Lang was a communist.
+
+Well I don't know whether he was a communist but he was at that point ambassador from the communist country.
+
+Well what's his name?
+
+For example Milwalsh had a government host for a long time Yeah he was cultural activist in France Well what was Niyman's attitude about Poland?
+
+What did he think?
+
+Oh, he was as he said very patriotic constantly visited But during the communist years he was he didn't mind what was going on not that well and also in Soviet Union and she went and visited everything was fine terrible falling out because of the fact that some people here when the last Symposing limb organized this five with Symposia every five years in international symposing with the international suggested meetings at the time and the last one fell through because some members of the park and said they would put a condition that they would not accept the Serviet delegation unless all the people invited allowed and then he said absolutely not I would not participate that would not have this proposal So he was quite sympathetic.
+
+Well, in all the conferences that were arranged, international conferences that were arranged, Russians and Poles if they could come, but Tarsky never put a condition like that on that I don't know he never voted to people who said that you couldn't enforce it anyhow the people you'd invite the people, they'd say that they were coming or they were working never showed up and people came who you didn't know anything about people from the GPU came instead so well there was some scene about this guy Irishov coming from the Soviet Union who was accused by many people of antiSemitism and there was a big todo about whether he should be allowed to talk in Berkeley and people were threatening to pick it.
+
+And ultimately Caresky went with the group that decided not to cancel Yerschov's talk and there were some there was a lot of excitement and argument and anger about that, but the examples of Yershof's behavior if true and what most people believed they were true were pretty egregious and that was unusual for Tarsky to take that kind of I think to take that kind of move So mostly he tried to be in terms of professional stuff.
+
+What your politics were didn't matter pretty much.
+
+But that's interesting because Neyman had security clearance all the time.
+
+He was doing all sorts of work for the war effort.
+
+That was no doubt his secret work wasn't it?
+
+And yet he had obviously had strong Soviet sympathies it's very surprising because I remember when I went to operations research graduate student Iguan I was hired for that I was interviewed by the FBI.
+
+They asked me for communists and then said do you have even slightly pinkish tendencies?
+
+Yeah just laughed I mean maybe we had Roswell's president ridiculous so pinkish pinkish tendencies bothered them.
+
+SPEAKER_00: 0:29:54-0:29:54
+Oh absolutely.
+
+SPEAKER_01: 0:29:55-0:30:18
+I mean in a way it's surprising that McCarthy never went after Nayman.
+
+He must have had other things that were more interesting because it didn't take anything for McCarthy to decide to go after somebody.
+
+It was interesting.
+
+You have some more questions you want to ask I'm just on a dry sauce.
+
+SPEAKER_00: 0:30:19-0:30:19
+Dry sauce?
+
+SPEAKER_01: 0:30:20-0:32:25
+Well no I mean what I think is interesting is that you were attracted to him and somehow fate pulled you away but maybe your attraction wasn't that strong.
+
+If your attraction was so strong, maybe you would have stuck there in spite of being or with Well that's Yeah it was pretty strong.
+
+So economic need was just a chance of a future I was ruined this country I didn't have any connections of any kind.
+
+Europe connections were a big thing like that he had so I didn't play that big a role in that also was very interesting that I've been sort of going from one country to another country.
+
+Where had you come from?
+
+Well originally in Germany then I lived in Switzerland for five years and my high school then studied there and then I was in Cambridge for three years Cambridge and for years.
+
+So you came to And so what year was that you came to Cambridge?
+
+Late nineteen forty.
+
+Late nineteen forty.
+
+So the war had already well the war was in Europe but not here.
+
+Right.
+
+And then did you end up having to go into the army at any point?
+
+No I didn't.
+
+The reason is that I was a Liechtenstein citizen there.
+
+I see.
+
+My family had been stateless when the Nazis came that seemed extremely uncomfortable so they acquired this new kind of citizenship but I did actually participate in the war.
+
+By but they wouldn't send me to Europe I see.
+
+I see thought that was too risky.
+
+German sympathizer German sympathizer?
+
+SPEAKER_00: 0:32:25-0:32:26
+Yes since you were a German.
+
+SPEAKER_01: 0:32:26-0:34:30
+So let me do I see.
+
+So you were part of some research work scientific work with the FAC.
+
+Yeah which was connected with the statistics that project It came through statistics No it was not connected with any statistics project but it came through they wanted SAS station.
+
+I see.
+
+Yeah, and so it came through there.
+
+So when did you get your PhD then?
+
+After the war?
+
+Just the immediate year after the war were forty six.
+
+I see back in forty five.
+
+You finished your PhD and by then you had a job here and you were sort of assured of a job.
+
+Well not assured but just went on.
+
+Yeah.
+
+Well in those days I guess it was appointments came much more easily.
+
+Also becoming a strategy was much more much easier.
+
+I didn't have anything I just came, Curanted actually I had some vague connections to Kurant Berkeley.
+
+So I drove out here.
+
+I went to the Math Department to be a student.
+
+They sent me into Evans who was the chair.
+
+Evans chattered for me for half an hour said we'll take you as a professional graduate student although I didn't even have a BA.
+
+That was it.
+
+Yeah.
+
+And that was in when was that nineteen forty nine forty one forty one Well they probably didn't have a lot of students there.
+
+A lot of people were off going off to the war could use you.
+
+For the one Yeah forty one yeah january forty one Right And so you don't have to take any exam or anything But you had been wait you had been in England?
+
+I've been in England.
+
+I have no degree, nothing much to show for it.
+
+I mean you've been in Switzerland but you have been in Switzerland doing your I did my high school Yeah nausea which is different than our high school because you had already decided on mathematics or something Yes.
+
+SPEAKER_00: 0:34:32-0:34:38
+In Cambridge had you studied with anybody well known?
+
+Well was Hardy?
+
+SPEAKER_01: 0:34:38-0:42:19
+No, I knew Hardy very slightly but Dingham I took the course to knam was from Haul Burkell then there was Pars and of course one of those very and then I took I love a man named White did some strange projective geometry.
+
+I got very much interested in that Rockwell so Did you know George Prussia?
+
+He came to Cambridge I think in Forton.
+
+Yeah well I left in Forton Summer Was Wittgenstein there I think he must have been that he was in philosopher.
+
+Yeah, but still if he were interested in literature and humanities he might be in there was a lot a lot of stir around Wittgenstein This beauty is a mystery murder mystery in which Wittgenstein played a big role.
+
+Which one is that?
+
+It's called this after because of Is it fun?
+
+Yeah a lot of question she was working a little bit in sequential analysis.
+
+She wasn't too happy with it?
+
+No, I wasn't either.
+
+Did he push other people did these It's funny I don't remember Herb Federer was in the same he was another member of our Herb Federer Oh yeah he was a member excellent of our group of students during Berbnack.
+
+But I don't had a journal here I think maybe an Austrian background but I don't remember either he was more resistant or ornament pushing the side.
+
+Have you turned the machine off?
+
+No, it's on.
+
+I'll tell you one thing after you've turned it off.
+
+Oh you mean a good story about Tarski?
+
+Yeah.
+
+Well why can't I have it one to tell?
+
+I'm embarrassed to tell it why it's easy enough that you don't need them.
+
+It's not that complicated.
+
+All right, but all right, well let's hear.
+
+But since you asked me about anecdotes the one personal thing I heard with Tatsky was from Sarah Howell.
+
+Uh huh yeah and what I remember is his chasing her around the kitchen table.
+
+He chased Sarah?
+
+That's what she told us at the time.
+
+Well now that's interesting because she told me that he never made advances to her.
+
+That is yeah and I don't think she would she was busy telling me about all the other adventures Tarski had and anytime I asked her whether he had a sexual liaison with somebody whether she knew it or not, she would say yes.
+
+I mean, she was the most forthcoming about that and she said not about that.
+
+Well that is very curious It is because she complained about it.
+
+I remember this picture of them running around the kitchen table.
+
+Kitchen table Yeah Well probably I won't use that since she explicitly since she explicitly says I mean I'll use it in a general way but not use her by name since she not only didn't she volunteer it, she denied it when she denied it curious.
+
+I mean if it weren't for this detail I'd say I would be misremember But around the kitchen table that is so concrete Whose kitchen, hers or his I don't remember Well I'll use the detail and just not have the name in A secretary because he certainly went after a lot of he was enormously persistent in the way he made advances.
+
+I mean he just wouldn't stop so and there were people who succumbed because of them, people who had a professional relationship with him and just finally said all right already So what's the big deal?
+
+It would be interesting to know what would happen if that were going on nowadays Oh, there's no question no question that Tarski harassed women in the definition of harassment today.
+
+But at the same time he encouraged women.
+
+I mean there's a funny little line there that goes between being receptive, interested, encouraging and then stepping over the line Well again there are some similarities between Tarski in that respect Well Tarski was very encouraging among the first two for President first name was the but they are also Right, yeah Well Tarski Hino had six women graduate students out of twenty one students.
+
+That's a pretty hot number and the thing but he was really a nasty man in terms of how he bragged about his relations with women so that he told he would tell somebody told me a woman who had a sexual relationship with him told me that he told her about how Julia Robinson was trying to seduce him.
+
+I told this to Constance and Constance just absolutely hit the ceiling Julia would never do a thing like that.
+
+Absolutely never Yeah But according to what Tarski told this person, Julia would wear seductive blouses, low cut blouses just to attract him and so I mean he was really a bad man in that way you know quote bad man he was a satyr, he really was a satyr in a sense This must present some problems to a biographer.
+
+Well no I think that's part of the character and that's going to be in there There's no question that I will that that's going in because I think people come in separate pieces you know you take the whole thing and I think a lot of very, very driving, energetic men that's a component of it.
+
+There's I know it just is so I don't think it's I mean I think nevertheless a certain delicacy is required but I don't think it should not be in there and exactly how to do it is the right way.
+
+Well you'll see Van Hyinert was a very shy man but also had many many involvements with women and he was very tormented about in his research.
+

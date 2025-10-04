@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-09-24T17:30:49-07:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="anita_unchecked_2spkr/SC1206_b06_26_a_sl_Hodges.wav" MIME_TYPE="audio/x-wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1520" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12800" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13280" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="14400" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="14960" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21840" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24240" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="30960" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="33200" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="35200" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="40000" />
+		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="48080" />
+		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="48720" />
+		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="56960" />
+		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="57120" />
+		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="59920" />
+		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="60400" />
+		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="60560" />
+		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="60960" />
+		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="69200" />
+		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="76160" />
+		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="88480" />
+		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="88960" />
+		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="98560" />
+		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="100480" />
+		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="102720" />
+		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="103200" />
+		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="105680" />
+		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="106960" />
+		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="112560" />
+		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="113520" />
+		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="120320" />
+		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="121120" />
+		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="137440" />
+		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="140640" />
+		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="167680" />
+		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="168480" />
+		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="186560" />
+		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="186720" />
+		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="270400" />
+		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="271520" />
+		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="308720" />
+		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="310080" />
+		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="336560" />
+		<TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="339520" />
+		<TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="518480" />
+		<TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="522880" />
+		<TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="524560" />
+		<TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="525680" />
+		<TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="554240" />
+		<TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="556480" />
+		<TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="592000" />
+		<TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="592560" />
+		<TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="630400" />
+		<TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="633760" />
+		<TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="709760" />
+		<TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="710320" />
+		<TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="757520" />
+		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="757600" />
+		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="790400" />
+		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="790960" />
+		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="871040" />
+		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="871120" />
+		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="999760" />
+		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="999840" />
+		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="1002320" />
+		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="1005040" />
+		<TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="1025920" />
+		<TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="1029839" />
+		<TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="1033120" />
+		<TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="1033599" />
+		<TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="1034720" />
+		<TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="1035360" />
+		<TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1038000" />
+		<TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1038160" />
+		<TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1055120" />
+		<TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1057120" />
+		<TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="1097600" />
+		<TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="1099840" />
+		<TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="1108320" />
+		<TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="1112080" />
+		<TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="1148800" />
+		<TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="1148960" />
+		<TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="1158480" />
+		<TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="1158640" />
+		<TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="1183440" />
+		<TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="1184400" />
+		<TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="1196320" />
+		<TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="1196480" />
+		<TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="1197360" />
+		<TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="1198240" />
+		<TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="1198720" />
+		<TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="1199040" />
+		<TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="1212160" />
+		<TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="1212320" />
+		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="1234480" />
+		<TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="1234640" />
+		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="1247120" />
+		<TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="1248720" />
+		<TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="1254640" />
+		<TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="1257680" />
+		<TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="1290000" />
+		<TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="1291360" />
+		<TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="1396400" />
+		<TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="1396720" />
+		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="1494160" />
+		<TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="1494720" />
+		<TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="1514400" />
+		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="1515600" />
+		<TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="1554560" />
+		<TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="1554720" />
+		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="1555920" />
+		<TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1556960" />
+		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1598080" />
+		<TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1598800" />
+		<TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1611760" />
+		<TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1612080" />
+		<TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1651600" />
+		<TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1653520" />
+		<TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1654320" />
+		<TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1654400" />
+		<TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1680000" />
+		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1683920" />
+		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1720320" />
+		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1722480" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1760480" />
+		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1764240" />
+		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1766880" />
+		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1766960" />
+		<TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1791280" />
+		<TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1791920" />
+		<TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1812080" />
+		<TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1813200" />
+		<TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1935600" />
+		<TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1935760" />
+		<TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="2010800" />
+		<TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="2012080" />
+		<TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="2014240" />
+		<TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="2014640" />
+		<TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="2033040" />
+		<TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="2033520" />
+		<TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="2053440" />
+		<TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="2053600" />
+		<TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="2117040" />
+		<TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="2117680" />
+		<TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="2119840" />
+		<TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="2121760" />
+		<TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="2150400" />
+		<TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="2150560" />
+		<TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="2261920" />
+		<TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="2262240" />
+		<TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="2271120" />
+		<TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="2271600" />
+		<TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="2412560" />
+		<TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="2412720" />
+		<TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="2439040" />
+		<TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="2439840" />
+		<TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="2450880" />
+		<TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="2452720" />
+		<TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="2480240" />
+		<TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="2481040" />
+		<TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="2555680" />
+		<TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="2555920" />
+		<TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="2613760" />
+		<TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="2614720" />
+		<TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="2680880" />
+		<TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="2681440" />
+		<TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="2780640" />
+		<TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="2782480" />
+		<TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="2805440" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="SPEAKER_00" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>Well, in nineteen ninety five or six, I forget, I published a paper on Task Is Truth Definition in a philosophical journal.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+				<ANNOTATION_VALUE>In the mid eighties, I published a paper The Proceedings of the Aristotelian Society, that's a philosophical journal.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+				<ANNOTATION_VALUE>My task is truly definition.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+				<ANNOTATION_VALUE>More or less any Englishspeaking philosopher with an interest in tasking will know that journal and what's in it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>So I found immediately I started getting I got labelled as a task person among philosophers.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+				<ANNOTATION_VALUE>As a task desperate somehow, right?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+				<ANNOTATION_VALUE>Okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>And I get sent quite a lot of stuff, including papers to referee and request to comment on this level.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+				<ANNOTATION_VALUE>I notice that English speaking philosophers as a community tend to make what seem to me to be some systematic mistakes in their reading of tasking.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+				<ANNOTATION_VALUE>I'm just wondering in the light of this experience, I should jot down some notes under the title Reading Tasking Notes for Philosophers or something like that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+				<ANNOTATION_VALUE>I don't know if I'll get time to do it, that's the only problem.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>If I do get time, I think it would be a worthwhile thing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+				<ANNOTATION_VALUE>If I could just say a bit about the kind of mistakes which are made, there are two basic kinds of mistakes.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+				<ANNOTATION_VALUE>The first mistake is made by people who don't realize that some things which Tarsky says are part of a mathematical program.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+				<ANNOTATION_VALUE>A part of a mathematical mathematical program program If they knew the program, they would see at once why these remarks fit into how these remarks fit into place and they wouldn't look for other interpretations of them, which they often do.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+				<ANNOTATION_VALUE>And the second thing is that this is my own estimate Englishspeaking philosophers as a tribe seem quite unusually bad at getting into other people's minds and to do that you've got to talk to a person or read what they say and get some idea of their style and the kind of things they're likely to say or mean.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>And somehow this approach is completely foreign to analytical philosophy where you've got to take statements as somebody says something you've got to regard that as a thesis and you've got to tear it to pieces.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>Yeah It doesn't leave much room for understanding what on earth they're talking about Attack is immediately aggressively to take it apart Yes there's a very good example of this in a fairly recent book by Echemendi on the nature of logical deduction where he's a little bit guarded because some people sat on him I think but guarded but essentially he complains in one of his early chapters that Tasky committed a thing which he calls Taski's fallacy and the fallacy consists of misplacing a modal operator in an absolutely key step in Taske's paper on logical deduction and the rest of the book is devoted to sorting out what Taske should have said And you think Well I actually read what Taski said and it was clear that although he I say modal operator Taski says must, something must happen Although he says must the modal force of that word is completely ignored in everything which follows in his argument and is obviously irrelevant.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>If you just read through the argument you see it's irrelevant but also if you look more carefully at Tasky's style and see the kinds of words that he uses he never had to touch wood on this because there's an awful lot of Taski but his key words of works of philosophical import are contained in one volume together and he never rests any argument on the meaning of possible or necessary or must or these noble words.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>Just repeat quickly first all what you said in the very beginning because he's that just the problem about English philosophers English speaking philosophers as I said in the mid eighties I published an article on task is truth definition the proceedings of the Aristotelian Society and this got me labeled as a tasky person in the English speaking philosophical community.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+				<ANNOTATION_VALUE>Also among Poles but the things that I get from Poles are usually very helpful and lots of factual information but among them I now get a fair amount of stuff to referee or with requests for comments I have a picture of that there is a lot of interest at the moment among Englishspeaking analytic philosophers in Taski's methodological views in the nineteen thirties and I was commenting that there seem to be some to me to be some systematic mistakes through all this philosophical literature as commented that there are two things that the philosophers are particularly bad at, which seem to be the chief causes of the problem one is that the philosophers it's not their fault it's not their field but they tend not to realize when Taske makes a remark which well when Taske is doing something that's part of a mathematical program and some remark that he makes is completely explained by that program but they don't know the program and they have to make guesses at what he must have meant so they don't get it When they guess by the way they usually guess that he this must be the result of some conversation between Taski and Hwine This is a standard move But that's not I'm exaggerating a little bit here but the other thing I said is that the methods of debate in analytical philosophy are not conducive to taking seriously other people's intentions or to understanding what people mean by looking at the kind of thing they say in general, their style and their approach You take a thesis at a time, a couple of sentences and you hammer it And do you think that's what Etch Mendi did yes he's a pretty good example of both things So are most of the things that reach me So I think HMND is worse than most people and I think he's more rigid than most philosophers If somebody points out to him something that doesn't fit with his views this is a challenge to defend his views, it's not a piece of evidence which fills in a larger picture.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>I've read his thesis on which the book is based I never quite understood the point of it and he kept trying to so I thought it was my fault that I was missing something I did So what do you think now?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+				<ANNOTATION_VALUE>Well the way I read it I wasn't I didn't find it much persuasive as I say there was some idea that there's some sort of program of semantics for natural language and that people who think that what Tarski did provides a foundation for that are wrong.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+				<ANNOTATION_VALUE>Oh yes he's this I think most people agree with him about that the program in question is Davidson's Davidson does play fast and loose and tasky But then there is another business about what the definition the model theoretic definition of logical consequences is not the right definition of logical consequences Is that what he's saying?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+				<ANNOTATION_VALUE>And that I never understood It needs a lot of unpicking and I corresponded with him a bit and he said some strange things so I pressed it to the point where he said some utterly absurd things but there were things about what so and so had meant girdle or coin at that point I gave up because there wasn't anything if he was prepared to take seriously the view that Girdel had mistakenly thought He got too silly Did you ever review each of these I was talking to a philosopher just at the beginning of this conference who said that he thought Ecchemendi had irritated a lot of people With this particular word?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>Yes it's rather aggressively written and does have rather an air of taking everybody else for a fool This is completely confidential but when Echemeni was being promoted to tenure you wrote a letter which I read of course and a number of other people wrote letters and all those other letters were extremely supportive and people didn't know what to make of your fact most people didn't know who you were.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>I had to tell them that this was to be taken seriously but I've wondered many times since then if I was unfair I don't think that his work has in any way improved since I wrote that letter but a person can achieve something important in a field by sticking to his guns and resisting all comers.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>I think what needs to be seen is whether he can develop any further but what he's done since then has nothing to do with I mean he's worked with Barwas and well there programs Turing's World, Tarsky's World Hypercrew Diagrammatic Reason It's all applied logic I found Well the term difficult to write Then there was the book The Liar Which was one of the things I based my letter on Now that I hadn't remember that I was Well I had long talks with Barwest my view that they hadn't accomplished what they thought they had but that was clear That's exactly what I that was my main comment But they shouldn't have claimed they were going to accomplish that it's a silly claim in the introduction Right That's a very useful little book and it's beautiful.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+				<ANNOTATION_VALUE>Yes I do suspect that the beautiful things in it are likely to be Barwise rather than Echemandi, but I don't know that they have and I've never seen any evidence that Echemandi is capable of the kind of insight that wove Peter Axel in, for example I was query Barwise's appreciation sorry Barwise's appreciation of how Axel's work could be used Well Barwise I think working on trying to use Axel Set theory and foundations of situations theory situations so it came from that but I guess this is all getting a few that's all right that's okay from what other people have said to me my impression is that philosophers by and large take Picci Mendi more seriously as an authority than I do and I don't take him as any kind of authority on anything and I was rather appalled to see his name suggested as one of the program committee for the nineteen ninety six European meeting in a section on history and philosophy of logic because although I think I had no qualms about him going forward in the program committee in philosophy to see him doing anything in history would scare me a bit he's just more competent and philosophers on the whole tend to regard him as more of an authority than I would, but on the other hand the philosophers that I've talked to can see less that they agree with in what he says than I do perhaps He's a person everybody loves to disagree with I'm very, very interested to hear in some way it's a burden off me to hear a response here because I've been carrying this with me.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+				<ANNOTATION_VALUE>Didn't I make some do something terrible with that?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+				<ANNOTATION_VALUE>Well he got the job so he got tenure I hope I didn't give you a hard time with it I gave the department a hard time Well that's not a bad thing people should take the decision seriously Sure absolutely.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+				<ANNOTATION_VALUE>What about Davidson and Tarsky's theory of truth?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+				<ANNOTATION_VALUE>Do you have opinions about this?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+				<ANNOTATION_VALUE>No, I always seem to have any opinions about this.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+				<ANNOTATION_VALUE>My old philosophy tutor David Wiggins is a fan of Davidson on some points and opponent of his on others keeps asking me if I'll come in and adjudicate somehow absolutely refuse.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+				<ANNOTATION_VALUE>Davidson's program is a program for by implication it's a program for a total semantics of some natural language and I think that this is a silly program at this stage in things all we can hope to do sensibly is to pick away into pieces and see where a pattern starts to emerge and follow it up and the kind of thing that Hans Kant does This is not what Davidson does and as a result I don't think if Davidson achieves anything it's rather by accident But there's no nothing's gained by saying that so why?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+				<ANNOTATION_VALUE>Purely negative And you know Kamp's work?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+				<ANNOTATION_VALUE>Camp was my successor in one sense of colleague in another sense at Bedford He and I also knew each other quite well in Los Angeles when I was there in ' sixty seven I haven't kept quite so well in touch with him but I think we have a common understanding from the fact that we both our philosophical views are a product of the Montague Kaplan Lewis circle that was in Los Angeles Who's the Lewis?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+				<ANNOTATION_VALUE>David Lewis David Lewis is at Princeton Princeton He gave some awful lectures at Stanford he lectures into the floor is it is embarrassing yes I mean Dutch is a bit like that anyway Well not always no That's a subject to say the subject was neurology or some version of that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+				<ANNOTATION_VALUE>These were general general comp lectures Comp lectures were appeals to a general audience and it was twenty three people These axioms and these consequences He's Dutch?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+				<ANNOTATION_VALUE>He's Dutch.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+				<ANNOTATION_VALUE>David Lewis and Dutch I don't know that Compier No Not Compi saying David Lewis David Lewis Oh I'm sorry Oh David Oh no he's very different Yeah so what went wrong with these lectures?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+				<ANNOTATION_VALUE>Well he was they were very formal but doing that you make sounds Oh I'm sorry it was about basing set theory on the card hole relationship Oh yes yes I know yes you know it's just a fake I mean it's just a fake?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+				<ANNOTATION_VALUE>Yeah I had a meal The last time I had a meal David was explaining this to me and I was desperately thinking of something I could say and didn't succeed So he just builds in everything that he wants to get out of it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+				<ANNOTATION_VALUE>You can say just a fake I don't think it's a fake but I don't think it's an answer to any question that you or I would want to ask.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+				<ANNOTATION_VALUE>Have you written other things about Tarski Yes but has anything been published We have yards and yards of reports on papers some of which involve going into a lot of detail and some points like referee to referee referee My tutor asked me if I would This is David Weakins who's just going to the chair in logic in Oxford He's been becoming chairs Yes they were trying all over the place for this Is that the Yes they offered it to Kid Thin and he hovered and then refused and offered it to Wiggins I think I'm not sure and he's just coming up to his sixtieth and some of his students decided to write a volume in his honour And we get his Yes and they invited all his old students to contribute and I said I'd love to very fond of him and I'm enormously grateful to them What can I possibly write about a philosophical volume?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+				<ANNOTATION_VALUE>So they asked him to think of something that he would like me to write on and this Davidson say as expected came up but he also sent an article that he took on the question whether moral truths whether there can in any proper sense be moral truths and quite a lot of the article is about Tarski's notion of truth Now that's your article That's your article for the big Wiggins No Wiggins article No Wiggins This is an article that Wiggins wrote maybe ten years ago and he wanted me to comment Essentially what he does is to take the text of Taski and interpret Taski's real motivation and tie it in with his own and emerge with some kind of David Sonyian recasting of Taski's convention T then apply this to moral judgments So I looked at it and tried to write down what I thought were the correct things to say about those things in Taski that he'd been looking at.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+				<ANNOTATION_VALUE>I don't know where anywhere in the literature where the correct things are said and I had an anxious letter back from the editors of the volume saying this is hopeless just doesn't interact with what David has said.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+				<ANNOTATION_VALUE>Absolutely true it didn't By the way I was telling you about the urban lexicon One version of it had a definition of wiggins Wiggins this is not Vata but wiggins are a series of wig wigs Where is that train anyway It is down below it's a different train Not necessarily Wiggins are a series of disconnected and incomprehensible jumps from one position to any other position Is that right?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+				<ANNOTATION_VALUE>No comment There it is in the Lexicon He's an inspired writer but he doesn't he doesn't proceed by logical deduction But he says something, then he says something else and then he says something else Yes, he knows where he wants to get to and he knows where he'd like to start from But the connections But the connections are sometimes very strange So he leaps and it starts to wiggle wiggins Now what's this lexicon?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>It's apparently it's the names of known philosophers Yeah or logicians so what's a fephon What's a fephal?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+				<ANNOTATION_VALUE>I don't know if I haven't got a copy of it and last time I asked somebody from Irvine and they said they didn't know of it so either it's just got lost which I can't believe or it's been bought out by some other department somewhere was defined in terms of improper improper improper Yes because he was a very pompous and selfabservant person So I'm told I never met him.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>You never met him?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+				<ANNOTATION_VALUE>No I would have met him at the farewell dinner that the Board of Studies normally gives to retiring philosophers in London University but he made conditions so difficult for in his specification of the place we should meet in that it was to be a place where it could be guaranteed that nobody had smoked in the previous twenty four hours.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>The states is way ahead of Britain I know but aren't there restaurants where people can't smoke But it's not so easy to find them well it may be easier now than it was then but it's still not easier What about philosophers taking part who have smoke have their clothes reeking of smoke Yeah that's one for hours Bernard Williams claims that Popper was a fraud and that Bernard had carried out a ten minute conversation with Popper with a cigarette burning cigarette behind his back and Popper never complained about anything.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>Yes I met him twice and I just finished there So last month one of my jobs was to rewrite this thing and see if I could somehow tie it in with the wiggins' intentions and I have rewritten it and I hope it ties in with Wiggins better than it did before and if they accept it in this form then it's a second obligation I'm task Okay so that we'll ask you now.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+				<ANNOTATION_VALUE>No question month or task was worth I don't know It could be anything There's some historical bits in my book Sometimes I give a talk and occasionally bits of it written up appear somewhere on Present Aims of Model Theory that's a title I rather offer I'm sorry Oh I know Of course I know yes it was I'd suppressed the memory of it It was the paper with donor in the JSL Maybe for history I'd better set down the awful things that happened there John Downing John Downing Yes I undertook to collect together a set of essays on different aspects of Tuske's work in Loggy for the JSR and there was a hope we were working on this together at the beginning because you were the I was president Yes The hope was that we could get something out in time for his birthday celebrations but I could never get any kind of response from Berkeley I did write to people but they always referred me to other people and I had left a rather strong impression which I remember mentioning to you in a letter that somehow they just didn't want to be involved with it at this point they didn't want to say that And indeed shortly after he died I forget which of us whether it was I or they made the first move but it seemed that the log jam had cleared and Wilfred was reviews editor of JSO?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+				<ANNOTATION_VALUE>Yeah reviews and surveys I guess I've never reviewed not reviewed Not reviews sorry Survey Expository Survey expository Yes so there was a proposal to have a series of articles in our Turkey's way which some of us did get some of us put together a list of possible authors and more or less that stuck but I learnt an awful lot of mistakes one should not make in doing these things and I had two particular disasters one with Vorton Hinken and the other with Gervant The one with Varton Hinken is the relevant one here There were two parts two things were proposed one that Van De Gries should write an article about the Tasky decision matter for Rothhurst Fields.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+				<ANNOTATION_VALUE>Rock was very guarded about that one.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+				<ANNOTATION_VALUE>He had a rather dim view of Lauven Greece and in particular he was frightened that Lau would try to expand this into a discussion of Lau's own stuff or work by what the article that Lau was invited to write or had been invited to write That he would expand it on to what?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+				<ANNOTATION_VALUE>To material by himself and his friends my own view on this was that what we wanted was material not exactly by Lau's friends but stuff that would show the thing in proper context because Taski had no idea how important this work was.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+				<ANNOTATION_VALUE>There's an amazing remark by Taski somewhere in the thirties I think it may be in his late thirties write up of that material that he considers he's now answered all questions of interest in his own as a historical judgment it's an all time loser that these versions of his work here have been fundamental for all sorts of things that obviously he never dreamt of I think he had a clear selfcontained idea of what he hoped to achieve and he'd achieve that Do you think that could you make a generalization about that and other things that he did that would That's a very interesting question but it's the sort of point where I would refer to the solo and other people who work directly with Task.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+				<ANNOTATION_VALUE>He did something he thought it was complete in a sense he was provincial about his work Well I mean he had a series of programs and one was the program of incitability and the prime method for that would be the elimination of quantifiers and once he had settled that for real close to that's all there was to it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+				<ANNOTATION_VALUE>But he was happy for example to learn of applications mathematical applications I guess he was happy when Raven did what he did wait that's separate Yeah but I don't think he really took in what the Eastern School of Model theory was MacIntyre and Russ others What did he take inside the So that's the other question I think I hesitate to say I want an armor's bark it's certainly not just McIntyre and Ricenta, it's a whole swathe of real algebraic geometers And then more recently of course there's been applications in robotics where fragments of the decision method which are actually feasible for important Anita interviewed Raybin and Raybin spoke about his work nonfeasibility of Fisher and Rodes and I guess she got from him the sense that Tarsky was that Tarsky liked it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+				<ANNOTATION_VALUE>Tusky liked the meant He liked I didn't hear the interview Tuske liked what?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+				<ANNOTATION_VALUE>The fact that it didn't I guess I'm not sure I'm remembering exactly because I haven't listened but my recollection is that he really didn't care about applications of his work, but he liked the fact that it was that Raymond was able to use it with my gross recollection in other words it didn't matter to him so much that things could have applications I think Raymond had a sense that he didn't quite appreciate what went on in the world, but the fact that Raymond was able to difficult Yes I meant something more specific than maybe what Task's view was of the fact that his decision procedure was shown to be it was always clear that that decision procedure was nonfeasible not polynomial time but it was then proved that it couldn't be that there's a remarkin Donor Mostki Taski late paper on linear orderings or theories of ordinance about recent developments having taken the gloss off and I think he refers to the well they refer to the way close fuel results and it looks as if whoever wrote that sentence did regard the complexity result of Bregman and Fisher as somehow slightly tarnishing Task's original result but can I there's something I do want to come back to that and it's a reason why you might want to talk to Dana if you can Anyway this paper yes Van Den Dries was invited to write this paper and also I think it was Wart who suggested that we might try and get somebody to collect together the Well it amounted to two things in the end.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+				<ANNOTATION_VALUE>One was a list of Taski's problems and the other was a list of the various decision procedures that had been well the quantifier eliminations that had been done by Tasky or under his patronage Dunler to Dunler undertook to do this to tackle these two things.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+				<ANNOTATION_VALUE>He wrote round to quite a lot of people and asked if they knew of any problems of Taski that should go in the list and got nothing useful back.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+				<ANNOTATION_VALUE>This was fairly late on in the getting these articles ready for the JSO and I was still missing two namely Fanderpries tends to produce but at the last moment was a donor who seemed to have been a bit wettled He'd written these letters but he didn't see anything that he could do.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+				<ANNOTATION_VALUE>So at that point in order to chivy things these people along a bit To what to chivy them along Chivy them along their transpression Oh I probably got it wrong but I thought that was No It's not English and it's not American I wrote an article with some blank spaces in it some to be filled by Donor and some to be filled by Funding Res I then circulated to all the people involved in order to produce maximum impact How did it get so noisier I was just saying how it got so noisier literally Ampro people like okay I'll move this a little closer to you So go on this had the desired effect on Donor in the TM as he filled in blank spaces really very vigorously and promptly very interesting stuff he dug out about the nineteen thirty eight oh nine write up of the Real Close Fields material.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+				<ANNOTATION_VALUE>It was just the rails then I think the Real Close Fields only appeared in the nineteen forty nine And it had the desired effect on Clamp and Breeze too at least a manuscript from him appear very soon afterwards So as intended it was a success but as not intended it was rather a disaster because Vaugh was very angry at what he claimed were multiple distortions and inappropriate style not Tarski style in other words Well I don't know and he fingered you as the Well, yes I accept responsibility for it I've written it in an inappropriate style is that what you're saying?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+				<ANNOTATION_VALUE>Well that's my phrase Yeah right that's what I want your phrase What he seemed most annoyed about was a suggestion that Tarsky in the nineteen thirty seminar in Warsaw wasn't greatly interested in the matter of decidability he was much more interested in surveying the complete extensions of a given theory and the decidability came to the fore in Tarsky's own words when Tarsky went to work with the Rand Corporation The Rand Corporation This is Tuskey the book that Tarsky wrote in forty eight I think footnotes in ' forty nine where he says in the preface that he's brought the cirability questions to the fore because of the situation in which he's now working.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+				<ANNOTATION_VALUE>Of course it's after Church's Thesis and I want to come back to that Church's Thesis wasn't there in nineteen thirty and decidability was a slightly vague idea But I had a very difficult conversation with Vaught that lasted about fifteen minutes He was obviously quite five oh he was obviously quite unaware of the possible costs of this That may have been that may be confusing that may have been earlier in the business but I rewrote the relevant sections and Wort was so angry at this point and felt that his points had not been met I got a letter signed by Wort and Henkin together saying that what I'd written was a disgrace because of the many factual errors and inappropriate wordings in it They insisted that I should send the article to six people that they named for these six people's comments which would set me right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+				<ANNOTATION_VALUE>Now I don't remember who all of them were but they included McIntyre and Tasky sorry and Claney and Church and Gregory Moore Now this is Gwen and what year somewhere around eighty six.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="SPEAKER_01" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>Excuse me, just one second.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>I'm talking to Wilfred Hodges on july twenty eighth, nineteen ninety four at Clermont Film about Tarski.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+				<ANNOTATION_VALUE>Have you read a Truman's book?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+				<ANNOTATION_VALUE>Favorite favorite LEWS one Chap Lewis you say at Princeton now?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+				<ANNOTATION_VALUE>Why did he say Dutch?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+				<ANNOTATION_VALUE>I find it thinking about axioms for the Parthole relation very plausible in and of itself but what he was going to the axioms that he came up with were just so implausible But he published a book on that So besides that first thing you wrote on Tarski have you written other stuff?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+				<ANNOTATION_VALUE>Is that the way you write?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>The philosophers decided that either they should hire a boat in the middle of the tent or they should take this in indication that he really didn't want to return to the part anymore and they read it the second way and if that wasn't his intention then tough is So it would have to be a place where nobody had smoked for twenty four hours so all it had to be is some room that was considered a nonsmoking room There is such a thing in Britain.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>Did you ever met Taski?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>All right and well send it to me Man I seem to recall something on the history model theory here in which Tarzabin worked had a central central place But was that this first thing you mentioned?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+				<ANNOTATION_VALUE>Well, could one make a certain decision?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>

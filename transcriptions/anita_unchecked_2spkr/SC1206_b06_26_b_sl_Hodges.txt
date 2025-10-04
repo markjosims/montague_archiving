@@ -1,0 +1,314 @@
+SPEAKER_00: 0:00:02-0:00:02
+Did you get everything?
+
+SPEAKER_01: 0:00:06-0:03:05
+Well now McIntyre was an interesting suggestion because I couldn't possibly edit my own paper and for this paper I stood down to McIntyre as editor and McIntyre was well informed about everything right through and consulted him in detail.
+
+So I sent him a copy of the thing with this note from Wought and give it to you and got back a message the effect business as usual.
+
+I got a letter from Claney saying that there were things he didn't know about in the period in question and he was perhaps not as well informed as once he had been, but as far as he could see there was nothing erroneous in the paper very brief note but that's what he said.
+
+I got no reply from church and the other two people I don't remember who they are but my recollection is that one of them said he couldn't see anything wrong and the other said the other didn't mind.
+
+Gregory Moore, as I gathered later he wrote me didn't know what this is all about at all All the fuss you mean?
+
+Right this letter arrived from me with an explanation of why I was sending it, but how far Moore knew about Taski I don't know So he rang up he telephoned Henkin and said What's all this about?
+
+And apparently Henkin said I don't know you'll have to ask Wood So Henkin Watt signed Henkin's name Well anyway carry on So he rang Wart and he wrote and told me what Wart had said a string of points which some of more force than others and some of more relevance than others but none of them seemed to me meant that any serious change was needed in her huh Well at this point this was the point where Dona came on stream and I gave Dona copies of everything Dona said well he didn't say anything much at first but then he said that he'd started with the presumption that Rock was right and that there really hadn't been any development into Asky's thinking about decidability right through, but as Donau looked at the material and particularly at the nineteen thirty eight to nine book, he felt that that was not a tenable view and he thought that if anything I'd underestimated Well done.
+
+SPEAKER_00: 0:03:07-0:03:10
+Good thank you.
+
+Are you going to come tonight?
+
+SPEAKER_01: 0:03:12-0:04:21
+Not sure Well I do hope I see you again thank you for being a great time He felt that if anything I had underestimated the change in Tarsky's views over that period.
+
+So with my consent Daniel included fairly large chunks of the nineteen thirty eight to nine book which was never published.
+
+I don't know if you know the history of this.
+
+This was work that Tarski did in nineteen twenty nine to thirty and wrote up very, very incompletely in an article a fairly philosophical methodological article about the nature of definition as hardly more than a footnote and intending to write it up in full later and he wrote it as a book which got as far as page proofs before the war and then the war broke out so it could never be published and as far as anybody knows the page proofs we just lost the original the type was bombed or something What did you write it in?
+
+SPEAKER_00: 0:04:22-0:04:25
+What language it in?
+
+I heard it was in French.
+
+SPEAKER_01: 0:04:26-0:04:28
+Could be French.
+
+It was a language I could read anyway.
+
+SPEAKER_00: 0:04:30-0:04:31
+Could you?
+
+SPEAKER_01: 0:04:31-0:11:19
+Taski did have at least one copy of the proofs and somebody told me may have been Donor that some kind of limited edition was produced very small number of these never properly published.
+
+In Warsaw No Berkeley it was mostly superseded by the Rand Corporation bolume.
+
+So Donor filled in those holes very thoroughly and we tied together the threads to cover the places where Fantandries had been invited and put in a cross reference and that's the paper that appeared and I've had the date for a journal of symbolic logic nineteen eighty seven oh eight I forget I've had well I had forgotten but that was part of the two volume two issue since that's what I suspect must be the paper you have in mind that's got my name on it and is about the very first introduction to the series of articles No, it was You had some brief statement by the way by way of introduction?
+
+Oh yes there was a separate Then there was a separate article actually quite a long one goes down there.
+
+Now sorry you also in this connection said there were some problems with your font back to Gorton Donor first because that's not finished yet and it's more important.
+
+Donor told me that he preferred not to put it into the article because it was not solid, it was only an impression that he thought that what had happened was roughly this that Tarski had a fairly clear intuitive notion of what he meant in nineteen thirty in the I think it's two paragraphs where he mentions that two of his decision procedures are well that two of his quantifier eliminations do provide decision procedures.
+
+He meant that a working mathematician could use these methods in order to solve actual problems take a sentence and actually calculate in your office on a piece of paper whether these sentences are true or not.
+
+Then came Church's thesis and Donner thought that Taski though I think he never says this anymore that Taski accepted that Church's thesis gave the correct definition of decidable and Taski um himself stopped working for a while on decidable theories and started using that the identification was recursive in order to prove a lot of nondecidability results then he worked on various other things but towards the end of his life he got Dona to write up with him the work that he'd done with Mostovsky on the First Order of the Ordinals and that article appeared in the proceedings of a conference in I think nineteen seventy eight It's almost a manifesto for the quantifier elimination approach and Dona said that he had a feeling that Taski by that date regretted having identified decidable as recursive The point being this that some recursive functions well in order to carry to evaluate the function you for example set up a machine to list all possible proofs in first order Predink calculus and you wait till the appropriate one comes along and there's an abstract theorem that says that it will do, but who knows when?
+
+And Tarsky really had no interest in that kind of decisibility at all.
+
+He meant something much more concrete it wasn't clear that any of the well it was fairly clear that none of the complexity notions available at the time really fitted either what his feeling was.
+
+Now Dona didn't want to say anything in the article I think for two reasons.
+
+The first as I mentioned that this was only an impression and wasn't anything that Tasky had ever said on record and second it was rather dangerous ground in view of the Vought explosion but if you talk to Downer you might well find that he has more to say about this and I think it is an interesting example of something which may be very, very rare in the Tasky causes namely something on which Tasky actually changed his mind There are lots of places where Taski said new things as a result of changing circumstances.
+
+People around him raised new questions and new ways of doing things came in but it's quite extraordinary how when he tackles the same topic at different periods he says exactly the same things about them.
+
+I often wonder what that tells one about his character that he changes his mind so rarely Yes it's partly I think that in his methodological work he I think he drove himself to push everything right back to first principles so that there really wasn't any room for any change of mind everything had been pressed back so hard this wouldn't affect the recursion stuff because he hadn't actually worked on that Well what you say doesn't quite jive with Tarski being happy with Raymond's work on the essential complexity of No, it doesn't.
+
+SPEAKER_00: 0:11:19-0:11:30
+Maybe I was wrong so we have to listen to that anyway well you mustn't trust me you mustn't trust me on that at all.
+
+SPEAKER_01: 0:11:30-0:11:43
+I think Dona told me that his impression was that Tuske had been a bit upset when he first heard this but of course Don may have been reading something from that wording in their joint article.
+
+SPEAKER_00: 0:11:46-0:11:58
+I'll look at that interview I think the interview is transparent really easily to look at it all the time Are you in the middle of a train of thoughts?
+
+SPEAKER_01: 0:11:59-0:14:39
+No, let's finish that one No except what you say I wonder what this says about his character because So take a second to describe your encounters with him personally at this point Since me I love personal impressions I met him twice Once was at the Hannover Symposium the Hanover European logic colloquium in nineteen sixty six I don't think I heard a talk by him but I did exchange perhaps three words with him during the very long address by H.
+
+Arnold Schmidt which I mentioned yesterday the Oberbergmeister welcomed us quite briefly and nicely and Schmidt stood up and talked for a very long time in reply in German I couldn't understand anymore and Taski was obviously getting bored and he was starting to jump around behind the exhibition cases And at one point he jumped in my direction and I think we said a few words Okay the only other time I met him was when he was invited down to UCLA in early nineteen sixty eight to the Logic afternoon seminars and he talked on equational definability and he had an equation a single equation in an appropriate language for defining class and groups and we had several blackboards laid out along the one end of the room and Taski looked at the line of blackboards and cleared them all right the way down and said I know where I shall begin but I do not know where I shall finish and started writing slowly and deliberately this equation was very, very long How many black boards were how many black birds were boarded How many pieces of wood?
+
+I don't remember exactly but right across the end of the room Really yeah okay it was the longest formula I've ever seen the longest equation But he didn't run out of blackboard?
+
+No no no he didn't measured it out with his eye I don't remember the rest of his talk.
+
+SPEAKER_00: 0:14:39-0:14:42
+Yeah, but what about any other person on Calvin?
+
+SPEAKER_01: 0:14:42-0:15:46
+Yes we had the party that evening.
+
+Where was the party Well the party was at CC Chang's house.
+
+Oh yeah And CC was the swim at that part Oh yes and Tarski sat in I think he sat in one corner pretty well the whole evening and people went across and chatted to him and then left him and at one point I moved across and they were discussing various things about numbers and they were making two attempts to get into the conversation both of which were unsuccessful so I moved away.
+
+SPEAKER_00: 0:15:47-0:15:51
+That's kind of surprising that view of him sitting still.
+
+SPEAKER_01: 0:15:51-0:17:28
+He usually was somebody You say he was still No but he was in a chair in the chair Yes he was sitting Stanning and smoking and moving sort of pacing even in a house kind of But there he was fixed in a chair as you remember But I don't remember for example whether he may have left early or not I don't remember a number of years ago So that's it that's yours my entire personal life Okay and what about the dope that's secondhand stuff Well no it's entirely I asked the person in question whether I could reveal his name and I encouraged him to get in touch with you if you had any and I said I could also pass on any information and I've not had a reply and so it wasn't card to leave it there.
+
+I had to leave it there I've got lots of other dope stories about him it doesn't matter I mean he was a big experimenter with all kinds of things There was one American majorian who surprised a friend of mine during a conversation by passing round lady around the room a tin with various coloured pills in it and he said I don't know what these are, some of them are uppers and some of them are downers and some of them I don't know That wasn't tasked no Pardon?
+
+SPEAKER_00: 0:17:28-0:18:09
+That wasn't tasking No, he wouldn't do that.
+
+No he would take things though that would specifically create some kind of effect He was a very definitely a sensualist and went out but that might have been earlier than So now you were going to ask a question Have you heard the story of Pressberger and the thesis that he didn't that the PhD that he didn't get from Turism?
+
+SPEAKER_01: 0:18:10-0:20:04
+I've heard a story namely that Pressberger was proposing to offer for a PhD material which wasn't really much more than the material that he'd already offered for the Master's degree that Presberger's article is based on and Tasky said this is not good enough and if those are the facts then it's quite clearly not good enough He was I missed if those are the facts and I have Pressberger's article I got somebody from Poland to send it to me.
+
+It's clear that Presburger was pretty much instructed by Taski what to do.
+
+Presber was proving the completeness of a set of axioms that Taski had written down for him by a method which Taski had already laid out in detail.
+
+Now that's absolutely fine for a master's degree just the sort of thing one does give but for I would look at that and say no that's not a PhD but that was his decision procedure for addition for inner addition which subsequently came to be considered one of the prime examples of elimination of qualifiers That's right, really it always was one of the prime examples but then Tarsky had it all.
+
+It was a mechanical business to write to and it's not all that long so it flows out quite smoothly Now it was certainly a much more exciting master's thesis than most people could hope to write but then to offer that again as a PhD I think is not on.
+
+SPEAKER_00: 0:20:04-0:20:08
+What if he had offered it as a PhD thesis in the first place and not as master's thesis?
+
+SPEAKER_01: 0:20:12-0:21:01
+Well there's much less original in it to my eye than in Van De Shmilev and she had to do some real work sorting out the appropriate exact sequences I don't know it doesn't look to me like a PhD thesis Well what's the evidence that Tarot Deceptis all up for Presper?
+
+Oh the text of the article Here is a set a set of axioms which has been proposed by Professor Taski we shall prove by the following method which is exactly the method that Taske has been teaching to all his students for the last four years that this is indeed a complete set.
+
+SPEAKER_00: 0:21:02-0:21:10
+What about the set of basic formulas Do you think Tarsky gave those to?
+
+SPEAKER_01: 0:21:11-0:22:25
+Oh no well I think yes but you don't have evidence Well not here no I'd have to look back at it and see Well everybody seems to think the press program was screwed somehow so that's why Thal bringing that up.
+
+You say everybody but I don't know the facts on this I heard that Pressberger was denied a degree for this and I mentioned this to I think somebody from Poland and said is that really true that after that work Pressberger didn't get his degree and my informant said no you got it wrong he got the master's degree that that was presented for but he didn't get a PhD that he wanted to use essentially the same material for.
+
+Now that's just something that somebody said to me so that's right if that's the fact of it then from what I could see in the paper Pressberger was not screwed But do you have more facts?
+
+SPEAKER_00: 0:22:25-0:23:55
+No, I don't know, it's just it has come up several times several people It just keeps coming up The Lindenberger thing, the business The priority business always comes up about how often Charsky's always grabbing priority and the Pressberger thing comes up and the fact that President then the fact that Pressburger was killed during the war and all that somehow there is the impression is left that there was somehow bad behavior Well if somebody is doing a PhD under you and they're a decent mathematician they ought to get a degree at the end.
+
+Something has gone wrong somewhere if they don't but what I don't know is I mean I don't know whether Pressberger just didn't do the stuff that was expected of him that can happen or whether he was badly advised on what to do and then Tarsky wouldn't be at fault I've got absolutely no evidence on that and I don't think one should make judgments without Except for the general picture of Tarski being such a difficult taskmaster So then this picture gets built built up generalized yes But so it's nice to have a different at least somebody who's putting in a different putting in a different light as you are perhaps.
+
+SPEAKER_01: 0:23:56-0:27:42
+Well just asking for evidence I think yeah about the priorities that stinks it really does it that thing that Adian produced Adan about the law of female logic I don't know that I sent it to you Oh no by email You did you comment?
+
+I did okay with Adan telephoned Taski, Adian was visiting the states and quite early in the conversation Adan mentioned Kolgomorov's law of female logic namely that if the conclusion is pleasant then the law is then the implication is valid.
+
+I don't think that I would not forgotten I mean I forget a lot but I don't think that forgotten Well yes Artyomov when you first told me that you were collecting stuff I mentioned this to Artyomov who was staying with me at the time he said well here's one from Adjan Okay so here it goes.
+
+Okay I think this was in nineteen it was the year that Adean visited the States and got booed in lots of places because He's antiSemitic I don't know if he's anti Semitic slightly funny but he was booed for having not stood up for a Jew who did get screwed.
+
+Yeah that makes you anticipation Life is sometimes a bit more complicated than that and Adean is now generally reckoned to be one of the liberal gang.
+
+He's a most unpleasant character So anyway at that stage he didn't defend a person that clearly he should have defended that he was I don't remember but I can find out they say it's well recorded Are they not?
+
+No no no this was somebody there was a book that he wrote called It seems I am It seems I am Kushn a Jew Kushnik I don't remember Okay so let's not get distracted So Adan was persona non grati in all sorts of places so heav had been booed down Double Triple So for that reason Adan I think didn't want if I remember right Adan didn't want to travel to Berkeley fear of the same thing.
+
+So he telephoned Taski instead and quite early in the conversation Adian mentioned Kolgomorov's law of female logic which is something to the general effect that if the conclusion is pleasant then it's true.
+
+And Adan says that at this point he heard an explosion down the other end of the line and when he could make out what Taski was saying Taski would say was saying That is not Col de More's law of female logic That is Taski's law of female logic I proposed it in nineteen thirty two Adean challenged this producing evidence and there was a long and unpleasant conversation with who had really invented this thing.
+
+This left no time for genuine maths.
+
+SPEAKER_00: 0:27:42-0:28:02
+Yeah I don't think I got this if I did I did I remember it now we did get it?
+
+Yeah Then I've got it but boy, then there are big holes in the cheese up there well priority priority quite put it past Adjan to make this up a little bit.
+
+SPEAKER_01: 0:28:02-0:28:11
+Yeah, Adyan is I think a very shrewd character and he knows where to stir things a bit What's his name?
+
+SPEAKER_00: 0:28:11-0:28:23
+Who told me Lezic Prohols told me not to trust Walensky So I'm getting all advice about who not to trust me What's this about Walensky?
+
+SPEAKER_01: 0:28:23-0:28:37
+And also Walky was one of the people who wrote to me after my Aristelian Society paper and he gave me factual information He told me He told me not to trust his factory because there's the record has it?
+
+SPEAKER_00: 0:28:37-0:28:55
+Yeah, no just that it has to be checked because he accounted he said that he came across stuff that he, Pachulski had told to Walensky that Walensky reported inaccurately so he just felt he was not necessarily malicious but careless.
+
+SPEAKER_01: 0:28:56-0:29:55
+The most inaccurate reporter by the way is Frankjich.
+
+Frankievic Frankjavic by the way if this is relevant Frankvic Spelled I don't think I can FRANK IE WIC Some people call him Frank Essa OK He's a set theorist well topologist and he always brings nuggets of misinformation with him when he travels westwards and in nineteen seventy about seventy six he brought with him the information that Kuratovsky had just told him that Tarski had died.
+
+No ambiguity Absolutely definitely had it from Kuratovsky, Tarski had just died.
+
+That's amazing So I remember writing to Gervant and saying Is this true?
+
+And Gervant wrote back and said no Tarski is still very much alive.
+
+SPEAKER_00: 0:29:55-0:30:29
+Yeah, that's amazing.
+
+The other thing by the way that Pukolski told me that I didn't tell you is that Rosch and there's very bad blood between Rosch and Tarski and that's why he never would answer my letter said with a million questions and there was no answer and I tried to write an explanation for that Okay now what were you going to say about Given and then we'll clip and go look at the town?
+
+SPEAKER_01: 0:30:30-0:43:04
+Yeah I'm not quite sure what went wrong there but I was talking to Juvant on the telephone about this joint no about this framework article that I put together and he told me about similar things that he'd been planning to write and I said I thought that sounded really good and went ahead with it and I then sent round the next version of the framework the one that Vought so strongly objected to and I also had a strong objection from Gerbant on the amazing grounds that some of the things that were in there were his contribution and not mine.
+
+Gerbent's contribution Yes there were things which everybody who knows anything about Tarski knows are laid out quite explicitly and clearly in papers of his in the nineteen thirties.
+
+In Tarski's papers Yes So I said this to Gervant and Gervant said he wasn't supposing that I'd stolen the information from him, I'd simply stolen from him the idea that these should be mentioned in an article about task.
+
+Now this two comments on this first is that I think I may have been at fault on something a bit earlier that Donor once phoned me and said that he I telephoned Donut quite often and asked him how was his thing coming along and he would always spin me some yarn Was this from England do you recall?
+
+Yes Before email dates?
+
+Yeah that's right Now he did send me a Mac disc once that was useful with a selfdestruct on it set for a date one month in the future.
+
+One of the yarns he'd spun me was that he'd just had a conversation with Gervant about things that might go into this paper into his article for the JSR It occurred to me afterwards he might have been suggesting to me that Gervain should be brought in as a coauthor.
+
+Now he certainly didn't say anything like that explicitly but one or two remarks of Gervant did rather strongly suggest that Gervant was under the impression that he was also invited to that he was invited to write the paper the Doma and that I'd somehow stolen his share of this.
+
+I have no idea how such a confusion could have happened but I do suspect that it did happen and that this was the source of his animus.
+
+Now in fact I was running the whole show and nobody did anything except at my invitation and I never issued any kind of invitation to Givert to join in this chapter I did invite him to do the bibliography which he did absolutely superbly very conscientious job That's the first comment and the second is that this was not the first time that I'd come across Gervant making noises of this kind I think Gervant wrote his thesis under Vart but the problem I think was proposed by Tarski The problem was to characterize those varieties in which those varieties which are uncountably categorical There was a student in Russia called Palutin, Yevgeny Palutin working on exactly the same problem at the same time and there was a bit of to and fro The Russian working with his friends would there was a gang of them over there with an interest in this but Palutin was the main one.
+
+They would make an advance Palutin and Givant and his friends would make an advance and a note would go into the MS abstract notices or whatever it was and quite a bit of to and fro.
+
+And at one stage Taski said to Gervant, it looks to me as if the kind of structure that you're finding in these objects you're looking at is the type of structure analyzed in a paper of Orbanic in Fundamental Mathematics and Orbanic shows that any such structure is essentially a vector space over a division ring.
+
+Why don't you try and see if you can use that?
+
+And this was the crucial breakthrough.
+
+This was the part where Gervain was able to pin down exactly what structures were involved.
+
+By the way, it was the universal algebra equivalent of Zilber's breakthrough in general model theory and as Zilber later showed his approach would have done essentially the same job as Urbanic's paper but Urbanic did the necessary job and Gervant published an abstract mentioning this fact and attributing the suggestion to Taski.
+
+The next abstract from Palutin used their paper of orbanic for a similar purpose but contained no acknowledgment it was now published material and neither Taske nor Giovance had written the paper by Urbanic.
+
+It's true that Taske had suggested it but it was a fairly well known paper and Palutin had certainly done the necessary preliminary work to slot it in and Gervain then wrote a letter to Palutin accusing him of having misused material from this abstract and felt as I gather felt he got no adequate reply to this so when he published his full results there was a remark which read very much as if it was intended to accuse Panutin by name of plagiarism without actually saying anything that anybody could take him to court for him.
+
+And having read this sentence when I was talking to Cervant in the early days of this of the Taski project I asked him had I correctly interpreted the sentence and he said yes It was several years before the barriers came down before I could get to Palutin's response All Palutin would say was that yes he had had a letter from Gayvant accusing him of plagiarism or of improperly using this material and it was very upsetting.
+
+Whether this was before or after it was about the same time as Palutin broke his back in a swimming accident I don't know but the broken back could easily explain why no sensible reply reached Gervan and to this day Palutin walks with a bad limp.
+
+Nobody thought he would survive.
+
+But there is I can say more about I did mention to you that I thought there might be problems with Gervant.
+
+In the nineteen seventies I guess it must have been I think Tarsky used Gervant as a kind of secretary to send messages to people who had not made correct attributions and you'll find at least one of these in print.
+
+I have had the following letter from Professor Gavant who informs me that Professor Taski is told in the following bottle Do you have that letter?
+
+This is not a letter this is a published paper this is and it's in the proceedings of a conference.
+
+It was a Polish author and Tarski was complaining that inadequate credit had been given chiefly to Fraser and Taski was absolutely right about this.
+
+No doubt whatever that Taski was right on the point of history and also I think Taski was right in pressing the point because Freyise was very badly misused and part of the problem was that everybody who knew Freyse could see that there was no way that he could I mean just talking to him I could see that he was very slow witted everybody supposed that the man must be some kind of hanger on but in fact if one waded through his almost impenetrable great jungle articles that he published in Algeria there was gold in them and Taski knew that.
+
+But this is only an impression I have an impression that Taski was not a good influence on Gervaint that Gervaint didn't ever have Taski's I mean not that Taski himself was all that good at it but Gervaint certainly was not at distinguishing essential new ideas from just a new way of phrasing things and Gervaint's published paper in which he makes these remarks about Paleutin also has very long sections interleave between the mathematics claiming credit for small pieces of notation and all sorts of things and I think it must be task is fault By the way there's another example you might look at on this and Sowell will tell me if I'm being an idiot on this there's a thing known as the Chang Mackai theorem Chang Pen Yes which was actually discovered independently by Voor and what's more Vort proved more than the others he showed that it didn't need the continuum hypothesis All of this was reviewed by Kiesler in the maths reviews at a point where Kiesler was I think still a student he was a student of Taski wasn't he?
+
+Yes and he was writing stuff about large cardinals for Taski is and there's quite a long discussion as I recall it of the exact date in the month on which Worth and Mackay respectively made their discoveries and to me it's indecent if two people independently make a discovery nobody has any business working out whether it was the tenth of July that one of them did in the twentieth of July that another did.
+
+SPEAKER_00: 0:43:05-0:43:11
+Now it's actually a horse race?
+
+SPEAKER_01: 0:43:11-0:43:21
+Yes now it's interesting that Keisler does it.
+
+It strikes me as very out of character for Kisler in his later work there's absolutely nothing of this.
+
+SPEAKER_00: 0:43:22-0:44:01
+So again, I'm just wondering if this is Tarski Oh there's no question that Tarski would insist on those kinds of if you want an example You can trace it easily in those reviews.
+
+Yeah that's in the very nice I mean there are going to be two million examples of that future but I think this is a very neat neat example so it's good to have that kind of So it's in the math reviews well it would be when before Kiso got his PhD so that would be easy to six years So it's a review of Chang McKi?
+
+SPEAKER_01: 0:44:02-0:44:05
+Yes.
+
+I don't think Walt published it.
+
+SPEAKER_00: 0:44:09-0:44:41
+Okay There were two questions three One thing Okay Two things maybe I'm going to have some time for town but go on.
+
+There were often cases where Russians found things independently or were said to have found things independently of Americans.
+
+I think one was the Acticoshin result The irshov yes The Irishov.
+
+And there was often a suspicion on the Western side that the Russians knew of this work somehow They were reading the panels.
+
+SPEAKER_01: 0:44:42-0:45:16
+I was involved in one of these myself.
+
+So it wasn't just Americans it was the West generally.
+
+Yes, I set a student in line a problem to I think it was a problem proposed by McIntyre and the problem I can't remember there was a question session at a conference in either sixty nine or seventy one and McIntyre and I walked around the town and compiled a list of questions and I don't remember exactly who put in what?
+
+SPEAKER_00: 0:45:16-0:45:21
+Which town?
+
+That's just your town.
+
+SPEAKER_01: 0:45:21-0:46:51
+Well I think it was Cambridge which makes it the Cambridge Conference but I don't remember whether that was sixty nine or ' seventy one.
+
+Probably seventy one Cambridge yes and I spoke and delivered the list of problems and one of them was whether there could be an uncountably categorical theory complete countable theory which is not model complete but can be made model complete by adding finitely many symbols.
+
+And I then gave that problem to a student of mine called Mike Mortimer who solved it.
+
+Mortimer's thesis went to various places and fell into the hands very soon afterwards into the hands of Dan Saracino who realized that the same construction could be iterated so as to produce I'm going to get this wrong but roughly an uncountably categorical theory with no finite forcing companion.
+
+Sure no finite generic model no finite generic model.
+
+This was happening in the period seventy four to seventy six or seven.
+
