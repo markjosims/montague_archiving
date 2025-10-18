@@ -1,105 +1,114 @@
-SPEAKER_00: 0:00:00-0:07:42
-nineteen ninety seven.
+JC: 0:00:00-0:07:42
+nineteen ninety seven...
 
+AF:
 Okay, say it again.
 
+JC:
 We're sitting outside under a wonderful blue sky.
 
+AF:
 It is a beautiful day, doesn't it?
+My tape takes about a second.
+Anyway, still may seventh, nineteen ninety seven and still...
 
-My take takes about a second to leave.
-
-Anyway, still may seventh, nineteen ninety seven and still were you here when I told Anita that Packet awarded me a one percent royalty on logics and management systematics.
-
+JC:
+Were you here when I told Anita that Hacket awarded me a one percent royalty on Logics Semantics and Mathematics
 After Tarski died.
-
 And the way he did it was I asked him in the course of another conversation how the book was selling.
-
 And he said, I can't answer that unless you are a member of the company or are getting a royalty.
-
 This is privileged information.
+Therefore you're hereby getting a royalty!
 
-Therefore you're hereby getting a royalty.
-
+AF:
 He sounded like a great guy.
 
+SF:
 He had a philosophical background?
 
+JC:
 I think he did.
+I don't know exactly what it was, but he was the philosophy editor of Bobbs-Merrill before Bobbs-Merrill got took over by ITT and they made it into a, I don't know what the word is, but they started running the company in order to make a lot of money but not to serve the philosophical community.
 
-I don't know exactly what it was, but he was the philosophy editor of Bob's Merrill before Bob's Merrill got took over by ITT and they made it into a I don't know what the word is, but they started running the company in order to make a lot of money but not to serve the philosophical community.
+AF:
+Oh, a trade, a trade house.
 
-Oh, a trade A trade house.
-
+JC:
 Yeah.
 
+SF:
 I want to come back to this question of methodology of deductive sciences.
-
 That's one thing.
-
 You say Tarski didn't like the Vienna Circle, but their concept of the unity of science and of having some sort of my understanding a vision of overall vision of scientific methodology that seemed to resonate with that that there would be sympathies there rather than an antagonism.
 
+JC:
 There were several things that Tarski wrote that locked horns with the Vienna Circle.
-
 Number one, they were irresponsibly negative toward the concept of truth.
-
 They just had a bad thing about truth.
+It was like somoebody-
 
-It was like Noyro.
-
-Nirat did.
-
+SF:
+Well Noira did.
 Were there others?
 
+JC:
 There were until Tarski turned them around.
-
 They gave him trouble about this.
 
-Wasn't Karnap went over pretty quickly?
+SF:
+Wasn't Karnap won over pretty quickly?
 
+JC:
 Tarski took a lot of credit for doing that.
 
+AF:
 Well, Karnap even gave him credit, I think, right?
 
+JC:
 Yeah.
+By the way, it was not only the Vienna Circle, but it was also the Poles of the generation right before him.
+Lukasiewić's logic book from nineteen twenty nine starts off with a gratuitous section in the preface how logic doesn't have anything to do with truth.
+Now...
 
-By the way, it was not only the Vienna Circle, but it was also the polls of the generation right before him.
+SF:
+So people who reacted negatively first to the definition of truth, this whole explanation or explication as he used to call it, that was something that in turn got Tarski annoyed?
 
-Lukashevic's logic book from nineteen twenty nine starts off with a gratuitous section in the preface how logic doesn't have anything to do with truth.
-
-Now people who reacted negatively to the first the definition of truth, this whole explanation or explication as he used to call it, that was something that in turn got Tarski annoyed.
-
+JC:
 No, it was it wasn't that they were saying something against something that he did.
-
 It was that they were being pig headed and irresponsible and not even listening.
 
+SF:
 I see.
 
+JC:
 People that paid attention and had responsible criticism, this didn't bother him.
+What bothered him was irresponsibility and [AF: not listening], ignorance, yes.
 
-What bothered him was irresponsibility and not listening Ignorance, yes.
+Now, another thing that was of crucial importance, and you can find this in several of his articles, I think the beginning of Truth and Proof is crucial, where the distinction between a concept and the methods that are used to determine that the concept applies in a given case, this distinction, the distinction between property and criterion has been a major thing in philosophy going back to the Stoics.
+And it-
 
-Now, another thing that was of crucial importance, and you can find this in several of his articles, I think the beginning of truth and proof is crucial, where the distinction between a concept and the methods that are used to determine that the concept applies in a given case this distinction, the distinction between property and criterion has been a major thing in philosophy going back to the Stoics.
+SF:
+Meaning that distinction was recognized or?
 
-And it meaning that distinction was recognized or yes.
-
+JC:
+Yes.
 And the importance of it.
 
+SF:
 Yes.
 
-And it's the whole it's not the whole, but it's the distinction between what they call today the Ontic and the epistemic Ontic applying how things actually are and epistemic how you judge what is right that way.
+JC:
+And it's the whole it's not the whole, but it's the distinction between what they call today the ontic and the epistemic, ontic applying to how things actually are and epistemic how you judge what is right that way.
 
-This was denied by the positivists and they pretended that this was a principle of science that all right thinking people that to all right thinking people, the meaning of the concept was to be identified with the methods that were used to determine You know, Einstein got into this one for a while.
+This was denied by the positivists and they pretended that this was a principle of science that to all right thinking people, the meaning of the concept was to be identified with the methods that were used to determine.
 
+You know, Einstein got into this one for a while.
 He didn't know what he was doing, but he made noise that this was what he was doing.
 
 And in order to even understand what the project of defining truth is, you have to be able to get clear about that.
-
 He's not going to tell you how to find out whether a given proposition is true.
-
 He's just telling you what you mean when you say that it's true.
-
-And the denial of this he took to be just kind of an epitome of stupidity and the whole attitude that leads to this novel.
+And the denial of this he took to be just kind of an epitome of stupidity and the whole attitude that leads to this [STOPPED HERE] novel.
 
 It's scientistic and want to find something for the bean.
 
