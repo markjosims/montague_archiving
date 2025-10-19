@@ -484,9 +484,9 @@ Survey expository. Yes.
 So there was a proposal to have a series of articles about Tarski's way which
 
 WH:
-Some of us did get some of us put together a list of possible authors and more or less that stuck. But I learnt an awful lot of mistakes one should not make in doing these things and I had two particular disasters, one with Vaught and Henken and the other with Givant.
+Some of us did get some of us put together a list of possible authors and more or less that stuck. But I learnt an awful lot of mistakes one should not make in doing these things and I had two particular disasters, one with Vaught and Henkin and the other with Givant.
 
-The one with Vaught and Henken is the relevant one here. There were two parts two things were proposed one that Van De Dries should write an article about the Tarski decision matter for Rothhurst Fields.
+The one with Vaught and Henkin is the relevant one here. There were two parts two things were proposed one that Van De Dries should write an article about the Tarski decision matter for Rothhurst Fields.
 
 Vaught was very guarded about that one. He had a rather dim view of Lou van de Dries and in particular he was frightened that Lou would try to expand this into a discussion of Lou's own stuff or work by
 
