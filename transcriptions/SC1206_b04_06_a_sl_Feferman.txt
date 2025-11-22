@@ -1,0 +1,881 @@
+AF: 0:00:04-0:01:12
+Okay, and you came to Berkeley to study mathematics.
+You took courses from several people, including of course from Tarski your very first year.
+
+SF:
+Yes.
+
+AF:
+And what happened?
+
+Well, I remember your coming, I remember your saying that at some point that the minute–That you knew immediately that this is what you wanted to do.
+
+There was something about the way he presented the material.
+
+SF:
+Yeah, but you have to know where I was coming from.
+
+AF:
+Okay.
+
+SF:
+So it's not just that by itself.
+
+AF: 0:01:12-0:01:13
+All right.
+
+SF: 0:01:16-0:06:14
+I had had a course in logic as an undergraduate, in fact with ET Bell(?), in which I saw that this was a subject I was interested in, but from the material we learned there, couldn't really tell why or what one would do with it. Bell himself had no clear idea.
+
+AF:
+The man who taught it wasn't a logician?
+
+SF:
+No.
+Well, he had an interest in logic too, a marginal interest in logic.
+
+AF:
+So the man, Bell, who taught it had a marginal interest in logic.
+
+SF:
+Yeah.
+He had strange ideas about logic.
+And he directed our attention to some strange things, which were not in the main, as it turns out, not in the mainstream of logic.
+
+AF:
+What's a word that you would use instead of strange here?
+
+SF:
+Off base, off center.
+
+AF:
+Off center.
+
+SF:
+As I remember, we just looked at a bunch of different articles or books and there were just squibs and pieces out of each of them.
+And it was a very choppy, confusing presentation with no clear view of his own as to what the subject was about and his really having no idea actually what was going on in the subject.
+
+AF:
+But even so, you were attracted to the subject.
+
+SF:
+Even so I was attracted to the subject.
+
+AF:
+Can you say why?
+Or at that point without knowing why, and then you find out when Tarski comes on the scene? Or better yet, say what it was that attracted you to the subject even with a confusing presentation?
+
+SF:
+Again, I started out at Caltech thinking I was going to study physics and then not doing very well in my physics courses and the chemistry courses that you had to take to do physics that you were required to take.
+And I always did well in mathematics and that was fun for me.
+So I switched to mathematics, but not thinking, not knowing what–I had no real good feeling for what it was to do mathematics or what would interest me in pursuing mathematics.
+
+But both in mathematics, well, in general, I always had a sort of an interest in philosophy.
+And there was something about logic that connected with philosophy.
+And that I think was why I took a more specific interest in that.
+
+AF:
+More specific interest in logic.
+
+SF:
+In logic [Yeah] though other parts of mathematics, you know, there was no philosophy involved there.
+
+AF:
+So it was that you were you knew even though it wasn't clear what the link was, you knew logic had to have something to do with philosophy.
+
+SF:
+Yeah, yeah.
+
+AF:
+ET Bell didn't make that link clear.
+
+SF:
+No.
+
+AF:
+Phil, that was his attraction to you.
+
+SF:
+I think so, yeah.
+
+AF:
+So even without even without seeing what it really was...
+
+SF:
+I had glimmers.
+
+AF:
+Glimmers is a good word.
+
+SF:
+Of what its attractions were.
+
+AF:
+Glimmers of its attractions, plus...
+
+SF:
+Terrible sounds will be on your tape.
+
+AF:
+It's alright I'm not preserving this tape.
+
+A philosophical bent.
+
+SF:
+That's good.
+
+AF:
+Philosophical bent, mathematical talent.
+Okay.
+
+SF: 0:06:20-0:46:48
+Okay.
+
+AF:
+So then you come to Berkeley
+
+SF:
+Come to Berkeley.
+And maybe having heard the name of Tarski but not really knowing what...
+
+AF:
+Certainly Bell would have mentioned that name would he?
+
+SF:
+I suppose. What he was in the field...
+
+And I didn't come to Berkeley because of Tarski, I came because they gave me an assistantship of several places that I applied to.
+Partly because you were there.
+
+I think I applied to Chicago, Berkeley, and UCLA.
+
+AF:
+Okay.
+
+SF:
+So partly it was a matter of style in his case, you know that he clearly knew exactly what he was up to.
+
+[TAPE SCRATCH]
+
+AF:
+Start right where you were.
+Well, let's back up.
+So you go into his course.
+
+SF:
+Yeah.
+
+AF:
+And how soon would you say after you started taking the course, were you–?
+
+SF:
+Well, as I said, almost immediately. Although what he was doing was going into the material very slowly, but very systematically, and sense of building things up.
+
+AF:
+It was a beginning course in logic.
+
+SF:
+Oh graduate, beginning.
+
+AF:
+Graduate beginning course in logic.
+
+SF:
+Yeah.
+Beginning building things up in a systematic and very clear way.
+
+And this–Evident that he had a conception of the subject. That he wasn't just teaching.
+He had a he had a conception of the subject and a way to think about it and a way to present it and a way to develop it and so on.
+
+So it was more than just I'm learning things that I want to learn, but I'm learning them at the hands of somebody who has all that to offer. Has that–
+
+AF:
+Well has a belief system about it.
+
+SF:
+Yeah, I mean, it's part
+
+AF:
+It's learning religion from God.
+
+SF:
+Yeah, maybe.
+
+AF:
+Or learning it from Jesus Christ or from John.
+
+SF:
+I don't know, you know, it's not just–yeah, I wouldn't call it religion. Learning the right way to look at things, although I wouldn't say now that that's the "right way" to look at things, but at the time.
+
+AF:
+Yeah I want you to put yourself back there.
+
+SF:
+Yeah that this is the right way of doing things and this is what's happening and this is how I'm going to understand the subject so and that this is when I want to what I want to follow.
+
+AF:
+This is what I want to do.
+
+SF:
+Yeah, this is what I want to do.
+
+And it was just the tip of the iceberg as far as what I could get out of Tarski was concerned.
+So you know it's hardly to say that that first impression changed things.
+Of course it was that as one went along with him that this was all bolstered, this was all reinforced–
+
+AF:
+It was all expanding.
+
+SF:
+–how his conception of the subject almost more than anything. His right way to do things rather than the specific things that he himself did because as time went on I started to make distinctions myself as to what I found interesting and what he did that were not the same as what he...
+
+AF:
+How soon was that? In a couple of years?
+
+SF:
+In a couple of years to develop my own taste or my own sense.
+
+AF:
+Your own taste for material. But as far as the "right way to do things"
+
+SF:
+That was throughout–
+
+AF:
+Has that stayed with you forever?
+
+SF:
+No because in the end his insistence on certain ways is suitable only for certain parts of the subject and also his even there is was sort of too heavy too much that it's got to be this way and you can't relax and–
+
+AF:
+Do it some looser way.
+
+SF:
+Do some, yeah a little looser but more [intuitive?] intuitive.
+
+AF:
+Was he anti-intuitive in the sense that–?
+
+SF:
+I wouldn't say he was anti-intuitive but that the final product always had to be very carefully organized, very carefully worked out, very carefully presented and step by step so that I mean he would be good at motivating things along the way.
+
+AF:
+People say he always asked questions that made people think about...He asked questions that he knew answers to but that got you to the next step and then when you got to the next step he would ask another question.
+
+So it was that sort of he would ask in sense a rhetorical question that would move you to the next step.
+
+SF:
+I don't remember that so much. Who said that?
+
+AF:
+I think maybe in Steve's thing there would be some sort of thing where he would ask questions that he knew the answer to obviously but he would pose it as an open question.
+
+SF:
+Oh in class.
+
+AF:
+In the course of the lecture. How could it be that such and such would be such and such get to that point and that was his technique of lecture. Do remember that?
+
+SF:
+Not so much really. This idea that Steve, this picture that Steve presents, his coming in and just with very few sort of the minimum put down one letter.
+
+AF:
+Yeah he doesn't say that I think Davidson said that or even you said that he just put an E on the board and then expand from that.
+
+SF:
+Yeah so all he would have to do is write one letter on the board and start talking about it.
+
+AF:
+Is that what he did in the first lecture?
+
+SF:
+No I don't...
+
+AF:
+But early on he was already doing that?
+
+SF:
+It depended on the subject.
+
+AF:
+But I mean you don't remember this from that first course in logic.
+
+SF:
+No.
+
+AF:
+But later on? [Yes] So he would write a letter on the board and start talking about it and then–?
+
+SF:
+And then he'd gradually start filling putting more things down but it would focus your attention so much or concentrate, sort of zooming in on "well what is it around that one letter that he's going to build?"
+
+AF:
+In other words he would build suspense.
+
+SF:
+Yeah he would.
+
+AF:
+Well Steve says something interesting like you could hardly wait for the at the end of a lecture you could hardly wait for the next lecture.
+
+SF:
+For the next lecture, that's true.
+
+AF:
+Did he do that?
+He would put a hook at the end of every lecture.
+
+SF:
+Not necessarily I don't remember specific that this was a technique that he always did a hook.
+
+AF:
+Yeah but it's like his lectures were page turners.
+
+SF:
+Like serials. So you wouldn't necessarily know where they were going to go.
+
+AF:
+You wouldn't know what was going to happen in the next lecture. So you think that's an accurate depiction? He says something about couldn't wait for the next lecture.
+
+SF:
+That's true.
+
+AF:
+To see what would where he would go next or where it would go next.
+
+SF:
+Yeah I mean he's certainly a magical lecturer.
+
+AF:
+Yeah but so can you give anything more specific than just say like putting what would be the letter he would put on the board?
+Would he put an E?
+
+SF:
+M.
+
+AF:
+An M on the board and what does M stand for?
+
+SF:
+For a model.
+
+AF:
+He would put on the M, which stands for a model
+
+SF:
+Or Phi [or Phi] for a formula.
+
+AF:
+Phi meaning an F, what's an F?
+
+SF:
+No, a Greek phi.
+
+AF:
+A Greek phi so if I'm writing that on, how am I going to write it?
+
+SF:
+P-H-I.
+
+AF:
+So he would put a Greek phi on the board and then talk about it for how long minutes?
+
+SF:
+Or he'd put a German "A".
+
+AF:
+So what's that mean?
+
+SF:
+Some sort of structure, mathematical structure.
+
+AF:
+A German "A"?
+
+SF:
+Yeah
+
+AF:
+What's a German "A"?
+
+SF:
+A Gothic "A".
+
+AF:
+A Gothic "A".
+Just an "A", an "A"?
+
+SF:
+But it would be in a particular script.
+
+AF:
+It would be in a Gothic script like italic script you mean?
+
+SF:
+No Gothic like in the old German dictionaries.
+
+AF:
+With a double, you mean–?
+
+SF:
+It's hard to describe but it's–
+
+AF:
+It's got curlicues on it.
+
+SF:
+It's like gothic printing. A lot of mathematics was done by Germans and especially a lot of twentieth century mathematics between the wars was done by Germans and so a lot of articles were [in German] You read in that German kind of print.
+
+AF:
+German script.
+An "A" in German script. So he'd put a German "A" on the board and then was that his classic way of beginning a lecture?
+
+SF:
+Not necessarily no he would or you would write a word on the board or some topic.
+
+AF:
+But it'd usually just be one thing.
+
+SF:
+Yeah he didn't rush to write down a lot of things. He would write in a very emphatic way, very often chalk would break. Very heavy emphatic way. So I don't know whether for him this was any conscious performance.
+
+AF:
+Well you bet he didn't think about effective presentation?
+
+SF:
+Oh he certainly did.
+I mean he certainly thought in advance about what he wanted to say and what he wanted to emphasize. But the particular aspects of the style...
+
+AF:
+It's funny that you never think that anybody is going to pay any attention to the business of how to get something across, to the theatrics.
+
+
+SF:
+For example in my own lecturing I pay attention but when you're doing it and you're aware of to some extent of the theatrical effects, still it's something that sort of flows naturally from the situation. You can't say that I've trained myself to act in this way for maximum effect. Then there are those who have no theatrics at all.
+
+AF:
+Right.
+Well do you take the kind of presentation that Osterman did for Fermat's last theorem?
+You don't think he figured out all these funny business that he did?
+
+SF:
+Sure, sure.
+
+AF:
+Alright, so just subtract the props. He would still, supposing he weren't using props, but he was still presenting the same thing, don't you think he would figure out his strategies for presentation to get maximal effect?
+
+SF:
+Yeah
+
+AF:
+And don't you think that somebody like Smullyan figures out his strategies for how he's going to present stuff?
+
+SF:
+Well Smullyan really thinks about it, he's a performer.
+
+AF:
+I know but I submit to you that a lot of people who do very good lectures spend time thinking about the order in which they're going to, just like you think about the order in which you're going to say things. It could be as simple as that. Tarski thought about the order in which he was going to present things and how much of it at a time he was going to dole out. Like he's doling out a certain amount at a time and emphatically emphasizing each point as he goes along.
+
+SF:
+I mean so we don't really disagree about that.
+
+AF:
+No, but he's paying attention to that and he's paying attention to the fact that he's creating suspense.
+
+SF:
+Yeah. I suppose, I mean that part I don't–
+
+AF:
+I don't think those things just happen without
+
+SF:
+How about the lecture of Ken Ribbet on that tape?
+The other one you really liked. It was very amusing and very clear.
+
+AF:
+Yeah I can't remember that.
+I mean some people are just natural stand up comics, you know. But I don't think Tarski was a natural standup comic [No, no] so.
+
+SF:
+Be interesting to know if people heard him like Henry in the old days whether he was as effective [then?] then, whether he had already developed that style. 
+
+AF:
+That style.
+Well people wanted to come I mean here was Henry, a Gymnasium student who wanted to come to his lectures. So he must have heard something.
+
+SF:
+Must have already been an attraction.
+
+AF:
+Must have been an attraction of some sort.
+Somebody must have been talking about him.
+
+SF:
+The same time I took Tarski's course I took a course from Forster in algebra and it was just like the complete opposite, the guy was just hopeless. He wasn't explaining anything clearly getting across, not having any impact, his waffling and all his hemming and hawing and just the worst kind of presentation. But also I took a course from Raphael Robinson.
+
+AF:
+And how was that?
+
+SF:
+Which was very clear, very well organized, proceeded step by step and so on. Said exactly as much as was needed, not more. But no excitement whatever.
+
+AF:
+Well I mean that's it, that Tarski projected excitement.
+
+SF:
+So put in your book about [Robinson?] Robinson. No, Forster.
+
+AF:
+Yeah he projected excitement in the way that no other teacher you had did although. I think who else you did say that somebody was pretty good, Morris or Kelly?
+
+SF:
+Toni Morris I never took a course from Toni Morris or Kelly.
+
+AF:
+But you never took any course from either of them?
+
+SF:
+No. Well, because of the subject I mean I moved so quickly into logic and...
+
+AF:
+You were so sure that that's what you wanted to do It kind of engulfed you.
+
+SF:
+Yeah, after a year. Now I don't remember when I started going to the seminar but again the experience there was he wanted people to present things in the seminar so I immediately volunteered to do some stuff which required me to work things out for myself in a certain initial part of the subject.
+
+AF:
+That was the second year already you were going through the seminar?
+
+SF:
+Yeah.
+
+AF:
+Which was a little early?
+
+SF:
+Yeah. I think it was the second year maybe. I'm pretty sure it was the second.
+
+AF:
+Okay. How soon did you ask him if you could work with him?
+
+SF:
+I don't remember.
+
+AF:
+I want to get some– 
+
+[RECORDING CUTS]
+
+AF:
+Yeah so the seminar you started to say about.
+
+SF:
+So I worked hard to do the initial, this first presentation in which I had to work out for myself various proofs.
+
+AF:
+He asked people who wanted to do one and you volunteered?
+
+SF:
+Yeah.
+
+AF:
+Right early on?
+
+SF:
+Right early on or maybe he asked if I would do it and I said I would try. So it was a subject I didn't know anything about particularly and I did a real good job. And so in retrospect that was what I had to do the job on was really pretty trivial stuff, but at the time it seemed like a big deal to me and he was very complimentary and very encouraging so that was a good start.
+
+AF:
+That was his style in fact I think to encourage people and to compliment people early on.
+
+SF:
+Early stages to suck them in.
+
+AF:
+Yeah. I mean he always was very encouraging for people to come then if they didn't do it then there was trouble. But initially he was never discouraging [No.] I think he always encouraged people.
+
+SF:
+Well there were these two parts to my studying with him. One is how great I thought he was and the subject. The second was that I saw I could do things the way he liked to see them done and then I had no problem. In other words if other people did things in seminar that upset him, I understood what it was.
+
+You know I had that same sensibility about what the problems were, about the way they were doing things. And if I had a presentation to make, I knew what would be required.
+
+AF:
+You knew what would satisfy him.
+
+SF:
+I knew what would satisfy him.
+
+AF:
+And that also satisfied you.
+
+SF:
+And that satisfied me yeah. And that wasn't... I think sort of the way Bob was talking about it was if by being by his coming down hard on people that that was the way they learned to do things the right way and that you had throughout–
+
+AF:
+–in order to get people to do itthe right way.
+
+SF:
+In a way that wasn't my experience.
+He didn't have to come down hard on me.
+[Right] I mean it may have been the case with other people.
+
+AF:
+No, I think there were a lot of people that he didn't have to come down hard on.
+Some people seemed to get it [Yeah] and the people who didn't get it maybe never got it, or got it with a...
+
+Did you ever see–?
+
+SF:
+I think if you look back on this tape he may say that there were people who turned he may say that there were people who really had trouble at first but were able to put themselves together to do things.
+
+AF:
+Who would say that?
+
+SF:
+That Bob said that maybe about he himself or about somebody else I don't remember. Of course his view was that that was necessary.
+
+In my case I just swung with him so that was, and I can't explain why, how it is that one person can do that and another can't.
+It's not a matter of intelligence. It's just a matter of [style] style. A sensitivity to certain things.
+
+It's just like in a way almost like spelling or pronunciation that some people can get aren't sensitive to those things and yet that doesn't mean like Jerry's insensitive to pronunciation. I think he's not aware of when he talks to people how his way of talking may not be the best way to communicate.
+
+AF:
+Well that's not pronunciation.
+
+SF:
+I think it's partly pronunciation, he swallows his sounds. There's a certain garbled as he talks. So Richard wants to take a [Becktail?] course in English to improve his pronunciation.
+
+AF:
+Oh yeah Is he gonna do it?
+
+SF:
+He said he's going to. It's a little analogous. [Yeah] Maybe not a good analogy.
+
+AF:
+No I don't think it is.
+
+SF:
+Obviously different people are sensitive to different things but those things were important to Tarski and–
+
+AF:
+Formulation.
+
+SF:
+Formulation. Careful formulation, precision, choice of symbols, choice of terminology, development, systematic development. So if something is supposed to come before something else you make sure that it comes before you don't do it as an afterthought.
+
+AF:
+So the order.
+
+SF:
+The order. So there's a whole bundle of things there.
+
+AF:
+Well does this have to do with reasoning in general? In other words could you generalize about his method of reasoning that it would be a method that anybody could use for reasoning?
+
+SF:
+Well except that there are people who have great insights through ways of reasoning that don't get caught. I mean that was the big thing with Kreisel. That here was the totally opposite, what looked like totally opposite messy slapdash imprecise [Parenthetical.] parenthetical. And yet having a sense of what's really important and what the main things are that need to be done, need to be attended to, and relying on insight more than on systematic careful development.
+
+AF:
+Systematic careful development or systematic careful proof? In other words–
+
+SF:
+Both.
+
+AF:
+But did Kreisel have actual proofs that went with his insights?
+
+SF:
+Well I mean that's part of what the whole issue is with now with the reexamination of his work and whether what really had he done. In some cases you could say well he laid out the main ideas and you just had to fill in the details. In other cases it might be an enormous struggle to fill in the details but it can still be done.
+In other cases you don't even know what the details are that are supposed to be filled in.
+You don't even know what he claims to have done.
+
+Yeah so it's a mixed bag of things.
+
+AF:
+But there are assertions he made about what is so.
+
+SF:
+Yeah but some of those assertions are rather vague. And he worked in collaboration with a lot of people so that they would take over the job of doing a more standard kind of proof with details but say the leading ideas would be his or partly his.
+
+AF:
+So he would say this "should be so because such and such and such, this ought to be the case", and then somebody would show come along and show how it was the case.
+
+What's the expression? "Talking off the top of your head" or...
+
+SF:
+Well it's just a different way of thinking convincing yourself of things.
+
+AF:
+But isn't mathematics supposed to be convincing other people too?
+
+SF:
+Yeah.
+
+AF:
+But he did he was able to convince other people of...
+
+SF:
+It depended.
+
+AF:
+Could he convince Tarski that anything he said was so?
+
+SF:
+Not necessarily I doubt it.
+In other words if he were a student in Tarski seminar then I think there'd be a hopeless...
+
+AF:
+Yeah a hopeless confrontational...
+
+SF:
+Yeah I mean I actually never saw them together.
+The year he came to Berkeley Tarski was on leave. But the people in Berkeley didn't know what to make of what he was saying, Henken and others who were Tarski-trained. They knew there was something there but they sort of, they had to figure it out for themselves in a way that would be acceptable to them, but what they figured out wasn't the same as what he was saying, it was somehow related.
+
+AF:
+But Tarski didn't describe him as a charlatan. Or did he?
+
+SF:
+I don't know actually what he had to say about Kreisel.
+He might have.
+
+AF:
+Well what about Kleene for example or any of those people?
+
+SF:
+No, I think Kleene thought very highly of Kreisel.
+
+AF:
+He did.
+
+SF:
+But then the things that Kreisel did, a number of them were close to things that Kleene was working on so there was a commonality of interest which wasn't the case with Kreisel and Tarski. But that's getting off the–
+
+AF:
+Yeah no I'm just trying to get at–
+
+SF:
+How is it that somebody can do mathematics and not be precise in that way?
+
+AF:
+Well no was I'm just trying to get more at what it was what the kind of thinking he did was and how far it transferred into, say, the kind of thinking you have to do for philosophy or for any kind of science, so forth, was his method of attack. Sequence, clarity that sequence is important and in a way it's like telling a story in a classical way or describing a life in a classical way. You have to tell one thing before the next thing can be understood.
+
+SF:
+But also spelling everything out.
+
+AF:
+Giving all the background that.
+
+SF:
+Yeah there's no part of the picture that's left ambiguous.
+
+AF:
+No part of the picture that's vague.
+
+SF:
+And you can take–
+
+AF:
+Nothing left to the imagination huh?
+Is that right?
+
+SF:
+Really, yes.
+
+AF:
+Every last detail.
+
+SF:
+Everything is accounted for.
+
+AF:
+Everything's accounted for. But it sounds kind of tedious in a way then.
+
+SF:
+Yeah it can be.
+I mean that's Alonso Church was that way.
+
+AF:
+The worst
+
+SF:
+Yeah but he never got off the ground.
+
+AF:
+So how did he keep it from being tedious?
+
+SF:
+By talking about things that were important really interesting. So the marvel is that he was able to do that, he was able to see to it that all the details were attended to without having that be just a matter of fussing with details.
+
+AF:
+Without being lost in them with everything. So if it's like a good mystery story there are all these details around that add up the sum of the parts makes the whole and that every detail is–you don't put a detail in there without having it. Or any detail that appears in a story has some connection with the story and eventually you see why that detail is there to tie up the whole story and that there's nothing there in a good story, there's no detail that's there for no reason everything is there for some reason.
+
+SF:
+It's not only that everything's there for a reason but that everything that needs to be there is there.
+
+AF:
+Everything that needs to be there but there's not one thing too much and not one thing too little and it all needs to be there in order to make the whole thing hold together. But nothing is there for extraneous reasons and everything that's there has a reason and you couldn't get to the end without all those details. But is that true?
+
+SF:
+I mean it depends I mean it's like the design for a house.
+
+AF:
+Was that true of him?
+
+SF:
+Yeah, I would say it's like plans for a house I mean somebody... Like Bernard could use plans that didn't have to be so detailed as say what Thad provided. And maybe Thad put in details that didn't have to be there, or didn't put in things that did need to be there. But what a consumer or somebody who's trying to follow this needs is going to vary from person to person.
+
+Some people would say "Well I need more details."
+
+AF:
+I'm thinking more in terms of the end product.
+Let's take this house and all the details that are in it.
+Well there's nothing in this house that...
+
+There are things in this house let's say that don't absolutely have to be here.
+You wouldn't have had to have a vat covering every seam of wood coming together in the house, but that detail is something that contributes to the final beauty and design of the house so that every small detail in a sense adds up to the integrity of the house.
+
+SF:
+Sure, there's some selection of... I mean when you say "does it all have to be there," maybe some other person could succeed in proving the same result by a different avenue which didn't make use of those same details. So you can't say that–
+
+AF:
+It's an aesthetic in a way.
+
+SF:
+Partly aesthetic, right, partly a matter of taste as to which way you like to do things. But once he had a particular plan then all the details are there that need to be there.
+
+AF:
+And you felt never more than there weren't extraneous details that didn't need to be there.
+
+SF:
+Well in the end I did.
+I mean I felt that these impact he did spend a lot of time on fussy stuff could have been waived away very quickly.
+That has to do with the loosening up if I look back I still have the notes for that first course I took, if I look back I can't conceive of anybody teaching it that way now.
+
+AF:
+Oh really?
+
+SF:
+That they would spend so much time...
+
+AF:
+Oh that's interesting.
+
+SF:
+...on the part of the subject that he did.
+
+AF.
+But it worked for you.
+
+SF:
+It worked for me, then.
+
+AF:
+So why wouldn't it work for someone else now who was as ignorant as you were?
+
+SF:
+It could.
+
+AF:
+Yeah. So it's like knowing what you know now–
+
+[RECORDING CUTS]
+
