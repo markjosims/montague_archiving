@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-09-24T17:31:19-07:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="anita_unchecked_2spkr/SC1206_b06_27_sl_Mostowski.wav" MIME_TYPE="audio/x-wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="223600" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="234080" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="249280" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="467040" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="469040" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1804960" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="SPEAKER_00" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="SPEAKER_01" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>And then I just I believe he feels here as the money is going to give them effects.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>Yes, he is going to be happy to have the people that do that So let me call you that problem with value and when we can use the value and so degrees is that they can go to the political benefit.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>So he was just doing the community because I wish to give your families your being in Shabua Pray to God because he is called the Chinese compassion to get down here and impact on the beginning of the opinion that you can revise your opinion and the impact of identifying results of the fact that we don't call out the success of what we have immediately do all the time like that all day notes and I think that's the police behind the active assets of Sala is using that data for some value is being used because it has no determined to be able to know that I think that's what we want to do that and I think what we need to do is nothing to have doing that and that's the question that is involved at the university to very go back to learn this learning here for such data that is in yourself and that's what that means probably the people who can do that being close to the audiences of that is Jawa school and I hear that if I need to go about this student so that they know these students happen they don't learn these things is not just kind of students that goes on here and now we got missing and people that is understandable and now I'm still with a faculty in Europe and people.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>

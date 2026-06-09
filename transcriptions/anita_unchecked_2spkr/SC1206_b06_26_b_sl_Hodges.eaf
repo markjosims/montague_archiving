@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2025-09-24T17:31:36-07:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="anita_unchecked_2spkr/SC1206_b06_26_b_sl_Hodges.wav" MIME_TYPE="audio/x-wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2160" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2880" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6240" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21520" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="22560" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="34560" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="36160" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="58160" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="58320" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="73200" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="73920" />
+		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="82880" />
+		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="83040" />
+		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="99280" />
+		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="100080" />
+		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="185040" />
+		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="187280" />
+		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="188720" />
+		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="188800" />
+		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="190080" />
+		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="192400" />
+		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="205440" />
+		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="207200" />
+		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="216640" />
+		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="216720" />
+		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="219200" />
+		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="219360" />
+		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="261920" />
+		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="262000" />
+		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="263280" />
+		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="264000" />
+		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="265360" />
+		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="266240" />
+		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="267040" />
+		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="267120" />
+		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="268880" />
+		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="270560" />
+		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="271200" />
+		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="271920" />
+		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="286880" />
+		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="287040" />
+		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="298240" />
+		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="301280" />
+		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="356240" />
+		<TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="356480" />
+		<TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="366960" />
+		<TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="367760" />
+		<TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="381440" />
+		<TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="386720" />
+		<TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="416560" />
+		<TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="416880" />
+		<TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="431360" />
+		<TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="434000" />
+		<TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="533200" />
+		<TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="533760" />
+		<TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="537600" />
+		<TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="537680" />
+		<TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="551520" />
+		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="553200" />
+		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="558400" />
+		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="558480" />
+		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="601040" />
+		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="601200" />
+		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="613600" />
+		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="624000" />
+		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="679840" />
+		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="679920" />
+		<TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="690320" />
+		<TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="690640" />
+		<TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="703040" />
+		<TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="706320" />
+		<TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="718960" />
+		<TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="719280" />
+		<TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="764960" />
+		<TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="765040" />
+		<TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="861520" />
+		<TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="862160" />
+		<TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="871920" />
+		<TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="872240" />
+		<TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="879520" />
+		<TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="879840" />
+		<TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="882480" />
+		<TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="882880" />
+		<TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="884720" />
+		<TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="885680" />
+		<TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="892080" />
+		<TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="892160" />
+		<TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="946720" />
+		<TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="947200" />
+		<TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="951120" />
+		<TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="951360" />
+		<TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="1009760" />
+		<TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="1010400" />
+		<TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="1048160" />
+		<TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="1048319" />
+		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="1050960" />
+		<TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="1051040" />
+		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="1089760" />
+		<TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="1090320" />
+		<TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="1126880" />
+		<TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="1131440" />
+		<TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="1135680" />
+		<TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="1136560" />
+		<TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="1147200" />
+		<TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="1147520" />
+		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="1182880" />
+		<TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="1184240" />
+		<TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="1204080" />
+		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="1204400" />
+		<TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="1208880" />
+		<TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="1212240" />
+		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="1240800" />
+		<TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1241600" />
+		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1261440" />
+		<TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1262720" />
+		<TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1270560" />
+		<TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1271680" />
+		<TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1293680" />
+		<TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1295520" />
+		<TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1327520" />
+		<TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1328160" />
+		<TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1345280" />
+		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1345760" />
+		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1389840" />
+		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1390400" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1435760" />
+		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1436240" />
+		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1464080" />
+		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1465120" />
+		<TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1487440" />
+		<TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1488720" />
+		<TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1512240" />
+		<TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1512320" />
+		<TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1542560" />
+		<TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1542640" />
+		<TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1551760" />
+		<TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1553040" />
+		<TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1569040" />
+		<TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1569680" />
+		<TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1615120" />
+		<TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1616560" />
+		<TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1628880" />
+		<TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1631200" />
+		<TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1660000" />
+		<TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1660160" />
+		<TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1662000" />
+		<TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1662160" />
+		<TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1667360" />
+		<TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1667520" />
+		<TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1682800" />
+		<TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1682880" />
+		<TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="1691040" />
+		<TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="1691120" />
+		<TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="1703120" />
+		<TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="1703280" />
+		<TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="1717760" />
+		<TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="1717920" />
+		<TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="1735840" />
+		<TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="1736560" />
+		<TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="1739200" />
+		<TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="1740080" />
+		<TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="1780640" />
+		<TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="1783200" />
+		<TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="1787680" />
+		<TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="1788080" />
+		<TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="1792000" />
+		<TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="1792160" />
+		<TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="1795440" />
+		<TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1795600" />
+		<TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1796880" />
+		<TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1797600" />
+		<TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1829840" />
+		<TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1830480" />
+		<TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1879600" />
+		<TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1879920" />
+		<TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1891760" />
+		<TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1892000" />
+		<TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1913200" />
+		<TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1915520" />
+		<TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1942720" />
+		<TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1943040" />
+		<TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1946880" />
+		<TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1947200" />
+		<TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1958480" />
+		<TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1963920" />
+		<TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1987040" />
+		<TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1987280" />
+		<TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="2006560" />
+		<TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="2009920" />
+		<TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="2018640" />
+		<TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="2018800" />
+		<TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="2096480" />
+		<TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="2097040" />
+		<TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="2113200" />
+		<TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="2113440" />
+		<TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="2142720" />
+		<TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="2143600" />
+		<TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="2145600" />
+		<TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="2146800" />
+		<TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="2151200" />
+		<TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="2151520" />
+		<TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="2156000" />
+		<TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="2156720" />
+		<TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="2185760" />
+		<TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="2186960" />
+		<TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="2215120" />
+		<TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="2217920" />
+		<TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="2273120" />
+		<TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="2276400" />
+		<TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="2317840" />
+		<TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="2318960" />
+		<TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="2342880" />
+		<TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="2344720" />
+		<TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="2346240" />
+		<TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="2349360" />
+		<TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="2354960" />
+		<TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="2355600" />
+		<TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="2373120" />
+		<TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="2373440" />
+		<TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="2392560" />
+		<TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="2393200" />
+		<TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="2397520" />
+		<TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="2397680" />
+		<TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="2408240" />
+		<TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="2410480" />
+		<TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="2456160" />
+		<TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="2457920" />
+		<TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="2553040" />
+		<TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="2553280" />
+		<TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="2584880" />
+		<TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="2585920" />
+		<TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="2591520" />
+		<TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="2591680" />
+		<TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="2594240" />
+		<TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="2595120" />
+		<TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="2601360" />
+		<TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="2602480" />
+		<TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="2618240" />
+		<TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="2618320" />
+		<TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="2641760" />
+		<TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="2642960" />
+		<TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="2643280" />
+		<TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="2643440" />
+		<TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="2645040" />
+		<TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="2649040" />
+		<TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="2656400" />
+		<TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="2658480" />
+		<TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="2666000" />
+		<TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="2666160" />
+		<TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="2671520" />
+		<TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="2671840" />
+		<TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="2681280" />
+		<TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="2682320" />
+		<TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="2684160" />
+		<TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="2684880" />
+		<TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="2688160" />
+		<TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="2688640" />
+		<TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="2716720" />
+		<TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="2716960" />
+		<TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="2717680" />
+		<TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="2719520" />
+		<TIME_SLOT TIME_SLOT_ID="ts263" TIME_VALUE="2721040" />
+		<TIME_SLOT TIME_SLOT_ID="ts264" TIME_VALUE="2721840" />
+		<TIME_SLOT TIME_SLOT_ID="ts265" TIME_VALUE="2728640" />
+		<TIME_SLOT TIME_SLOT_ID="ts266" TIME_VALUE="2730240" />
+		<TIME_SLOT TIME_SLOT_ID="ts267" TIME_VALUE="2755040" />
+		<TIME_SLOT TIME_SLOT_ID="ts268" TIME_VALUE="2759760" />
+		<TIME_SLOT TIME_SLOT_ID="ts269" TIME_VALUE="2766880" />
+		<TIME_SLOT TIME_SLOT_ID="ts270" TIME_VALUE="2767840" />
+		<TIME_SLOT TIME_SLOT_ID="ts271" TIME_VALUE="2794880" />
+		<TIME_SLOT TIME_SLOT_ID="ts272" TIME_VALUE="2797600" />
+		<TIME_SLOT TIME_SLOT_ID="ts273" TIME_VALUE="2804560" />
+		<TIME_SLOT TIME_SLOT_ID="ts274" TIME_VALUE="2808320" />
+		<TIME_SLOT TIME_SLOT_ID="ts275" TIME_VALUE="2811680" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="SPEAKER_00" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>Did you get everything?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+				<ANNOTATION_VALUE>Good thank you.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>Are you going to come tonight?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+				<ANNOTATION_VALUE>What language it in?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+				<ANNOTATION_VALUE>I heard it was in French.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>Could you?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+				<ANNOTATION_VALUE>Maybe I was wrong so we have to listen to that anyway well you mustn't trust me you mustn't trust me on that at all.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+				<ANNOTATION_VALUE>I'll look at that interview I think the interview is transparent really easily to look at it all the time Are you in the middle of a train of thoughts?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+				<ANNOTATION_VALUE>Yeah, but what about any other person on Calvin?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+				<ANNOTATION_VALUE>That's kind of surprising that view of him sitting still.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+				<ANNOTATION_VALUE>That wasn't tasking No, he wouldn't do that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+				<ANNOTATION_VALUE>No he would take things though that would specifically create some kind of effect He was a very definitely a sensualist and went out but that might have been earlier than So now you were going to ask a question Have you heard the story of Pressberger and the thesis that he didn't that the PhD that he didn't get from Turism?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+				<ANNOTATION_VALUE>What if he had offered it as a PhD thesis in the first place and not as master's thesis?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>What about the set of basic formulas Do you think Tarsky gave those to?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>No, I don't know, it's just it has come up several times several people It just keeps coming up The Lindenberger thing, the business The priority business always comes up about how often Charsky's always grabbing priority and the Pressberger thing comes up and the fact that President then the fact that Pressburger was killed during the war and all that somehow there is the impression is left that there was somehow bad behavior Well if somebody is doing a PhD under you and they're a decent mathematician they ought to get a degree at the end.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>Something has gone wrong somewhere if they don't but what I don't know is I mean I don't know whether Pressberger just didn't do the stuff that was expected of him that can happen or whether he was badly advised on what to do and then Tarsky wouldn't be at fault I've got absolutely no evidence on that and I don't think one should make judgments without Except for the general picture of Tarski being such a difficult taskmaster So then this picture gets built built up generalized yes But so it's nice to have a different at least somebody who's putting in a different putting in a different light as you are perhaps.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+				<ANNOTATION_VALUE>Yeah I don't think I got this if I did I did I remember it now we did get it?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+				<ANNOTATION_VALUE>Yeah Then I've got it but boy, then there are big holes in the cheese up there well priority priority quite put it past Adjan to make this up a little bit.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+				<ANNOTATION_VALUE>Who told me Lezic Prohols told me not to trust Walensky So I'm getting all advice about who not to trust me What's this about Walensky?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+				<ANNOTATION_VALUE>Yeah, no just that it has to be checked because he accounted he said that he came across stuff that he, Pachulski had told to Walensky that Walensky reported inaccurately so he just felt he was not necessarily malicious but careless.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+				<ANNOTATION_VALUE>Yeah, that's amazing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+				<ANNOTATION_VALUE>The other thing by the way that Pukolski told me that I didn't tell you is that Rosch and there's very bad blood between Rosch and Tarski and that's why he never would answer my letter said with a million questions and there was no answer and I tried to write an explanation for that Okay now what were you going to say about Given and then we'll clip and go look at the town?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
+				<ANNOTATION_VALUE>Now it's actually a horse race?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
+				<ANNOTATION_VALUE>So again, I'm just wondering if this is Tarski Oh there's no question that Tarski would insist on those kinds of if you want an example You can trace it easily in those reviews.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
+				<ANNOTATION_VALUE>Yeah that's in the very nice I mean there are going to be two million examples of that future but I think this is a very neat neat example so it's good to have that kind of So it's in the math reviews well it would be when before Kiso got his PhD so that would be easy to six years So it's a review of Chang McKi?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
+				<ANNOTATION_VALUE>Okay There were two questions three One thing Okay Two things maybe I'm going to have some time for town but go on.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
+				<ANNOTATION_VALUE>There were often cases where Russians found things independently or were said to have found things independently of Americans.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
+				<ANNOTATION_VALUE>I think one was the Acticoshin result The irshov yes The Irishov.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
+				<ANNOTATION_VALUE>And there was often a suspicion on the Western side that the Russians knew of this work somehow They were reading the panels.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
+				<ANNOTATION_VALUE>Which town?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
+				<ANNOTATION_VALUE>That's just your town.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="SPEAKER_01" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>Well now McIntyre was an interesting suggestion because I couldn't possibly edit my own paper and for this paper I stood down to McIntyre as editor and McIntyre was well informed about everything right through and consulted him in detail.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>So I sent him a copy of the thing with this note from Wought and give it to you and got back a message the effect business as usual.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+				<ANNOTATION_VALUE>I got a letter from Claney saying that there were things he didn't know about in the period in question and he was perhaps not as well informed as once he had been, but as far as he could see there was nothing erroneous in the paper very brief note but that's what he said.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+				<ANNOTATION_VALUE>I got no reply from church and the other two people I don't remember who they are but my recollection is that one of them said he couldn't see anything wrong and the other said the other didn't mind.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+				<ANNOTATION_VALUE>Gregory Moore, as I gathered later he wrote me didn't know what this is all about at all All the fuss you mean?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>Right this letter arrived from me with an explanation of why I was sending it, but how far Moore knew about Taski I don't know So he rang up he telephoned Henkin and said What's all this about?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+				<ANNOTATION_VALUE>And apparently Henkin said I don't know you'll have to ask Wood So Henkin Watt signed Henkin's name Well anyway carry on So he rang Wart and he wrote and told me what Wart had said a string of points which some of more force than others and some of more relevance than others but none of them seemed to me meant that any serious change was needed in her huh Well at this point this was the point where Dona came on stream and I gave Dona copies of everything Dona said well he didn't say anything much at first but then he said that he'd started with the presumption that Rock was right and that there really hadn't been any development into Asky's thinking about decidability right through, but as Donau looked at the material and particularly at the nineteen thirty eight to nine book, he felt that that was not a tenable view and he thought that if anything I'd underestimated Well done.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+				<ANNOTATION_VALUE>Not sure Well I do hope I see you again thank you for being a great time He felt that if anything I had underestimated the change in Tarsky's views over that period.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+				<ANNOTATION_VALUE>So with my consent Daniel included fairly large chunks of the nineteen thirty eight to nine book which was never published.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+				<ANNOTATION_VALUE>I don't know if you know the history of this.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>This was work that Tarski did in nineteen twenty nine to thirty and wrote up very, very incompletely in an article a fairly philosophical methodological article about the nature of definition as hardly more than a footnote and intending to write it up in full later and he wrote it as a book which got as far as page proofs before the war and then the war broke out so it could never be published and as far as anybody knows the page proofs we just lost the original the type was bombed or something What did you write it in?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+				<ANNOTATION_VALUE>Could be French.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+				<ANNOTATION_VALUE>It was a language I could read anyway.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>Taski did have at least one copy of the proofs and somebody told me may have been Donor that some kind of limited edition was produced very small number of these never properly published.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>In Warsaw No Berkeley it was mostly superseded by the Rand Corporation bolume.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>So Donor filled in those holes very thoroughly and we tied together the threads to cover the places where Fantandries had been invited and put in a cross reference and that's the paper that appeared and I've had the date for a journal of symbolic logic nineteen eighty seven oh eight I forget I've had well I had forgotten but that was part of the two volume two issue since that's what I suspect must be the paper you have in mind that's got my name on it and is about the very first introduction to the series of articles No, it was You had some brief statement by the way by way of introduction?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+				<ANNOTATION_VALUE>Oh yes there was a separate Then there was a separate article actually quite a long one goes down there.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+				<ANNOTATION_VALUE>Now sorry you also in this connection said there were some problems with your font back to Gorton Donor first because that's not finished yet and it's more important.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>Donor told me that he preferred not to put it into the article because it was not solid, it was only an impression that he thought that what had happened was roughly this that Tarski had a fairly clear intuitive notion of what he meant in nineteen thirty in the I think it's two paragraphs where he mentions that two of his decision procedures are well that two of his quantifier eliminations do provide decision procedures.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+				<ANNOTATION_VALUE>He meant that a working mathematician could use these methods in order to solve actual problems take a sentence and actually calculate in your office on a piece of paper whether these sentences are true or not.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+				<ANNOTATION_VALUE>Then came Church's thesis and Donner thought that Taski though I think he never says this anymore that Taski accepted that Church's thesis gave the correct definition of decidable and Taski um himself stopped working for a while on decidable theories and started using that the identification was recursive in order to prove a lot of nondecidability results then he worked on various other things but towards the end of his life he got Dona to write up with him the work that he'd done with Mostovsky on the First Order of the Ordinals and that article appeared in the proceedings of a conference in I think nineteen seventy eight It's almost a manifesto for the quantifier elimination approach and Dona said that he had a feeling that Taski by that date regretted having identified decidable as recursive The point being this that some recursive functions well in order to carry to evaluate the function you for example set up a machine to list all possible proofs in first order Predink calculus and you wait till the appropriate one comes along and there's an abstract theorem that says that it will do, but who knows when?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+				<ANNOTATION_VALUE>And Tarsky really had no interest in that kind of decisibility at all.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>He meant something much more concrete it wasn't clear that any of the well it was fairly clear that none of the complexity notions available at the time really fitted either what his feeling was.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>Now Dona didn't want to say anything in the article I think for two reasons.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>The first as I mentioned that this was only an impression and wasn't anything that Tasky had ever said on record and second it was rather dangerous ground in view of the Vought explosion but if you talk to Downer you might well find that he has more to say about this and I think it is an interesting example of something which may be very, very rare in the Tasky causes namely something on which Tasky actually changed his mind There are lots of places where Taski said new things as a result of changing circumstances.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+				<ANNOTATION_VALUE>People around him raised new questions and new ways of doing things came in but it's quite extraordinary how when he tackles the same topic at different periods he says exactly the same things about them.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+				<ANNOTATION_VALUE>I often wonder what that tells one about his character that he changes his mind so rarely Yes it's partly I think that in his methodological work he I think he drove himself to push everything right back to first principles so that there really wasn't any room for any change of mind everything had been pressed back so hard this wouldn't affect the recursion stuff because he hadn't actually worked on that Well what you say doesn't quite jive with Tarski being happy with Raymond's work on the essential complexity of No, it doesn't.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+				<ANNOTATION_VALUE>I think Dona told me that his impression was that Tuske had been a bit upset when he first heard this but of course Don may have been reading something from that wording in their joint article.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+				<ANNOTATION_VALUE>No, let's finish that one No except what you say I wonder what this says about his character because So take a second to describe your encounters with him personally at this point Since me I love personal impressions I met him twice Once was at the Hannover Symposium the Hanover European logic colloquium in nineteen sixty six I don't think I heard a talk by him but I did exchange perhaps three words with him during the very long address by H.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+				<ANNOTATION_VALUE>Arnold Schmidt which I mentioned yesterday the Oberbergmeister welcomed us quite briefly and nicely and Schmidt stood up and talked for a very long time in reply in German I couldn't understand anymore and Taski was obviously getting bored and he was starting to jump around behind the exhibition cases And at one point he jumped in my direction and I think we said a few words Okay the only other time I met him was when he was invited down to UCLA in early nineteen sixty eight to the Logic afternoon seminars and he talked on equational definability and he had an equation a single equation in an appropriate language for defining class and groups and we had several blackboards laid out along the one end of the room and Taski looked at the line of blackboards and cleared them all right the way down and said I know where I shall begin but I do not know where I shall finish and started writing slowly and deliberately this equation was very, very long How many black boards were how many black birds were boarded How many pieces of wood?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+				<ANNOTATION_VALUE>I don't remember exactly but right across the end of the room Really yeah okay it was the longest formula I've ever seen the longest equation But he didn't run out of blackboard?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+				<ANNOTATION_VALUE>No no no he didn't measured it out with his eye I don't remember the rest of his talk.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+				<ANNOTATION_VALUE>Yes we had the party that evening.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+				<ANNOTATION_VALUE>Where was the party Well the party was at CC Chang's house.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+				<ANNOTATION_VALUE>Oh yeah And CC was the swim at that part Oh yes and Tarski sat in I think he sat in one corner pretty well the whole evening and people went across and chatted to him and then left him and at one point I moved across and they were discussing various things about numbers and they were making two attempts to get into the conversation both of which were unsuccessful so I moved away.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+				<ANNOTATION_VALUE>He usually was somebody You say he was still No but he was in a chair in the chair Yes he was sitting Stanning and smoking and moving sort of pacing even in a house kind of But there he was fixed in a chair as you remember But I don't remember for example whether he may have left early or not I don't remember a number of years ago So that's it that's yours my entire personal life Okay and what about the dope that's secondhand stuff Well no it's entirely I asked the person in question whether I could reveal his name and I encouraged him to get in touch with you if you had any and I said I could also pass on any information and I've not had a reply and so it wasn't card to leave it there.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+				<ANNOTATION_VALUE>I had to leave it there I've got lots of other dope stories about him it doesn't matter I mean he was a big experimenter with all kinds of things There was one American majorian who surprised a friend of mine during a conversation by passing round lady around the room a tin with various coloured pills in it and he said I don't know what these are, some of them are uppers and some of them are downers and some of them I don't know That wasn't tasked no Pardon?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+				<ANNOTATION_VALUE>I've heard a story namely that Pressberger was proposing to offer for a PhD material which wasn't really much more than the material that he'd already offered for the Master's degree that Presberger's article is based on and Tasky said this is not good enough and if those are the facts then it's quite clearly not good enough He was I missed if those are the facts and I have Pressberger's article I got somebody from Poland to send it to me.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+				<ANNOTATION_VALUE>It's clear that Presburger was pretty much instructed by Taski what to do.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+				<ANNOTATION_VALUE>Presber was proving the completeness of a set of axioms that Taski had written down for him by a method which Taski had already laid out in detail.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+				<ANNOTATION_VALUE>Now that's absolutely fine for a master's degree just the sort of thing one does give but for I would look at that and say no that's not a PhD but that was his decision procedure for addition for inner addition which subsequently came to be considered one of the prime examples of elimination of qualifiers That's right, really it always was one of the prime examples but then Tarsky had it all.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+				<ANNOTATION_VALUE>It was a mechanical business to write to and it's not all that long so it flows out quite smoothly Now it was certainly a much more exciting master's thesis than most people could hope to write but then to offer that again as a PhD I think is not on.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+				<ANNOTATION_VALUE>Well there's much less original in it to my eye than in Van De Shmilev and she had to do some real work sorting out the appropriate exact sequences I don't know it doesn't look to me like a PhD thesis Well what's the evidence that Tarot Deceptis all up for Presper?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+				<ANNOTATION_VALUE>Oh the text of the article Here is a set a set of axioms which has been proposed by Professor Taski we shall prove by the following method which is exactly the method that Taske has been teaching to all his students for the last four years that this is indeed a complete set.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+				<ANNOTATION_VALUE>Oh no well I think yes but you don't have evidence Well not here no I'd have to look back at it and see Well everybody seems to think the press program was screwed somehow so that's why Thal bringing that up.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>You say everybody but I don't know the facts on this I heard that Pressberger was denied a degree for this and I mentioned this to I think somebody from Poland and said is that really true that after that work Pressberger didn't get his degree and my informant said no you got it wrong he got the master's degree that that was presented for but he didn't get a PhD that he wanted to use essentially the same material for.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+				<ANNOTATION_VALUE>Now that's just something that somebody said to me so that's right if that's the fact of it then from what I could see in the paper Pressberger was not screwed But do you have more facts?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>Well just asking for evidence I think yeah about the priorities that stinks it really does it that thing that Adian produced Adan about the law of female logic I don't know that I sent it to you Oh no by email You did you comment?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>I did okay with Adan telephoned Taski, Adian was visiting the states and quite early in the conversation Adan mentioned Kolgomorov's law of female logic namely that if the conclusion is pleasant then the law is then the implication is valid.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>I don't think that I would not forgotten I mean I forget a lot but I don't think that forgotten Well yes Artyomov when you first told me that you were collecting stuff I mentioned this to Artyomov who was staying with me at the time he said well here's one from Adjan Okay so here it goes.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+				<ANNOTATION_VALUE>Okay I think this was in nineteen it was the year that Adean visited the States and got booed in lots of places because He's antiSemitic I don't know if he's anti Semitic slightly funny but he was booed for having not stood up for a Jew who did get screwed.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+				<ANNOTATION_VALUE>Yeah that makes you anticipation Life is sometimes a bit more complicated than that and Adean is now generally reckoned to be one of the liberal gang.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+				<ANNOTATION_VALUE>He's a most unpleasant character So anyway at that stage he didn't defend a person that clearly he should have defended that he was I don't remember but I can find out they say it's well recorded Are they not?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+				<ANNOTATION_VALUE>No no no this was somebody there was a book that he wrote called It seems I am It seems I am Kushn a Jew Kushnik I don't remember Okay so let's not get distracted So Adan was persona non grati in all sorts of places so heav had been booed down Double Triple So for that reason Adan I think didn't want if I remember right Adan didn't want to travel to Berkeley fear of the same thing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+				<ANNOTATION_VALUE>So he telephoned Taski instead and quite early in the conversation Adian mentioned Kolgomorov's law of female logic which is something to the general effect that if the conclusion is pleasant then it's true.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+				<ANNOTATION_VALUE>And Adan says that at this point he heard an explosion down the other end of the line and when he could make out what Taski was saying Taski would say was saying That is not Col de More's law of female logic That is Taski's law of female logic I proposed it in nineteen thirty two Adean challenged this producing evidence and there was a long and unpleasant conversation with who had really invented this thing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+				<ANNOTATION_VALUE>This left no time for genuine maths.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+				<ANNOTATION_VALUE>Yeah, Adyan is I think a very shrewd character and he knows where to stir things a bit What's his name?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+				<ANNOTATION_VALUE>And also Walky was one of the people who wrote to me after my Aristelian Society paper and he gave me factual information He told me He told me not to trust his factory because there's the record has it?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+				<ANNOTATION_VALUE>The most inaccurate reporter by the way is Frankjich.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+				<ANNOTATION_VALUE>Frankievic Frankjavic by the way if this is relevant Frankvic Spelled I don't think I can FRANK IE WIC Some people call him Frank Essa OK He's a set theorist well topologist and he always brings nuggets of misinformation with him when he travels westwards and in nineteen seventy about seventy six he brought with him the information that Kuratovsky had just told him that Tarski had died.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+				<ANNOTATION_VALUE>No ambiguity Absolutely definitely had it from Kuratovsky, Tarski had just died.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+				<ANNOTATION_VALUE>That's amazing So I remember writing to Gervant and saying Is this true?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+				<ANNOTATION_VALUE>And Gervant wrote back and said no Tarski is still very much alive.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+				<ANNOTATION_VALUE>Yeah I'm not quite sure what went wrong there but I was talking to Juvant on the telephone about this joint no about this framework article that I put together and he told me about similar things that he'd been planning to write and I said I thought that sounded really good and went ahead with it and I then sent round the next version of the framework the one that Vought so strongly objected to and I also had a strong objection from Gerbant on the amazing grounds that some of the things that were in there were his contribution and not mine.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
+				<ANNOTATION_VALUE>Gerbent's contribution Yes there were things which everybody who knows anything about Tarski knows are laid out quite explicitly and clearly in papers of his in the nineteen thirties.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
+				<ANNOTATION_VALUE>In Tarski's papers Yes So I said this to Gervant and Gervant said he wasn't supposing that I'd stolen the information from him, I'd simply stolen from him the idea that these should be mentioned in an article about task.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
+				<ANNOTATION_VALUE>Now this two comments on this first is that I think I may have been at fault on something a bit earlier that Donor once phoned me and said that he I telephoned Donut quite often and asked him how was his thing coming along and he would always spin me some yarn Was this from England do you recall?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
+				<ANNOTATION_VALUE>Yes Before email dates?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
+				<ANNOTATION_VALUE>Yeah that's right Now he did send me a Mac disc once that was useful with a selfdestruct on it set for a date one month in the future.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
+				<ANNOTATION_VALUE>One of the yarns he'd spun me was that he'd just had a conversation with Gervant about things that might go into this paper into his article for the JSR It occurred to me afterwards he might have been suggesting to me that Gervain should be brought in as a coauthor.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
+				<ANNOTATION_VALUE>Now he certainly didn't say anything like that explicitly but one or two remarks of Gervant did rather strongly suggest that Gervant was under the impression that he was also invited to that he was invited to write the paper the Doma and that I'd somehow stolen his share of this.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
+				<ANNOTATION_VALUE>I have no idea how such a confusion could have happened but I do suspect that it did happen and that this was the source of his animus.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
+				<ANNOTATION_VALUE>Now in fact I was running the whole show and nobody did anything except at my invitation and I never issued any kind of invitation to Givert to join in this chapter I did invite him to do the bibliography which he did absolutely superbly very conscientious job That's the first comment and the second is that this was not the first time that I'd come across Gervant making noises of this kind I think Gervant wrote his thesis under Vart but the problem I think was proposed by Tarski The problem was to characterize those varieties in which those varieties which are uncountably categorical There was a student in Russia called Palutin, Yevgeny Palutin working on exactly the same problem at the same time and there was a bit of to and fro The Russian working with his friends would there was a gang of them over there with an interest in this but Palutin was the main one.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
+				<ANNOTATION_VALUE>They would make an advance Palutin and Givant and his friends would make an advance and a note would go into the MS abstract notices or whatever it was and quite a bit of to and fro.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
+				<ANNOTATION_VALUE>And at one stage Taski said to Gervant, it looks to me as if the kind of structure that you're finding in these objects you're looking at is the type of structure analyzed in a paper of Orbanic in Fundamental Mathematics and Orbanic shows that any such structure is essentially a vector space over a division ring.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
+				<ANNOTATION_VALUE>Why don't you try and see if you can use that?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
+				<ANNOTATION_VALUE>And this was the crucial breakthrough.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
+				<ANNOTATION_VALUE>This was the part where Gervain was able to pin down exactly what structures were involved.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
+				<ANNOTATION_VALUE>By the way, it was the universal algebra equivalent of Zilber's breakthrough in general model theory and as Zilber later showed his approach would have done essentially the same job as Urbanic's paper but Urbanic did the necessary job and Gervant published an abstract mentioning this fact and attributing the suggestion to Taski.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
+				<ANNOTATION_VALUE>The next abstract from Palutin used their paper of orbanic for a similar purpose but contained no acknowledgment it was now published material and neither Taske nor Giovance had written the paper by Urbanic.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
+				<ANNOTATION_VALUE>It's true that Taske had suggested it but it was a fairly well known paper and Palutin had certainly done the necessary preliminary work to slot it in and Gervain then wrote a letter to Palutin accusing him of having misused material from this abstract and felt as I gather felt he got no adequate reply to this so when he published his full results there was a remark which read very much as if it was intended to accuse Panutin by name of plagiarism without actually saying anything that anybody could take him to court for him.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
+				<ANNOTATION_VALUE>And having read this sentence when I was talking to Cervant in the early days of this of the Taski project I asked him had I correctly interpreted the sentence and he said yes It was several years before the barriers came down before I could get to Palutin's response All Palutin would say was that yes he had had a letter from Gayvant accusing him of plagiarism or of improperly using this material and it was very upsetting.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
+				<ANNOTATION_VALUE>Whether this was before or after it was about the same time as Palutin broke his back in a swimming accident I don't know but the broken back could easily explain why no sensible reply reached Gervan and to this day Palutin walks with a bad limp.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
+				<ANNOTATION_VALUE>Nobody thought he would survive.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
+				<ANNOTATION_VALUE>But there is I can say more about I did mention to you that I thought there might be problems with Gervant.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
+				<ANNOTATION_VALUE>In the nineteen seventies I guess it must have been I think Tarsky used Gervant as a kind of secretary to send messages to people who had not made correct attributions and you'll find at least one of these in print.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
+				<ANNOTATION_VALUE>I have had the following letter from Professor Gavant who informs me that Professor Taski is told in the following bottle Do you have that letter?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
+				<ANNOTATION_VALUE>This is not a letter this is a published paper this is and it's in the proceedings of a conference.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
+				<ANNOTATION_VALUE>It was a Polish author and Tarski was complaining that inadequate credit had been given chiefly to Fraser and Taski was absolutely right about this.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
+				<ANNOTATION_VALUE>No doubt whatever that Taski was right on the point of history and also I think Taski was right in pressing the point because Freyise was very badly misused and part of the problem was that everybody who knew Freyse could see that there was no way that he could I mean just talking to him I could see that he was very slow witted everybody supposed that the man must be some kind of hanger on but in fact if one waded through his almost impenetrable great jungle articles that he published in Algeria there was gold in them and Taski knew that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
+				<ANNOTATION_VALUE>But this is only an impression I have an impression that Taski was not a good influence on Gervaint that Gervaint didn't ever have Taski's I mean not that Taski himself was all that good at it but Gervaint certainly was not at distinguishing essential new ideas from just a new way of phrasing things and Gervaint's published paper in which he makes these remarks about Paleutin also has very long sections interleave between the mathematics claiming credit for small pieces of notation and all sorts of things and I think it must be task is fault By the way there's another example you might look at on this and Sowell will tell me if I'm being an idiot on this there's a thing known as the Chang Mackai theorem Chang Pen Yes which was actually discovered independently by Voor and what's more Vort proved more than the others he showed that it didn't need the continuum hypothesis All of this was reviewed by Kiesler in the maths reviews at a point where Kiesler was I think still a student he was a student of Taski wasn't he?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
+				<ANNOTATION_VALUE>Yes and he was writing stuff about large cardinals for Taski is and there's quite a long discussion as I recall it of the exact date in the month on which Worth and Mackay respectively made their discoveries and to me it's indecent if two people independently make a discovery nobody has any business working out whether it was the tenth of July that one of them did in the twentieth of July that another did.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
+				<ANNOTATION_VALUE>Yes now it's interesting that Keisler does it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
+				<ANNOTATION_VALUE>It strikes me as very out of character for Kisler in his later work there's absolutely nothing of this.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
+				<ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
+				<ANNOTATION_VALUE>I don't think Walt published it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
+				<ANNOTATION_VALUE>I was involved in one of these myself.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
+				<ANNOTATION_VALUE>So it wasn't just Americans it was the West generally.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
+				<ANNOTATION_VALUE>Yes, I set a student in line a problem to I think it was a problem proposed by McIntyre and the problem I can't remember there was a question session at a conference in either sixty nine or seventy one and McIntyre and I walked around the town and compiled a list of questions and I don't remember exactly who put in what?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
+				<ANNOTATION_VALUE>Well I think it was Cambridge which makes it the Cambridge Conference but I don't remember whether that was sixty nine or ' seventy one.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
+				<ANNOTATION_VALUE>Probably seventy one Cambridge yes and I spoke and delivered the list of problems and one of them was whether there could be an uncountably categorical theory complete countable theory which is not model complete but can be made model complete by adding finitely many symbols.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
+				<ANNOTATION_VALUE>And I then gave that problem to a student of mine called Mike Mortimer who solved it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
+				<ANNOTATION_VALUE>Mortimer's thesis went to various places and fell into the hands very soon afterwards into the hands of Dan Saracino who realized that the same construction could be iterated so as to produce I'm going to get this wrong but roughly an uncountably categorical theory with no finite forcing companion.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
+				<ANNOTATION_VALUE>Sure no finite generic model no finite generic model.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
+				<ANNOTATION_VALUE>This was happening in the period seventy four to seventy six or seven.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>

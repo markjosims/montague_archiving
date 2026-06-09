@@ -1,0 +1,1051 @@
+JC: 0:00:00-0:00:47
+The logicians in Santiago de Compostela after they invited me to give a talk there and then when I was there, they were having another thing and I gave another talk and they felt funny only giving me one honorarium.
+So they gave me this–
+
+AF:
+A snazzy tape recorder.
+It looks very good!
+It looks very good.
+
+So I'm just going to say for my tape recorder, this is an interview with John Corcoran on May seventh, is that right?
+
+Today, May 7th, 1997
+
+We're talking about Alfred Tarski, and you're going to start by telling us the joke you told.
+
+JC:
+Yeah, it was I'll give you the short version of this.
+
+AF: 0:00:47-0:00:47
+Okay.
+
+JC: 0:00:48-0:03:49
+In the Soviet Union, there are some subjects that are regarded as very this is the old Soviet Union, some subjects that are regarded as especially important in the schools, and they have specially trained teachers from Moscow State University that come out to the boonies that give lessons in these delicate subjects.
+
+And you'd be surprised to know that geography is one of the most delicate subjects that they have.
+And the geography specialist from Moscow State University came to this place, rural place, and was giving a lecture and pointed to a big blue place on the map and said, This is the United States of America, this big blue region, and in the United States of America, there are some children that are very, very wealthy, and they have so much candy to eat that they get sick and they can't sleep right at night.
+And then there are a lot of other children that are so poor that they never get any candy and they go to bed crying because they don't have any candy.
+But this red place over here on the right, this is a country called the Soviet Union, and there all the children have exactly the right amount of candy to eat.
+
+And just then there was a little girl started crying unconcontrollably, and the expert walked down to her and said, "Little girl, what are you crying about?"
+And she said, "I want to go to the Soviet Union!"
+
+[LAUGHTER]
+
+That was a–
+
+AF:
+A favorite, yes, okay.
+
+JC:
+But of course he stretched it out.
+
+AF:
+Yeah.
+Well, I'm glad you mentioned that because then I started thinking that I would try to collect a few of the jokes that he told over and over again.
+The known jokes that he told.
+So I've started actually started to do that.
+Might have an appendix of Tarski jokes.
+There are jokes about Tarski, and then there are jokes that Tarski told that are classics.
+So thanks for that.
+
+So when were you in Santiago?
+
+JC:
+I've been there several times.
+The time when I got this tape recorder was in ' ninety four.
+
+AF:
+Santiago Compostela, you mean in Spain?
+
+JC:
+Yeah.
+
+AF:
+I was thinking of Santiago Chile, but yeah.
+
+JC:
+In January of 1996 they had the 500th anniversary of the university and had a big conference there then.
+
+AF: 0:03:49-0:03:49
+I see.
+
+JC: 0:03:51-0:03:56
+[Provits???], Michael Doner, [Barwise???].
+
+AF: 0:04:01-0:04:02
+Okay.
+
+JC: 0:04:04-0:06:43
+I met Tarski on the Berkeley campus in the fall of 1964.
+And I was introduced to him by Bill Craig.
+And it was very pleasant and cordial and he said that he had gotten a copy of the Logic Colloquium Notice.
+Then they had the Berkeley Stanford Joint and he was looking forward to coming to my talk.
+
+AF:
+Where were you going to talk?
+
+JC:
+At Berkeley.
+
+AF:
+At Berkeley, yeah.
+
+JC:
+And he didn't come.
+He was unexpectedly called out of town and he left a note in my mailbox to that effect.
+I was very flattered that he even remembered this.
+
+At any rate, the next–
+
+SF:
+Were you spending time in Berkeley?
+
+JC:
+Yeah, I was teaching there.
+
+AF:
+So you were there for how long?
+
+JC:
+For a year.
+
+AF:
+For a whole year and in the philosophy department, and so Craig was your colleague.
+
+WC:
+Yeah.
+
+AF:
+Right.
+
+WC:
+Craig was the chair of the department there.
+
+AF:
+Craig was chair of philosophy at one time?
+
+JC:
+And it rotated.
+
+AF:
+Yeah, sure.
+But I'm just surprised to hear that.
+
+JC:
+And it was Craig that hired me as a visiting lecturer on the recommendation of my dissertation supervisor, Robert McNorton, who was a personal friend of Craig.
+
+At any rate, the next time I saw Tarski was at Stanford when he gave a talk about his new formulation of set theory.
+And they had a dinner for all the logicians.
+There were maybe thirty or forty people there in the upstairs of the Chinese restaurant in Palo Alto.
+I'm sure you were there if you weren't out of town.
+
+AF:
+Well, sixty, when was it?
+
+JC:
+It was in the fall of 1964.
+
+AF:
+So we were in France before yeah, so we were in France that year.
+
+Yeah.
+Because I don't remember Tarski coming down to give a talk.
+
+SF:
+Yeah.
+
+AF:
+So it might have been like Chef Chu's or something if it was upstairs.
+
+SF:
+Chef Chu's.
+
+AF:
+Yeah, because Ming's didn't have an upstairs.
+
+SF:
+That's right.
+
+JC:
+Well, Tarski so nobody said
+
+AF:
+That many people came to the dinner?
+
+JC:
+Yeah.
+And there was a big crowd for the colloquium.
+
+AF: 0:06:43-0:06:44
+Yeah.
+
+JC: 0:06:44-0:07:52
+And those were the salad days of logic when there were people were dying to get into your logic classes.
+
+And Tarski, nobody sat down until Tarski decided where he was going to sit.
+And he took the middle seat, and he asked Henkin to sit on his right, I think, and Scott to sit on his left.
+
+And he was running the whole thing.
+
+AF:
+Where people should sit?
+
+JC:
+Yeah.
+
+AF:
+Well, I'm surprised he didn't pick some lovely young woman to sit on one side, at least.
+
+JC:
+Well, maybe he did!
+Maybe this has escaped me.
+
+AF:
+Usually, he could sit next to Scott and Henkin anytime!
+
+JC:
+He ordered me to sit directly across the table from him.
+So it was maybe six feet away.
+
+AF:
+Yeah.
+
+JC:
+And he started–
+
+SF:
+A round table?
+
+JC:
+No, it was a long table.
+It might have been twenty people at the table.
+
+AF: 0:07:52-0:07:53
+Okay, so it was not one of those round tables.
+
+JC: 0:07:54-0:14:33
+This is my memory.
+Here's the rest of the story.
+You know, you might see that I expanded the table.
+
+And he started telling me how sorry he was that he missed my colloquium and he had gotten very good reports about it, and he wanted me to go over the main definitions and the main theorems with him, which I did.
+
+AF:
+Right there.
+
+JC:
+Yeah, right.
+Yeah, this was, I was having an examination.
+And after I got finished doing this, he alleged that my main result had been gotten two years earlier by one of his students in front of all these people.
+
+And I–
+
+AF:
+With a smile on his face?
+
+JC:
+Yeah, I had read this thing that he said I had my name and it didn't seem to be the same result at all or even closely related, although I mean, I read the published the published abstracts, but maybe in the dissertation there was some things that weren't in the abstract.
+
+So I had to say that I was sorry to hear this and that I would try to find out about it and give credit where credit was due.
+It was very embarrassing.
+
+At any rate–
+
+AF:
+Did he say who the student was?
+
+JC:
+Yeah, it was Jean Butler.
+
+AF:
+Jean Butler?
+
+JC:
+Jean Butler, yeah.
+
+AF:
+Who never got her PhD from him, you know?
+
+JC:
+Oh, is that right?
+
+AF:
+That's right.
+But carry on.
+
+JC:
+She did get her PhD.
+
+AF:
+Yeah, but not from him.
+She had a had to go to University of Washington, went to the University of Washington, eventually got it there.
+
+JC:
+The next night or the next night after that, there was a party at Henkins' house.
+
+AF:
+And back in Berkeley now?
+
+JC:
+Yeah.
+Scott came up to me and said that he had gone to the library and got her dissertation out and read it and my results were not in there.
+And he had called Tarski and told him that.
+But Tarski never apologized for this.
+
+AF:
+I mean, and you substantiated that yourself, I take it.
+
+JC:
+You know, I never looked at it.
+I mean, Scott looked at it and said it wasn't there, it was fine with me.
+
+AF:
+Yeah, yeah.
+So when you said you had a story that was very revealing, which was the revealing story?
+The fact that he apologized for not coming or this story?
+
+JC:
+I think this story. It shows that he can be irresponsible and well, I don't know.
+I mean, you can you have the story, you can–
+
+AF:
+Yeah, well, make what you want.
+
+JC:
+Yeah.
+
+AF:
+Well, I think it's sort of he was tremendously competitive, but usually if he found something, it was because he had solved it before.
+I guess next best thing is if one of his students had solved it.
+
+JC:
+I'd like to put my sweater on.
+Yeah, actually, I brought brought it with me.
+
+AF:
+I can close the door.
+Yeah, the other one?
+
+JC:
+No, I only putting one on now.
+I'm a runner and I have very low blood pressure.
+I change temperatures very quickly.
+
+AF:
+Right.
+Well, it's probably warmer outside, but it's probably quieter just sitting there.
+We can actually take our interview out there.
+
+JC:
+But I never held this against Tarski.
+I thought he was a wonderful person, in many ways very generous and thoughtful.
+And after I got to know him better and worked with him, he was very warm with me.
+And you can read what he wrote about me in the beginning of this.
+
+I believe I sent you the letter that he wrote me asking me to be a kind of ghost editor on the–
+
+AF:
+No you didn't.
+No.
+
+JC:
+Yeah, I was a ghost editor.
+This is my word.
+
+AF:
+On what?
+
+JC:
+On Set Theory without variables.
+Formalization of Set Theory without variables.
+
+AF:
+And which was after? No, it couldn't have been after
+
+JC:
+It was much later than this.
+
+AF:
+Later than this.
+Was he alive?
+
+JC:
+Before he no, he never saw this.
+
+AF:
+He never saw this, I wondered because he died in October.
+So when did this come out?
+
+JC:
+This came out in December.
+
+AF:
+Because it has it has an eighty three date on it.
+
+SF:
+But did he see galleys?
+
+JC:
+He saw I don't know whether he saw the galley, but he saw everything that went into it and saw several versions of the editor's introduction.
+
+AF:
+So he wrote you this letter asking you to be a ghost editor after you'd done the work on– But when would that be then?
+
+JC:
+Well this was he must have sent me this letter in early 1983.
+I have a copy of it.
+I had intended to send you...
+
+AF:
+Right. So he was already pretty he was already sick by then huh?
+Okay, well I'd love to see that letter of–
+
+SF:
+Did you agree?
+
+JC:
+Yeah I did it.
+I mean it took it was a year of work on that.
+
+AF:
+And so he didn't see the results of that either, obviously.
+
+JC:
+No.
+
+SF: 0:14:33-0:14:41
+So you worked with Givant?
+
+JC:
+Yeah.
+
+SF:
+Were you out here any part of that time?
+
+JC: 0:14:42-0:18:10
+No, it was all by phone.
+
+AF:
+Who paid the phone bill?
+
+JC:
+Well he actually I think he paid a lot of it.
+
+SF:
+Did you ever spend, after that year in Berkeley, did you spend other–?
+
+JC:
+Yeah I spent a lot of time with Tarski in the I think 1981 and 1982.
+I came out here one time I came out here for two months and worked with him three or four days a week on this and on two other projects. Well mainly on one other project it was mostly on this on logic semantics and mathematics. But he gave me the manuscript of his article "What are logical notions" and asked me to edit that and get it into print which I did.
+
+SF:
+Yes.
+
+JC:
+And then he felt that his French article on the deductive method was much better than Chapter six of Introduction to Logic.
+And he wanted that translated into English and published.
+
+And I translated it and then worked with him I don't know how many four or five hour sessions three or four going over the whole thing.
+
+On the last one we had already gone over the whole translation sentence by sentence and finally it was late at night, was say two in the morning.
+
+AF:
+Yeah I'm going to ask you whether you have late night sessions.
+
+JC:
+Two in the morning and he wanted me to read the whole thing to him very slowly paragraph by paragraph to make sure the whole thing sounded right.
+
+AF:
+The whole thing being how long?
+
+JC:
+It's essentially the same length as chapter six of introduction–
+
+SF:
+His logic program.
+
+AF:
+But how long is the chapter?
+
+SF:
+I mean like fifteen pages? Twelve?
+
+AF:
+But so did you do it?
+
+JC:
+Yeah we were done.
+And I was quite wide awake.
+I had rearranged my sleeping schedule too.
+
+AF:
+Right.
+Did he give you any stuff to take to keep you awake?
+
+JC:
+No.
+No, he never even let me know that he was taking it.
+
+AF:
+You never saw him take any stuff?
+
+JC:
+No, I never saw him.
+
+AF: 0:18:11-0:18:11
+You never saw him pop a pill?
+No.
+Because one thing we've become aware of is that he was using stuff all the time.
+Something.
+
+JC: 0:18:12-0:21:40
+But you never I mean No Givant said in Givant in the article on the Mathematical Intelligence or exactly what it was there.
+
+AF:
+But there were other things that earlier on, but earlier on he had taken benzedrine and it wasn't just at night.
+I mean I'm now realizing he took stuff during the day.
+
+He took before he gave his address for his honorary degree in Marseille, he took something Cola Maupin, which is like Cola Astier, which Givant mentioned.
+So he took various cola derivatives which are cocaine based.
+
+And but earlier in his life he took benzedrine. He told that to CC Chang.
+
+So he was high all the time, I mean you know how he looked?
+Well I always thought that was just his physiology! But you never saw him pop anything then.
+
+JC:
+No.
+At any rate, let me finish this [Go ahead.]
+
+I'm reading this to him and he had already put the French aside he was sure that the whole translation was fine, he was now fine tuning the English. And his eyes would droop and his head would droop and I would stop reading and then he would perk up and then when his head was down like his eyes closed and I stopped reading for maybe ten seconds and he said "Please continue."
+
+So he was still, he still had his mind going. Everything else was finished and he actually made some clever remarks on what he was listening to when he was his head dropped there.
+
+AF:
+That is that is wonderful.
+
+JC:
+He was a very exciting and charming person in my presence for the most part it was just the two of us and he would be very talkative but most of the time we were together we were working, we weren't... And sometimes we would relax and smoke cigars.
+
+AF:
+You were smoking at the time?
+
+JC:
+I was smoking cigars at the time.
+
+AF:
+His little ones?
+
+JC:
+His little Robert Burns cigars which I enjoyed very much.
+
+AF:
+Did you smoke cigars otherwise or you just did it with him?
+
+JC:
+I did it otherwise.
+I stopped smoking in 1989 but at the time...
+
+AF:
+He smoked right to the very end, didn't he?
+He never stopped smoking.
+
+JC:
+Yeah, I think he did.
+
+AF:
+Yeah.
+
+JC:
+I smoked a pipe and I smoked cigars when I was with him.
+I smoked cigars from time to time elsewhere also.
+
+AF:
+But they were the little ones, the cigarillos, right?
+
+JC:
+Yeah they were Robert Burns cigarillos.
+
+AF: 0:21:41-0:21:42
+Yeah.
+
+JC:
+Very small.
+
+AF: 0:21:43-0:27:27
+Right.
+
+JC:
+And he always sat with his back to the view of the bay and I was sitting there with the view of the bay all the time.
+
+A lovely scene, smoking cigars.
+
+AF:
+Were you drinking anything at all?
+
+JC:
+No, I would have a beer and a shot of whiskey, a shot of vodka with him before dinner.
+
+AF:
+Yeah.
+
+JC:
+But I know how my physiology works. And if I have two drinks in an hour, I have all my faculties back. But Givant said that there were some people who would have a couple of drinks with Tarski and then try to work with him and they couldn't do it.
+
+AF:
+Well he would do things like stop and go up like stop, go upstairs, have coffee and then come back down.
+That's earlier I mean that's one of CC's accounts they'd go or else he'd call Maria to bring some coffee or some things like that.
+But did he ever rouse Maria at that point?
+Bring him something in the middle of the night?
+
+JC:
+Yeah, she would I never got the impression that he was waking her up but he would arrange for her to make sandwiches for us
+
+AF:
+Like two o'clock in the morning?
+
+JC:
+And we would go up and sit in that little kitchen.
+
+AF:
+Right.
+So what's the latest you think you ever stayed just for [MUMBLED]?
+
+JC:
+I could have stayed until four in the morning easily.
+
+AF:
+So and that's in 1982 you're talking about.
+
+JC:
+Yeah, sometime between 1980 and 1982.
+
+SF:
+Did that article ever get published by the way?
+
+JC:
+No The French article did not, is still not published, the French translation.
+I had hoped that the Poles would publish it in Studio Logica and I sent it to them and I haven't I know they have it but I don't know whether they–And I'm going to get in touch with them when I get back and if they haven't, I will publish it elsewhere.
+
+But of course the What are logical notions is in print.
+
+SF:
+Yeah, of course.
+
+AF:
+Was he coughing while you were talking?
+
+JC:
+No.
+
+AF:
+He didn't?
+Really?
+
+JC:
+No I mean nothing–
+
+AF:
+Not that you remember [No] because I have an interview that Enderton did with him and he's coughing in that interview in 1978.
+Lots of coughing.
+
+Who was it?
+Somebody said he used to start coughing, he would turn–Oh Pagosi–said he would start coughing kind of turn blue and Pagosi would really get frightened.
+But you don't remember anything like that?
+Interesting.
+
+JC:
+Tarski was in many ways a spectacular scintillating person and when he wanted to turn his charm on, he could win people over very readily.
+And when he talked on the phone with Bill Hackett, the president of Hackett Publishing Company. Did I tell you this story?
+
+SF:
+No.
+
+JC:
+And everything was settled about the contract and he was getting a much better deal than Hackett gave anybody.
+
+I mean he had sweet talked Hackett into terms that were much more favorable than even Nelson Goodman, was another person who published with Hackett, and was a very demanding author.
+
+But the APA was having their annual Pacific meeting in San Francisco or in Berkeley and Hackett decided that he would like to meet Tarski.
+And he called up Tarski and told him this and Tarski was very charming and gracious and invited him to come to the house.
+
+AF:
+To the Michigan Avenue House?
+
+JC:
+Yeah and Hackett was there for about an hour or an hour and a half and for the next few weeks after that that was the only thing we could talk about.
+
+No, Hackett was–
+
+SF:
+Were you present?
+
+JC:
+No, the first thing that Hackett did after he got out of got back to San Francisco was to call me up and gush at what a wonderful person Tarski was and how he now understood how I could be so devoted to him and so on and so forth.
+
+AF: 0:27:27-0:27:27
+So Tarski pulled out all the stops and all the chops for us.
+
+JC: 0:27:27-0:29:16
+Yeah.
+And Hackett had just gotten finished reading, Hackett was an avid reader and read all the popular bestsellers and had just got finished reading the Tom Wolf book The Right Stuff.
+And he said that Tarski was a guy that had the "right stuff" in the full sense of the term!
+
+SF:
+Who's idea was it to have the second edition?
+
+JC:
+It was my idea originally.
+And as soon as I mentioned it to Tarski, he was of course enthusiastic about it.
+
+SF:
+And was it your idea to publish it with Hackett?
+How did that–?
+
+JC:
+He, I tried some other publishers first, but I have that Tarski suggested Cornell University Press.
+
+AF:
+Tarski suggested what? I didn't hear?
+
+JC:
+Cornell press, Cornell.
+And there was some other press that he had some connection with.
+
+AF:
+Why not Oxford again?
+
+JC:
+He had a bad relationship with Oxford.
+
+AF:
+Oh, that's right, yes.
+
+JC:
+The guy that's now the president of Hackett Publishing Company was a friend of mine for many years.
+And I had worked for Hackett as a consultant before.
+So that's how it got to be Hackett.
+
+
+AF: 0:29:16-0:29:16
+So Hackett could talk about nothing but Tarski for the next two weeks.
+
+JC: 0:29:21-0:31:32
+Yeah.
+
+SF:
+But then working on this edition, was it obviously he went over your introduction quite a bit.
+
+JC:
+Yeah.
+I rewrote it several times.
+
+I mean, some of his criticisms were very good, but I had my own understanding of the thing, which he could not shake that was different from his.
+And I felt that he wasn't entirely objective about his own view of the thing.
+
+So I stuck to my...I wrote what I thought was the truth even though it's...
+
+AF:
+I think that done very well in the introduction there, the way he says that you had your view, he had his view in Tarski's introduction to the Second Edition.
+It's very well very well said.
+
+SF:
+Was there one principal point of difference or–?
+
+JC:
+The main difference was that I found a continuity and a development through the whole thing and he said that when he was writing these things, he didn't feel any development that he would do this and then he would do that and he would not feel that there was the connection between those things that...
+
+AF:
+And he wanted to hang on to that notion even though he didn't feel it at the time?
+
+JC:
+No, no.
+He still–
+
+AF:
+He still felt it was disconnected.
+
+JC:
+Yeah.
+
+AF:
+That's interesting.
+
+SF:
+Yeah, it is surprising.
+
+AF: 0:31:34-0:31:35
+Yeah, because I mean, a lot of times when you work on something, you don't see what the whole is like until it's all over.
+But when you do recognize it, it's generally very satisfying.
+So you would think he would have wanted that.
+
+I know.
+
+JC: 0:31:45-0:37:14
+One of the things that I loved about Tarski was his intense dedication to getting the fundamentals right. And his–
+
+AF:
+Intense dedication to what?
+
+JC:
+To getting the fundamentals right, to making distinctions.
+In that way, he was not a mathematician, he was a philosopher.
+
+He was not a trained philosopher and he did not keep up with philosophy and he did not like philosophers!
+You're aware of that, you're aware.
+
+One time it was on a Sunday and we were working on something in the afternoon and Maria called downstairs and said that Donald Davidson was on the phone and wanted to talk to Alfred.
+
+Alfred said, "You didn't tell him I was here, did you?"
+And she said, "No, I didn't. I just told him to hold on."
+
+And then he got rid of Davidson and he then launched on a diatribe of what a boring person Davidson was and how embarrassed he was that Davidson was enthusiastic about his work.
+
+And–
+
+AF:
+Some rivalry there, I think.
+
+JC:
+Oh, I don't think there was any rivalry at all.
+I think that he genuinely did not like Davidson and did not like what Davidson was doing.
+
+AF:
+Well, he used to like Davidson.
+He definitely used to like him.
+So he must have not maybe didn't like what Davidson did.
+
+JC:
+I think I had a feel for when Tarski was being jealous or there was some kind of rivalry and I didn't feel it here at all.
+
+AF:
+Interesting.
+
+JC:
+And well talking about rivalries, I did feel that he was a little bit jealous of Henkins' success as a teacher.
+
+And he spent some time telling me what was wrong with Henkin's approach and why his approach, although it was harder on the students and they were less enthusiastic about it, was ultimately more successful.
+
+And then he told all the students that he had that turned out to be great logicians and the ones that Henkin had that turned out not to be so good! He–but let me get back to this Davidson thing.
+
+AF:
+Well, the other thing is I want to say here is that every student of Tarski's thought he was a great teacher.
+There was no one who was a student of Tarski's who didn't think he was great.
+I don't think there was any–
+
+SF:
+We're talking about two notions of teacher one was a classroom teacher, which he was spectacular, and the other as a teacher of graduate students, PhD advisor.
+
+JC:
+That's a good distinction and I wasn't making that
+
+AF:
+Even as a classroom teacher spectacular. He just wasn't nice.
+
+JC:
+What we were talking about was classroom teaching.
+
+AF:
+Yeah.
+
+JC:
+Tarski thought that Henkin's method was more popular with the students.
+
+AF:
+See, I want to argue with that too, but maybe–
+
+JC:
+Tarski said had a way of being jealous of other people's glory even though his was bigger!
+
+AF:
+Oh yeah, of course. No question about that.
+
+JC:
+He was even jealous of Henkin's view of the bay.
+That I can understand that Henkin's view of the bay was far superior than his!
+And Maria did not like this.
+She thought that he was exaggerating how much better Henkin's view of the bay was.
+
+At any rate, Tarski spent some time telling me what he didn't like about philosophers.
+How they didn't pay attention to mathematics, that they didn't love mathematics and they could not understand it if they didn't love it.
+
+And then he told me that there were only–
+
+AF: 0:37:15-0:37:15
+Well you're a philosopher.
+
+JC: 0:37:15-0:37:30
+Yeah.
+Right.
+That there was only one other philosopher that he enjoyed talking to.
+And it was Richard Montague.
+So I felt very flattered to be in such company.
+
+AF: 0:37:30-0:37:30
+Montague was his student!
+
+JC:
+Yeah.
+
+SF: 0:37:32-0:39:59
+But what about he patronized Benson Mates, I think.
+
+AF:
+He patronized him?
+
+JC:
+Yeah.
+
+JC:
+Well, yeah, Mates was a kind of follower of Tarski.
+
+SF:
+And Suppes.
+
+AF:
+And Suppes he certainly certainly liked Suppes.
+No question about that.
+He respected, he really respected Suppes.
+
+JC:
+What he said was that I was the only philosopher that he enjoyed talking philosophy with.
+
+AF:
+He did.
+It could be Or it could be that he was telling you he loved you, but he told them that he loved them too.
+You know, one thing about Tarski is he was a very he was very shrewd in that way.
+He had many, many people that he told they were the one he really loved.
+
+JC:
+Well, I'm disappointed to hear that.
+
+AF:
+Yeah.
+But at the moment at the moment I'm sure he loved you.
+But I'm afraid that's a truth.
+
+JC:
+You know, there was another story that Givant interpreted as a confession of love for me.
+
+And Tarski called me up one time.
+I mean, as we would call each other up and talk about logics and mathematics.
+And one time he called me up and the first thing he said was that he read an abstract that I had in the Journal of Symbolic Logic and that he had discovered the same thing several years ago but had not proved it and had not published it.
+
+SF: 0:40:00-0:40:01
+He had not published it.
+
+JC: 0:40:01-0:42:46
+Yeah.
+
+And the reason that he didn't publish it is because he gave it as a talk in the math department at Berkeley and offended the chair or maybe not the chair but some important person in the department and it actually delayed his promotion by a year that it was recommended to him that he not put himself up for full professor until this cooled down.
+
+SF:
+So this was a talk, you're talking back to the forties?
+
+JC:
+Yeah.
+
+SF:
+Oh I see.
+
+But it was on things that he had worked on in the forties.
+
+AF:
+But the talk was where?
+In Berkeley?
+
+SF:
+In Berkeley.
+
+AF:
+I guess I missed the details of that were the sputtering of the trout.
+Did you get that Sol?
+
+SF:
+Yeah.
+
+JC:
+Then the way Tarski got into this, he said that he read my abstract and he thought that it was a very dangerous thing to be publishing.
+
+AF:
+Did you ever get mad at him then?
+Or were you always–?
+
+JC:
+No, I never got mad at him.
+
+I got disappointed with him for being such a glory hound.
+I found this embarrassing and I mean sometimes
+
+AF:
+That's a good way to put it.
+
+Then his going around claiming that credit for the deduction theorem is just, I think, a pathetic distortion of history, of terminology of... And his people in Poland still can't get this thing straight because they have to have Tarski's name attached to this even though he had nothing to do with it.
+
+AF: 0:42:46-0:42:56
+Now what's your take on why he was like that?
+How would you account for this from what you know of them?
+I mean I have my guesses.
+
+JC: 0:42:56-0:45:18
+But you know I've never thought about that.
+I've never–
+
+AF:
+Why should he be that way?
+
+JC:
+It just annoyed me and I know.
+
+AF:
+Think about it a little bit in terms of what you know of him and let us know. Not necessarily today but it's an interesting question because it was like, he never had enough never had enough glory. And why? People should be, he was so great. Why wouldn't that have satisfied him?
+
+Did he ever talk to you about Gödel?
+
+JC:
+About what?
+
+AF:
+Gödel.
+
+JC:
+Yeah.
+
+AF:
+Okay and where are you going to–We have two trout that we're going to cut into three.
+So you want to do it in the kitchen or out?
+
+All right, so I think I'll put a stone on there.
+
+I think there was some jealousy there of Dawson.
+
+JC:
+No, he never gave me any hint of jealousy.
+He was very deeply admiring of Gödel.
+
+By the way, there are people that make I would say ungenerous, mean spirited remarks about Gödel.
+And John Dawson is one of them.
+
+AF:
+Oh, meaning?
+
+JC:
+In his book he has veiled contempt for Gödel's religion and for his platonism.
+
+AF: 0:45:19-0:45:22
+Do you think so, Sol?
+
+JC: 0:45:25-0:46:35
+At any rate, there are a lot of people that have this view.
+There are a lot of people who–I'm not religious.
+I think religion is bad, but nevertheless, I respect people's religious views and I strongly disapprove of bigotry.
+And Tarski felt the same way, both about religion and about respecting people's religious views.
+
+I think it's widespread in modern academia to have contempt for religion and not to be able to distinguish between religion and superstition and to feel somehow superior to Gödel in talking about Gödel's religious views.
+
+AF:
+Yeah, I mean, I appreciate all that, I just–
+
+[RECORDING CUTS]
+
